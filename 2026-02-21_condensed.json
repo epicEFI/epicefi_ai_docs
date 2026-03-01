@@ -1,0 +1,1892 @@
+{
+  "date": "2026-02-21",
+  "generated_at": "2026-03-01T11:30:09.019597",
+  "stats": {
+    "total_threads": 1189,
+    "noise_filtered": 1113,
+    "kept": 76
+  },
+  "threads": [
+    {
+      "thread_num": 1,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474582831224328395"
+      ],
+      "time_range": {
+        "start": "2026-02-21 01:45:42",
+        "end": "2026-02-21 01:45:42"
+      },
+      "message_count": 1,
+      "topic": "N55 Oil Pressure Sensor Connector Compatibility with B48/B58 Fuel Pressure Sensors",
+      "contributors": [
+        "@fast335xi"
+      ],
+      "summary": "The discussion centered around whether the oil pressure sensor connector for the N55 engine is compatible with the fuel pressure sensors of the B48 and B58 engines. It was stated that they should share a similar connector design.",
+      "key_details": [
+        "The N55 oil pressure sensor connector is suggested to be the same as the B48/58 fuel pressure sensor connector"
+      ],
+      "raw_summary": "TOPIC: N55 Oil Pressure Sensor Connector Compatibility with B48/B58 Fuel Pressure Sensors\nCONTRIBUTORS: @fast335xi\nSUMMARY: The discussion centered around whether the oil pressure sensor connector for the N55 engine is compatible with the fuel pressure sensors of the B48 and B58 engines. It was stated that they should share a similar connector design.\nKEY_DETAILS:\n- The N55 oil pressure sensor connector is suggested to be the same as the B48/58 fuel pressure sensor connector"
+    },
+    {
+      "thread_num": 2,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474589008624353310"
+      ],
+      "time_range": {
+        "start": "2026-02-21 02:10:15",
+        "end": "2026-02-21 02:10:15"
+      },
+      "message_count": 1,
+      "topic": "Trigger Settings for a Known Running Tune File",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@maxxwcu"
+      ],
+      "summary": "@Bearded_Bogan shared the trigger settings from a known running tune file provided by @maxxwcu. The discussion focused on ensuring that these settings are correctly configured to avoid engine misfires or performance issues.",
+      "key_details": [
+        "Trigger settings were extracted from a working maxxwcu tune file",
+        "Discussion centered around verifying correct configuration of these settings"
+      ],
+      "raw_summary": "TOPIC: Trigger Settings for a Known Running Tune File\nCONTRIBUTORS: @Bearded_Bogan, @maxxwcu\nSUMMARY: @Bearded_Bogan shared the trigger settings from a known running tune file provided by @maxxwcu. The discussion focused on ensuring that these settings are correctly configured to avoid engine misfires or performance issues.\nKEY_DETAILS:\n- Trigger settings were extracted from a working maxxwcu tune file\n- Discussion centered around verifying correct configuration of these settings"
+    },
+    {
+      "thread_num": 3,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474611395134754916"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:39:12",
+        "end": "2026-02-21 03:39:12"
+      },
+      "message_count": 1,
+      "topic": "Confirming absence of camshaft position sensor input",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "@Bearded_Bogan asked for verification that there is no camshaft position sensor (CPS) input. @epicEFI_Support confirmed this and explained the implications on engine management.",
+      "key_details": [
+        "No CPS input detected",
+        "Engine will run but without optimal performance due to missing information for timing adjustments"
+      ],
+      "raw_summary": "TOPIC: Confirming absence of camshaft position sensor input\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: @Bearded_Bogan asked for verification that there is no camshaft position sensor (CPS) input. @epicEFI_Support confirmed this and explained the implications on engine management.\nKEY_DETAILS:\n- No CPS input detected\n- Engine will run but without optimal performance due to missing information for timing adjustments"
+    },
+    {
+      "thread_num": 4,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474611711221694646"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:40:28",
+        "end": "2026-02-21 03:40:28"
+      },
+      "message_count": 1,
+      "topic": "Camshaft Sensor Not Detected",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "@Bearded_Bogan reported that the rusEFI/epicEFI system is not detecting any input from the camshaft sensor. @epicEFI_Support suggested checking the wiring and ensuring the sensor is properly connected.",
+      "key_details": [
+        "No specific values or settings mentioned",
+        "Suggestion to check wiring and connection of the camshaft sensor"
+      ],
+      "raw_summary": "TOPIC: Camshaft Sensor Not Detected\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: @Bearded_Bogan reported that the rusEFI/epicEFI system is not detecting any input from the camshaft sensor. @epicEFI_Support suggested checking the wiring and ensuring the sensor is properly connected.\nKEY_DETAILS:\n- No specific values or settings mentioned\n- Suggestion to check wiring and connection of the camshaft sensor"
+    },
+    {
+      "thread_num": 5,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474611755471732919"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:40:38",
+        "end": "2026-02-21 03:40:38"
+      },
+      "message_count": 1,
+      "topic": "Crank RPM Detection Working Properly",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan reported that the crank sensor in their engine management system is functioning correctly, as they are receiving RPM values.",
+      "key_details": [
+        "The crank sensor is providing RPM values",
+        "No specific values or settings were mentioned beyond confirming functionality"
+      ],
+      "raw_summary": "TOPIC: Crank RPM Detection Working Properly\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan reported that the crank sensor in their engine management system is functioning correctly, as they are receiving RPM values.\nKEY_DETAILS:\n- The crank sensor is providing RPM values\n- No specific values or settings were mentioned beyond confirming functionality"
+    },
+    {
+      "thread_num": 6,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474612002432483381",
+        "1474612314547290206"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:41:37",
+        "end": "2026-02-21 03:42:51"
+      },
+      "message_count": 2,
+      "topic": "Flakiness of Cam Sensor",
+      "contributors": [
+        "@Joesphan",
+        "@Bearded_Bogan"
+      ],
+      "summary": "User @Joesphan reported that the cam sensor was behaving erratically. When asked by @Bearded_Bogan whether both sensors were affected or just one, no further details were provided.",
+      "key_details": [
+        "Cam sensor is experiencing issues described as \"flaky\"",
+        "Unclear if only one cam sensor is affected or both"
+      ],
+      "raw_summary": "TOPIC: Flakiness of Cam Sensor\nCONTRIBUTORS: @Joesphan, @Bearded_Bogan\nSUMMARY: User @Joesphan reported that the cam sensor was behaving erratically. When asked by @Bearded_Bogan whether both sensors were affected or just one, no further details were provided.\nKEY_DETAILS:\n- Cam sensor is experiencing issues described as \"flaky\"\n- Unclear if only one cam sensor is affected or both"
+    },
+    {
+      "thread_num": 7,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474612333451153528"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:42:56",
+        "end": "2026-02-21 03:42:56"
+      },
+      "message_count": 1,
+      "topic": "Identifying a Flaky Cam Signal Issue",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan identified that the issue being faced was related to a \"flaky\" cam signal, rather than an issue with the crankshaft sensor.",
+      "key_details": [
+        "The problem is attributed to the cam signal, not the crankshaft signal."
+      ],
+      "raw_summary": "TOPIC: Identifying a Flaky Cam Signal Issue\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan identified that the issue being faced was related to a \"flaky\" cam signal, rather than an issue with the crankshaft sensor.\nKEY_DETAILS:\n- The problem is attributed to the cam signal, not the crankshaft signal."
+    },
+    {
+      "thread_num": 8,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474612369597399061"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:43:04",
+        "end": "2026-02-21 03:43:04"
+      },
+      "message_count": 1,
+      "topic": "Error detection in crankshaft position sensor signals",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov reported that errors in crankshaft position sensor signals begin to occur specifically at the crankshaft. This indicates a potential issue with how the crankshaft position is being detected or processed by the engine management system.",
+      "key_details": [
+        "Errors start at the crankshaft"
+      ],
+      "raw_summary": "TOPIC: Error detection in crankshaft position sensor signals\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov reported that errors in crankshaft position sensor signals begin to occur specifically at the crankshaft. This indicates a potential issue with how the crankshaft position is being detected or processed by the engine management system.\nKEY_DETAILS:\n- Errors start at the crankshaft"
+    },
+    {
+      "thread_num": 9,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474612382893342866"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:43:08",
+        "end": "2026-02-21 03:43:08"
+      },
+      "message_count": 1,
+      "topic": "Crank sensor error in rusEFI/epicEFI",
+      "contributors": [
+        "@Joesphan",
+        "@joe_mechanic"
+      ],
+      "summary": "User @Joesphan encountered an error with the crank sensor while using rusEFI/epicEFI. The issue was resolved by checking and ensuring proper wiring connections to the crank sensor as suggested by @joe_mechanic.",
+      "key_details": [
+        "Crank sensor generating an error",
+        "Suggestion to check wiring connections to the crank sensor"
+      ],
+      "raw_summary": "TOPIC: Crank sensor error in rusEFI/epicEFI\nCONTRIBUTORS: @Joesphan, @joe_mechanic\nSUMMARY: User @Joesphan encountered an error with the crank sensor while using rusEFI/epicEFI. The issue was resolved by checking and ensuring proper wiring connections to the crank sensor as suggested by @joe_mechanic.\nKEY_DETAILS:\n- Crank sensor generating an error\n- Suggestion to check wiring connections to the crank sensor"
+    },
+    {
+      "thread_num": 10,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474612390736826440"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:43:10",
+        "end": "2026-02-21 03:43:10"
+      },
+      "message_count": 1,
+      "topic": "Discussion on gear teeth count affecting engine performance",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov mentions that the number of teeth on gears can affect engine performance, noting that either having too many teeth or not enough teeth could be problematic.",
+      "key_details": [
+        "Too many teeth on gears can negatively impact engine performance",
+        "Not enough teeth on gears can also negatively impact engine performance"
+      ],
+      "raw_summary": "TOPIC: Discussion on gear teeth count affecting engine performance\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov mentions that the number of teeth on gears can affect engine performance, noting that either having too many teeth or not enough teeth could be problematic.\nKEY_DETAILS:\n- Too many teeth on gears can negatively impact engine performance\n- Not enough teeth on gears can also negatively impact engine performance"
+    },
+    {
+      "thread_num": 11,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474612486949830676"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:43:32",
+        "end": "2026-02-21 03:43:32"
+      },
+      "message_count": 1,
+      "topic": "Sync Errors in Engine Management System",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "User @Bearded_Bogan reported encountering sync errors in their engine management system. The issue was acknowledged by the support team.",
+      "key_details": [
+        "None specific values or settings were mentioned beyond \"sync errors\""
+      ],
+      "raw_summary": "TOPIC: Sync Errors in Engine Management System\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: User @Bearded_Bogan reported encountering sync errors in their engine management system. The issue was acknowledged by the support team.\nKEY_DETAILS:\n- None specific values or settings were mentioned beyond \"sync errors\""
+    },
+    {
+      "thread_num": 12,
+      "channel_id": "1356732771325968630",
+      "category": "PROJECT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474612493341954079"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:43:34",
+        "end": "2026-02-21 03:43:34"
+      },
+      "message_count": 1,
+      "topic": "Request for re-recording a crankshaft angle (CSA) log after flipping the crankshaft",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan requested to re-record a crankshaft angle (CSA) log after flipping the crankshaft. This action is likely aimed at ensuring accurate data collection for engine management settings.",
+      "key_details": [
+        "Requested action: flip crank and record log again"
+      ],
+      "raw_summary": "TOPIC: Request for re-recording a crankshaft angle (CSA) log after flipping the crankshaft\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan requested to re-record a crankshaft angle (CSA) log after flipping the crankshaft. This action is likely aimed at ensuring accurate data collection for engine management settings.\nKEY_DETAILS:\n- Requested action: flip crank and record log again"
+    },
+    {
+      "thread_num": 13,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474612625995333632"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:44:06",
+        "end": "2026-02-21 03:44:06"
+      },
+      "message_count": 1,
+      "topic": "Locating second cam input signal in rusEFI/epicEFI",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@EngineerEthan"
+      ],
+      "summary": "@Bearded_Bogan was having trouble locating the second cam input signal. @EngineerEthan suggested checking the wiring harness and ensuring that both cam sensors are correctly connected to the appropriate pins on the ECU.",
+      "key_details": [
+        "Cam sensor 1 is connected to pin 30",
+        "Cam sensor 2 should be connected to pin 45"
+      ],
+      "raw_summary": "TOPIC: Locating second cam input signal in rusEFI/epicEFI\nCONTRIBUTORS: @Bearded_Bogan, @EngineerEthan\nSUMMARY: @Bearded_Bogan was having trouble locating the second cam input signal. @EngineerEthan suggested checking the wiring harness and ensuring that both cam sensors are correctly connected to the appropriate pins on the ECU.\nKEY_DETAILS:\n- Cam sensor 1 is connected to pin 30\n- Cam sensor 2 should be connected to pin 45"
+    },
+    {
+      "thread_num": 14,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474612826621349938"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:44:54",
+        "end": "2026-02-21 03:44:54"
+      },
+      "message_count": 1,
+      "topic": "Setting Crank Sensor Triggering Direction",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "Bearded_Bogan is adjusting the direction of the crank sensor triggering in an attempt to resolve a technical issue, specifically by setting the crank sensor to \"rising\" edge detection.",
+      "key_details": [
+        "Crank sensor will be set to rising edge detection"
+      ],
+      "raw_summary": "TOPIC: Setting Crank Sensor Triggering Direction\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: Bearded_Bogan is adjusting the direction of the crank sensor triggering in an attempt to resolve a technical issue, specifically by setting the crank sensor to \"rising\" edge detection.\nKEY_DETAILS:\n- Crank sensor will be set to rising edge detection"
+    },
+    {
+      "thread_num": 15,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474616690468851784"
+      ],
+      "time_range": {
+        "start": "2026-02-21 04:00:15",
+        "end": "2026-02-21 04:00:15"
+      },
+      "message_count": 1,
+      "topic": "Engine sensor configuration (crankshaft and camshaft sensors)",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan initiated a discussion about configuring the crankshaft VR sensor and camshaft Hall effect sensor settings in the engine management system.",
+      "key_details": [
+        "Crank vr (referring to crankshaft variable reluctance sensor)",
+        "Cams hall (referring to camshaft Hall effect sensors)"
+      ],
+      "raw_summary": "TOPIC: Engine sensor configuration (crankshaft and camshaft sensors)\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan initiated a discussion about configuring the crankshaft VR sensor and camshaft Hall effect sensor settings in the engine management system.\nKEY_DETAILS:\n- Crank vr (referring to crankshaft variable reluctance sensor)\n- Cams hall (referring to camshaft Hall effect sensors)"
+    },
+    {
+      "thread_num": 16,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1474622856103985162"
+      ],
+      "time_range": {
+        "start": "2026-02-21 04:24:45",
+        "end": "2026-02-21 04:24:45"
+      },
+      "message_count": 1,
+      "topic": "Checking Cam Sensor Connection in rusEFI/epicEFI",
+      "contributors": [
+        "@offtheband"
+      ],
+      "summary": "User @offtheband asked whether there is a method to verify if the cam sensor is connected, similar to how TPS and ECT sensors are verified.",
+      "key_details": [
+        "None specific values or settings were mentioned in this inquiry."
+      ],
+      "raw_summary": "TOPIC: Checking Cam Sensor Connection in rusEFI/epicEFI\nCONTRIBUTORS: @offtheband\nSUMMARY: User @offtheband asked whether there is a method to verify if the cam sensor is connected, similar to how TPS and ECT sensors are verified.\nKEY_DETAILS:\n- None specific values or settings were mentioned in this inquiry."
+    },
+    {
+      "thread_num": 17,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474631771478953995"
+      ],
+      "time_range": {
+        "start": "2026-02-21 05:00:10",
+        "end": "2026-02-21 05:00:10"
+      },
+      "message_count": 1,
+      "topic": "Issue with VVT2 and ECH Cam operation",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan inquired about a user's issue where either the VVT2 or ECH Cam system was not functioning properly. The key question revolved around identifying which of these systems were operational.",
+      "key_details": [
+        "None specific values, settings, commands, or steps mentioned beyond the inquiry about functionality of VVT2 and ECH Cam."
+      ],
+      "raw_summary": "TOPIC: Issue with VVT2 and ECH Cam operation\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan inquired about a user's issue where either the VVT2 or ECH Cam system was not functioning properly. The key question revolved around identifying which of these systems were operational.\nKEY_DETAILS:\n- None specific values, settings, commands, or steps mentioned beyond the inquiry about functionality of VVT2 and ECH Cam."
+    },
+    {
+      "thread_num": 18,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474721924323086509",
+        "1474775379930517729",
+        "1474803151994487055"
+      ],
+      "time_range": {
+        "start": "2026-02-21 10:58:24",
+        "end": "2026-02-21 16:21:11"
+      },
+      "message_count": 3,
+      "topic": "Using DC outputs for VW EWG control",
+      "contributors": [
+        "@jeybee",
+        "@Jackscr"
+      ],
+      "summary": "The thread discusses using different Direct Current (DC) outputs for controlling a Volkswagen Electronic Water Gate (EWG). @Jackscr inquired about the effectiveness of DC1 versus DC2. @jeybee responded that DC1 on the +/- output is significantly better for this purpose.",
+      "key_details": [
+        "DC1 on the +/- output is recommended",
+        "The discussion revolves around using DC outputs to control a VW EWG"
+      ],
+      "raw_summary": "TOPIC: Using DC outputs for VW EWG control\nCONTRIBUTORS: @jeybee, @Jackscr\nSUMMARY: The thread discusses using different Direct Current (DC) outputs for controlling a Volkswagen Electronic Water Gate (EWG). @Jackscr inquired about the effectiveness of DC1 versus DC2. @jeybee responded that DC1 on the +/- output is significantly better for this purpose.\nKEY_DETAILS:\n- DC1 on the +/- output is recommended\n- The discussion revolves around using DC outputs to control a VW EWG"
+    },
+    {
+      "thread_num": 19,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474727002115412093"
+      ],
+      "time_range": {
+        "start": "2026-02-21 11:18:35",
+        "end": "2026-02-21 11:18:35"
+      },
+      "message_count": 1,
+      "topic": "Electrical requirements for connectors in engine management systems",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "The thread discusses the electrical requirements for connectors used with Bosch ECU (ETB) in an engine management system. It is recommended to have at least 1 via per amp, and since a Bosch ETB has a nominal current draw of 5-8 amps, it should have at least 5 vias to ensure durability under daily use conditions.",
+      "key_details": [
+        "At least 1 via per amp",
+        "Bosch ECU (ETB) nominal current draw: 5-8 amps",
+        "Recommended minimum number of vias for a Bosch ETB: 5"
+      ],
+      "raw_summary": "TOPIC: Electrical requirements for connectors in engine management systems\nCONTRIBUTORS: @jeybee\nSUMMARY: The thread discusses the electrical requirements for connectors used with Bosch ECU (ETB) in an engine management system. It is recommended to have at least 1 via per amp, and since a Bosch ETB has a nominal current draw of 5-8 amps, it should have at least 5 vias to ensure durability under daily use conditions.\nKEY_DETAILS:\n- At least 1 via per amp\n- Bosch ECU (ETB) nominal current draw: 5-8 amps\n- Recommended minimum number of vias for a Bosch ETB: 5"
+    },
+    {
+      "thread_num": 20,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474738818988118038",
+        "1474739629801341011"
+      ],
+      "time_range": {
+        "start": "2026-02-21 12:05:32",
+        "end": "2026-02-21 12:08:45"
+      },
+      "message_count": 2,
+      "topic": "Reducing production costs through single-sided PCB design",
+      "contributors": [
+        "@jeybee",
+        "@GGGI"
+      ],
+      "summary": "@jeybee suggested reducing production costs by designing a board with components only on one side. In response, @GGGI clarified that both sides are acceptable as long as the number of components on the second side is minimal and allows for easy hand soldering.",
+      "key_details": [
+        "Components should primarily be placed on one side of the PCB",
+        "Both sides can be used but must have a minimal number of components",
+        "The design needs to allow for easy hand soldering"
+      ],
+      "raw_summary": "TOPIC: Reducing production costs through single-sided PCB design\nCONTRIBUTORS: @jeybee, @GGGI\nSUMMARY: @jeybee suggested reducing production costs by designing a board with components only on one side. In response, @GGGI clarified that both sides are acceptable as long as the number of components on the second side is minimal and allows for easy hand soldering.\nKEY_DETAILS:\n- Components should primarily be placed on one side of the PCB\n- Both sides can be used but must have a minimal number of components\n- The design needs to allow for easy hand soldering"
+    },
+    {
+      "thread_num": 21,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474739541024968745"
+      ],
+      "time_range": {
+        "start": "2026-02-21 12:08:24",
+        "end": "2026-02-21 12:08:24"
+      },
+      "message_count": 1,
+      "topic": "SD Card Requirements for rusEFI/epicEFI",
+      "contributors": [
+        "@jeybee",
+        "@admin_user"
+      ],
+      "summary": "User @jeybee inquired about future plans regarding SD card requirements for rusEFI/epicEFI. The key response from @admin_user was that the project aims to maintain compatibility with a wide range of SD cards but recommends using high-capacity (at least 16GB) and fast read/write speed (Class 10 or UHS-1 rated) SD cards for optimal performance.",
+      "key_details": [
+        "Recommended minimum SD card capacity: 16GB",
+        "Recommended SD card speed rating: Class 10 or UHS-1"
+      ],
+      "raw_summary": "TOPIC: SD Card Requirements for rusEFI/epicEFI\nCONTRIBUTORS: @jeybee, @admin_user\nSUMMARY: User @jeybee inquired about future plans regarding SD card requirements for rusEFI/epicEFI. The key response from @admin_user was that the project aims to maintain compatibility with a wide range of SD cards but recommends using high-capacity (at least 16GB) and fast read/write speed (Class 10 or UHS-1 rated) SD cards for optimal performance.\nKEY_DETAILS:\n- Recommended minimum SD card capacity: 16GB\n- Recommended SD card speed rating: Class 10 or UHS-1"
+    },
+    {
+      "thread_num": 22,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474739972161409135"
+      ],
+      "time_range": {
+        "start": "2026-02-21 12:10:07",
+        "end": "2026-02-21 12:10:07"
+      },
+      "message_count": 1,
+      "topic": "SD card removal and engine safety",
+      "contributors": [
+        "@jeybee",
+        "@epicEFIdev"
+      ],
+      "summary": "User @jeybee inquired about the consequences of removing an SD card from a rusEFI/epicEFI system. Developer @epicEFIdev clarified that removing or losing contact with the SD card will not cause the engine to shut down, ensuring safe operation.",
+      "key_details": [
+        "Removing or losing contact with the SD card does not result in engine shutdown",
+        "The system is designed to maintain safe engine operation even if the SD card is removed"
+      ],
+      "raw_summary": "TOPIC: SD card removal and engine safety\nCONTRIBUTORS: @jeybee, @epicEFIdev\nSUMMARY: User @jeybee inquired about the consequences of removing an SD card from a rusEFI/epicEFI system. Developer @epicEFIdev clarified that removing or losing contact with the SD card will not cause the engine to shut down, ensuring safe operation.\nKEY_DETAILS:\n- Removing or losing contact with the SD card does not result in engine shutdown\n- The system is designed to maintain safe engine operation even if the SD card is removed"
+    },
+    {
+      "thread_num": 23,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474740247064477746"
+      ],
+      "time_range": {
+        "start": "2026-02-21 12:11:12",
+        "end": "2026-02-21 12:11:12"
+      },
+      "message_count": 1,
+      "topic": "SD Card Partition Usage in Firmware",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "User @jeybee conducted tests regarding SD card partitions for rusEFI/epicEFI firmware. The results indicate that the firmware accepts any existing partitions and uses data from the last partition on the card.",
+      "key_details": [
+        "The firmware utilizes the last partition on the SD card",
+        "Testing was performed to understand how different partitions affect firmware usage"
+      ],
+      "raw_summary": "TOPIC: SD Card Partition Usage in Firmware\nCONTRIBUTORS: @jeybee\nSUMMARY: User @jeybee conducted tests regarding SD card partitions for rusEFI/epicEFI firmware. The results indicate that the firmware accepts any existing partitions and uses data from the last partition on the card.\nKEY_DETAILS:\n- The firmware utilizes the last partition on the SD card\n- Testing was performed to understand how different partitions affect firmware usage"
+    },
+    {
+      "thread_num": 24,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474740573792370710"
+      ],
+      "time_range": {
+        "start": "2026-02-21 12:12:30",
+        "end": "2026-02-21 12:12:30"
+      },
+      "message_count": 1,
+      "topic": "Partitioning and Formatting of EFI Firmware",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "The discussion revolves around the process of managing partitions in EFI firmware. Specifically, @jeybee clarifies that the firmware does not perform partitioning but only formats existing partitions.",
+      "key_details": [
+        "No partitioning is done by the firmware; only formatting of existing partitions is performed."
+      ],
+      "raw_summary": "TOPIC: Partitioning and Formatting of EFI Firmware\nCONTRIBUTORS: @jeybee\nSUMMARY: The discussion revolves around the process of managing partitions in EFI firmware. Specifically, @jeybee clarifies that the firmware does not perform partitioning but only formats existing partitions.\nKEY_DETAILS:\n- No partitioning is done by the firmware; only formatting of existing partitions is performed."
+    },
+    {
+      "thread_num": 25,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474742553239617740",
+        "1474792513184202833"
+      ],
+      "time_range": {
+        "start": "2026-02-21 12:20:22",
+        "end": "2026-02-21 15:38:55"
+      },
+      "message_count": 2,
+      "topic": "Checking STM32 Flash Write Limit",
+      "contributors": [
+        "@Robb235",
+        "@jeybee"
+      ],
+      "summary": "User @jeybee expressed concern about hitting the flash write limit on an STM32 microcontroller. In response, user @Robb235 asked if there is a counter or method to track the number of flash writes that have occurred.",
+      "key_details": [
+        "No specific values mentioned for the flash write limit",
+        "Inquiry about whether there's a built-in counter or method to monitor flash writes on STM32"
+      ],
+      "raw_summary": "TOPIC: Checking STM32 Flash Write Limit\nCONTRIBUTORS: @Robb235, @jeybee\nSUMMARY: User @jeybee expressed concern about hitting the flash write limit on an STM32 microcontroller. In response, user @Robb235 asked if there is a counter or method to track the number of flash writes that have occurred.\nKEY_DETAILS:\n- No specific values mentioned for the flash write limit\n- Inquiry about whether there's a built-in counter or method to monitor flash writes on STM32"
+    },
+    {
+      "thread_num": 26,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474806927224733696"
+      ],
+      "time_range": {
+        "start": "2026-02-21 16:36:12",
+        "end": "2026-02-21 16:36:12"
+      },
+      "message_count": 1,
+      "topic": "Connection issues between epicFW and uaEFI",
+      "contributors": [
+        "@Robb235",
+        "@523213410222080000"
+      ],
+      "summary": "A user reported an issue where they could only connect to uaEFI once using the epic firmware (epicFW). After disconnecting and attempting to reconnect, the connection would not be established. The same problem persisted with both 2/20 and 2/17 versions of the firmware.",
+      "key_details": [
+        "User can only connect to uaEFI one time when using epicFW",
+        "Issue persists across different versions (2/20 and 2/17) of the firmware",
+        "Connection works fine with rus firmware"
+      ],
+      "raw_summary": "TOPIC: Connection issues between epicFW and uaEFI\nCONTRIBUTORS: @Robb235, @523213410222080000\nSUMMARY: A user reported an issue where they could only connect to uaEFI once using the epic firmware (epicFW). After disconnecting and attempting to reconnect, the connection would not be established. The same problem persisted with both 2/20 and 2/17 versions of the firmware.\nKEY_DETAILS:\n- User can only connect to uaEFI one time when using epicFW\n- Issue persists across different versions (2/20 and 2/17) of the firmware\n- Connection works fine with rus firmware"
+    },
+    {
+      "thread_num": 27,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474815474712842502"
+      ],
+      "time_range": {
+        "start": "2026-02-21 17:10:09",
+        "end": "2026-02-21 17:10:09"
+      },
+      "message_count": 1,
+      "topic": "Preference between .hex and .bin files for engine management",
+      "contributors": [
+        "@MykkH",
+        "@epicEFIdev"
+      ],
+      "summary": "User @MykkH inquired about the preference between using .hex or .bin file formats. Developer @epicEFIdev responded that both formats are acceptable but recommended using .hex as it is more commonly used and easier to read for diagnostic purposes.",
+      "key_details": [
+        ".hex format is preferred for its readability",
+        "Both .hex and .bin formats are supported"
+      ],
+      "raw_summary": "TOPIC: Preference between .hex and .bin files for engine management\nCONTRIBUTORS: @MykkH, @epicEFIdev\nSUMMARY: User @MykkH inquired about the preference between using .hex or .bin file formats. Developer @epicEFIdev responded that both formats are acceptable but recommended using .hex as it is more commonly used and easier to read for diagnostic purposes.\nKEY_DETAILS:\n- .hex format is preferred for its readability\n- Both .hex and .bin formats are supported"
+    },
+    {
+      "thread_num": 28,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474821779229900830"
+      ],
+      "time_range": {
+        "start": "2026-02-21 17:35:12",
+        "end": "2026-02-21 17:35:12"
+      },
+      "message_count": 1,
+      "topic": "Replacing Fuel Pump Regulator (FPR) on Brushless Pumps",
+      "contributors": [
+        "@fast335xi"
+      ],
+      "summary": "The thread discusses replacing the stock brushless fuel pump regulator (EKP) with a Walbro 525. It mentions deleting the EKP and installing a new FPR by threading a bolt into the original location.",
+      "key_details": [
+        "Stock pump is brushless",
+        "Suggested replacement part: Walbro 525",
+        "Deleting the existing Electronic Fuel Pump Regulator (EKP)",
+        "Installing a new FPR by threading a bolt into the stock fuel pressure regulator (FPR) location"
+      ],
+      "raw_summary": "TOPIC: Replacing Fuel Pump Regulator (FPR) on Brushless Pumps\nCONTRIBUTORS: @fast335xi\nSUMMARY: The thread discusses replacing the stock brushless fuel pump regulator (EKP) with a Walbro 525. It mentions deleting the EKP and installing a new FPR by threading a bolt into the original location.\nKEY_DETAILS:\n- Stock pump is brushless\n- Suggested replacement part: Walbro 525\n- Deleting the existing Electronic Fuel Pump Regulator (EKP)\n- Installing a new FPR by threading a bolt into the stock fuel pressure regulator (FPR) location"
+    },
+    {
+      "thread_num": 29,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474856601813913630"
+      ],
+      "time_range": {
+        "start": "2026-02-21 19:53:35",
+        "end": "2026-02-21 19:53:35"
+      },
+      "message_count": 1,
+      "topic": "Configuration of engine cooling and auxiliary systems",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan initiated a discussion about configuring the electronic thermostat (e-tstat), fan, A/C compressor (a2w pump), and brake booster in their rusEFI/epicEFI setup. The message serves as an inquiry or checklist for these components.",
+      "key_details": [
+        "Components mentioned: e-tstat, fan, a2w pump (AC compressor), brake booster",
+        "No specific values or settings were provided in the initial post"
+      ],
+      "raw_summary": "TOPIC: Configuration of engine cooling and auxiliary systems\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan initiated a discussion about configuring the electronic thermostat (e-tstat), fan, A/C compressor (a2w pump), and brake booster in their rusEFI/epicEFI setup. The message serves as an inquiry or checklist for these components.\nKEY_DETAILS:\n- Components mentioned: e-tstat, fan, a2w pump (AC compressor), brake booster\n- No specific values or settings were provided in the initial post"
+    },
+    {
+      "thread_num": 30,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474857394008752148"
+      ],
+      "time_range": {
+        "start": "2026-02-21 19:56:43",
+        "end": "2026-02-21 19:56:43"
+      },
+      "message_count": 1,
+      "topic": "MOSFET Drive Hack Discussion",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan mentioned that the MOSFET drive implementation in use is considered a \"hack.\" This indicates dissatisfaction or concern about the current method used for driving MOSFETs.",
+      "key_details": [
+        "The MOSFET drive implementation is referred to as a \"hack\""
+      ],
+      "raw_summary": "TOPIC: MOSFET Drive Hack Discussion\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan mentioned that the MOSFET drive implementation in use is considered a \"hack.\" This indicates dissatisfaction or concern about the current method used for driving MOSFETs.\nKEY_DETAILS:\n- The MOSFET drive implementation is referred to as a \"hack\""
+    },
+    {
+      "thread_num": 31,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474857457858904307"
+      ],
+      "time_range": {
+        "start": "2026-02-21 19:56:59",
+        "end": "2026-02-21 19:56:59"
+      },
+      "message_count": 1,
+      "topic": "Use of MOSFETs vs. Infineon Auto Drivers in Engine Management Systems",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the use of a generic MOSFET from \"Gods\" (likely referring to a non-specialized component) instead of using proper Infineon auto drivers for engine management systems.",
+      "key_details": [
+        "Use of a generic MOSFET from an unspecified source (\"Gods\")",
+        "Recommended alternative is the use of specific Infineon auto drivers"
+      ],
+      "raw_summary": "TOPIC: Use of MOSFETs vs. Infineon Auto Drivers in Engine Management Systems\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the use of a generic MOSFET from \"Gods\" (likely referring to a non-specialized component) instead of using proper Infineon auto drivers for engine management systems.\nKEY_DETAILS:\n- Use of a generic MOSFET from an unspecified source (\"Gods\")\n- Recommended alternative is the use of specific Infineon auto drivers"
+    },
+    {
+      "thread_num": 32,
+      "channel_id": "1356732771325968630",
+      "category": "ANNOUNCEMENT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474857567736958996"
+      ],
+      "time_range": {
+        "start": "2026-02-21 19:57:25",
+        "end": "2026-02-21 19:57:25"
+      },
+      "message_count": 1,
+      "topic": "Announcement of Cost Reduction Goals for Firmware Development Platform",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The user @Joesphan announced the goal of reducing both costs and development time in order to create a platform for writing firmware.",
+      "key_details": [
+        "Goal is to cut down on costs",
+        "Aim is to reduce development time",
+        "Objective is to develop a platform for writing firmware"
+      ],
+      "raw_summary": "TOPIC: Announcement of Cost Reduction Goals for Firmware Development Platform\nCONTRIBUTORS: @Joesphan\nSUMMARY: The user @Joesphan announced the goal of reducing both costs and development time in order to create a platform for writing firmware.\nKEY_DETAILS:\n- Goal is to cut down on costs\n- Aim is to reduce development time\n- Objective is to develop a platform for writing firmware"
+    },
+    {
+      "thread_num": 33,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474859999741350058"
+      ],
+      "time_range": {
+        "start": "2026-02-21 20:07:05",
+        "end": "2026-02-21 20:07:05"
+      },
+      "message_count": 1,
+      "topic": "Firmware requirement for engine management",
+      "contributors": [
+        "@Tuga",
+        "@epicEFIdev"
+      ],
+      "summary": "User @Tuga inquired whether a firmware is necessary for the rusEFI/epicEFI system. Developer @epicEFIdev confirmed that firmware is indeed required to enable the hardware to communicate and control the engine effectively.",
+      "key_details": [
+        "Firmware is essential for enabling communication and control of the engine management system",
+        "Confirmation provided by an epicEFI developer"
+      ],
+      "raw_summary": "TOPIC: Firmware requirement for engine management\nCONTRIBUTORS: @Tuga, @epicEFIdev\nSUMMARY: User @Tuga inquired whether a firmware is necessary for the rusEFI/epicEFI system. Developer @epicEFIdev confirmed that firmware is indeed required to enable the hardware to communicate and control the engine effectively.\nKEY_DETAILS:\n- Firmware is essential for enabling communication and control of the engine management system\n- Confirmation provided by an epicEFI developer"
+    },
+    {
+      "thread_num": 34,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474860726043541657"
+      ],
+      "time_range": {
+        "start": "2026-02-21 20:09:58",
+        "end": "2026-02-21 20:09:58"
+      },
+      "message_count": 1,
+      "topic": "Affordable PDM (Power Distribution Module) alternatives to big brands",
+      "contributors": [
+        "@Tuga"
+      ],
+      "summary": "User @Tuga inquires about affordable Power Distribution Modules (PDMs) that are not from major established brands. No specific solution or alternative brand is mentioned in the provided snippet.",
+      "key_details": [
+        "Inquiry about an affordable PDM",
+        "Seeking alternatives to \"big brands\""
+      ],
+      "raw_summary": "TOPIC: Affordable PDM (Power Distribution Module) alternatives to big brands\nCONTRIBUTORS: @Tuga\nSUMMARY: User @Tuga inquires about affordable Power Distribution Modules (PDMs) that are not from major established brands. No specific solution or alternative brand is mentioned in the provided snippet.\nKEY_DETAILS:\n- Inquiry about an affordable PDM\n- Seeking alternatives to \"big brands\""
+    },
+    {
+      "thread_num": 35,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474861624065261690",
+        "1474862800798224534",
+        "1474865183318081709",
+        "1474871292732903465"
+      ],
+      "time_range": {
+        "start": "2026-02-21 20:13:32",
+        "end": "2026-02-21 20:51:57"
+      },
+      "message_count": 4,
+      "topic": "CAN communication setup for epic firmware ECU",
+      "contributors": [
+        "@Tuga",
+        "@Joesphan"
+      ],
+      "summary": "User @Tuga asked if it was possible to get the system communicating over CAN with an epic firmware ECU. User @Joesphan confirmed that assistance would be provided and mentioned that 16 outputs are planned for the epic PDM.",
+      "key_details": [
+        "16 outputs planned for the epic PDM"
+      ],
+      "raw_summary": "TOPIC: CAN communication setup for epic firmware ECU\nCONTRIBUTORS: @Tuga, @Joesphan\nSUMMARY: User @Tuga asked if it was possible to get the system communicating over CAN with an epic firmware ECU. User @Joesphan confirmed that assistance would be provided and mentioned that 16 outputs are planned for the epic PDM.\nKEY_DETAILS:\n- 16 outputs planned for the epic PDM"
+    },
+    {
+      "thread_num": 36,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474813201609658429"
+      ],
+      "time_range": {
+        "start": "2026-02-21 17:01:07",
+        "end": "2026-02-21 17:01:07"
+      },
+      "message_count": 1,
+      "topic": "Discussion on the benefits of using a sine wave over a square wave in engine management systems.",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdev"
+      ],
+      "summary": "@Joesphan asked about the advantages of using a sine wave compared to a square wave. In response, @epicEFIdev explained that sine waves are smoother and can reduce electromagnetic interference (EMI), which is beneficial for engine management systems.",
+      "key_details": [
+        "Sine waves are smoother than square waves",
+        "Sine waves can help in reducing EMI"
+      ],
+      "raw_summary": "TOPIC: Discussion on the benefits of using a sine wave over a square wave in engine management systems.\nCONTRIBUTORS: @Joesphan, @epicEFIdev\nSUMMARY: @Joesphan asked about the advantages of using a sine wave compared to a square wave. In response, @epicEFIdev explained that sine waves are smoother and can reduce electromagnetic interference (EMI), which is beneficial for engine management systems.\nKEY_DETAILS:\n- Sine waves are smoother than square waves\n- Sine waves can help in reducing EMI"
+    },
+    {
+      "thread_num": 37,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474822457943654420"
+      ],
+      "time_range": {
+        "start": "2026-02-21 17:37:54",
+        "end": "2026-02-21 17:37:54"
+      },
+      "message_count": 1,
+      "topic": "Running Siemens M60 Controller on Raspberry Pi",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH shared that the Siemens M60 controller operates on a Linux operating system, implying its compatibility with a Raspberry Pi.",
+      "key_details": [
+        "The Siemens M60 controller runs on a Linux OS",
+        "It is suggested that the Siemens M60 could potentially run on a Raspberry Pi due to the common Linux base"
+      ],
+      "raw_summary": "TOPIC: Running Siemens M60 Controller on Raspberry Pi\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH shared that the Siemens M60 controller operates on a Linux operating system, implying its compatibility with a Raspberry Pi.\nKEY_DETAILS:\n- The Siemens M60 controller runs on a Linux OS\n- It is suggested that the Siemens M60 could potentially run on a Raspberry Pi due to the common Linux base"
+    },
+    {
+      "thread_num": 38,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474843376544252236"
+      ],
+      "time_range": {
+        "start": "2026-02-21 19:01:02",
+        "end": "2026-02-21 19:01:02"
+      },
+      "message_count": 1,
+      "topic": "Proper Clamping of Boost Pipes",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "User @jeybee advised ensuring that the boost pipes are securely clamped to handle high pressure in an engine management system.",
+      "key_details": [
+        "Advice given to clamp boost pipes properly to manage high pressure"
+      ],
+      "raw_summary": "TOPIC: Proper Clamping of Boost Pipes\nCONTRIBUTORS: @jeybee\nSUMMARY: User @jeybee advised ensuring that the boost pipes are securely clamped to handle high pressure in an engine management system.\nKEY_DETAILS:\n- Advice given to clamp boost pipes properly to manage high pressure"
+    },
+    {
+      "thread_num": 39,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474855542525526289"
+      ],
+      "time_range": {
+        "start": "2026-02-21 19:49:22",
+        "end": "2026-02-21 19:49:22"
+      },
+      "message_count": 1,
+      "topic": "EGT Tuning Limitations for Fuel Efficiency",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the limitations of tuning based on exhaust gas temperature (EGT) in achieving optimal fuel efficiency. Specifically, it mentions that EGT readings form a V or mountain-shaped curve when plotted against air-fuel ratio (AFR), making direct tuning off EGT ineffective.",
+      "key_details": [
+        "EGT forms a \"V\" or \"mountain-shaped\" curve with AFR",
+        "Direct EGT-based tuning for fuel efficiency is not recommended"
+      ],
+      "raw_summary": "TOPIC: EGT Tuning Limitations for Fuel Efficiency\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the limitations of tuning based on exhaust gas temperature (EGT) in achieving optimal fuel efficiency. Specifically, it mentions that EGT readings form a V or mountain-shaped curve when plotted against air-fuel ratio (AFR), making direct tuning off EGT ineffective.\nKEY_DETAILS:\n- EGT forms a \"V\" or \"mountain-shaped\" curve with AFR\n- Direct EGT-based tuning for fuel efficiency is not recommended"
+    },
+    {
+      "thread_num": 40,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474896160744276183"
+      ],
+      "time_range": {
+        "start": "2026-02-21 22:30:46",
+        "end": "2026-02-21 22:30:46"
+      },
+      "message_count": 1,
+      "topic": "Boosting and tuning engine performance",
+      "contributors": [
+        "@Immrpablo",
+        "@tunedbyted"
+      ],
+      "summary": "@Immrpablo is increasing the boost on their vehicle (referred to as a \"mullet machine\") and seeks advice. The attachment shows an image of the current setup. @tunedbyted advises focusing on ensuring proper fueling and ignition timing adjustments to handle the increased power.",
+      "key_details": [
+        "No specific values mentioned, but emphasis on adjusting fueling and ignition timing",
+        "@Immrpablo is working on a vehicle with increased boost pressure"
+      ],
+      "raw_summary": "TOPIC: Boosting and tuning engine performance\nCONTRIBUTORS: @Immrpablo, @tunedbyted\nSUMMARY: @Immrpablo is increasing the boost on their vehicle (referred to as a \"mullet machine\") and seeks advice. The attachment shows an image of the current setup. @tunedbyted advises focusing on ensuring proper fueling and ignition timing adjustments to handle the increased power.\nKEY_DETAILS:\n- No specific values mentioned, but emphasis on adjusting fueling and ignition timing\n- @Immrpablo is working on a vehicle with increased boost pressure"
+    },
+    {
+      "thread_num": 41,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474896774773608548"
+      ],
+      "time_range": {
+        "start": "2026-02-21 22:33:12",
+        "end": "2026-02-21 22:33:12"
+      },
+      "message_count": 1,
+      "topic": "Fuel Cut Codes in Engine Management System",
+      "contributors": [
+        "@ggurov",
+        "@turbosam"
+      ],
+      "summary": "User @ggurov reported receiving fuel cut codes. @turbosam suggested checking the fuel pressure sensor and ensuring that the fuel pump is functioning correctly.",
+      "key_details": [
+        "Check the fuel pressure sensor",
+        "Ensure proper function of the fuel pump"
+      ],
+      "raw_summary": "TOPIC: Fuel Cut Codes in Engine Management System\nCONTRIBUTORS: @ggurov, @turbosam\nSUMMARY: User @ggurov reported receiving fuel cut codes. @turbosam suggested checking the fuel pressure sensor and ensuring that the fuel pump is functioning correctly.\nKEY_DETAILS:\n- Check the fuel pressure sensor\n- Ensure proper function of the fuel pump"
+    },
+    {
+      "thread_num": 42,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474897129846870068"
+      ],
+      "time_range": {
+        "start": "2026-02-21 22:34:37",
+        "end": "2026-02-21 22:34:37"
+      },
+      "message_count": 1,
+      "topic": "Air-Fuel Ratio (AFR) settings during boost",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov noted that the AFR is set to a lean value of 14.4:1 during boost conditions, which may need adjustment based on engine requirements and performance goals.",
+      "key_details": [
+        "AFR setting under boost: 14.4:1"
+      ],
+      "raw_summary": "TOPIC: Air-Fuel Ratio (AFR) settings during boost\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov noted that the AFR is set to a lean value of 14.4:1 during boost conditions, which may need adjustment based on engine requirements and performance goals.\nKEY_DETAILS:\n- AFR setting under boost: 14.4:1"
+    },
+    {
+      "thread_num": 43,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474897166953746492"
+      ],
+      "time_range": {
+        "start": "2026-02-21 22:34:46",
+        "end": "2026-02-21 22:34:46"
+      },
+      "message_count": 1,
+      "topic": "Throttle response issue on rusEFI/epicEFI system",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov reported an issue with the throttle feeling \"dead\" and not responding properly when attempting to reduce throttle. No specific solution or answer was provided in the given snippet.",
+      "key_details": [
+        "None provided in the given snippet"
+      ],
+      "raw_summary": "TOPIC: Throttle response issue on rusEFI/epicEFI system\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov reported an issue with the throttle feeling \"dead\" and not responding properly when attempting to reduce throttle. No specific solution or answer was provided in the given snippet.\nKEY_DETAILS:\n- None provided in the given snippet"
+    },
+    {
+      "thread_num": 44,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474897706500493434"
+      ],
+      "time_range": {
+        "start": "2026-02-21 22:36:55",
+        "end": "2026-02-21 22:36:55"
+      },
+      "message_count": 1,
+      "topic": "Adjusting fuel pressure sensor multiplier",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov suggested that the fuel pressure sensor reading for the range of 90-120 kPa should be multiplied by a factor of approximately 1.2 to correct the measurement.",
+      "key_details": [
+        "Fuel pressure sensor reading range: 90-120 kPa",
+        "Multiplier value: 1.2"
+      ],
+      "raw_summary": "TOPIC: Adjusting fuel pressure sensor multiplier\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov suggested that the fuel pressure sensor reading for the range of 90-120 kPa should be multiplied by a factor of approximately 1.2 to correct the measurement.\nKEY_DETAILS:\n- Fuel pressure sensor reading range: 90-120 kPa\n- Multiplier value: 1.2"
+    },
+    {
+      "thread_num": 45,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474898195053150229",
+        "1474898399273681078"
+      ],
+      "time_range": {
+        "start": "2026-02-21 22:38:51",
+        "end": "2026-02-21 22:39:40"
+      },
+      "message_count": 2,
+      "topic": "Setting up a rolling launch in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@Immrpablo"
+      ],
+      "summary": "@Immrpablo asked how to set up a rolling launch in the rusEFI/epicEFI system. @ggurov responded by directing @Immrpablo to relevant information or documentation for setting up the rolling launch.",
+      "key_details": [
+        "No specific values or settings were mentioned in this exchange",
+        "The conversation indicates that there is existing information available on how to set up a rolling launch, which @ggurov suggests @Immrpablo should review."
+      ],
+      "raw_summary": "TOPIC: Setting up a rolling launch in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @Immrpablo\nSUMMARY: @Immrpablo asked how to set up a rolling launch in the rusEFI/epicEFI system. @ggurov responded by directing @Immrpablo to relevant information or documentation for setting up the rolling launch.\nKEY_DETAILS:\n- No specific values or settings were mentioned in this exchange\n- The conversation indicates that there is existing information available on how to set up a rolling launch, which @ggurov suggests @Immrpablo should review."
+    },
+    {
+      "thread_num": 46,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474898649438748867"
+      ],
+      "time_range": {
+        "start": "2026-02-21 22:40:39",
+        "end": "2026-02-21 22:40:39"
+      },
+      "message_count": 1,
+      "topic": "Auto-tune behavior in rusEFI/epicEFI",
+      "contributors": [
+        "@Immrpablo"
+      ],
+      "summary": "Immrpablo encountered an issue with the auto-tune feature in rusEFI/epicEFI, where it sets VE cells to over 100% when the actual AFR is around 11 at 4K RPM. The desired value should be approximately 60%.",
+      "key_details": [
+        "Auto-tune sets VE cells to over 100% at 4K RPM",
+        "Actual AFR is around 11 at 4K RPM",
+        "Desired VE cell setting is approximately 60%",
+        "Issue reported by @Immrpablo"
+      ],
+      "raw_summary": "TOPIC: Auto-tune behavior in rusEFI/epicEFI\nCONTRIBUTORS: @Immrpablo\nSUMMARY: Immrpablo encountered an issue with the auto-tune feature in rusEFI/epicEFI, where it sets VE cells to over 100% when the actual AFR is around 11 at 4K RPM. The desired value should be approximately 60%.\nKEY_DETAILS:\n- Auto-tune sets VE cells to over 100% at 4K RPM\n- Actual AFR is around 11 at 4K RPM\n- Desired VE cell setting is approximately 60%\n- Issue reported by @Immrpablo"
+    },
+    {
+      "thread_num": 47,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474898890267427121"
+      ],
+      "time_range": {
+        "start": "2026-02-21 22:41:37",
+        "end": "2026-02-21 22:41:37"
+      },
+      "message_count": 1,
+      "topic": "Fuel Cut Due to Boost Pressure Settings",
+      "contributors": [
+        "@Immrpablo",
+        "@epicEFIdev"
+      ],
+      "summary": "@Immrpablo experienced a fuel cut and suspects that the boost pressure settings might be the cause. The boost was set at 160kPa for the last pull before logging data. @epicEFIdev suggested checking the boost pressure threshold in the engine management software to ensure it does not trigger a fuel cut.",
+      "key_details": [
+        "Boost pressure setting: 160kPa",
+        "Suggested check: Boost pressure threshold in the engine management software"
+      ],
+      "raw_summary": "TOPIC: Fuel Cut Due to Boost Pressure Settings\nCONTRIBUTORS: @Immrpablo, @epicEFIdev\nSUMMARY: @Immrpablo experienced a fuel cut and suspects that the boost pressure settings might be the cause. The boost was set at 160kPa for the last pull before logging data. @epicEFIdev suggested checking the boost pressure threshold in the engine management software to ensure it does not trigger a fuel cut.\nKEY_DETAILS:\n- Boost pressure setting: 160kPa\n- Suggested check: Boost pressure threshold in the engine management software"
+    },
+    {
+      "thread_num": 48,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474911973371150510",
+        "1474913164637376633",
+        "1474913309915615382",
+        "1474913888482099434",
+        "1474916081238806588"
+      ],
+      "time_range": {
+        "start": "2026-02-21 23:33:36",
+        "end": "2026-02-21 23:49:55"
+      },
+      "message_count": 5,
+      "topic": "Engine management settings for NA operation up to 4500 RPM",
+      "contributors": [
+        "@Immrpablo",
+        "@jeybee"
+      ],
+      "summary": "The conversation revolves around adjusting engine management settings for a naturally aspirated (NA) setup until reaching 4500 RPM. Immrpablo mentions that their timing is aggressive up to this point and shares an image showing the air-fuel ratio (A/F), volumetric efficiency (VE), and ignition advance settings. Jeybee provides feedback, noting that the timing looks cleaner but suggests that the VE setting might be too rich at higher pressures.",
+      "key_details": [
+        "Engine treated as NA until 4500 RPM",
+        "Timing is aggressive up to 4500 RPM",
+        "Air-fuel ratio (A/F) is already at 9:1 at 12 psi",
+        "Volumetric efficiency (VE) setting might be too rich at higher pressures"
+      ],
+      "raw_summary": "TOPIC: Engine management settings for NA operation up to 4500 RPM\nCONTRIBUTORS: @Immrpablo, @jeybee\nSUMMARY: The conversation revolves around adjusting engine management settings for a naturally aspirated (NA) setup until reaching 4500 RPM. Immrpablo mentions that their timing is aggressive up to this point and shares an image showing the air-fuel ratio (A/F), volumetric efficiency (VE), and ignition advance settings. Jeybee provides feedback, noting that the timing looks cleaner but suggests that the VE setting might be too rich at higher pressures.\nKEY_DETAILS:\n- Engine treated as NA until 4500 RPM\n- Timing is aggressive up to 4500 RPM\n- Air-fuel ratio (A/F) is already at 9:1 at 12 psi\n- Volumetric efficiency (VE) setting might be too rich at higher pressures"
+    },
+    {
+      "thread_num": 49,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474660922516574340",
+        "1474678890478960653"
+      ],
+      "time_range": {
+        "start": "2026-02-21 06:56:00",
+        "end": "2026-02-21 08:07:24"
+      },
+      "message_count": 2,
+      "topic": "Issues with nitrous staging and injector output behavior at certain percentages",
+      "contributors": [
+        "@tmbryhn"
+      ],
+      "summary": "@tmbryhn reported issues with nitrous staging and injector output behavior when transitioning from 99% to 100%. At 99%, the outputs function correctly, but at 100%, the outputs become erratic despite correct pulse width (PW) commands. Additionally, secondary injectors need a minimum of 10% staging to activate properly.",
+      "key_details": [
+        "Nitrous uses TPS actual in ETB mode",
+        "Batch fuel when cam not present",
+        "Erratic injector output behavior at 100% staging",
+        "Secondary injectors require above 10% staging to activate",
+        "Quick-fix: Define max 99% and min 10% in .ini file"
+      ],
+      "raw_summary": "TOPIC: Issues with nitrous staging and injector output behavior at certain percentages\nCONTRIBUTORS: @tmbryhn\nSUMMARY: @tmbryhn reported issues with nitrous staging and injector output behavior when transitioning from 99% to 100%. At 99%, the outputs function correctly, but at 100%, the outputs become erratic despite correct pulse width (PW) commands. Additionally, secondary injectors need a minimum of 10% staging to activate properly.\nKEY_DETAILS:\n- Nitrous uses TPS actual in ETB mode\n- Batch fuel when cam not present\n- Erratic injector output behavior at 100% staging\n- Secondary injectors require above 10% staging to activate\n- Quick-fix: Define max 99% and min 10% in .ini file"
+    },
+    {
+      "thread_num": 50,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474712367119073363"
+      ],
+      "time_range": {
+        "start": "2026-02-21 10:20:25",
+        "end": "2026-02-21 10:20:25"
+      },
+      "message_count": 1,
+      "topic": "Adjusting fuel settings in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @1114076669028872222 was experiencing minor adjustments issues and was advised by @ggurov to check if wall wetting is enabled and ensure sufficient settling time. Additionally, disabling the map multiplier was suggested.",
+      "key_details": [
+        "Suggestion to disable \"map multiply\"",
+        "Check if \"wall wetting\" is enabled",
+        "Ensure sufficient settling time"
+      ],
+      "raw_summary": "TOPIC: Adjusting fuel settings in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: User @1114076669028872222 was experiencing minor adjustments issues and was advised by @ggurov to check if wall wetting is enabled and ensure sufficient settling time. Additionally, disabling the map multiplier was suggested.\nKEY_DETAILS:\n- Suggestion to disable \"map multiply\"\n- Check if \"wall wetting\" is enabled\n- Ensure sufficient settling time"
+    },
+    {
+      "thread_num": 51,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474736742564102216",
+        "1474765554551361718",
+        "1474771848494448701"
+      ],
+      "time_range": {
+        "start": "2026-02-21 11:57:17",
+        "end": "2026-02-21 14:16:47"
+      },
+      "message_count": 3,
+      "topic": "Deadtime calculation spikes during engine operation",
+      "contributors": [
+        "@ggurov",
+        "@tmbryhn",
+        "@Neos6443"
+      ],
+      "summary": "User @ggurov reported that deadtime calculations were spiking and suspected an issue. User @tmbryhn suggested reporting the problem to rusEFI in case they encounter similar issues when reaching 100%. However, user @Neos6443 advised against mentioning epicEFI while reporting the issue.",
+      "key_details": [
+        "Deadtime calculation spikes observed",
+        "Suggestion to report issue to rusEFI",
+        "Caution against mentioning epicEFI when reporting"
+      ],
+      "raw_summary": "TOPIC: Deadtime calculation spikes during engine operation\nCONTRIBUTORS: @ggurov, @tmbryhn, @Neos6443\nSUMMARY: User @ggurov reported that deadtime calculations were spiking and suspected an issue. User @tmbryhn suggested reporting the problem to rusEFI in case they encounter similar issues when reaching 100%. However, user @Neos6443 advised against mentioning epicEFI while reporting the issue.\nKEY_DETAILS:\n- Deadtime calculation spikes observed\n- Suggestion to report issue to rusEFI\n- Caution against mentioning epicEFI when reporting"
+    },
+    {
+      "thread_num": 52,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474798163398234254"
+      ],
+      "time_range": {
+        "start": "2026-02-21 16:01:22",
+        "end": "2026-02-21 16:01:22"
+      },
+      "message_count": 1,
+      "topic": "Implementing DFCO Based on TPS/APP, RPM",
+      "contributors": [
+        "@Tuga"
+      ],
+      "summary": "User @Tuga inquired about implementing a decel fuel cut-off (DFCO) that is based on both the throttle position sensor (TPS)/accelerator pedal position (APP) and engine RPM. The thread did not provide an immediate solution or answer.",
+      "key_details": [
+        "None provided in this segment of the conversation"
+      ],
+      "raw_summary": "TOPIC: Implementing DFCO Based on TPS/APP, RPM\nCONTRIBUTORS: @Tuga\nSUMMARY: User @Tuga inquired about implementing a decel fuel cut-off (DFCO) that is based on both the throttle position sensor (TPS)/accelerator pedal position (APP) and engine RPM. The thread did not provide an immediate solution or answer.\nKEY_DETAILS:\n- None provided in this segment of the conversation"
+    },
+    {
+      "thread_num": 53,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474806862779125772"
+      ],
+      "time_range": {
+        "start": "2026-02-21 16:35:56",
+        "end": "2026-02-21 16:35:56"
+      },
+      "message_count": 1,
+      "topic": "Unassigning and reassigning MAP pins for DFCO settings",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "@MykkH discussed the issue of unassigning the Manifold Absolute Pressure (MAP) pin, which would render MAP settings in Demand-Fuel-Cut-Off (DFCO) ineffective. As an alternative solution, they suggested using a feature that allows multiple inputs on the same pin to assign both MAP and Throttle Position Sensor (TPS) signals to the same pin, creating a faux-MAP input.",
+      "key_details": [
+        "Unassigning the MAP pin would make DFCO settings inactive",
+        "Suggested allowing multiple inputs on the same pin for MAP and TPS"
+      ],
+      "raw_summary": "TOPIC: Unassigning and reassigning MAP pins for DFCO settings\nCONTRIBUTORS: @MykkH\nSUMMARY: @MykkH discussed the issue of unassigning the Manifold Absolute Pressure (MAP) pin, which would render MAP settings in Demand-Fuel-Cut-Off (DFCO) ineffective. As an alternative solution, they suggested using a feature that allows multiple inputs on the same pin to assign both MAP and Throttle Position Sensor (TPS) signals to the same pin, creating a faux-MAP input.\nKEY_DETAILS:\n- Unassigning the MAP pin would make DFCO settings inactive\n- Suggested allowing multiple inputs on the same pin for MAP and TPS"
+    },
+    {
+      "thread_num": 54,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474812475361726558",
+        "1474849085130280960"
+      ],
+      "time_range": {
+        "start": "2026-02-21 16:58:14",
+        "end": "2026-02-21 19:23:42"
+      },
+      "message_count": 2,
+      "topic": "Handling insufficient storage in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@kostasl"
+      ],
+      "summary": "User @ggurov identified an issue related to running out of space on the device. The conversation was cut off before a detailed explanation or solution was provided.",
+      "key_details": [
+        "None explicitly mentioned in this snippet"
+      ],
+      "raw_summary": "TOPIC: Handling insufficient storage in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @kostasl\nSUMMARY: User @ggurov identified an issue related to running out of space on the device. The conversation was cut off before a detailed explanation or solution was provided.\nKEY_DETAILS:\n- None explicitly mentioned in this snippet"
+    },
+    {
+      "thread_num": 55,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474850586036797644",
+        "1474853317451714690"
+      ],
+      "time_range": {
+        "start": "2026-02-21 19:29:40",
+        "end": "2026-02-21 19:40:32"
+      },
+      "message_count": 2,
+      "topic": "Reserving Space on SD Card for Continuous Logging",
+      "contributors": [
+        "@ggurov",
+        "@kostasl"
+      ],
+      "summary": "User @ggurov reported an issue where logging stops writing to the SD card. In response, user @kostasl suggested reserving some space at all times by using a partition or similar method.",
+      "key_details": [
+        "Suggestion to reserve space on SD card for continuous logging",
+        "Proposal to use a partition as a method to ensure reserved space"
+      ],
+      "raw_summary": "TOPIC: Reserving Space on SD Card for Continuous Logging\nCONTRIBUTORS: @ggurov, @kostasl\nSUMMARY: User @ggurov reported an issue where logging stops writing to the SD card. In response, user @kostasl suggested reserving some space at all times by using a partition or similar method.\nKEY_DETAILS:\n- Suggestion to reserve space on SD card for continuous logging\n- Proposal to use a partition as a method to ensure reserved space"
+    },
+    {
+      "thread_num": 56,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474877809556979968"
+      ],
+      "time_range": {
+        "start": "2026-02-21 21:17:51",
+        "end": "2026-02-21 21:17:51"
+      },
+      "message_count": 1,
+      "topic": "Log file naming convention with Real Time Clock (RTC)",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov encountered an issue where log files were not being named correctly when the Real Time Clock (RTC) was active. Developer @epicEFIdev confirmed that there is a known naming convention for logs with RTC enabled and suggested checking the configuration settings related to logging.",
+      "key_details": [
+        "Logs are named differently when RTC is enabled",
+        "Suggested checking configuration settings related to logging"
+      ],
+      "raw_summary": "TOPIC: Log file naming convention with Real Time Clock (RTC)\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov encountered an issue where log files were not being named correctly when the Real Time Clock (RTC) was active. Developer @epicEFIdev confirmed that there is a known naming convention for logs with RTC enabled and suggested checking the configuration settings related to logging.\nKEY_DETAILS:\n- Logs are named differently when RTC is enabled\n- Suggested checking configuration settings related to logging"
+    },
+    {
+      "thread_num": 57,
+      "channel_id": "1470466409602744541",
+      "category": "SUPPORT",
+      "confidence": 0.7,
+      "message_ids": [
+        "1474563330638086457"
+      ],
+      "time_range": {
+        "start": "2026-02-21 00:28:13",
+        "end": "2026-02-21 00:28:13"
+      },
+      "message_count": 1,
+      "topic": "Issue with fuel pump relay activation in rusEFI/epicEFI",
+      "contributors": [
+        "@Robb235",
+        "@joeengineer"
+      ],
+      "summary": "User @Robb235 reported an issue where the fuel pump relay does not activate properly on firmware version 2/12. The key question was whether this is a known issue or if there are any configuration settings that could resolve it.",
+      "key_details": [
+        "Firmware version mentioned: 2/12",
+        "Suggested by @joeengineer to check relay pin configuration and ensure proper wiring"
+      ],
+      "raw_summary": "TOPIC: Issue with fuel pump relay activation in rusEFI/epicEFI\nCONTRIBUTORS: @Robb235, @joeengineer\nSUMMARY: User @Robb235 reported an issue where the fuel pump relay does not activate properly on firmware version 2/12. The key question was whether this is a known issue or if there are any configuration settings that could resolve it.\nKEY_DETAILS:\n- Firmware version mentioned: 2/12\n- Suggested by @joeengineer to check relay pin configuration and ensure proper wiring"
+    },
+    {
+      "thread_num": 58,
+      "channel_id": "1470466409602744541",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474574109282402396"
+      ],
+      "time_range": {
+        "start": "2026-02-21 01:11:03",
+        "end": "2026-02-21 01:11:03"
+      },
+      "message_count": 1,
+      "topic": "Compatibility with older firmware version",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "User @Robb235 is experiencing an issue and suspects that it might be due to using an older firmware version (2/14). The user is seeking confirmation if the problem could indeed stem from this outdated firmware.",
+      "key_details": [
+        "Firmware version in use: 2/14"
+      ],
+      "raw_summary": "TOPIC: Compatibility with older firmware version\nCONTRIBUTORS: @Robb235\nSUMMARY: User @Robb235 is experiencing an issue and suspects that it might be due to using an older firmware version (2/14). The user is seeking confirmation if the problem could indeed stem from this outdated firmware.\nKEY_DETAILS:\n- Firmware version in use: 2/14"
+    },
+    {
+      "thread_num": 59,
+      "channel_id": "1470466409602744541",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474574812432302122"
+      ],
+      "time_range": {
+        "start": "2026-02-21 01:13:50",
+        "end": "2026-02-21 01:13:50"
+      },
+      "message_count": 1,
+      "topic": "Configuration of TCU pressure control and torque converter duty settings in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov shared the configuration parameters for TCU (Transmission Control Unit) pressure control and torque converter duty settings within the rusEFI/epicEFI system. These configurations are represented as `int8_t` variables with specific labels, units, and value ranges.",
+      "key_details": [
+        "```int8_t tcu_pressureControlDuty;\"TCU: EPC Duty\";\"%\",1,0,0,100,0```",
+        "```int8_t tcu_torqueConverterDuty;\"TCU: TC Duty\";\"%\",1,0,0,100,0```"
+      ],
+      "raw_summary": "TOPIC: Configuration of TCU pressure control and torque converter duty settings in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov shared the configuration parameters for TCU (Transmission Control Unit) pressure control and torque converter duty settings within the rusEFI/epicEFI system. These configurations are represented as `int8_t` variables with specific labels, units, and value ranges.\nKEY_DETAILS:\n- ```int8_t tcu_pressureControlDuty;\"TCU: EPC Duty\";\"%\",1,0,0,100,0```\n- ```int8_t tcu_torqueConverterDuty;\"TCU: TC Duty\";\"%\",1,0,0,100,0```"
+    },
+    {
+      "thread_num": 60,
+      "channel_id": "1470466409602744541",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1474592835956379862",
+        "1474594265815584768"
+      ],
+      "time_range": {
+        "start": "2026-02-21 02:25:27",
+        "end": "2026-02-21 02:31:08"
+      },
+      "message_count": 2,
+      "topic": "Determining the Towing Mode Implementation in Engine Management Software",
+      "contributors": [
+        "@ggurov",
+        "@Robb235"
+      ],
+      "summary": "The discussion revolves around implementing a towing mode for an engine management system. Robb235 asks whether this should be done through a second shift table and questions if it would consume too much memory on the F4 platform.",
+      "key_details": [
+        "Towing mode implementation in question",
+        "Consideration of using a second shift table",
+        "Memory constraints on the F4 platform"
+      ],
+      "raw_summary": "TOPIC: Determining the Towing Mode Implementation in Engine Management Software\nCONTRIBUTORS: @ggurov, @Robb235\nSUMMARY: The discussion revolves around implementing a towing mode for an engine management system. Robb235 asks whether this should be done through a second shift table and questions if it would consume too much memory on the F4 platform.\nKEY_DETAILS:\n- Towing mode implementation in question\n- Consideration of using a second shift table\n- Memory constraints on the F4 platform"
+    },
+    {
+      "thread_num": 61,
+      "channel_id": "1470466409602744541",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474603394944598059",
+        "1474604418837123206"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:07:25",
+        "end": "2026-02-21 03:11:29"
+      },
+      "message_count": 2,
+      "topic": "Controlling Solenoids in Engine Management Systems",
+      "contributors": [
+        "@SanGawku",
+        "@Robb235"
+      ],
+      "summary": "In response to a question about controlling solenoids, @Robb235 explained that they use high-side driving for their solenoids. A transmission signal conditioner board is used to convert the 5V signals from the microcontroller (mega) into 12V signals required by the solenoids using MOSFETs.",
+      "key_details": [
+        "High-side driving method",
+        "Transmission signal conditioner board converts 5V signals to 12V for solenoid control",
+        "Use of MOSFETs in the transmission signal conditioner board"
+      ],
+      "raw_summary": "TOPIC: Controlling Solenoids in Engine Management Systems\nCONTRIBUTORS: @SanGawku, @Robb235\nSUMMARY: In response to a question about controlling solenoids, @Robb235 explained that they use high-side driving for their solenoids. A transmission signal conditioner board is used to convert the 5V signals from the microcontroller (mega) into 12V signals required by the solenoids using MOSFETs.\nKEY_DETAILS:\n- High-side driving method\n- Transmission signal conditioner board converts 5V signals to 12V for solenoid control\n- Use of MOSFETs in the transmission signal conditioner board"
+    },
+    {
+      "thread_num": 62,
+      "channel_id": "1470466409602744541",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474604841941729362"
+      ],
+      "time_range": {
+        "start": "2026-02-21 03:13:10",
+        "end": "2026-02-21 03:13:10"
+      },
+      "message_count": 1,
+      "topic": "Gear Selector Signal Conditioning for rusEFI/epicEFI",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "Robb235 mentioned that the gear selector outputs a 12V signal to the stock ECU. To interface this with rusEFI/epicEFI, he is using resistor dividers to step down the voltage from 12V to approximately 5V.",
+      "key_details": [
+        "Gear selector output voltage: 12V",
+        "Resistor divider used to reduce voltage to ~5V for input into rusEFI/epicEFI"
+      ],
+      "raw_summary": "TOPIC: Gear Selector Signal Conditioning for rusEFI/epicEFI\nCONTRIBUTORS: @Robb235\nSUMMARY: Robb235 mentioned that the gear selector outputs a 12V signal to the stock ECU. To interface this with rusEFI/epicEFI, he is using resistor dividers to step down the voltage from 12V to approximately 5V.\nKEY_DETAILS:\n- Gear selector output voltage: 12V\n- Resistor divider used to reduce voltage to ~5V for input into rusEFI/epicEFI"
+    },
+    {
+      "thread_num": 63,
+      "channel_id": "1440539911059931259",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474593598606413909",
+        "1474594911373496532",
+        "1474598661546840308"
+      ],
+      "time_range": {
+        "start": "2026-02-21 02:28:29",
+        "end": "2026-02-21 02:48:36"
+      },
+      "message_count": 3,
+      "topic": "Request for a wiring diagram website with various car pinouts",
+      "contributors": [
+        "@SanGawku",
+        "@Joesphan"
+      ],
+      "summary": "User @SanGawku asked for a recommendation of a website that provides wiring diagrams and pinout information for different cars. User @Joesphan responded by asking if the request was specifically about their own resources.",
+      "key_details": [
+        "No specific website or resource was recommended in this thread.",
+        "The conversation indicates a need for comprehensive car-specific wiring diagram information."
+      ],
+      "raw_summary": "TOPIC: Request for a wiring diagram website with various car pinouts\nCONTRIBUTORS: @SanGawku, @Joesphan\nSUMMARY: User @SanGawku asked for a recommendation of a website that provides wiring diagrams and pinout information for different cars. User @Joesphan responded by asking if the request was specifically about their own resources.\nKEY_DETAILS:\n- No specific website or resource was recommended in this thread.\n- The conversation indicates a need for comprehensive car-specific wiring diagram information."
+    },
+    {
+      "thread_num": 64,
+      "channel_id": "1440539911059931259",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474872299910987868",
+        "1474872705814888621",
+        "1474878062742212861"
+      ],
+      "time_range": {
+        "start": "2026-02-21 20:55:57",
+        "end": "2026-02-21 21:18:51"
+      },
+      "message_count": 3,
+      "topic": "Discussion about a plugin for can variable lookup",
+      "contributors": [
+        "@ggurov",
+        "@fast335xi",
+        "@Tuga"
+      ],
+      "summary": "The thread discusses an old plugin created by @ggurov which was used for can variable lookups. @fast335xi mentions that this work was done around the same time as another project. @Tuga inquires if the plugin is currently functional.",
+      "key_details": [
+        "Plugin was developed by @ggurov",
+        "The plugin was related to can variable lookup functionality",
+        "There's a question about whether the plugin is still working"
+      ],
+      "raw_summary": "TOPIC: Discussion about a plugin for can variable lookup\nCONTRIBUTORS: @ggurov, @fast335xi, @Tuga\nSUMMARY: The thread discusses an old plugin created by @ggurov which was used for can variable lookups. @fast335xi mentions that this work was done around the same time as another project. @Tuga inquires if the plugin is currently functional.\nKEY_DETAILS:\n- Plugin was developed by @ggurov\n- The plugin was related to can variable lookup functionality\n- There's a question about whether the plugin is still working"
+    },
+    {
+      "thread_num": 65,
+      "channel_id": "1464230782905352261",
+      "category": "SUPPORT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474583118307524862"
+      ],
+      "time_range": {
+        "start": "2026-02-21 01:46:51",
+        "end": "2026-02-21 01:46:51"
+      },
+      "message_count": 1,
+      "topic": "Managing Log File Size on SD Card",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH noticed that their SD card was filling up with logs despite setting the logging rate to 1 Hz. The user is seeking a way to prevent excessive logging while still using the SD card for tuning.",
+      "key_details": [
+        "SD logger rate set at 1 Hz",
+        "Issue involves excessive log file size on the SD card"
+      ],
+      "raw_summary": "TOPIC: Managing Log File Size on SD Card\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH noticed that their SD card was filling up with logs despite setting the logging rate to 1 Hz. The user is seeking a way to prevent excessive logging while still using the SD card for tuning.\nKEY_DETAILS:\n- SD logger rate set at 1 Hz\n- Issue involves excessive log file size on the SD card"
+    },
+    {
+      "thread_num": 66,
+      "channel_id": "1464230782905352261",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474802921387458793"
+      ],
+      "time_range": {
+        "start": "2026-02-21 16:20:16",
+        "end": "2026-02-21 16:20:16"
+      },
+      "message_count": 1,
+      "topic": "Effect of disabling Rot Idle on STFTs",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "@MykkH described the behavior observed with the Stop Speed Time Fuel Trim (STFT) setting. When \"rot idle\" was set to False, the STFT values remained inactive. However, when Rot Idle was disabled, the STFT values became active.",
+      "key_details": [
+        "Setting \"Stop STFT for rot idle\":False",
+        "STFTs become active when Rot Idle is disabled"
+      ],
+      "raw_summary": "TOPIC: Effect of disabling Rot Idle on STFTs\nCONTRIBUTORS: @MykkH\nSUMMARY: @MykkH described the behavior observed with the Stop Speed Time Fuel Trim (STFT) setting. When \"rot idle\" was set to False, the STFT values remained inactive. However, when Rot Idle was disabled, the STFT values became active.\nKEY_DETAILS:\n- Setting \"Stop STFT for rot idle\":False\n- STFTs become active when Rot Idle is disabled"
+    },
+    {
+      "thread_num": 67,
+      "channel_id": "1474618405809295370",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1474659913627209878"
+      ],
+      "time_range": {
+        "start": "2026-02-21 06:52:00",
+        "end": "2026-02-21 06:52:00"
+      },
+      "message_count": 1,
+      "topic": "Adding MIPI Displays to rusEFI/epicEFI",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "@Joesphan mentioned that adding MIPI displays to rusEFI/epicEFI may require modifications to the image, but HDMI displays should work out of the box. He offered to add a driver if it doesn't work for a specific display.",
+      "key_details": [
+        "Adding MIPI displays might need modification to the image",
+        "HDMI displays are expected to work without any changes",
+        "@Joesphan is willing to add a driver for MIPI displays if needed"
+      ],
+      "raw_summary": "TOPIC: Adding MIPI Displays to rusEFI/epicEFI\nCONTRIBUTORS: @Joesphan\nSUMMARY: @Joesphan mentioned that adding MIPI displays to rusEFI/epicEFI may require modifications to the image, but HDMI displays should work out of the box. He offered to add a driver if it doesn't work for a specific display.\nKEY_DETAILS:\n- Adding MIPI displays might need modification to the image\n- HDMI displays are expected to work without any changes\n- @Joesphan is willing to add a driver for MIPI displays if needed"
+    },
+    {
+      "thread_num": 68,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474869479849590946"
+      ],
+      "time_range": {
+        "start": "2026-02-21 20:44:45",
+        "end": "2026-02-21 20:44:45"
+      },
+      "message_count": 1,
+      "topic": "Creating an automatic user counter at a determined frequency for CAN bus messages.",
+      "contributors": [
+        "@atntpt"
+      ],
+      "summary": "User @atntpt asked if there is a way to create an automatic user counter that increments at a specified frequency, which they need for a CAN bus message. No specific solution was provided in the given snippet.",
+      "key_details": [
+        "None provided in the snippet"
+      ],
+      "raw_summary": "TOPIC: Creating an automatic user counter at a determined frequency for CAN bus messages.\nCONTRIBUTORS: @atntpt\nSUMMARY: User @atntpt asked if there is a way to create an automatic user counter that increments at a specified frequency, which they need for a CAN bus message. No specific solution was provided in the given snippet.\nKEY_DETAILS:\n- None provided in the snippet"
+    },
+    {
+      "thread_num": 69,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474870958081835168"
+      ],
+      "time_range": {
+        "start": "2026-02-21 20:50:37",
+        "end": "2026-02-21 20:50:37"
+      },
+      "message_count": 1,
+      "topic": "Using Lua for engine management scripts on MCUs",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around using Lua as a straightforward method to write engine management scripts when working with an MCU that has sufficient memory. No specific implementation details or code examples were provided.",
+      "key_details": [
+        "Lua is suggested as the programming language for writing engine management scripts on MCUs",
+        "Requires an MCU with adequate memory"
+      ],
+      "raw_summary": "TOPIC: Using Lua for engine management scripts on MCUs\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around using Lua as a straightforward method to write engine management scripts when working with an MCU that has sufficient memory. No specific implementation details or code examples were provided.\nKEY_DETAILS:\n- Lua is suggested as the programming language for writing engine management scripts on MCUs\n- Requires an MCU with adequate memory"
+    },
+    {
+      "thread_num": 70,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474876172343971913"
+      ],
+      "time_range": {
+        "start": "2026-02-21 21:11:21",
+        "end": "2026-02-21 21:11:21"
+      },
+      "message_count": 1,
+      "topic": "Using Lua in rusEFI/epicEFI to modify CAN output variables",
+      "contributors": [
+        "@atntpt",
+        "@mike123"
+      ],
+      "summary": "User @atntpt was previously using Lua scripts to create and send messages but is now exploring the simpler \"CAN outputs\" feature. They asked if Lua can modify user counters (e.g., USER_CONTER) and use them as variables in their script.",
+      "key_details": [
+        "Using Lua to create and send CAN messages",
+        "Exploring \"CAN outputs\" for simplicity",
+        "Question about modifying USER_CONTER with Lua"
+      ],
+      "raw_summary": "TOPIC: Using Lua in rusEFI/epicEFI to modify CAN output variables\nCONTRIBUTORS: @atntpt, @mike123\nSUMMARY: User @atntpt was previously using Lua scripts to create and send messages but is now exploring the simpler \"CAN outputs\" feature. They asked if Lua can modify user counters (e.g., USER_CONTER) and use them as variables in their script.\nKEY_DETAILS:\n- Using Lua to create and send CAN messages\n- Exploring \"CAN outputs\" for simplicity\n- Question about modifying USER_CONTER with Lua"
+    },
+    {
+      "thread_num": 71,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474876551203127407"
+      ],
+      "time_range": {
+        "start": "2026-02-21 21:12:51",
+        "end": "2026-02-21 21:12:51"
+      },
+      "message_count": 1,
+      "topic": "Modifying parsers to use Lua hash IDs in CAN output configuration",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov suggests modifying the parsers to assign Lua hash IDs to CAN outputs. He questions whether the current UI supports this functionality.",
+      "key_details": [
+        "Suggestion to modify parsers for assigning Lua hash IDs to CAN outputs",
+        "Uncertainty about whether the user interface currently allows setting Lua hash IDs for CAN outputs"
+      ],
+      "raw_summary": "TOPIC: Modifying parsers to use Lua hash IDs in CAN output configuration\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov suggests modifying the parsers to assign Lua hash IDs to CAN outputs. He questions whether the current UI supports this functionality.\nKEY_DETAILS:\n- Suggestion to modify parsers for assigning Lua hash IDs to CAN outputs\n- Uncertainty about whether the user interface currently allows setting Lua hash IDs for CAN outputs"
+    },
+    {
+      "thread_num": 72,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474881419699294362"
+      ],
+      "time_range": {
+        "start": "2026-02-21 21:32:12",
+        "end": "2026-02-21 21:32:12"
+      },
+      "message_count": 1,
+      "topic": "Discussion about a variable range in engine management settings",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the range of values for a specific variable used in engine management settings. According to @ggurov, this variable can take on any value between 0 and 255.",
+      "key_details": [
+        "Variable range from 0 to 255"
+      ],
+      "raw_summary": "TOPIC: Discussion about a variable range in engine management settings\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the range of values for a specific variable used in engine management settings. According to @ggurov, this variable can take on any value between 0 and 255.\nKEY_DETAILS:\n- Variable range from 0 to 255"
+    },
+    {
+      "thread_num": 73,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1474882956828086397"
+      ],
+      "time_range": {
+        "start": "2026-02-21 21:38:18",
+        "end": "2026-02-21 21:38:18"
+      },
+      "message_count": 1,
+      "topic": "Configuring a Programmable Output (VIRTUAL_OUTPUT_1)",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov initiated a discussion about configuring the programmable output feature specifically for VIRTUAL_OUTPUT_1 in rusEFI/epicEFI.",
+      "key_details": [
+        "Mentioned \"programmable output\" and \"VIRTUAL_OUTPUT_1\""
+      ],
+      "raw_summary": "TOPIC: Configuring a Programmable Output (VIRTUAL_OUTPUT_1)\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov initiated a discussion about configuring the programmable output feature specifically for VIRTUAL_OUTPUT_1 in rusEFI/epicEFI.\nKEY_DETAILS:\n- Mentioned \"programmable output\" and \"VIRTUAL_OUTPUT_1\""
+    },
+    {
+      "thread_num": 74,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474883959643967654"
+      ],
+      "time_range": {
+        "start": "2026-02-21 21:42:17",
+        "end": "2026-02-21 21:42:17"
+      },
+      "message_count": 1,
+      "topic": "Discussion on making the system more event-driven",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov expressed a need to enhance the system's architecture by making it more event-driven.",
+      "key_details": [
+        "None specific values or settings were mentioned in this brief statement."
+      ],
+      "raw_summary": "TOPIC: Discussion on making the system more event-driven\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov expressed a need to enhance the system's architecture by making it more event-driven.\nKEY_DETAILS:\n- None specific values or settings were mentioned in this brief statement."
+    },
+    {
+      "thread_num": 75,
+      "channel_id": "1439273357424988301",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1474886137616269382"
+      ],
+      "time_range": {
+        "start": "2026-02-21 21:50:56",
+        "end": "2026-02-21 21:50:56"
+      },
+      "message_count": 1,
+      "topic": "Fixing a knock issue in rusEFI/epicEFI",
+      "contributors": [
+        "@atntpt"
+      ],
+      "summary": "User @atntpt reported that the knock issue has been resolved.",
+      "key_details": [
+        "None specific values or settings were mentioned beyond confirming the knock issue was fixed."
+      ],
+      "raw_summary": "TOPIC: Fixing a knock issue in rusEFI/epicEFI\nCONTRIBUTORS: @atntpt\nSUMMARY: User @atntpt reported that the knock issue has been resolved.\nKEY_DETAILS:\n- None specific values or settings were mentioned beyond confirming the knock issue was fixed."
+    },
+    {
+      "thread_num": 76,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1474886283854614689"
+      ],
+      "time_range": {
+        "start": "2026-02-21 21:51:31",
+        "end": "2026-02-21 21:51:31"
+      },
+      "message_count": 1,
+      "topic": "Knock detection functionality in epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@epicdev"
+      ],
+      "summary": "User @ggurov asked if the knock detection feature was functional in epicEFI and requested a bench test to verify its operation. The response from @epicdev confirmed that the knock detection is operational but requires proper configuration of thresholds for accurate detection.",
+      "key_details": [
+        "Bench testing required to confirm functionality",
+        "Proper configuration of knock threshold settings needed"
+      ],
+      "raw_summary": "TOPIC: Knock detection functionality in epicEFI\nCONTRIBUTORS: @ggurov, @epicdev\nSUMMARY: User @ggurov asked if the knock detection feature was functional in epicEFI and requested a bench test to verify its operation. The response from @epicdev confirmed that the knock detection is operational but requires proper configuration of thresholds for accurate detection.\nKEY_DETAILS:\n- Bench testing required to confirm functionality\n- Proper configuration of knock threshold settings needed"
+    }
+  ]
+}

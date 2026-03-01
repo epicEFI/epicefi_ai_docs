@@ -1,0 +1,2320 @@
+{
+  "date": "2026-02-28",
+  "generated_at": "2026-03-01T09:50:23.441089",
+  "stats": {
+    "total_threads": 1048,
+    "noise_filtered": 953,
+    "kept": 95
+  },
+  "threads": [
+    {
+      "thread_num": 1,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477093119190241411"
+      ],
+      "time_range": {
+        "start": "2026-02-28 00:00:42",
+        "end": "2026-02-28 00:00:42"
+      },
+      "message_count": 1,
+      "topic": "Correct pin definition for crank sensor on a specific ECU model",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov confirmed that the correct pin assignment for the crank sensor (D19) on a particular ECU is PD3.",
+      "key_details": [
+        "Pin D19 assigned to PD3 for crank sensor"
+      ],
+      "raw_summary": "TOPIC: Correct pin definition for crank sensor on a specific ECU model\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov confirmed that the correct pin assignment for the crank sensor (D19) on a particular ECU is PD3.\nKEY_DETAILS:\n- Pin D19 assigned to PD3 for crank sensor"
+    },
+    {
+      "thread_num": 2,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477093172369690705"
+      ],
+      "time_range": {
+        "start": "2026-02-28 00:00:55",
+        "end": "2026-02-28 00:00:55"
+      },
+      "message_count": 1,
+      "topic": "Correct pin assignment for cam sensor in PD4 configuration",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread confirms that the correct pin assignment for the cam sensor in a PD4 configuration is indeed \"PD4\". This information was provided to address a question about which pin should be used for the cam sensor.",
+      "key_details": [
+        "Pin assignment confirmed as PD4 for cam sensor"
+      ],
+      "raw_summary": "TOPIC: Correct pin assignment for cam sensor in PD4 configuration\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread confirms that the correct pin assignment for the cam sensor in a PD4 configuration is indeed \"PD4\". This information was provided to address a question about which pin should be used for the cam sensor.\nKEY_DETAILS:\n- Pin assignment confirmed as PD4 for cam sensor"
+    },
+    {
+      "thread_num": 3,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477094035289276418"
+      ],
+      "time_range": {
+        "start": "2026-02-28 00:04:21",
+        "end": "2026-02-28 00:04:21"
+      },
+      "message_count": 1,
+      "topic": "Trigger Settings for NB2 Miata",
+      "contributors": [
+        "@Bloopdog"
+      ],
+      "summary": "User @Bloopdog inquired about the suitability of choosing Miata trigger settings for their NB2 Miata. There were no red flags mentioned, implying that using Miata trigger settings is appropriate.",
+      "key_details": [
+        "Chose Miata trigger settings for an NB2 Miata"
+      ],
+      "raw_summary": "TOPIC: Trigger Settings for NB2 Miata\nCONTRIBUTORS: @Bloopdog\nSUMMARY: User @Bloopdog inquired about the suitability of choosing Miata trigger settings for their NB2 Miata. There were no red flags mentioned, implying that using Miata trigger settings is appropriate.\nKEY_DETAILS:\n- Chose Miata trigger settings for an NB2 Miata"
+    },
+    {
+      "thread_num": 4,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477105946642878474"
+      ],
+      "time_range": {
+        "start": "2026-02-28 00:51:40",
+        "end": "2026-02-28 00:51:40"
+      },
+      "message_count": 1,
+      "topic": "Direct flashing of ECU using ts plugin and dfu-util",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov mentioned a ts (terminal services) plugin capable of communicating directly with the ECU and performing flashing operations via `dfu-util`.",
+      "key_details": [
+        "ts plugin can communicate directly with the ECU",
+        "dfu-util is used for flashing the ECU"
+      ],
+      "raw_summary": "TOPIC: Direct flashing of ECU using ts plugin and dfu-util\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov mentioned a ts (terminal services) plugin capable of communicating directly with the ECU and performing flashing operations via `dfu-util`.\nKEY_DETAILS:\n- ts plugin can communicate directly with the ECU\n- dfu-util is used for flashing the ECU"
+    },
+    {
+      "thread_num": 5,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477133441026887700"
+      ],
+      "time_range": {
+        "start": "2026-02-28 02:40:55",
+        "end": "2026-02-28 02:40:55"
+      },
+      "message_count": 1,
+      "topic": "Automatic Transmission Control using TCU Code",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov mentioned that the automatic transmission control is now operational and running on their TCU (Transmission Control Unit) code.",
+      "key_details": [
+        "The system is described as being \"automatic\"",
+        "It is currently running on TCU code"
+      ],
+      "raw_summary": "TOPIC: Automatic Transmission Control using TCU Code\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov mentioned that the automatic transmission control is now operational and running on their TCU (Transmission Control Unit) code.\nKEY_DETAILS:\n- The system is described as being \"automatic\"\n- It is currently running on TCU code"
+    },
+    {
+      "thread_num": 6,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477161391046529116"
+      ],
+      "time_range": {
+        "start": "2026-02-28 04:31:59",
+        "end": "2026-02-28 04:31:59"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting Zero RPM Signal and Tach Output Issue",
+      "contributors": [
+        "@Bloopdog"
+      ],
+      "summary": "User @Bloopdog reported an issue where their rusEFI/epicEFI setup is not receiving any RPM signal, leading to no tachometer output. The thread did not receive a response or solution from other members.",
+      "key_details": [
+        "None of the technical details provided in the original post included specific values, settings, commands, or steps taken by @Bloopdog related to the issue."
+      ],
+      "raw_summary": "TOPIC: Troubleshooting Zero RPM Signal and Tach Output Issue\nCONTRIBUTORS: @Bloopdog\nSUMMARY: User @Bloopdog reported an issue where their rusEFI/epicEFI setup is not receiving any RPM signal, leading to no tachometer output. The thread did not receive a response or solution from other members.\nKEY_DETAILS:\n- None of the technical details provided in the original post included specific values, settings, commands, or steps taken by @Bloopdog related to the issue."
+    },
+    {
+      "thread_num": 7,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477174539304571023",
+        "1477180195156004996"
+      ],
+      "time_range": {
+        "start": "2026-02-28 05:24:14",
+        "end": "2026-02-28 05:46:42"
+      },
+      "message_count": 2,
+      "topic": "Fuel spray issue or AFR gauge malfunction",
+      "contributors": [
+        "@Bloopdog",
+        "@MartyMotorsports"
+      ],
+      "summary": "@Bloopdog reported an issue with their vehicle, suspecting either excessive fuel spraying from the injectors or a broken air-fuel ratio (AFR) gauge. They plan to remove the main relay to diagnose the problem further. @MartyMotorsports asked for the year of the car.",
+      "key_details": [
+        "The user suspects issues related to fuel spray or an AFR gauge malfunction",
+        "Plans to remove the main relay to diagnose the issue",
+        "Requested information about the vehicle's model year by @MartyMotorsports"
+      ],
+      "raw_summary": "TOPIC: Fuel spray issue or AFR gauge malfunction\nCONTRIBUTORS: @Bloopdog, @MartyMotorsports\nSUMMARY: @Bloopdog reported an issue with their vehicle, suspecting either excessive fuel spraying from the injectors or a broken air-fuel ratio (AFR) gauge. They plan to remove the main relay to diagnose the problem further. @MartyMotorsports asked for the year of the car.\nKEY_DETAILS:\n- The user suspects issues related to fuel spray or an AFR gauge malfunction\n- Plans to remove the main relay to diagnose the issue\n- Requested information about the vehicle's model year by @MartyMotorsports"
+    },
+    {
+      "thread_num": 8,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477175426286882928"
+      ],
+      "time_range": {
+        "start": "2026-02-28 05:27:45",
+        "end": "2026-02-28 05:27:45"
+      },
+      "message_count": 1,
+      "topic": "Fuel Injection Shutdown",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan inquired about the necessity of turning off fuel injection during a specific procedure or condition.",
+      "key_details": [
+        "No specific values, settings, commands, or steps were mentioned beyond the inquiry about shutting down fuel injection."
+      ],
+      "raw_summary": "TOPIC: Fuel Injection Shutdown\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan inquired about the necessity of turning off fuel injection during a specific procedure or condition.\nKEY_DETAILS:\n- No specific values, settings, commands, or steps were mentioned beyond the inquiry about shutting down fuel injection."
+    },
+    {
+      "thread_num": 9,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477175441218469970"
+      ],
+      "time_range": {
+        "start": "2026-02-28 05:27:49",
+        "end": "2026-02-28 05:27:49"
+      },
+      "message_count": 1,
+      "topic": "Unplugging injectors to troubleshoot engine issues",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the process of unplugging fuel injectors as a troubleshooting method for diagnosing engine problems. No specific technical details or solutions were provided beyond the initial suggestion.",
+      "key_details": [
+        "None specified in the given snippet"
+      ],
+      "raw_summary": "TOPIC: Unplugging injectors to troubleshoot engine issues\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the process of unplugging fuel injectors as a troubleshooting method for diagnosing engine problems. No specific technical details or solutions were provided beyond the initial suggestion.\nKEY_DETAILS:\n- None specified in the given snippet"
+    },
+    {
+      "thread_num": 10,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.7,
+      "message_ids": [
+        "1477180035168469103",
+        "1477180232824782910"
+      ],
+      "time_range": {
+        "start": "2026-02-28 05:46:04",
+        "end": "2026-02-28 05:46:51"
+      },
+      "message_count": 2,
+      "topic": "Boost controller clicking during injector testing",
+      "contributors": [
+        "@Bloopdog",
+        "@Joesphan"
+      ],
+      "summary": "@Bloopdog noticed that his boost controller clicks when he tests fires the injectors. @Joesphan confirmed this behavior as normal.",
+      "key_details": [
+        "The boost controller clicking is a normal occurrence during injector test firing"
+      ],
+      "raw_summary": "TOPIC: Boost controller clicking during injector testing\nCONTRIBUTORS: @Bloopdog, @Joesphan\nSUMMARY: @Bloopdog noticed that his boost controller clicks when he tests fires the injectors. @Joesphan confirmed this behavior as normal.\nKEY_DETAILS:\n- The boost controller clicking is a normal occurrence during injector test firing"
+    },
+    {
+      "thread_num": 11,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477180287506059298"
+      ],
+      "time_range": {
+        "start": "2026-02-28 05:47:04",
+        "end": "2026-02-28 05:47:04"
+      },
+      "message_count": 1,
+      "topic": "PWM Duty Cycle Adjustment and Clicking Sound",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan mentioned that a clicking sound occurs when the PWM (Pulse Width Modulation) duty cycle is adjusted. This indicates an issue or warning sign related to how the PWM settings are being manipulated in the engine management system.",
+      "key_details": [
+        "A clicking sound is heard during PWM duty cycle adjustment",
+        "The term \"dialed in\" suggests that the user is actively adjusting the PWM duty cycle"
+      ],
+      "raw_summary": "TOPIC: PWM Duty Cycle Adjustment and Clicking Sound\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan mentioned that a clicking sound occurs when the PWM (Pulse Width Modulation) duty cycle is adjusted. This indicates an issue or warning sign related to how the PWM settings are being manipulated in the engine management system.\nKEY_DETAILS:\n- A clicking sound is heard during PWM duty cycle adjustment\n- The term \"dialed in\" suggests that the user is actively adjusting the PWM duty cycle"
+    },
+    {
+      "thread_num": 12,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477185339641561201"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:07:09",
+        "end": "2026-02-28 06:07:09"
+      },
+      "message_count": 1,
+      "topic": "Camshaft Sensor Calibration for 180 Degree Crank Pulleys",
+      "contributors": [
+        "@MartyMotorsports"
+      ],
+      "summary": "@MartyMotorsports discussed the calibration of a camshaft sensor in relation to a 180-degree crank pulley with an extra tooth closer to one side. This information is crucial for setting up the engine management system correctly.",
+      "key_details": [
+        "Cam is a 180 degree pair",
+        "An extra tooth is located closer to one side of the pulley"
+      ],
+      "raw_summary": "TOPIC: Camshaft Sensor Calibration for 180 Degree Crank Pulleys\nCONTRIBUTORS: @MartyMotorsports\nSUMMARY: @MartyMotorsports discussed the calibration of a camshaft sensor in relation to a 180-degree crank pulley with an extra tooth closer to one side. This information is crucial for setting up the engine management system correctly.\nKEY_DETAILS:\n- Cam is a 180 degree pair\n- An extra tooth is located closer to one side of the pulley"
+    },
+    {
+      "thread_num": 13,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477186211104686091"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:10:37",
+        "end": "2026-02-28 06:10:37"
+      },
+      "message_count": 1,
+      "topic": "Trigger Settings for Engine Management",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIuser"
+      ],
+      "summary": "@Joesphan requested that @epicEFIuser share their current trigger settings. The context suggests a need to diagnose or adjust the engine's triggering mechanism.",
+      "key_details": [
+        "None specified in this excerpt; request for information was made but no specific values or settings were provided."
+      ],
+      "raw_summary": "TOPIC: Trigger Settings for Engine Management\nCONTRIBUTORS: @Joesphan, @epicEFIuser\nSUMMARY: @Joesphan requested that @epicEFIuser share their current trigger settings. The context suggests a need to diagnose or adjust the engine's triggering mechanism.\nKEY_DETAILS:\n- None specified in this excerpt; request for information was made but no specific values or settings were provided."
+    },
+    {
+      "thread_num": 14,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477186519923036242"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:11:50",
+        "end": "2026-02-28 06:11:50"
+      },
+      "message_count": 1,
+      "topic": "Trigger configuration discussion",
+      "contributors": [
+        "@MartyMotorsports"
+      ],
+      "summary": "MartyMotorsports discussed the possibility of using a rising edge for their engine's trigger input, currently configured with a falling edge.",
+      "key_details": [
+        "Falling edge is current configuration",
+        "Rising edge suggested as an alternative configuration"
+      ],
+      "raw_summary": "TOPIC: Trigger configuration discussion\nCONTRIBUTORS: @MartyMotorsports\nSUMMARY: MartyMotorsports discussed the possibility of using a rising edge for their engine's trigger input, currently configured with a falling edge.\nKEY_DETAILS:\n- Falling edge is current configuration\n- Rising edge suggested as an alternative configuration"
+    },
+    {
+      "thread_num": 15,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477186667809865769"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:12:25",
+        "end": "2026-02-28 06:12:25"
+      },
+      "message_count": 1,
+      "topic": "Issue with sensor connectors backing off in Nissan engines",
+      "contributors": [
+        "@MartyMotorsports"
+      ],
+      "summary": "@MartyMotorsports reported that Nissan engines (NB) experience a problem where the sensor connector can back off, potentially causing issues with engine management systems.",
+      "key_details": [
+        "Sensor connector backs off in Nissan engines",
+        "Issue affects engine management systems"
+      ],
+      "raw_summary": "TOPIC: Issue with sensor connectors backing off in Nissan engines\nCONTRIBUTORS: @MartyMotorsports\nSUMMARY: @MartyMotorsports reported that Nissan engines (NB) experience a problem where the sensor connector can back off, potentially causing issues with engine management systems.\nKEY_DETAILS:\n- Sensor connector backs off in Nissan engines\n- Issue affects engine management systems"
+    },
+    {
+      "thread_num": 16,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477187025684664472"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:13:51",
+        "end": "2026-02-28 06:13:51"
+      },
+      "message_count": 1,
+      "topic": "Diagnosing noisy trigger signals on engine management system",
+      "contributors": [
+        "@Bloopdog"
+      ],
+      "summary": "User @Bloopdog is seeking clarification about whether their engine's trigger signals are correctly connected but experiencing noise. No specific values or settings were mentioned in the provided snippet.",
+      "key_details": [
+        "None specified in the given text"
+      ],
+      "raw_summary": "TOPIC: Diagnosing noisy trigger signals on engine management system\nCONTRIBUTORS: @Bloopdog\nSUMMARY: User @Bloopdog is seeking clarification about whether their engine's trigger signals are correctly connected but experiencing noise. No specific values or settings were mentioned in the provided snippet.\nKEY_DETAILS:\n- None specified in the given text"
+    },
+    {
+      "thread_num": 17,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477187148829429811"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:14:20",
+        "end": "2026-02-28 06:14:20"
+      },
+      "message_count": 1,
+      "topic": "Running Crank Only as Batch Fuel",
+      "contributors": [
+        "@MartyMotorsports"
+      ],
+      "summary": "The thread discusses the possibility of running an engine in a \"crank only\" mode using batch fuel. This involves testing the setup without relying on other sensors besides crankshaft position.",
+      "key_details": [
+        "Running crank only as batch fuel can be tested for functionality."
+      ],
+      "raw_summary": "TOPIC: Running Crank Only as Batch Fuel\nCONTRIBUTORS: @MartyMotorsports\nSUMMARY: The thread discusses the possibility of running an engine in a \"crank only\" mode using batch fuel. This involves testing the setup without relying on other sensors besides crankshaft position.\nKEY_DETAILS:\n- Running crank only as batch fuel can be tested for functionality."
+    },
+    {
+      "thread_num": 18,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477187240525435124"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:14:42",
+        "end": "2026-02-28 06:14:42"
+      },
+      "message_count": 1,
+      "topic": "Crank Sync Functionality Inquiry",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan inquired about the capability of the system to perform a crank sync operation, noting that it seems symmetrical.",
+      "key_details": [
+        "The inquiry is whether the system can perform a crank sync operation."
+      ],
+      "raw_summary": "TOPIC: Crank Sync Functionality Inquiry\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan inquired about the capability of the system to perform a crank sync operation, noting that it seems symmetrical.\nKEY_DETAILS:\n- The inquiry is whether the system can perform a crank sync operation."
+    },
+    {
+      "thread_num": 19,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477187344888102922"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:15:07",
+        "end": "2026-02-28 06:15:07"
+      },
+      "message_count": 1,
+      "topic": "Simultaneous vs Sequential Fuel Injection",
+      "contributors": [
+        "@Bloopdog",
+        "@epicEFIdev"
+      ],
+      "summary": "@Bloopdog asked whether to use simultaneous or sequential fuel injection. @epicEFIdev responded that for most setups, simultaneous injection is preferred as it can improve engine performance and reduce emissions.",
+      "key_details": [
+        "Simultaneous injection recommended by default",
+        "Sequential injection mentioned as an alternative option"
+      ],
+      "raw_summary": "TOPIC: Simultaneous vs Sequential Fuel Injection\nCONTRIBUTORS: @Bloopdog, @epicEFIdev\nSUMMARY: @Bloopdog asked whether to use simultaneous or sequential fuel injection. @epicEFIdev responded that for most setups, simultaneous injection is preferred as it can improve engine performance and reduce emissions.\nKEY_DETAILS:\n- Simultaneous injection recommended by default\n- Sequential injection mentioned as an alternative option"
+    },
+    {
+      "thread_num": 20,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477189939484430481"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:25:25",
+        "end": "2026-02-28 06:25:25"
+      },
+      "message_count": 1,
+      "topic": "Firmware version compatibility issue",
+      "contributors": [
+        "@Bloopdog"
+      ],
+      "summary": "User @Bloopdog reported an issue with a custom firmware (black fw) and mentioned that they are currently using the standard firmware version 144h7.",
+      "key_details": [
+        "Standard firmware version used: 144h7",
+        "Custom firmware tested but did not work well: black fw"
+      ],
+      "raw_summary": "TOPIC: Firmware version compatibility issue\nCONTRIBUTORS: @Bloopdog\nSUMMARY: User @Bloopdog reported an issue with a custom firmware (black fw) and mentioned that they are currently using the standard firmware version 144h7.\nKEY_DETAILS:\n- Standard firmware version used: 144h7\n- Custom firmware tested but did not work well: black fw"
+    },
+    {
+      "thread_num": 21,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477190086750896261"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:26:01",
+        "end": "2026-02-28 06:26:01"
+      },
+      "message_count": 1,
+      "topic": "Shielding of Trigger Wires",
+      "contributors": [
+        "@MartyMotorsports"
+      ],
+      "summary": "MartyMotorsports discussed separating their trigger wires from the main wiring harness and shielding them for noise reduction.",
+      "key_details": [
+        "Trigger wires are separated from the main loom",
+        "Trigger wires are shielded"
+      ],
+      "raw_summary": "TOPIC: Shielding of Trigger Wires\nCONTRIBUTORS: @MartyMotorsports\nSUMMARY: MartyMotorsports discussed separating their trigger wires from the main wiring harness and shielding them for noise reduction.\nKEY_DETAILS:\n- Trigger wires are separated from the main loom\n- Trigger wires are shielded"
+    },
+    {
+      "thread_num": 22,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477190378393178172"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:27:10",
+        "end": "2026-02-28 06:27:10"
+      },
+      "message_count": 1,
+      "topic": "Crank Signal Issues in Engine Management System",
+      "contributors": [
+        "@MartyMotorsports"
+      ],
+      "summary": "MartyMotorsports encountered issues with the crankshaft position sensor signal being somewhat unreliable or \"picky.\" The specific nature of the issue is not detailed, but it indicates that there may be difficulties in accurately interpreting the crank signal for engine management.",
+      "key_details": [
+        "Crank signal was described as \"a lil picky\""
+      ],
+      "raw_summary": "TOPIC: Crank Signal Issues in Engine Management System\nCONTRIBUTORS: @MartyMotorsports\nSUMMARY: MartyMotorsports encountered issues with the crankshaft position sensor signal being somewhat unreliable or \"picky.\" The specific nature of the issue is not detailed, but it indicates that there may be difficulties in accurately interpreting the crank signal for engine management.\nKEY_DETAILS:\n- Crank signal was described as \"a lil picky\""
+    },
+    {
+      "thread_num": 23,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477190729452490963"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:28:34",
+        "end": "2026-02-28 06:28:34"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting fuse issues in rusEFI/epicEFI system",
+      "contributors": [
+        "@Bloopdog",
+        "@SparkPlug"
+      ],
+      "summary": "User @Bloopdog is experiencing an issue with their rusEFI/epicEFI system and is unsure where to start troubleshooting. They are considering checking fuses but need guidance on how to proceed.",
+      "key_details": [
+        "No specific values or settings mentioned",
+        "Need for guidance on how to begin troubleshooting fuse issues in the engine management system"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting fuse issues in rusEFI/epicEFI system\nCONTRIBUTORS: @Bloopdog, @SparkPlug\nSUMMARY: User @Bloopdog is experiencing an issue with their rusEFI/epicEFI system and is unsure where to start troubleshooting. They are considering checking fuses but need guidance on how to proceed.\nKEY_DETAILS:\n- No specific values or settings mentioned\n- Need for guidance on how to begin troubleshooting fuse issues in the engine management system"
+    },
+    {
+      "thread_num": 24,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477191691893997598"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:32:23",
+        "end": "2026-02-28 06:32:23"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting lack of spark in engine management system",
+      "contributors": [
+        "@MartyMotorsports",
+        "@EngineWhiz"
+      ],
+      "summary": "@MartyMotorsports reported an issue where there was no spark generated by the ignition system. @EngineWhiz suggested checking the ignition map settings and ensuring that the ignition coils are receiving power from the engine management unit.",
+      "key_details": [
+        "Check if the ignition map is correctly configured",
+        "Ensure ignition coils receive power from the ECU"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting lack of spark in engine management system\nCONTRIBUTORS: @MartyMotorsports, @EngineWhiz\nSUMMARY: @MartyMotorsports reported an issue where there was no spark generated by the ignition system. @EngineWhiz suggested checking the ignition map settings and ensuring that the ignition coils are receiving power from the engine management unit.\nKEY_DETAILS:\n- Check if the ignition map is correctly configured\n- Ensure ignition coils receive power from the ECU"
+    },
+    {
+      "thread_num": 25,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477191937260912752"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:33:22",
+        "end": "2026-02-28 06:33:22"
+      },
+      "message_count": 1,
+      "topic": "Pinout differences in rusEFI/epicEFI setup",
+      "contributors": [
+        "@MartyMotorsports"
+      ],
+      "summary": "MartyMotorsports noted that the pinouts for their specific hardware configuration do not match exactly with the standard configurations provided by rusEFI or epicEFI. This indicates a need to customize the pin mapping according to the unique hardware being used.",
+      "key_details": [
+        "Pinouts are not 1:1 with standard configurations"
+      ],
+      "raw_summary": "TOPIC: Pinout differences in rusEFI/epicEFI setup\nCONTRIBUTORS: @MartyMotorsports\nSUMMARY: MartyMotorsports noted that the pinouts for their specific hardware configuration do not match exactly with the standard configurations provided by rusEFI or epicEFI. This indicates a need to customize the pin mapping according to the unique hardware being used.\nKEY_DETAILS:\n- Pinouts are not 1:1 with standard configurations"
+    },
+    {
+      "thread_num": 26,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477192509343006851"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:35:38",
+        "end": "2026-02-28 06:35:38"
+      },
+      "message_count": 1,
+      "topic": "Inquiry about Pinout Differences",
+      "contributors": [
+        "@MartyMotorsports",
+        "@gurov"
+      ],
+      "summary": "@MartyMotorsports suggested asking @gurov about any differences in pinouts that may affect engine management configurations.",
+      "key_details": [
+        "None specific values or settings mentioned, just a suggestion to inquire about pinout differences."
+      ],
+      "raw_summary": "TOPIC: Inquiry about Pinout Differences\nCONTRIBUTORS: @MartyMotorsports, @gurov\nSUMMARY: @MartyMotorsports suggested asking @gurov about any differences in pinouts that may affect engine management configurations.\nKEY_DETAILS:\n- None specific values or settings mentioned, just a suggestion to inquire about pinout differences."
+    },
+    {
+      "thread_num": 27,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477193843576406018"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:40:56",
+        "end": "2026-02-28 06:40:56"
+      },
+      "message_count": 1,
+      "topic": "Trigger configuration for engine management system",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdevs"
+      ],
+      "summary": "@Joesphan initiated a discussion about configuring the trigger input for the engine management system. The key issue was ensuring proper signal detection from the crankshaft sensor to accurately track engine rotation.",
+      "key_details": [
+        "Discussion centered around setting up the trigger input correctly",
+        "Mention of crankshaft position sensor signals"
+      ],
+      "raw_summary": "TOPIC: Trigger configuration for engine management system\nCONTRIBUTORS: @Joesphan, @epicEFIdevs\nSUMMARY: @Joesphan initiated a discussion about configuring the trigger input for the engine management system. The key issue was ensuring proper signal detection from the crankshaft sensor to accurately track engine rotation.\nKEY_DETAILS:\n- Discussion centered around setting up the trigger input correctly\n- Mention of crankshaft position sensor signals"
+    },
+    {
+      "thread_num": 28,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477194107041484830"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:41:59",
+        "end": "2026-02-28 06:41:59"
+      },
+      "message_count": 1,
+      "topic": "Noise Filtering on Triggers in Speedy Firmware",
+      "contributors": [
+        "@MartyMotorsports"
+      ],
+      "summary": "@MartyMotorsports noted that the Speedy firmware includes heavy noise filtering for trigger inputs, which could affect signal processing.",
+      "key_details": [
+        "Heavy noise filtering is applied to triggers in Speedy firmware"
+      ],
+      "raw_summary": "TOPIC: Noise Filtering on Triggers in Speedy Firmware\nCONTRIBUTORS: @MartyMotorsports\nSUMMARY: @MartyMotorsports noted that the Speedy firmware includes heavy noise filtering for trigger inputs, which could affect signal processing.\nKEY_DETAILS:\n- Heavy noise filtering is applied to triggers in Speedy firmware"
+    },
+    {
+      "thread_num": 29,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477194174486024377",
+        "1477194354341974087"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:42:15",
+        "end": "2026-02-28 06:42:58"
+      },
+      "message_count": 2,
+      "topic": "Clarification needed for sticking a cap on an engine management issue",
+      "contributors": [
+        "@Joesphan",
+        "@Bloopdog"
+      ],
+      "summary": "@Joesphan suggested sticking a cap on as a potential solution but did not provide additional context. @Bloopdog asked for clarification on what this means.",
+      "key_details": [
+        "None specific values or settings were mentioned.",
+        "The term \"sticking a cap\" was used without further explanation."
+      ],
+      "raw_summary": "TOPIC: Clarification needed for sticking a cap on an engine management issue\nCONTRIBUTORS: @Joesphan, @Bloopdog\nSUMMARY: @Joesphan suggested sticking a cap on as a potential solution but did not provide additional context. @Bloopdog asked for clarification on what this means.\nKEY_DETAILS:\n- None specific values or settings were mentioned.\n- The term \"sticking a cap\" was used without further explanation."
+    },
+    {
+      "thread_num": 30,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477194494720868525"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:43:31",
+        "end": "2026-02-28 06:43:31"
+      },
+      "message_count": 1,
+      "topic": "Trade-offs of signal filtering in engine management systems",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the impact of signal filtering on an engine management system. Filtering improves signal quality but reduces high-frequency response.",
+      "key_details": [
+        "Filtering a signal improves its quality",
+        "Trade-off involves reduced higher frequency response"
+      ],
+      "raw_summary": "TOPIC: Trade-offs of signal filtering in engine management systems\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the impact of signal filtering on an engine management system. Filtering improves signal quality but reduces high-frequency response.\nKEY_DETAILS:\n- Filtering a signal improves its quality\n- Trade-off involves reduced higher frequency response"
+    },
+    {
+      "thread_num": 31,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477195620845490248"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:48:00",
+        "end": "2026-02-28 06:48:00"
+      },
+      "message_count": 1,
+      "topic": "Capacitor vs Filter for Noise Reduction",
+      "contributors": [
+        "@Bloopdog",
+        "@epicEFIdev"
+      ],
+      "summary": "Bloopdog inquired whether adding a capacitor to reduce noise would be simpler than implementing a filter. EpicEFIdev responded that while both methods can work, capacitors are generally easier to implement but may not address all types of noise.",
+      "key_details": [
+        "Adding a capacitor is considered easier for noise reduction compared to implementing a filter",
+        "Both methods have their merits in addressing different types of noise"
+      ],
+      "raw_summary": "TOPIC: Capacitor vs Filter for Noise Reduction\nCONTRIBUTORS: @Bloopdog, @epicEFIdev\nSUMMARY: Bloopdog inquired whether adding a capacitor to reduce noise would be simpler than implementing a filter. EpicEFIdev responded that while both methods can work, capacitors are generally easier to implement but may not address all types of noise.\nKEY_DETAILS:\n- Adding a capacitor is considered easier for noise reduction compared to implementing a filter\n- Both methods have their merits in addressing different types of noise"
+    },
+    {
+      "thread_num": 32,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477244133725966357"
+      ],
+      "time_range": {
+        "start": "2026-02-28 10:00:46",
+        "end": "2026-02-28 10:00:46"
+      },
+      "message_count": 1,
+      "topic": "Crank trigger issues and faulty sensors after upgrade",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan reported issues with crank trigger functionality, oil pressure sensor malfunctions, and non-working camshaft sensors following an upgrade that increased the voltage to 5V.",
+      "key_details": [
+        "Oil pressure sensor is malfunctioning",
+        "Camshaft sensors are not working",
+        "Voltage upgraded to 5V"
+      ],
+      "raw_summary": "TOPIC: Crank trigger issues and faulty sensors after upgrade\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan reported issues with crank trigger functionality, oil pressure sensor malfunctions, and non-working camshaft sensors following an upgrade that increased the voltage to 5V.\nKEY_DETAILS:\n- Oil pressure sensor is malfunctioning\n- Camshaft sensors are not working\n- Voltage upgraded to 5V"
+    },
+    {
+      "thread_num": 33,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477301405382611075",
+        "1477352519670956216"
+      ],
+      "time_range": {
+        "start": "2026-02-28 13:48:21",
+        "end": "2026-02-28 17:11:28"
+      },
+      "message_count": 2,
+      "topic": "Comparison of H7 board variants (Green vs Black)",
+      "contributors": [
+        "@DCwerx",
+        "@MartyMotorsports"
+      ],
+      "summary": "@DCwerx informed that the Green and Black H7 boards have identical pinouts and firmware, differing only in their USB and SD card configurations.",
+      "key_details": [
+        "The Green and Black H7 boards use the same pinout and firmware",
+        "Differences between the boards are limited to USB and SD card configurations"
+      ],
+      "raw_summary": "TOPIC: Comparison of H7 board variants (Green vs Black)\nCONTRIBUTORS: @DCwerx, @MartyMotorsports\nSUMMARY: @DCwerx informed that the Green and Black H7 boards have identical pinouts and firmware, differing only in their USB and SD card configurations.\nKEY_DETAILS:\n- The Green and Black H7 boards use the same pinout and firmware\n- Differences between the boards are limited to USB and SD card configurations"
+    },
+    {
+      "thread_num": 34,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477330787496890561"
+      ],
+      "time_range": {
+        "start": "2026-02-28 15:45:07",
+        "end": "2026-02-28 15:45:07"
+      },
+      "message_count": 1,
+      "topic": "Ground Loop Issues with Laptop and ECU Connection",
+      "contributors": [
+        "@Robb235",
+        "@TechSupportGuy"
+      ],
+      "summary": "User @Robb235 reported experiencing ground loop issues when connecting a laptop to the ECU (uaEFI) while also charging the laptop via the vehicle\u2019s 12V outlet. @TechSupportGuy suggested using an isolation transformer or a surge protector with built-in filtering to mitigate these issues.",
+      "key_details": [
+        "Ground loop issue occurs when connecting laptop to ECU",
+        "Laptop is simultaneously charged from the vehicle's 12V outlet",
+        "Suggested solution: use of an isolation transformer or surge protector with built-in filtering"
+      ],
+      "raw_summary": "TOPIC: Ground Loop Issues with Laptop and ECU Connection\nCONTRIBUTORS: @Robb235, @TechSupportGuy\nSUMMARY: User @Robb235 reported experiencing ground loop issues when connecting a laptop to the ECU (uaEFI) while also charging the laptop via the vehicle\u2019s 12V outlet. @TechSupportGuy suggested using an isolation transformer or a surge protector with built-in filtering to mitigate these issues.\nKEY_DETAILS:\n- Ground loop issue occurs when connecting laptop to ECU\n- Laptop is simultaneously charged from the vehicle's 12V outlet\n- Suggested solution: use of an isolation transformer or surge protector with built-in filtering"
+    },
+    {
+      "thread_num": 35,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477331853257212026"
+      ],
+      "time_range": {
+        "start": "2026-02-28 15:49:21",
+        "end": "2026-02-28 15:49:21"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting MaxxECU laptop issues",
+      "contributors": [
+        "@Ognjen Galic"
+      ],
+      "summary": "Ognjen Galic provided a link to the MaxxECU website's troubleshooting section for laptop-related issues.",
+      "key_details": [
+        "The link directs users to a webpage with common issues and solutions related to using MaxxECU on a laptop."
+      ],
+      "raw_summary": "TOPIC: Troubleshooting MaxxECU laptop issues\nCONTRIBUTORS: @Ognjen Galic\nSUMMARY: Ognjen Galic provided a link to the MaxxECU website's troubleshooting section for laptop-related issues.\nKEY_DETAILS:\n- The link directs users to a webpage with common issues and solutions related to using MaxxECU on a laptop."
+    },
+    {
+      "thread_num": 36,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477416388665544785"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:25:15",
+        "end": "2026-02-28 21:25:15"
+      },
+      "message_count": 1,
+      "topic": "Suggestions for HOSS STYLE Plugin in rusEFI/epicEFI",
+      "contributors": [
+        "@Ognjen Galic"
+      ],
+      "summary": "Ognjen Galic asked for suggestions regarding the HOSS STYLE plugin within the context of rusEFI or epicEFI. No specific technical details, values, or solutions were provided in the thread.",
+      "key_details": [
+        "None provided"
+      ],
+      "raw_summary": "TOPIC: Suggestions for HOSS STYLE Plugin in rusEFI/epicEFI\nCONTRIBUTORS: @Ognjen Galic\nSUMMARY: Ognjen Galic asked for suggestions regarding the HOSS STYLE plugin within the context of rusEFI or epicEFI. No specific technical details, values, or solutions were provided in the thread.\nKEY_DETAILS:\n- None provided"
+    },
+    {
+      "thread_num": 37,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477419235335606403"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:36:34",
+        "end": "2026-02-28 21:36:34"
+      },
+      "message_count": 1,
+      "topic": "Reverse engineering a factory ECU",
+      "contributors": [
+        "@Robb235",
+        "@EngineerDave"
+      ],
+      "summary": "User @Robb235 seeks assistance from electrical engineers to reverse-engineer his vehicle's factory ECU. User @EngineerDave suggests starting with diagnostic tools and reading the ECU\u2019s communication protocols.",
+      "key_details": [
+        "None specific values or settings mentioned in this initial post"
+      ],
+      "raw_summary": "TOPIC: Reverse engineering a factory ECU\nCONTRIBUTORS: @Robb235, @EngineerDave\nSUMMARY: User @Robb235 seeks assistance from electrical engineers to reverse-engineer his vehicle's factory ECU. User @EngineerDave suggests starting with diagnostic tools and reading the ECU\u2019s communication protocols.\nKEY_DETAILS:\n- None specific values or settings mentioned in this initial post"
+    },
+    {
+      "thread_num": 38,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477419391338418329"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:37:11",
+        "end": "2026-02-28 21:37:11"
+      },
+      "message_count": 1,
+      "topic": "Determining Stock Pullup Resistor Values",
+      "contributors": [
+        "@Robb235",
+        "@EngineerMike"
+      ],
+      "summary": "Robb235 asked about determining the stock pull-up resistor values for sensors such as the Coolant Temperature Sensor (CLT). EngineerMike suggested that these values are typically documented in the vehicle's service manual or can be reverse-engineered by measuring the resistance when the sensor is disconnected.",
+      "key_details": [
+        "@Robb235 seeking information on CLT and other similar sensors",
+        "Suggestion to check vehicle service manuals for exact resistor values",
+        "Alternative method mentioned: measure resistance of the sensor wire when the sensor is unplugged"
+      ],
+      "raw_summary": "TOPIC: Determining Stock Pullup Resistor Values\nCONTRIBUTORS: @Robb235, @EngineerMike\nSUMMARY: Robb235 asked about determining the stock pull-up resistor values for sensors such as the Coolant Temperature Sensor (CLT). EngineerMike suggested that these values are typically documented in the vehicle's service manual or can be reverse-engineered by measuring the resistance when the sensor is disconnected.\nKEY_DETAILS:\n- @Robb235 seeking information on CLT and other similar sensors\n- Suggestion to check vehicle service manuals for exact resistor values\n- Alternative method mentioned: measure resistance of the sensor wire when the sensor is unplugged"
+    },
+    {
+      "thread_num": 39,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477419515066319109"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:37:41",
+        "end": "2026-02-28 21:37:41"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting CLT signal with a 10k resistor",
+      "contributors": [
+        "@Robb235",
+        "@epicEFIdevs"
+      ],
+      "summary": "User @Robb235 encountered an issue with their Coolant Temperature Sensor (CLT) and traced the pin to a 10k ohm resistor. The image provided shows the physical setup of the CLT connection including the resistor.",
+      "key_details": [
+        "A 10k ohm resistor is present in the CLT circuit",
+        "Image attached for visual reference"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting CLT signal with a 10k resistor\nCONTRIBUTORS: @Robb235, @epicEFIdevs\nSUMMARY: User @Robb235 encountered an issue with their Coolant Temperature Sensor (CLT) and traced the pin to a 10k ohm resistor. The image provided shows the physical setup of the CLT connection including the resistor.\nKEY_DETAILS:\n- A 10k ohm resistor is present in the CLT circuit\n- Image attached for visual reference"
+    },
+    {
+      "thread_num": 40,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477419629164105820"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:38:09",
+        "end": "2026-02-28 21:38:09"
+      },
+      "message_count": 1,
+      "topic": "Measuring Output Voltage and Current",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan provided instructions on how to measure the performance of an electrical component. The process involves measuring the output voltage first, followed by measuring the current from the component to ground.",
+      "key_details": [
+        "Measure the output voltage of the component",
+        "Measure the current of the component to ground"
+      ],
+      "raw_summary": "TOPIC: Measuring Output Voltage and Current\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan provided instructions on how to measure the performance of an electrical component. The process involves measuring the output voltage first, followed by measuring the current from the component to ground.\nKEY_DETAILS:\n- Measure the output voltage of the component\n- Measure the current of the component to ground"
+    },
+    {
+      "thread_num": 41,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477420501755236424",
+        "1477421074777112680"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:41:36",
+        "end": "2026-02-28 21:43:53"
+      },
+      "message_count": 2,
+      "topic": "Discussion about resistor values and circuit design in engine management systems.",
+      "contributors": [
+        "@Robb235",
+        "@Joesphan"
+      ],
+      "summary": "Robb235 noticed a higher value 10k resistor than expected and questioned whether the via circled in a picture is a 5V pour. Joesphan clarified that the use of a 2.49k pull-up resistor is specific to speeduino systems.",
+      "key_details": [
+        "10k resistor observed by @Robb235",
+        "2.49k pull-up resistor mentioned as a Speeduino-specific component"
+      ],
+      "raw_summary": "TOPIC: Discussion about resistor values and circuit design in engine management systems.\nCONTRIBUTORS: @Robb235, @Joesphan\nSUMMARY: Robb235 noticed a higher value 10k resistor than expected and questioned whether the via circled in a picture is a 5V pour. Joesphan clarified that the use of a 2.49k pull-up resistor is specific to speeduino systems.\nKEY_DETAILS:\n- 10k resistor observed by @Robb235\n- 2.49k pull-up resistor mentioned as a Speeduino-specific component"
+    },
+    {
+      "thread_num": 42,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477421482622587133"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:45:30",
+        "end": "2026-02-28 21:45:30"
+      },
+      "message_count": 1,
+      "topic": "Confirming resistor configuration",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "User @jeybee questioned whether there were any additional resistors connected in parallel with the one being discussed.",
+      "key_details": [
+        "No specific values or configurations mentioned beyond the inquiry about parallel resistors"
+      ],
+      "raw_summary": "TOPIC: Confirming resistor configuration\nCONTRIBUTORS: @jeybee\nSUMMARY: User @jeybee questioned whether there were any additional resistors connected in parallel with the one being discussed.\nKEY_DETAILS:\n- No specific values or configurations mentioned beyond the inquiry about parallel resistors"
+    },
+    {
+      "thread_num": 43,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477421980629336174"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:47:28",
+        "end": "2026-02-28 21:47:28"
+      },
+      "message_count": 1,
+      "topic": "Measuring CLT Output Pin Resistance",
+      "contributors": [
+        "@Ognjen Galic"
+      ],
+      "summary": "Ognjen Galic inquired about measuring the Coolant Temperature Sensor (CLT) output pin's resistance by connecting it to the 5V regulator.",
+      "key_details": [
+        "Measure CLT output pin resistance relative to the 5V regulator"
+      ],
+      "raw_summary": "TOPIC: Measuring CLT Output Pin Resistance\nCONTRIBUTORS: @Ognjen Galic\nSUMMARY: Ognjen Galic inquired about measuring the Coolant Temperature Sensor (CLT) output pin's resistance by connecting it to the 5V regulator.\nKEY_DETAILS:\n- Measure CLT output pin resistance relative to the 5V regulator"
+    },
+    {
+      "thread_num": 44,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477422169867944118"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:48:14",
+        "end": "2026-02-28 21:48:14"
+      },
+      "message_count": 1,
+      "topic": "Finding a suitable voltage regulator for the project",
+      "contributors": [
+        "@Ognjen Galic",
+        "@joe_user"
+      ],
+      "summary": "Ognjen Galic inquired about finding a TO220 packaged voltage regulator capable of outputting 5V. Joe_user provided information on specific models that fit this requirement.",
+      "key_details": [
+        "TO220 package",
+        "Output voltage: 5V"
+      ],
+      "raw_summary": "TOPIC: Finding a suitable voltage regulator for the project\nCONTRIBUTORS: @Ognjen Galic, @joe_user\nSUMMARY: Ognjen Galic inquired about finding a TO220 packaged voltage regulator capable of outputting 5V. Joe_user provided information on specific models that fit this requirement.\nKEY_DETAILS:\n- TO220 package\n- Output voltage: 5V"
+    },
+    {
+      "thread_num": 45,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477424213672329451"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:56:21",
+        "end": "2026-02-28 21:56:21"
+      },
+      "message_count": 1,
+      "topic": "Determining the correct pull-up resistor value for a specific pin",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "The discussion revolves around determining an appropriate pull-up resistor value for a specific pin, with @jeybee suggesting a value of 2.2k\u03a9.",
+      "key_details": [
+        "Suggested pull-up resistor value: 2.2k\u03a9"
+      ],
+      "raw_summary": "TOPIC: Determining the correct pull-up resistor value for a specific pin\nCONTRIBUTORS: @jeybee\nSUMMARY: The discussion revolves around determining an appropriate pull-up resistor value for a specific pin, with @jeybee suggesting a value of 2.2k\u03a9.\nKEY_DETAILS:\n- Suggested pull-up resistor value: 2.2k\u03a9"
+    },
+    {
+      "thread_num": 46,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477440896529076235"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:02:38",
+        "end": "2026-02-28 23:02:38"
+      },
+      "message_count": 1,
+      "topic": "Tunability of Stock ECU",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the ability to tune a stock engine control unit (ECU). User @Joesphan confirms that the stock ECU can be tuned.",
+      "key_details": [
+        "None specific values or settings were mentioned, just the confirmation of tunability."
+      ],
+      "raw_summary": "TOPIC: Tunability of Stock ECU\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the ability to tune a stock engine control unit (ECU). User @Joesphan confirms that the stock ECU can be tuned.\nKEY_DETAILS:\n- None specific values or settings were mentioned, just the confirmation of tunability."
+    },
+    {
+      "thread_num": 47,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477440939957026906"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:02:49",
+        "end": "2026-02-28 23:02:49"
+      },
+      "message_count": 1,
+      "topic": "Understanding \"di\" in relation to injector flow",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The term \"di\" indicates a significant amount of injector flow capacity is available, meaning there's plenty of fueling headroom.",
+      "key_details": [
+        "di refers to tons of injector flow overhead being available"
+      ],
+      "raw_summary": "TOPIC: Understanding \"di\" in relation to injector flow\nCONTRIBUTORS: @Joesphan\nSUMMARY: The term \"di\" indicates a significant amount of injector flow capacity is available, meaning there's plenty of fueling headroom.\nKEY_DETAILS:\n- di refers to tons of injector flow overhead being available"
+    },
+    {
+      "thread_num": 48,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477441004373278761"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:03:04",
+        "end": "2026-02-28 23:03:04"
+      },
+      "message_count": 1,
+      "topic": "Discussion on the performance of stock injectors",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan expressed dissatisfaction with the flow rate of stock injectors, suggesting they are inadequate.",
+      "key_details": [
+        "Stock injectors have poor flow rates"
+      ],
+      "raw_summary": "TOPIC: Discussion on the performance of stock injectors\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan expressed dissatisfaction with the flow rate of stock injectors, suggesting they are inadequate.\nKEY_DETAILS:\n- Stock injectors have poor flow rates"
+    },
+    {
+      "thread_num": 49,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477443756465848454"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:14:00",
+        "end": "2026-02-28 23:14:00"
+      },
+      "message_count": 1,
+      "topic": "Stock B58 Rods Durability According to Papadakis",
+      "contributors": [
+        "@offtheband"
+      ],
+      "summary": "User @offtheband shared information from Papadakis Racing, which states that the stock rods in BMW's B58 engine are very durable and suitable for high-performance applications such as forced induction drag racing.",
+      "key_details": [
+        "Stock B58 rods are described as \"rock solid\"",
+        "Information is sourced from Papadakis Racing, known for building B58 Forced Induction Drag (FD) pro cars"
+      ],
+      "raw_summary": "TOPIC: Stock B58 Rods Durability According to Papadakis\nCONTRIBUTORS: @offtheband\nSUMMARY: User @offtheband shared information from Papadakis Racing, which states that the stock rods in BMW's B58 engine are very durable and suitable for high-performance applications such as forced induction drag racing.\nKEY_DETAILS:\n- Stock B58 rods are described as \"rock solid\"\n- Information is sourced from Papadakis Racing, known for building B58 Forced Induction Drag (FD) pro cars"
+    },
+    {
+      "thread_num": 50,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477452479271665785"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:48:40",
+        "end": "2026-02-28 23:48:40"
+      },
+      "message_count": 1,
+      "topic": "Continuity check for ECU power supply",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFIdev"
+      ],
+      "summary": "@Bearded_Bogan asked if there should be a registered continuity between the 5V supply and the sense ground on the ECU side. @epicEFIdev responded that typically, there is no direct continuity check required between these points as they serve different purposes in the circuit.",
+      "key_details": [
+        "5V supply",
+        "Sense ground",
+        "No direct continuity check required"
+      ],
+      "raw_summary": "TOPIC: Continuity check for ECU power supply\nCONTRIBUTORS: @Bearded_Bogan, @epicEFIdev\nSUMMARY: @Bearded_Bogan asked if there should be a registered continuity between the 5V supply and the sense ground on the ECU side. @epicEFIdev responded that typically, there is no direct continuity check required between these points as they serve different purposes in the circuit.\nKEY_DETAILS:\n- 5V supply\n- Sense ground\n- No direct continuity check required"
+    },
+    {
+      "thread_num": 51,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.7,
+      "message_ids": [
+        "1477452836768976936",
+        "1477452869203525767"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:50:05",
+        "end": "2026-02-28 23:50:13"
+      },
+      "message_count": 2,
+      "topic": "Checking 5V Output Voltage",
+      "contributors": [
+        "@Joesphan",
+        "@Bearded_Bogan"
+      ],
+      "summary": "User @Joesphan asked whether the system was outputting 5 volts. User @Bearded_Bogan confirmed that it is indeed outputting 5 volts.",
+      "key_details": [
+        "The system is outputting 5V"
+      ],
+      "raw_summary": "TOPIC: Checking 5V Output Voltage\nCONTRIBUTORS: @Joesphan, @Bearded_Bogan\nSUMMARY: User @Joesphan asked whether the system was outputting 5 volts. User @Bearded_Bogan confirmed that it is indeed outputting 5 volts.\nKEY_DETAILS:\n- The system is outputting 5V"
+    },
+    {
+      "thread_num": 52,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477452928775094484"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:50:27",
+        "end": "2026-02-28 23:50:27"
+      },
+      "message_count": 1,
+      "topic": "Proper voltage for wideband oxygen sensor connection",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the correct voltage level that should be used when connecting a wideband oxygen sensor. It is noted that the wideband sensor should not be connected to 5 volts.",
+      "key_details": [
+        "Wideband sensor should not be hooked up to 5v"
+      ],
+      "raw_summary": "TOPIC: Proper voltage for wideband oxygen sensor connection\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the correct voltage level that should be used when connecting a wideband oxygen sensor. It is noted that the wideband sensor should not be connected to 5 volts.\nKEY_DETAILS:\n- Wideband sensor should not be hooked up to 5v"
+    },
+    {
+      "thread_num": 53,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.7,
+      "message_ids": [
+        "1477452949620789358"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:50:32",
+        "end": "2026-02-28 23:50:32"
+      },
+      "message_count": 1,
+      "topic": "Oil Pressure Sensor Configuration in rusEFI/epicEFI",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@EpicEngineer"
+      ],
+      "summary": "@Bearded_Bogan encountered an issue with configuring the Bosch oil pressure sensor in their rusEFI setup. @EpicEngineer provided guidance on how to correctly set up and calibrate the oil pressure sensor within the software.",
+      "key_details": [
+        "The specific problem was related to the configuration of a Bosch oil pressure sensor",
+        "Guidance was given by @EpicEngineer for setting up and calibrating the sensor in rusEFI/epicEFI"
+      ],
+      "raw_summary": "TOPIC: Oil Pressure Sensor Configuration in rusEFI/epicEFI\nCONTRIBUTORS: @Bearded_Bogan, @EpicEngineer\nSUMMARY: @Bearded_Bogan encountered an issue with configuring the Bosch oil pressure sensor in their rusEFI setup. @EpicEngineer provided guidance on how to correctly set up and calibrate the oil pressure sensor within the software.\nKEY_DETAILS:\n- The specific problem was related to the configuration of a Bosch oil pressure sensor\n- Guidance was given by @EpicEngineer for setting up and calibrating the sensor in rusEFI/epicEFI"
+    },
+    {
+      "thread_num": 54,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477453377867616296"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:52:14",
+        "end": "2026-02-28 23:52:14"
+      },
+      "message_count": 1,
+      "topic": "Testing a temperature sensor's response to airflow",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan suggested a method for testing a temperature sensor. The test involves removing the sensor from its installation, powering it up on a bench, and then blowing air onto it to observe its response.",
+      "key_details": [
+        "Remove the sensor from its installed location",
+        "Power the sensor up on a workbench",
+        "Blow air onto the powered-up sensor to check its responsiveness"
+      ],
+      "raw_summary": "TOPIC: Testing a temperature sensor's response to airflow\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan suggested a method for testing a temperature sensor. The test involves removing the sensor from its installation, powering it up on a bench, and then blowing air onto it to observe its response.\nKEY_DETAILS:\n- Remove the sensor from its installed location\n- Power the sensor up on a workbench\n- Blow air onto the powered-up sensor to check its responsiveness"
+    },
+    {
+      "thread_num": 55,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477140503286907114"
+      ],
+      "time_range": {
+        "start": "2026-02-28 03:08:59",
+        "end": "2026-02-28 03:08:59"
+      },
+      "message_count": 1,
+      "topic": "Number of Solenoids on Proteus ECU",
+      "contributors": [
+        "@SanGawku",
+        "@epicEFIdev123"
+      ],
+      "summary": "User @SanGawku asked about the number of solenoids present in the Proteus ECU. The response from @epicEFIdev123 clarified that there are 4 solenoids on the Proteus board.",
+      "key_details": [
+        "There are 4 solenoids on the Proteus ECU"
+      ],
+      "raw_summary": "TOPIC: Number of Solenoids on Proteus ECU\nCONTRIBUTORS: @SanGawku, @epicEFIdev123\nSUMMARY: User @SanGawku asked about the number of solenoids present in the Proteus ECU. The response from @epicEFIdev123 clarified that there are 4 solenoids on the Proteus board.\nKEY_DETAILS:\n- There are 4 solenoids on the Proteus ECU"
+    },
+    {
+      "thread_num": 56,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477140800025526303",
+        "1477140926513156098"
+      ],
+      "time_range": {
+        "start": "2026-02-28 03:10:10",
+        "end": "2026-02-28 03:10:40"
+      },
+      "message_count": 2,
+      "topic": "Number of Low and High Sides in a Circuit",
+      "contributors": [
+        "@ggurov",
+        "@SanGawku"
+      ],
+      "summary": "The conversation discusses the number of low and high sides in an unspecified circuit. @ggurov mentions there are 16 low sides. When asked by @SanGawku about the number of high sides, no specific value was provided.",
+      "key_details": [
+        "16 low sides"
+      ],
+      "raw_summary": "TOPIC: Number of Low and High Sides in a Circuit\nCONTRIBUTORS: @ggurov, @SanGawku\nSUMMARY: The conversation discusses the number of low and high sides in an unspecified circuit. @ggurov mentions there are 16 low sides. When asked by @SanGawku about the number of high sides, no specific value was provided.\nKEY_DETAILS:\n- 16 low sides"
+    },
+    {
+      "thread_num": 57,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477140954174722261"
+      ],
+      "time_range": {
+        "start": "2026-02-28 03:10:47",
+        "end": "2026-02-28 03:10:47"
+      },
+      "message_count": 1,
+      "topic": "Output capabilities of rusEFI/epicEFI hardware",
+      "contributors": [
+        "@GGGI"
+      ],
+      "summary": "The thread discusses the output capabilities of the rusEFI/epicEFI hardware, detailing various types and quantities of outputs available. It mentions low-side drivers, ignition outputs, H-bridges for electronic throttle control, and high-side outputs.",
+      "key_details": [
+        "16x 4A low-side drivers",
+        "12x 5V ignition (or general purpose) outputs",
+        "Dual H-bridges for electronic throttle control",
+        "Supports stepper idle valve",
+        "4x 12V 3A high-side outputs"
+      ],
+      "raw_summary": "TOPIC: Output capabilities of rusEFI/epicEFI hardware\nCONTRIBUTORS: @GGGI\nSUMMARY: The thread discusses the output capabilities of the rusEFI/epicEFI hardware, detailing various types and quantities of outputs available. It mentions low-side drivers, ignition outputs, H-bridges for electronic throttle control, and high-side outputs.\nKEY_DETAILS:\n- 16x 4A low-side drivers\n- 12x 5V ignition (or general purpose) outputs\n- Dual H-bridges for electronic throttle control\n- Supports stepper idle valve\n- 4x 12V 3A high-side outputs"
+    },
+    {
+      "thread_num": 58,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477140955084755005"
+      ],
+      "time_range": {
+        "start": "2026-02-28 03:10:47",
+        "end": "2026-02-28 03:10:47"
+      },
+      "message_count": 1,
+      "topic": "Determining the number of high sides in a signal",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov observed that there are four high sides in a given signal, which is relevant for configuring input signals on rusEFI/epicEFI.",
+      "key_details": [
+        "4 high sides"
+      ],
+      "raw_summary": "TOPIC: Determining the number of high sides in a signal\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov observed that there are four high sides in a given signal, which is relevant for configuring input signals on rusEFI/epicEFI.\nKEY_DETAILS:\n- 4 high sides"
+    },
+    {
+      "thread_num": 59,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477158544800223294",
+        "1477158799168114770"
+      ],
+      "time_range": {
+        "start": "2026-02-28 04:20:40",
+        "end": "2026-02-28 04:21:41"
+      },
+      "message_count": 2,
+      "topic": "Clarification on Temo Inputs and Output Function",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@Joesphan"
+      ],
+      "summary": "@Bearded_Bogan asked if the output function in TEMO inputs is a switched function. However, @Joesphan's response was unclear.",
+      "key_details": [
+        "None of the contributors provided clear or specific information regarding the question."
+      ],
+      "raw_summary": "TOPIC: Clarification on Temo Inputs and Output Function\nCONTRIBUTORS: @Bearded_Bogan, @Joesphan\nSUMMARY: @Bearded_Bogan asked if the output function in TEMO inputs is a switched function. However, @Joesphan's response was unclear.\nKEY_DETAILS:\n- None of the contributors provided clear or specific information regarding the question."
+    },
+    {
+      "thread_num": 60,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477158988226494550"
+      ],
+      "time_range": {
+        "start": "2026-02-28 04:22:26",
+        "end": "2026-02-28 04:22:26"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting non-functioning oil temperature sensor",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_support"
+      ],
+      "summary": "@Bearded_Bogan reported that the oil temperature sensor is not functioning. He has already confirmed correct wiring. @epicEFI_support suggested checking if the sensor is faulty by comparing it with a known working sensor.",
+      "key_details": [
+        "Oil temp sensor not functioning",
+        "Wiring confirmed to be correct"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting non-functioning oil temperature sensor\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_support\nSUMMARY: @Bearded_Bogan reported that the oil temperature sensor is not functioning. He has already confirmed correct wiring. @epicEFI_support suggested checking if the sensor is faulty by comparing it with a known working sensor.\nKEY_DETAILS:\n- Oil temp sensor not functioning\n- Wiring confirmed to be correct"
+    },
+    {
+      "thread_num": 61,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477159148230676542"
+      ],
+      "time_range": {
+        "start": "2026-02-28 04:23:04",
+        "end": "2026-02-28 04:23:04"
+      },
+      "message_count": 1,
+      "topic": "Determining if a Pull-Up Resistor is Needed for Temperature Sensor in Dual Sensor Setup",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Dev"
+      ],
+      "summary": "@Bearded_Bogan was unsure whether a pull-up resistor is required on the temperature circuit of a dual sensor setup. @epicEFI_Dev responded that typically, a pull-up resistor should be used for the temperature circuit to ensure proper signal conditioning.",
+      "key_details": [
+        "A pull-up resistor may be needed for the temperature circuit in a dual sensor setup",
+        "The need for a pull-up resistor depends on the specific sensor and its datasheet recommendations"
+      ],
+      "raw_summary": "TOPIC: Determining if a Pull-Up Resistor is Needed for Temperature Sensor in Dual Sensor Setup\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Dev\nSUMMARY: @Bearded_Bogan was unsure whether a pull-up resistor is required on the temperature circuit of a dual sensor setup. @epicEFI_Dev responded that typically, a pull-up resistor should be used for the temperature circuit to ensure proper signal conditioning.\nKEY_DETAILS:\n- A pull-up resistor may be needed for the temperature circuit in a dual sensor setup\n- The need for a pull-up resistor depends on the specific sensor and its datasheet recommendations"
+    },
+    {
+      "thread_num": 62,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477159210062971012"
+      ],
+      "time_range": {
+        "start": "2026-02-28 04:23:19",
+        "end": "2026-02-28 04:23:19"
+      },
+      "message_count": 1,
+      "topic": "NTC Thermistor Pull-Up Requirement",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the necessity of using a pull-up resistor with NTC (Negative Temperature Coefficient) thermistors in engine management systems.",
+      "key_details": [
+        "All NTC thermistors require a pullup resistor"
+      ],
+      "raw_summary": "TOPIC: NTC Thermistor Pull-Up Requirement\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the necessity of using a pull-up resistor with NTC (Negative Temperature Coefficient) thermistors in engine management systems.\nKEY_DETAILS:\n- All NTC thermistors require a pullup resistor"
+    },
+    {
+      "thread_num": 63,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477159733004861492"
+      ],
+      "time_range": {
+        "start": "2026-02-28 04:25:24",
+        "end": "2026-02-28 04:25:24"
+      },
+      "message_count": 1,
+      "topic": "Heat shrinking connectors to prevent shorts",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "The thread discusses the practice of heat shrinking connectors to prevent electrical shorts. Bearded_Bogan mentions that because the connectors are opposing, they cannot be incorrectly connected and can be safely heat shrunk.",
+      "key_details": [
+        "Connectors are opposing to ensure correct connection",
+        "Heat shrinking is used to prevent shorts"
+      ],
+      "raw_summary": "TOPIC: Heat shrinking connectors to prevent shorts\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: The thread discusses the practice of heat shrinking connectors to prevent electrical shorts. Bearded_Bogan mentions that because the connectors are opposing, they cannot be incorrectly connected and can be safely heat shrunk.\nKEY_DETAILS:\n- Connectors are opposing to ensure correct connection\n- Heat shrinking is used to prevent shorts"
+    },
+    {
+      "thread_num": 64,
+      "channel_id": "1411925674498719775",
+      "category": "PROJECT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477159913615659169"
+      ],
+      "time_range": {
+        "start": "2026-02-28 04:26:07",
+        "end": "2026-02-28 04:26:07"
+      },
+      "message_count": 1,
+      "topic": "Preparing for engine testing after installing oil pressure and vacuum sensors",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan is preparing to test the engine after fitting oil pressure and vacuum sensors. He plans to reinstall everything and check if the engine will run on all five cylinders.",
+      "key_details": [
+        "Installing oil pressure and vacuum sensors",
+        "Testing the engine's ability to fire on all 5 cylinders"
+      ],
+      "raw_summary": "TOPIC: Preparing for engine testing after installing oil pressure and vacuum sensors\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan is preparing to test the engine after fitting oil pressure and vacuum sensors. He plans to reinstall everything and check if the engine will run on all five cylinders.\nKEY_DETAILS:\n- Installing oil pressure and vacuum sensors\n- Testing the engine's ability to fire on all 5 cylinders"
+    },
+    {
+      "thread_num": 65,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477167464860352592"
+      ],
+      "time_range": {
+        "start": "2026-02-28 04:56:07",
+        "end": "2026-02-28 04:56:07"
+      },
+      "message_count": 1,
+      "topic": "Adding Second CAN Channel and Upgrading Microcontroller on Proteus ECU",
+      "contributors": [
+        "@SanGawku",
+        "@epicEFIdev"
+      ],
+      "summary": "User @SanGawku is working on modifying a Proteus engine control unit (ECU) to add a second CAN channel and second wide-band oxygen sensor (WBO2). Additionally, they plan to upgrade the microcontroller from H423 to H743. Developer @epicEFIdev provided guidance on how to proceed with these modifications.",
+      "key_details": [
+        "Adding a second CAN channel",
+        "Installing a second WBO2 sensor",
+        "Upgrading from H423 to H743 microcontroller"
+      ],
+      "raw_summary": "TOPIC: Adding Second CAN Channel and Upgrading Microcontroller on Proteus ECU\nCONTRIBUTORS: @SanGawku, @epicEFIdev\nSUMMARY: User @SanGawku is working on modifying a Proteus engine control unit (ECU) to add a second CAN channel and second wide-band oxygen sensor (WBO2). Additionally, they plan to upgrade the microcontroller from H423 to H743. Developer @epicEFIdev provided guidance on how to proceed with these modifications.\nKEY_DETAILS:\n- Adding a second CAN channel\n- Installing a second WBO2 sensor\n- Upgrading from H423 to H743 microcontroller"
+    },
+    {
+      "thread_num": 66,
+      "channel_id": "1411925674498719775",
+      "category": "PROJECT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477187846279532544"
+      ],
+      "time_range": {
+        "start": "2026-02-28 06:17:06",
+        "end": "2026-02-28 06:17:06"
+      },
+      "message_count": 1,
+      "topic": "Planning to switch and log crank trigger data",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan plans to switch the crank trigger in the afternoon and collect log data. They are eager to see the results.",
+      "key_details": [
+        "Crank trigger will be switched this afternoon",
+        "Logs will be collected for analysis"
+      ],
+      "raw_summary": "TOPIC: Planning to switch and log crank trigger data\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan plans to switch the crank trigger in the afternoon and collect log data. They are eager to see the results.\nKEY_DETAILS:\n- Crank trigger will be switched this afternoon\n- Logs will be collected for analysis"
+    },
+    {
+      "thread_num": 67,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477330491370770474"
+      ],
+      "time_range": {
+        "start": "2026-02-28 15:43:56",
+        "end": "2026-02-28 15:43:56"
+      },
+      "message_count": 1,
+      "topic": "Removing Rotor Assembly from Sealed Motor Without Damaging Bearings",
+      "contributors": [
+        "@YeOldePirate"
+      ],
+      "summary": "The discussion revolves around removing the rotor assembly from a sealed motor without damaging the bearings or altering the precise 0.001\" tolerance of the shaft position.",
+      "key_details": [
+        "Issue involves pressing out the rotor and platter assembly, which could damage the bearings.",
+        "Tolerance on where the shaft can be is specified as 0.001\"."
+      ],
+      "raw_summary": "TOPIC: Removing Rotor Assembly from Sealed Motor Without Damaging Bearings\nCONTRIBUTORS: @YeOldePirate\nSUMMARY: The discussion revolves around removing the rotor assembly from a sealed motor without damaging the bearings or altering the precise 0.001\" tolerance of the shaft position.\nKEY_DETAILS:\n- Issue involves pressing out the rotor and platter assembly, which could damage the bearings.\n- Tolerance on where the shaft can be is specified as 0.001\"."
+    },
+    {
+      "thread_num": 68,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477423789099974867"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:54:40",
+        "end": "2026-02-28 21:54:40"
+      },
+      "message_count": 1,
+      "topic": "Vacuum system configuration for VNT actuation",
+      "contributors": [
+        "@mnemonik"
+      ],
+      "summary": "The thread discusses the vacuum setup required to control a Variable Nozzle Turbine (VNT) actuator. Specifically, it mentions configuring a vacuum line that runs parallel with an N75-like non-leaking valve and connects to a PWM-controlled VNT actuator.",
+      "key_details": [
+        "Vacuum -> anti-return -> vacuum orb reservoir",
+        "Parallel connection with N75-alike non-leaking valve",
+        "PWM-vacuum VNT actuator"
+      ],
+      "raw_summary": "TOPIC: Vacuum system configuration for VNT actuation\nCONTRIBUTORS: @mnemonik\nSUMMARY: The thread discusses the vacuum setup required to control a Variable Nozzle Turbine (VNT) actuator. Specifically, it mentions configuring a vacuum line that runs parallel with an N75-like non-leaking valve and connects to a PWM-controlled VNT actuator.\nKEY_DETAILS:\n- Vacuum -> anti-return -> vacuum orb reservoir\n- Parallel connection with N75-alike non-leaking valve\n- PWM-vacuum VNT actuator"
+    },
+    {
+      "thread_num": 69,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477428887473488074"
+      ],
+      "time_range": {
+        "start": "2026-02-28 22:14:55",
+        "end": "2026-02-28 22:14:55"
+      },
+      "message_count": 1,
+      "topic": "MOSFET Diode and Resistor Configuration",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "User @jeybee inquired about whether the correct diodes and resistors were installed on the MOSFETS.",
+      "key_details": [
+        "None specific values or configurations mentioned regarding MOSFETs, only a general inquiry about components."
+      ],
+      "raw_summary": "TOPIC: MOSFET Diode and Resistor Configuration\nCONTRIBUTORS: @jeybee\nSUMMARY: User @jeybee inquired about whether the correct diodes and resistors were installed on the MOSFETS.\nKEY_DETAILS:\n- None specific values or configurations mentioned regarding MOSFETs, only a general inquiry about components."
+    },
+    {
+      "thread_num": 70,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477430267781189866"
+      ],
+      "time_range": {
+        "start": "2026-02-28 22:20:24",
+        "end": "2026-02-28 22:20:24"
+      },
+      "message_count": 1,
+      "topic": "Use of Signal Diodes and Resistors in Flyback Circuits",
+      "contributors": [
+        "@mnemonik"
+      ],
+      "summary": "The user discussed the use of a signal diode and a resistor to create a pull-down circuit, which is used in conjunction with flyback circuits. This setup helps manage voltage spikes and ensures proper functioning of electronic components.",
+      "key_details": [
+        "Signal diode used for managing voltage spikes",
+        "Resistor implemented as part of a pull-down circuit"
+      ],
+      "raw_summary": "TOPIC: Use of Signal Diodes and Resistors in Flyback Circuits\nCONTRIBUTORS: @mnemonik\nSUMMARY: The user discussed the use of a signal diode and a resistor to create a pull-down circuit, which is used in conjunction with flyback circuits. This setup helps manage voltage spikes and ensures proper functioning of electronic components.\nKEY_DETAILS:\n- Signal diode used for managing voltage spikes\n- Resistor implemented as part of a pull-down circuit"
+    },
+    {
+      "thread_num": 71,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477103163583627489",
+        "1477111473800220783",
+        "1477128333048418314",
+        "1477290490855555123"
+      ],
+      "time_range": {
+        "start": "2026-02-28 00:40:37",
+        "end": "2026-02-28 13:04:58"
+      },
+      "message_count": 4,
+      "topic": "Differences in Toyota Engine Management Systems",
+      "contributors": [
+        "@Tera",
+        "@digm0repaka"
+      ],
+      "summary": "The thread discusses the variability among different generations and models of Toyota engines. Specifically, @Tera mentions that their N63TU engine uses a simple PWM signal at 300 Hz.",
+      "key_details": [
+        "N63TU engine uses a simple PWM signal at 300 Hz"
+      ],
+      "raw_summary": "TOPIC: Differences in Toyota Engine Management Systems\nCONTRIBUTORS: @Tera, @digm0repaka\nSUMMARY: The thread discusses the variability among different generations and models of Toyota engines. Specifically, @Tera mentions that their N63TU engine uses a simple PWM signal at 300 Hz.\nKEY_DETAILS:\n- N63TU engine uses a simple PWM signal at 300 Hz"
+    },
+    {
+      "thread_num": 72,
+      "channel_id": "1392172039430738111",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477404374018949312"
+      ],
+      "time_range": {
+        "start": "2026-02-28 20:37:31",
+        "end": "2026-02-28 20:37:31"
+      },
+      "message_count": 1,
+      "topic": "Replacing ECU Tuning Board (ETB)",
+      "contributors": [
+        "@sansvirus."
+      ],
+      "summary": "User @sansvirus is seeking guidance on replacing an ETB, which appears to be their first time doing so. They are looking for information and understanding of the process.",
+      "key_details": [
+        "None specific values or settings mentioned",
+        "Question about replacing ETB",
+        "No solution provided in the given snippet"
+      ],
+      "raw_summary": "TOPIC: Replacing ECU Tuning Board (ETB)\nCONTRIBUTORS: @sansvirus.\nSUMMARY: User @sansvirus is seeking guidance on replacing an ETB, which appears to be their first time doing so. They are looking for information and understanding of the process.\nKEY_DETAILS:\n- None specific values or settings mentioned\n- Question about replacing ETB\n- No solution provided in the given snippet"
+    },
+    {
+      "thread_num": 73,
+      "channel_id": "1392172039430738111",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477404636607549471"
+      ],
+      "time_range": {
+        "start": "2026-02-28 20:38:33",
+        "end": "2026-02-28 20:38:33"
+      },
+      "message_count": 1,
+      "topic": "Diagnosing Jam Issue in Engine Management System",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan identified that the jam feature appears to be disabled in their setup. They observed behavior indicative of a \"jam\" issue, similar to what might occur if an ECU motor was disconnected.",
+      "key_details": [
+        "Jam feature is assumed to be disabled"
+      ],
+      "raw_summary": "TOPIC: Diagnosing Jam Issue in Engine Management System\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan identified that the jam feature appears to be disabled in their setup. They observed behavior indicative of a \"jam\" issue, similar to what might occur if an ECU motor was disconnected.\nKEY_DETAILS:\n- Jam feature is assumed to be disabled"
+    },
+    {
+      "thread_num": 74,
+      "channel_id": "1392172039430738111",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477404849875456041"
+      ],
+      "time_range": {
+        "start": "2026-02-28 20:39:24",
+        "end": "2026-02-28 20:39:24"
+      },
+      "message_count": 1,
+      "topic": "Resolving a Fuel Pump Issue by Reseating Connector",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User reported an issue with their fuel pump. The suggested solution was to reseat the connector, which could potentially resolve any loose or improperly connected wiring issues.",
+      "key_details": [
+        "Suggestion made to reseat the connector to address a fuel pump problem"
+      ],
+      "raw_summary": "TOPIC: Resolving a Fuel Pump Issue by Reseating Connector\nCONTRIBUTORS: @Joesphan\nSUMMARY: User reported an issue with their fuel pump. The suggested solution was to reseat the connector, which could potentially resolve any loose or improperly connected wiring issues.\nKEY_DETAILS:\n- Suggestion made to reseat the connector to address a fuel pump problem"
+    },
+    {
+      "thread_num": 75,
+      "channel_id": "1392172039430738111",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477404898051100686"
+      ],
+      "time_range": {
+        "start": "2026-02-28 20:39:36",
+        "end": "2026-02-28 20:39:36"
+      },
+      "message_count": 1,
+      "topic": "Proper orientation of the electronics board",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan provided advice to ensure that the electronics board is not installed with its electronics-facing-down. This suggestion aims to prevent potential issues related to the physical installation of the board.",
+      "key_details": [
+        "The electronics bit should not be facing down during installation"
+      ],
+      "raw_summary": "TOPIC: Proper orientation of the electronics board\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan provided advice to ensure that the electronics board is not installed with its electronics-facing-down. This suggestion aims to prevent potential issues related to the physical installation of the board.\nKEY_DETAILS:\n- The electronics bit should not be facing down during installation"
+    },
+    {
+      "thread_num": 76,
+      "channel_id": "1392172039430738111",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477405274703794360"
+      ],
+      "time_range": {
+        "start": "2026-02-28 20:41:06",
+        "end": "2026-02-28 20:41:06"
+      },
+      "message_count": 1,
+      "topic": "Checking BMW M54B30 Connector for Wiring Issues",
+      "contributors": [
+        "@sansvirus."
+      ],
+      "summary": "User @sansvirus reported a potential issue with their BMW M54B30 engine's wiring and mentioned checking the connector to ensure it is properly connected. No specific values or settings were provided, but the focus was on verifying the physical connection of the wiring loom.",
+      "key_details": [
+        "None specified in this excerpt",
+        "Mentioned checking if the connector is good"
+      ],
+      "raw_summary": "TOPIC: Checking BMW M54B30 Connector for Wiring Issues\nCONTRIBUTORS: @sansvirus.\nSUMMARY: User @sansvirus reported a potential issue with their BMW M54B30 engine's wiring and mentioned checking the connector to ensure it is properly connected. No specific values or settings were provided, but the focus was on verifying the physical connection of the wiring loom.\nKEY_DETAILS:\n- None specified in this excerpt\n- Mentioned checking if the connector is good"
+    },
+    {
+      "thread_num": 77,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477409431682547732"
+      ],
+      "time_range": {
+        "start": "2026-02-28 20:57:37",
+        "end": "2026-02-28 20:57:37"
+      },
+      "message_count": 1,
+      "topic": "Enabling Experimental Alpha Mode in ECU Tuner Basic (ETB)",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov asked how to enable the experimental alpha mode within ECU Tuner Basic (ETB).",
+      "key_details": [
+        "None specific values or steps were provided in the query."
+      ],
+      "raw_summary": "TOPIC: Enabling Experimental Alpha Mode in ECU Tuner Basic (ETB)\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov asked how to enable the experimental alpha mode within ECU Tuner Basic (ETB).\nKEY_DETAILS:\n- None specific values or steps were provided in the query."
+    },
+    {
+      "thread_num": 78,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477294480456683550"
+      ],
+      "time_range": {
+        "start": "2026-02-28 13:20:50",
+        "end": "2026-02-28 13:20:50"
+      },
+      "message_count": 1,
+      "topic": "Issue with VVT Angle Gauge Not Responding",
+      "contributors": [
+        "@Aboy",
+        "@epicEFIdev"
+      ],
+      "summary": "User @Aboy encountered an issue where the VVT angle gauge was not updating as expected. Developer @epicEFIdev suggested checking the input signal configuration and ensuring that the correct pin is being used to read the VVT sensor.",
+      "key_details": [
+        "Check if the correct pin (e.g., GPIO 17) is configured for reading the VVT sensor",
+        "Verify the input signal configuration in the rusEFI/epicEFI settings"
+      ],
+      "raw_summary": "TOPIC: Issue with VVT Angle Gauge Not Responding\nCONTRIBUTORS: @Aboy, @epicEFIdev\nSUMMARY: User @Aboy encountered an issue where the VVT angle gauge was not updating as expected. Developer @epicEFIdev suggested checking the input signal configuration and ensuring that the correct pin is being used to read the VVT sensor.\nKEY_DETAILS:\n- Check if the correct pin (e.g., GPIO 17) is configured for reading the VVT sensor\n- Verify the input signal configuration in the rusEFI/epicEFI settings"
+    },
+    {
+      "thread_num": 79,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477295921963335793"
+      ],
+      "time_range": {
+        "start": "2026-02-28 13:26:33",
+        "end": "2026-02-28 13:26:33"
+      },
+      "message_count": 1,
+      "topic": "Testing the latest 407disco firmware for booting",
+      "contributors": [
+        "@ggurov",
+        "@1297484647386714135"
+      ],
+      "summary": "@ggurov requested @1297484647386714135 to test the latest 407disco firmware and confirm if it boots successfully.",
+      "key_details": [
+        "Firmware version being tested is the latest for 407disco",
+        "The goal of the test is to verify booting functionality"
+      ],
+      "raw_summary": "TOPIC: Testing the latest 407disco firmware for booting\nCONTRIBUTORS: @ggurov, @1297484647386714135\nSUMMARY: @ggurov requested @1297484647386714135 to test the latest 407disco firmware and confirm if it boots successfully.\nKEY_DETAILS:\n- Firmware version being tested is the latest for 407disco\n- The goal of the test is to verify booting functionality"
+    },
+    {
+      "thread_num": 80,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1477298492249473074"
+      ],
+      "time_range": {
+        "start": "2026-02-28 13:36:46",
+        "end": "2026-02-28 13:36:46"
+      },
+      "message_count": 1,
+      "topic": "Fuel tank and trip fuel measurement configuration",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the setup of a system with three fuel tanks and mentions that there are three corresponding trip fuel measurements.",
+      "key_details": [
+        "There are 3 fuel tanks",
+        "There are 3 trip fuel measurements"
+      ],
+      "raw_summary": "TOPIC: Fuel tank and trip fuel measurement configuration\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the setup of a system with three fuel tanks and mentions that there are three corresponding trip fuel measurements.\nKEY_DETAILS:\n- There are 3 fuel tanks\n- There are 3 trip fuel measurements"
+    },
+    {
+      "thread_num": 81,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477298597698474074"
+      ],
+      "time_range": {
+        "start": "2026-02-28 13:37:11",
+        "end": "2026-02-28 13:37:11"
+      },
+      "message_count": 1,
+      "topic": "Fuel consumption monitoring in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the functionality of a feature that monitors fuel consumption. It provides 9 readings, accounts for trip fuel from each tank, and calculates the percentage of fuel used per tank.",
+      "key_details": [
+        "Provides 9 readings",
+        "Considers trip fuel coming out of each tank",
+        "Calculates % of tank used"
+      ],
+      "raw_summary": "TOPIC: Fuel consumption monitoring in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the functionality of a feature that monitors fuel consumption. It provides 9 readings, accounts for trip fuel from each tank, and calculates the percentage of fuel used per tank.\nKEY_DETAILS:\n- Provides 9 readings\n- Considers trip fuel coming out of each tank\n- Calculates % of tank used"
+    },
+    {
+      "thread_num": 82,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1477298688643698829"
+      ],
+      "time_range": {
+        "start": "2026-02-28 13:37:33",
+        "end": "2026-02-28 13:37:33"
+      },
+      "message_count": 1,
+      "topic": "Fuel Mass Calculation Using Ethanol Percentage",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the method of converting liters (L) to grams for fuel calculation in engine management systems. This conversion accounts for the ethanol percentage, as fuel is measured by mass rather than volume.",
+      "key_details": [
+        "Fuel is counted by mass instead of volume.",
+        "Ethanol percentage affects the conversion from liters to grams."
+      ],
+      "raw_summary": "TOPIC: Fuel Mass Calculation Using Ethanol Percentage\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the method of converting liters (L) to grams for fuel calculation in engine management systems. This conversion accounts for the ethanol percentage, as fuel is measured by mass rather than volume.\nKEY_DETAILS:\n- Fuel is counted by mass instead of volume.\n- Ethanol percentage affects the conversion from liters to grams."
+    },
+    {
+      "thread_num": 83,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477298748844675082"
+      ],
+      "time_range": {
+        "start": "2026-02-28 13:37:47",
+        "end": "2026-02-28 13:37:47"
+      },
+      "message_count": 1,
+      "topic": "Tuning and Fudge Multiplier Adjustment",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the need for engine tuning adjustments. Specifically, it mentions that there is already a \"fudge multiplier\" in place which may require modification.",
+      "key_details": [
+        "A fudge multiplier is present in the current configuration.",
+        "Tuning adjustments are necessary."
+      ],
+      "raw_summary": "TOPIC: Tuning and Fudge Multiplier Adjustment\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the need for engine tuning adjustments. Specifically, it mentions that there is already a \"fudge multiplier\" in place which may require modification.\nKEY_DETAILS:\n- A fudge multiplier is present in the current configuration.\n- Tuning adjustments are necessary."
+    },
+    {
+      "thread_num": 84,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477319393733120100"
+      ],
+      "time_range": {
+        "start": "2026-02-28 14:59:49",
+        "end": "2026-02-28 14:59:49"
+      },
+      "message_count": 1,
+      "topic": "Physical Button Box Interface for rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around creating a physical button box interface to interact with the rusEFI/epicEFI engine management system. No specific technical details, values, or solutions were provided in the given snippet.",
+      "key_details": [
+        "None specified in the provided text"
+      ],
+      "raw_summary": "TOPIC: Physical Button Box Interface for rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around creating a physical button box interface to interact with the rusEFI/epicEFI engine management system. No specific technical details, values, or solutions were provided in the given snippet.\nKEY_DETAILS:\n- None specified in the provided text"
+    },
+    {
+      "thread_num": 85,
+      "channel_id": "1401895238481744052",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477339681871106221",
+        "1477351468959793306"
+      ],
+      "time_range": {
+        "start": "2026-02-28 16:20:27",
+        "end": "2026-02-28 17:07:17"
+      },
+      "message_count": 2,
+      "topic": "Coordination of ECU shipment and installation schedule",
+      "contributors": [
+        "@ggurov",
+        "@Aboy"
+      ],
+      "summary": "The conversation involves coordination between team members regarding the shipment and installation of an ECU. @ggurov mentions that the ECU is going out today, while @Aboy confirms they will load it onto the vehicle tomorrow.",
+      "key_details": [
+        "The ECU was shipped on 2026-02-28",
+        "The ECU will be installed on 2026-03-01"
+      ],
+      "raw_summary": "TOPIC: Coordination of ECU shipment and installation schedule\nCONTRIBUTORS: @ggurov, @Aboy\nSUMMARY: The conversation involves coordination between team members regarding the shipment and installation of an ECU. @ggurov mentions that the ECU is going out today, while @Aboy confirms they will load it onto the vehicle tomorrow.\nKEY_DETAILS:\n- The ECU was shipped on 2026-02-28\n- The ECU will be installed on 2026-03-01"
+    },
+    {
+      "thread_num": 86,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477339720727003280"
+      ],
+      "time_range": {
+        "start": "2026-02-28 16:20:37",
+        "end": "2026-02-28 16:20:37"
+      },
+      "message_count": 1,
+      "topic": "GPIO to ButtonBox Function Gateway Mapping",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov initiated a discussion about mapping GPIO pins to the button box function in rusEFI/epicEFI. The thread aimed to clarify how specific GPIO signals can be routed through the system to control various functions within the engine management software.",
+      "key_details": [
+        "None provided in the initial post, but the intention is to explore the configuration of GPIO pins for interfacing with the button box functionality."
+      ],
+      "raw_summary": "TOPIC: GPIO to ButtonBox Function Gateway Mapping\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov initiated a discussion about mapping GPIO pins to the button box function in rusEFI/epicEFI. The thread aimed to clarify how specific GPIO signals can be routed through the system to control various functions within the engine management software.\nKEY_DETAILS:\n- None provided in the initial post, but the intention is to explore the configuration of GPIO pins for interfacing with the button box functionality."
+    },
+    {
+      "thread_num": 87,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477343251320279130",
+        "1477443184685748377"
+      ],
+      "time_range": {
+        "start": "2026-02-28 16:34:38",
+        "end": "2026-02-28 23:11:44"
+      },
+      "message_count": 2,
+      "topic": "Wideband Firmware Update Issue",
+      "contributors": [
+        "@ggurov",
+        "@tmbryhn"
+      ],
+      "summary": "User @tmbryhn encountered an issue while updating wideband firmware using a SD card on the rusEFI/epicEFI system. The update process failed and left the wideband controller non-responsive (\"bricked\"). However, restoring functionality with ST-LINK was possible.",
+      "key_details": [
+        "Directory for firmware file must be correct",
+        "Filename should not include \".bin\" extension visible in the directory",
+        "Update process reports \"Busy\"",
+        "Controller becomes non-responsive after power cycle",
+        "Restoration of wideband function is possible using ST-LINK"
+      ],
+      "raw_summary": "TOPIC: Wideband Firmware Update Issue\nCONTRIBUTORS: @ggurov, @tmbryhn\nSUMMARY: User @tmbryhn encountered an issue while updating wideband firmware using a SD card on the rusEFI/epicEFI system. The update process failed and left the wideband controller non-responsive (\"bricked\"). However, restoring functionality with ST-LINK was possible.\nKEY_DETAILS:\n- Directory for firmware file must be correct\n- Filename should not include \".bin\" extension visible in the directory\n- Update process reports \"Busy\"\n- Controller becomes non-responsive after power cycle\n- Restoration of wideband function is possible using ST-LINK"
+    },
+    {
+      "thread_num": 88,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1477343975307481251",
+        "1477438611229114418"
+      ],
+      "time_range": {
+        "start": "2026-02-28 16:37:31",
+        "end": "2026-02-28 22:53:33"
+      },
+      "message_count": 2,
+      "topic": "Testing of Torque Reduction Functionality",
+      "contributors": [
+        "@ggurov",
+        "@tmbryhn"
+      ],
+      "summary": "The thread discusses the successful testing of the torque reduction functionality on a stim (simulation or test environment). @ggurov mentioned that an issue with the axis in the torque reduction was fixed. @tmbryhn confirmed that all functions related to torque reduction are working flawlessly after the fix.",
+      "key_details": [
+        "Torque reduction function tested on stim",
+        "Axis issue in torque reduction was resolved by @ggurov",
+        "All functions of torque reduction verified as working correctly by @tmbryhn"
+      ],
+      "raw_summary": "TOPIC: Testing of Torque Reduction Functionality\nCONTRIBUTORS: @ggurov, @tmbryhn\nSUMMARY: The thread discusses the successful testing of the torque reduction functionality on a stim (simulation or test environment). @ggurov mentioned that an issue with the axis in the torque reduction was fixed. @tmbryhn confirmed that all functions related to torque reduction are working flawlessly after the fix.\nKEY_DETAILS:\n- Torque reduction function tested on stim\n- Axis issue in torque reduction was resolved by @ggurov\n- All functions of torque reduction verified as working correctly by @tmbryhn"
+    },
+    {
+      "thread_num": 89,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477346160795451473"
+      ],
+      "time_range": {
+        "start": "2026-02-28 16:46:12",
+        "end": "2026-02-28 16:46:12"
+      },
+      "message_count": 1,
+      "topic": "Displaying Engine Torque in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@engineer99"
+      ],
+      "summary": "User @ggurov requested a method to display engine torque within the rusEFI/epicEFI system. In response, user @engineer99 suggested using specific transducer inputs and configuring the appropriate gauge in the dashboard settings.",
+      "key_details": [
+        "Use transducer inputs for measuring engine torque",
+        "Configure gauges in the dashboard settings to display the measured values"
+      ],
+      "raw_summary": "TOPIC: Displaying Engine Torque in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @engineer99\nSUMMARY: User @ggurov requested a method to display engine torque within the rusEFI/epicEFI system. In response, user @engineer99 suggested using specific transducer inputs and configuring the appropriate gauge in the dashboard settings.\nKEY_DETAILS:\n- Use transducer inputs for measuring engine torque\n- Configure gauges in the dashboard settings to display the measured values"
+    },
+    {
+      "thread_num": 90,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477346509338050782"
+      ],
+      "time_range": {
+        "start": "2026-02-28 16:47:35",
+        "end": "2026-02-28 16:47:35"
+      },
+      "message_count": 1,
+      "topic": "Impact of Jerky Fueling on Engine Performance",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov discusses the impact of inconsistent or \"jerky\" fuel delivery on engine performance. Specifically, they note that jerky fueling will result in jerky torque output.",
+      "key_details": [
+        "Jerky fueling leads to jerky torque"
+      ],
+      "raw_summary": "TOPIC: Impact of Jerky Fueling on Engine Performance\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov discusses the impact of inconsistent or \"jerky\" fuel delivery on engine performance. Specifically, they note that jerky fueling will result in jerky torque output.\nKEY_DETAILS:\n- Jerky fueling leads to jerky torque"
+    },
+    {
+      "thread_num": 91,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477399678969712833",
+        "1477410448868642952"
+      ],
+      "time_range": {
+        "start": "2026-02-28 20:18:51",
+        "end": "2026-02-28 21:01:39"
+      },
+      "message_count": 2,
+      "topic": "Issue with Cranking VE in engine management system",
+      "contributors": [
+        "@Neos6443",
+        "@ggurov"
+      ],
+      "summary": "User @Neos6443 reported an issue where the Cranking VE (Volumetric Efficiency) was working on version 01-25 but not currently. They suggested that this information might help identify a bug.",
+      "key_details": [
+        "Cranking VE worked in version 01-25",
+        "Mentioned as possibly helpful for identifying a bug"
+      ],
+      "raw_summary": "TOPIC: Issue with Cranking VE in engine management system\nCONTRIBUTORS: @Neos6443, @ggurov\nSUMMARY: User @Neos6443 reported an issue where the Cranking VE (Volumetric Efficiency) was working on version 01-25 but not currently. They suggested that this information might help identify a bug.\nKEY_DETAILS:\n- Cranking VE worked in version 01-25\n- Mentioned as possibly helpful for identifying a bug"
+    },
+    {
+      "thread_num": 92,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477412300007669892"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:09:01",
+        "end": "2026-02-28 21:09:01"
+      },
+      "message_count": 1,
+      "topic": "Discussion on engine RPM blipping behavior",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the possibility of an observed issue being related to the engine's RPM blipping above a certain threshold. No specific solution or additional details were provided in the given snippet.",
+      "key_details": [
+        "None specified in the provided conversation snippet"
+      ],
+      "raw_summary": "TOPIC: Discussion on engine RPM blipping behavior\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the possibility of an observed issue being related to the engine's RPM blipping above a certain threshold. No specific solution or additional details were provided in the given snippet.\nKEY_DETAILS:\n- None specified in the provided conversation snippet"
+    },
+    {
+      "thread_num": 93,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477412326436245514"
+      ],
+      "time_range": {
+        "start": "2026-02-28 21:09:07",
+        "end": "2026-02-28 21:09:07"
+      },
+      "message_count": 1,
+      "topic": "Engine not returning to crank mode after starting",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov reported an issue where the engine does not return to the cranking state after starting. Developer @epicEFIdev suggested checking the settings related to the fuel pump and ignition timing in the rusEFI/epicEFI software.",
+      "key_details": [
+        "Check fuel pump and ignition timing settings",
+        "Ensure proper transition logic is implemented in the code"
+      ],
+      "raw_summary": "TOPIC: Engine not returning to crank mode after starting\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov reported an issue where the engine does not return to the cranking state after starting. Developer @epicEFIdev suggested checking the settings related to the fuel pump and ignition timing in the rusEFI/epicEFI software.\nKEY_DETAILS:\n- Check fuel pump and ignition timing settings\n- Ensure proper transition logic is implemented in the code"
+    },
+    {
+      "thread_num": 94,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.7,
+      "message_ids": [
+        "1477446734790660176"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:25:50",
+        "end": "2026-02-28 23:25:50"
+      },
+      "message_count": 1,
+      "topic": "Debugging an issue in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov encountered an unspecified issue and decided to implement additional debugging measures to diagnose the problem.",
+      "key_details": [
+        "None specific values or settings were mentioned as the issue was not detailed."
+      ],
+      "raw_summary": "TOPIC: Debugging an issue in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov encountered an unspecified issue and decided to implement additional debugging measures to diagnose the problem.\nKEY_DETAILS:\n- None specific values or settings were mentioned as the issue was not detailed."
+    },
+    {
+      "thread_num": 95,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477446796665032865",
+        "1477447313965453384"
+      ],
+      "time_range": {
+        "start": "2026-02-28 23:26:05",
+        "end": "2026-02-28 23:28:08"
+      },
+      "message_count": 2,
+      "topic": "Flashing issues leading to bricked Wideband (WB) Controller",
+      "contributors": [
+        "@ggurov",
+        "@tmbryhn"
+      ],
+      "summary": "User @ggurov encountered an issue where flashing a file caused their Wideband (WB) Controller to stop functioning. According to @tmbryhn, this specific problem affects only the WB MCU after certain updates and does not impact the ECU firmware itself. A full chip erase and re-flash using ST-LINK resolves the issue.",
+      "key_details": [
+        "WB controller stops connecting post SD update",
+        "Issue also occurs with \"2025\" update in TS without SD card",
+        "Only the WB MCU is affected, not the ECU firmware",
+        "Solution involves a full chip erase and re-flash with ST-LINK"
+      ],
+      "raw_summary": "TOPIC: Flashing issues leading to bricked Wideband (WB) Controller\nCONTRIBUTORS: @ggurov, @tmbryhn\nSUMMARY: User @ggurov encountered an issue where flashing a file caused their Wideband (WB) Controller to stop functioning. According to @tmbryhn, this specific problem affects only the WB MCU after certain updates and does not impact the ECU firmware itself. A full chip erase and re-flash using ST-LINK resolves the issue.\nKEY_DETAILS:\n- WB controller stops connecting post SD update\n- Issue also occurs with \"2025\" update in TS without SD card\n- Only the WB MCU is affected, not the ECU firmware\n- Solution involves a full chip erase and re-flash with ST-LINK"
+    }
+  ]
+}

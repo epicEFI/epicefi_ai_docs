@@ -1,0 +1,331 @@
+{
+  "date": "2026-02-23",
+  "generated_at": "2026-03-01T11:37:19.123230",
+  "stats": {
+    "total_threads": 212,
+    "noise_filtered": 199,
+    "kept": 13
+  },
+  "threads": [
+    {
+      "thread_num": 1,
+      "channel_id": "1411925674498719775",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1475295525174640650"
+      ],
+      "time_range": {
+        "start": "2026-02-23 00:57:42",
+        "end": "2026-02-23 00:57:42"
+      },
+      "message_count": 1,
+      "topic": "Installation of mounting brackets for engine management system",
+      "contributors": [
+        "@ZeeKay"
+      ],
+      "summary": "The thread discusses methods for installing mounting brackets for the engine management system. @ZeeKay suggests positioning the bracket where needed, then drilling and tapping holes or welding an additional piece on top.",
+      "key_details": [
+        "Positioning the bracket in desired location",
+        "Drilling and tapping holes for secure attachment",
+        "Welding a second piece of metal onto the existing bracket as an alternative method"
+      ],
+      "raw_summary": "TOPIC: Installation of mounting brackets for engine management system\nCONTRIBUTORS: @ZeeKay\nSUMMARY: The thread discusses methods for installing mounting brackets for the engine management system. @ZeeKay suggests positioning the bracket where needed, then drilling and tapping holes or welding an additional piece on top.\nKEY_DETAILS:\n- Positioning the bracket in desired location\n- Drilling and tapping holes for secure attachment\n- Welding a second piece of metal onto the existing bracket as an alternative method"
+    },
+    {
+      "thread_num": 2,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1475343849361637377",
+        "1475343977791361116",
+        "1475344067545268308",
+        "1475351570647617637"
+      ],
+      "time_range": {
+        "start": "2026-02-23 04:09:43",
+        "end": "2026-02-23 04:40:24"
+      },
+      "message_count": 4,
+      "topic": "Weld Porosity Fix",
+      "contributors": [
+        "@jeybee",
+        "@ZeeKay"
+      ],
+      "summary": "@Joesphan encountered porosity issues around a weld puddle and was unsure of how to resolve it. @jeybee suggested welding over the existing issue again but acknowledged that using the same settings would likely result in further porosity. However, @ZeeKay stated that the current work looked good without providing specific advice on resolving the porosity.",
+      "key_details": [
+        "None of the contributors provided a definitive solution to fix the weld porosity",
+        "The discussion suggested that changing welding parameters might be necessary but did not specify what changes were needed"
+      ],
+      "raw_summary": "TOPIC: Weld Porosity Fix\nCONTRIBUTORS: @jeybee, @ZeeKay\nSUMMARY: @Joesphan encountered porosity issues around a weld puddle and was unsure of how to resolve it. @jeybee suggested welding over the existing issue again but acknowledged that using the same settings would likely result in further porosity. However, @ZeeKay stated that the current work looked good without providing specific advice on resolving the porosity.\nKEY_DETAILS:\n- None of the contributors provided a definitive solution to fix the weld porosity\n- The discussion suggested that changing welding parameters might be necessary but did not specify what changes were needed"
+    },
+    {
+      "thread_num": 3,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1475344572463710209"
+      ],
+      "time_range": {
+        "start": "2026-02-23 04:12:35",
+        "end": "2026-02-23 04:12:35"
+      },
+      "message_count": 1,
+      "topic": "Adjusting electrode positioning for optimal spark plug performance",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "The discussion revolves around optimizing the spark plug's performance by adjusting the position of the electrodes. Specifically, it is noted that cast components typically have a thicker oxide layer and therefore require more electrode protrusion (ep) towards the positive terminal for optimal function.",
+      "key_details": [
+        "Cast components have a thicker oxide layer",
+        "More electrode protrusion (ep) should be directed towards the positive terminal"
+      ],
+      "raw_summary": "TOPIC: Adjusting electrode positioning for optimal spark plug performance\nCONTRIBUTORS: @jeybee\nSUMMARY: The discussion revolves around optimizing the spark plug's performance by adjusting the position of the electrodes. Specifically, it is noted that cast components typically have a thicker oxide layer and therefore require more electrode protrusion (ep) towards the positive terminal for optimal function.\nKEY_DETAILS:\n- Cast components have a thicker oxide layer\n- More electrode protrusion (ep) should be directed towards the positive terminal"
+    },
+    {
+      "thread_num": 4,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1475345700207333479"
+      ],
+      "time_range": {
+        "start": "2026-02-23 04:17:04",
+        "end": "2026-02-23 04:17:04"
+      },
+      "message_count": 1,
+      "topic": "Post Gas Delay Setting Inquiry",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "User @jeybee asked another user about their \"post gas delay\" setting, which refers to a parameter in engine management systems that controls the timing of fuel injection relative to other engine operations.",
+      "key_details": [
+        "None specific values or settings were mentioned in this inquiry."
+      ],
+      "raw_summary": "TOPIC: Post Gas Delay Setting Inquiry\nCONTRIBUTORS: @jeybee\nSUMMARY: User @jeybee asked another user about their \"post gas delay\" setting, which refers to a parameter in engine management systems that controls the timing of fuel injection relative to other engine operations.\nKEY_DETAILS:\n- None specific values or settings were mentioned in this inquiry."
+    },
+    {
+      "thread_num": 5,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1475347520891785257"
+      ],
+      "time_range": {
+        "start": "2026-02-23 04:24:18",
+        "end": "2026-02-23 04:24:18"
+      },
+      "message_count": 1,
+      "topic": "Methanol Boiling Issues in Engine Management",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "User @jeybee reported that methanol was boiling violently, leading to porosity issues.",
+      "key_details": [
+        "Methanol boiling violently",
+        "Porosity issues resulting from the violent boiling of methanol"
+      ],
+      "raw_summary": "TOPIC: Methanol Boiling Issues in Engine Management\nCONTRIBUTORS: @jeybee\nSUMMARY: User @jeybee reported that methanol was boiling violently, leading to porosity issues.\nKEY_DETAILS:\n- Methanol boiling violently\n- Porosity issues resulting from the violent boiling of methanol"
+    },
+    {
+      "thread_num": 6,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1475347710520594604"
+      ],
+      "time_range": {
+        "start": "2026-02-23 04:25:03",
+        "end": "2026-02-23 04:25:03"
+      },
+      "message_count": 1,
+      "topic": "Preheating settings for engine management",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "User @jeybee inquired about the appropriate preheat temperature setting, suggesting a value of 150\u00b0C.",
+      "key_details": [
+        "Suggested preheat temperature: 150\u00b0C"
+      ],
+      "raw_summary": "TOPIC: Preheating settings for engine management\nCONTRIBUTORS: @jeybee\nSUMMARY: User @jeybee inquired about the appropriate preheat temperature setting, suggesting a value of 150\u00b0C.\nKEY_DETAILS:\n- Suggested preheat temperature: 150\u00b0C"
+    },
+    {
+      "thread_num": 7,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1475316713695477991",
+        "1475318490960236674"
+      ],
+      "time_range": {
+        "start": "2026-02-23 02:21:54",
+        "end": "2026-02-23 02:28:57"
+      },
+      "message_count": 2,
+      "topic": "Location of Fuel Rail Sensor Input Setting in rusEFI/epicEFI",
+      "contributors": [
+        "@offtheband",
+        "@Joesphan"
+      ],
+      "summary": "User @offtheband was unable to locate the input setting for the fuel rail sensor. User @Joesphan provided guidance that the page referenced by @offtheband is located under the \"injection\" section.",
+      "key_details": [
+        "The initial issue pertained to finding the specific input setting for a fuel rail sensor",
+        "The mentioned page could be found under the \"injection\" section of rusEFI/epicEFI"
+      ],
+      "raw_summary": "TOPIC: Location of Fuel Rail Sensor Input Setting in rusEFI/epicEFI\nCONTRIBUTORS: @offtheband, @Joesphan\nSUMMARY: User @offtheband was unable to locate the input setting for the fuel rail sensor. User @Joesphan provided guidance that the page referenced by @offtheband is located under the \"injection\" section.\nKEY_DETAILS:\n- The initial issue pertained to finding the specific input setting for a fuel rail sensor\n- The mentioned page could be found under the \"injection\" section of rusEFI/epicEFI"
+    },
+    {
+      "thread_num": 8,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1475318870309994496",
+        "1475319604359462994"
+      ],
+      "time_range": {
+        "start": "2026-02-23 02:30:28",
+        "end": "2026-02-23 02:33:23"
+      },
+      "message_count": 2,
+      "topic": "Low Pressure Fuel Pump Configuration",
+      "contributors": [
+        "@ggurov",
+        "@offtheband"
+      ],
+      "summary": "User @offtheband asked about configuring a low pressure fuel pump (LPFP) when channeling out the rail. The concern was whether bypassing the LPFP would cause issues in the system.",
+      "key_details": [
+        "Channeling out the rail refers to directly controlling the fuel rail instead of using an intermediate low-pressure fuel pump.",
+        "There is uncertainty if bypassing the LPFP will result in missing critical configurations or settings."
+      ],
+      "raw_summary": "TOPIC: Low Pressure Fuel Pump Configuration\nCONTRIBUTORS: @ggurov, @offtheband\nSUMMARY: User @offtheband asked about configuring a low pressure fuel pump (LPFP) when channeling out the rail. The concern was whether bypassing the LPFP would cause issues in the system.\nKEY_DETAILS:\n- Channeling out the rail refers to directly controlling the fuel rail instead of using an intermediate low-pressure fuel pump.\n- There is uncertainty if bypassing the LPFP will result in missing critical configurations or settings."
+    },
+    {
+      "thread_num": 9,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1475320577517555793"
+      ],
+      "time_range": {
+        "start": "2026-02-23 02:37:15",
+        "end": "2026-02-23 02:37:15"
+      },
+      "message_count": 1,
+      "topic": "High Pressure Fuel Pump (HPFP) Target Rail Pressure Setting",
+      "contributors": [
+        "@offtheband"
+      ],
+      "summary": "The discussion centered around the setting for the high-pressure fuel pump (HPFP) rail pressure, which is configured to target a specific pressure with an allowable variation of +/- 3000psi.",
+      "key_details": [
+        "DI rail pressure seats at the HPFP target delivered +/- 3000psi"
+      ],
+      "raw_summary": "TOPIC: High Pressure Fuel Pump (HPFP) Target Rail Pressure Setting\nCONTRIBUTORS: @offtheband\nSUMMARY: The discussion centered around the setting for the high-pressure fuel pump (HPFP) rail pressure, which is configured to target a specific pressure with an allowable variation of +/- 3000psi.\nKEY_DETAILS:\n- DI rail pressure seats at the HPFP target delivered +/- 3000psi"
+    },
+    {
+      "thread_num": 10,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1475320758917140641"
+      ],
+      "time_range": {
+        "start": "2026-02-23 02:37:58",
+        "end": "2026-02-23 02:37:58"
+      },
+      "message_count": 1,
+      "topic": "Monitoring Low Fuel Pump Pressure",
+      "contributors": [
+        "@offtheband",
+        "@epicEFIdev"
+      ],
+      "summary": "User @offtheband mentioned that they need to continuously monitor the low fuel pump pressure. Developer @epicEFIdev suggested using a specific sensor and configuring it in the rusEFI settings.",
+      "key_details": [
+        "Monitor low fuel pump pressure",
+        "Suggested use of a specific sensor",
+        "Configuration needed in rusEFI settings"
+      ],
+      "raw_summary": "TOPIC: Monitoring Low Fuel Pump Pressure\nCONTRIBUTORS: @offtheband, @epicEFIdev\nSUMMARY: User @offtheband mentioned that they need to continuously monitor the low fuel pump pressure. Developer @epicEFIdev suggested using a specific sensor and configuring it in the rusEFI settings.\nKEY_DETAILS:\n- Monitor low fuel pump pressure\n- Suggested use of a specific sensor\n- Configuration needed in rusEFI settings"
+    },
+    {
+      "thread_num": 11,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1475324566397124732"
+      ],
+      "time_range": {
+        "start": "2026-02-23 02:53:06",
+        "end": "2026-02-23 02:53:06"
+      },
+      "message_count": 1,
+      "topic": "Diagnosing Fuel System Issues in Engine Management",
+      "contributors": [
+        "@offtheband"
+      ],
+      "summary": "@offtheband is trying to diagnose an issue with the fuel system and is considering whether to focus on fuel rail data or low pump data, emphasizing that rail pressure is crucial for diagnosing issues (DI).",
+      "key_details": [
+        "Rail pressure is critical for diagnosis.",
+        "The decision involves choosing between focusing on fuel rail data or low pump data."
+      ],
+      "raw_summary": "TOPIC: Diagnosing Fuel System Issues in Engine Management\nCONTRIBUTORS: @offtheband\nSUMMARY: @offtheband is trying to diagnose an issue with the fuel system and is considering whether to focus on fuel rail data or low pump data, emphasizing that rail pressure is crucial for diagnosing issues (DI).\nKEY_DETAILS:\n- Rail pressure is critical for diagnosis.\n- The decision involves choosing between focusing on fuel rail data or low pump data."
+    },
+    {
+      "thread_num": 12,
+      "channel_id": "1464230782905352261",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1475304610251145288"
+      ],
+      "time_range": {
+        "start": "2026-02-23 01:33:48",
+        "end": "2026-02-23 01:33:48"
+      },
+      "message_count": 1,
+      "topic": "Adding CAN Version of a Feature",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "User @SanGawku expressed the need to include a CAN (Controller Area Network) version of an unspecified feature in the rusEFI/epicEFI project.",
+      "key_details": [
+        "No specific values or settings mentioned",
+        "Request is for adding a CAN version of something, though the exact feature is not specified"
+      ],
+      "raw_summary": "TOPIC: Adding CAN Version of a Feature\nCONTRIBUTORS: @SanGawku\nSUMMARY: User @SanGawku expressed the need to include a CAN (Controller Area Network) version of an unspecified feature in the rusEFI/epicEFI project.\nKEY_DETAILS:\n- No specific values or settings mentioned\n- Request is for adding a CAN version of something, though the exact feature is not specified"
+    },
+    {
+      "thread_num": 13,
+      "channel_id": "1464230782905352261",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1475376923877310474"
+      ],
+      "time_range": {
+        "start": "2026-02-23 06:21:08",
+        "end": "2026-02-23 06:21:08"
+      },
+      "message_count": 1,
+      "topic": "Negative Feedforward not working",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdev"
+      ],
+      "summary": "User @Joesphan reported that the negative feedforward function is not functioning as expected. Developer @epicEFIdev responded by asking for specific logs and settings to diagnose the issue further.",
+      "key_details": [
+        "None specific values or settings mentioned in the initial post"
+      ],
+      "raw_summary": "TOPIC: Negative Feedforward not working\nCONTRIBUTORS: @Joesphan, @epicEFIdev\nSUMMARY: User @Joesphan reported that the negative feedforward function is not functioning as expected. Developer @epicEFIdev responded by asking for specific logs and settings to diagnose the issue further.\nKEY_DETAILS:\n- None specific values or settings mentioned in the initial post"
+    }
+  ]
+}

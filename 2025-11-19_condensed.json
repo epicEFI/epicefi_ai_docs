@@ -1,0 +1,3439 @@
+{
+  "date": "2025-11-19",
+  "generated_at": "2026-03-01T12:06:05.267323",
+  "stats": {
+    "total_threads": 1566,
+    "noise_filtered": 1427,
+    "kept": 139
+  },
+  "threads": [
+    {
+      "thread_num": 1,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440492258674872442"
+      ],
+      "time_range": {
+        "start": "2025-11-19 00:07:04",
+        "end": "2025-11-19 00:07:04"
+      },
+      "message_count": 1,
+      "topic": "Diagnosing an issue with a specific memory address in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@rusEFIdev"
+      ],
+      "summary": "User @ggurov encountered an unexpected behavior and provided the memory dump at address `0x711` which contains values `0x5a 0x00 0x1b 0xAA 0xAA`. Developer @rusEFIdev analyzed these values and suggested that the issue might be related to a specific configuration setting.",
+      "key_details": [
+        "Memory address: `0x711`",
+        "Dumped values at `0x711`: `0x5a 0x00 0x1b 0xAA 0xAA`"
+      ],
+      "raw_summary": "TOPIC: Diagnosing an issue with a specific memory address in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @rusEFIdev\nSUMMARY: User @ggurov encountered an unexpected behavior and provided the memory dump at address `0x711` which contains values `0x5a 0x00 0x1b 0xAA 0xAA`. Developer @rusEFIdev analyzed these values and suggested that the issue might be related to a specific configuration setting.\nKEY_DETAILS:\n- Memory address: `0x711`\n- Dumped values at `0x711`: `0x5a 0x00 0x1b 0xAA 0xAA`"
+    },
+    {
+      "thread_num": 2,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440492403994656809"
+      ],
+      "time_range": {
+        "start": "2025-11-19 00:07:39",
+        "end": "2025-11-19 00:07:39"
+      },
+      "message_count": 1,
+      "topic": "USB report analysis for rusEFI/epicEFI",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "@SanGawku shared a USB report from a rusEFI/epicEFI system, which includes data related to four potentials.",
+      "key_details": [
+        "USB report values: 06 00 00 00 00 00 00 00 00 00 00 08 00 80 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c6",
+        "The report includes data related to four potentials"
+      ],
+      "raw_summary": "TOPIC: USB report analysis for rusEFI/epicEFI\nCONTRIBUTORS: @SanGawku\nSUMMARY: @SanGawku shared a USB report from a rusEFI/epicEFI system, which includes data related to four potentials.\nKEY_DETAILS:\n- USB report values: 06 00 00 00 00 00 00 00 00 00 00 08 00 80 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c6\n- The report includes data related to four potentials"
+    },
+    {
+      "thread_num": 3,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440495873221202011"
+      ],
+      "time_range": {
+        "start": "2025-11-19 00:21:26",
+        "end": "2025-11-19 00:21:26"
+      },
+      "message_count": 1,
+      "topic": "Calculating checksums for data packets",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around the process of calculating a checksum by summing up the byte values in a data packet. This is likely part of ensuring data integrity.",
+      "key_details": [
+        "Summing up bytes to calculate a checksum"
+      ],
+      "raw_summary": "TOPIC: Calculating checksums for data packets\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around the process of calculating a checksum by summing up the byte values in a data packet. This is likely part of ensuring data integrity.\nKEY_DETAILS:\n- Summing up bytes to calculate a checksum"
+    },
+    {
+      "thread_num": 4,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440536311869210655"
+      ],
+      "time_range": {
+        "start": "2025-11-19 03:02:07",
+        "end": "2025-11-19 03:02:07"
+      },
+      "message_count": 1,
+      "topic": "Understanding VEAL's tuning scope",
+      "contributors": [
+        "@MykkH",
+        "@epicEFIdev"
+      ],
+      "summary": "User @MykkH inquired about the extent of VEAL\u2019s (Variable Effective Area Limiting) tuning capabilities. Specifically, they wanted to know if VEAL only tunes the volumetric efficiency (VE) table or all related tables. Developer @epicEFIdev clarified that VEAL primarily focuses on tuning the VE table but can influence other related fuel and spark maps.",
+      "key_details": [
+        "VEAL tunes the volumetric efficiency (VE) table",
+        "It may also affect other related fuel and spark maps"
+      ],
+      "raw_summary": "TOPIC: Understanding VEAL's tuning scope\nCONTRIBUTORS: @MykkH, @epicEFIdev\nSUMMARY: User @MykkH inquired about the extent of VEAL\u2019s (Variable Effective Area Limiting) tuning capabilities. Specifically, they wanted to know if VEAL only tunes the volumetric efficiency (VE) table or all related tables. Developer @epicEFIdev clarified that VEAL primarily focuses on tuning the VE table but can influence other related fuel and spark maps.\nKEY_DETAILS:\n- VEAL tunes the volumetric efficiency (VE) table\n- It may also affect other related fuel and spark maps"
+    },
+    {
+      "thread_num": 5,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440536885356400801"
+      ],
+      "time_range": {
+        "start": "2025-11-19 03:04:24",
+        "end": "2025-11-19 03:04:24"
+      },
+      "message_count": 1,
+      "topic": "Locking of VE table during testing phase",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "The VE (Velocity Enrichment) table in the engine management system will be locked to prevent changes until it has been thoroughly tested, verified, and validated.",
+      "key_details": [
+        "The VE table is being kept locked for testing purposes."
+      ],
+      "raw_summary": "TOPIC: Locking of VE table during testing phase\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: The VE (Velocity Enrichment) table in the engine management system will be locked to prevent changes until it has been thoroughly tested, verified, and validated.\nKEY_DETAILS:\n- The VE table is being kept locked for testing purposes."
+    },
+    {
+      "thread_num": 6,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440538645311389807"
+      ],
+      "time_range": {
+        "start": "2025-11-19 03:11:23",
+        "end": "2025-11-19 03:11:23"
+      },
+      "message_count": 1,
+      "topic": "Information Request for TS Plug-In Development",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "Mark Craft Performance requested additional information regarding the development status of the TS (Tech Support) plug-in, as the available documentation on the dev site is not fully developed.",
+      "key_details": [
+        "The TS plug-in's documentation on the developer site is incomplete.",
+        "Additional details about the TS plug-in are needed."
+      ],
+      "raw_summary": "TOPIC: Information Request for TS Plug-In Development\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: Mark Craft Performance requested additional information regarding the development status of the TS (Tech Support) plug-in, as the available documentation on the dev site is not fully developed.\nKEY_DETAILS:\n- The TS plug-in's documentation on the developer site is incomplete.\n- Additional details about the TS plug-in are needed."
+    },
+    {
+      "thread_num": 7,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440539610949226516"
+      ],
+      "time_range": {
+        "start": "2025-11-19 03:15:14",
+        "end": "2025-11-19 03:15:14"
+      },
+      "message_count": 1,
+      "topic": "Generating Javadoc for tunerstudio plugin",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "@ggurov initiated a discussion about generating Javadoc documentation for the tunerstudio plugin. @epicEFIdev suggested using standard Java tools to generate the Javadoc and ensuring that all public classes and methods are properly documented.",
+      "key_details": [
+        "Use of standard Java tools to generate Javadoc",
+        "Importance of documenting all public classes and methods"
+      ],
+      "raw_summary": "TOPIC: Generating Javadoc for tunerstudio plugin\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: @ggurov initiated a discussion about generating Javadoc documentation for the tunerstudio plugin. @epicEFIdev suggested using standard Java tools to generate the Javadoc and ensuring that all public classes and methods are properly documented.\nKEY_DETAILS:\n- Use of standard Java tools to generate Javadoc\n- Importance of documenting all public classes and methods"
+    },
+    {
+      "thread_num": 8,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440612024190107699"
+      ],
+      "time_range": {
+        "start": "2025-11-19 08:02:58",
+        "end": "2025-11-19 08:02:58"
+      },
+      "message_count": 1,
+      "topic": "Issues with Tooth Logger/Composite Logger in rusEFI/epicEFI",
+      "contributors": [
+        "@SanGawku",
+        "@EpicEngineer"
+      ],
+      "summary": "User @SanGawku reported issues with the Tooth Logger and Composite Logger not functioning as expected. @EpicEngineer responded by suggesting to check if the correct trigger wheel is selected in the settings and ensuring that the logger configuration matches the engine's requirements.",
+      "key_details": [
+        "Check if the correct trigger wheel is selected",
+        "Ensure logger configuration matches the engine's requirements"
+      ],
+      "raw_summary": "TOPIC: Issues with Tooth Logger/Composite Logger in rusEFI/epicEFI\nCONTRIBUTORS: @SanGawku, @EpicEngineer\nSUMMARY: User @SanGawku reported issues with the Tooth Logger and Composite Logger not functioning as expected. @EpicEngineer responded by suggesting to check if the correct trigger wheel is selected in the settings and ensuring that the logger configuration matches the engine's requirements.\nKEY_DETAILS:\n- Check if the correct trigger wheel is selected\n- Ensure logger configuration matches the engine's requirements"
+    },
+    {
+      "thread_num": 9,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440678627401535539"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:27:37",
+        "end": "2025-11-19 12:27:37"
+      },
+      "message_count": 1,
+      "topic": "Running core code on x86 architecture",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around running the core code of rusEFI/epicEFI on an x86 architecture instead of the usual ARM STM32 hardware. This approach bypasses the need for the underlying hardware-specific components.",
+      "key_details": [
+        "Core code runs on x86 architecture",
+        "Discussion mentions avoiding ARM STM32 specific hardware requirements"
+      ],
+      "raw_summary": "TOPIC: Running core code on x86 architecture\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around running the core code of rusEFI/epicEFI on an x86 architecture instead of the usual ARM STM32 hardware. This approach bypasses the need for the underlying hardware-specific components.\nKEY_DETAILS:\n- Core code runs on x86 architecture\n- Discussion mentions avoiding ARM STM32 specific hardware requirements"
+    },
+    {
+      "thread_num": 10,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440678673991729314"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:27:48",
+        "end": "2025-11-19 12:27:48"
+      },
+      "message_count": 1,
+      "topic": "Connecting to rusEFI/epicEFI via TCP",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov mentioned that the rusEFI/epicEFI system can be connected to over a TCP connection.",
+      "key_details": [
+        "Connects to the system over TCP"
+      ],
+      "raw_summary": "TOPIC: Connecting to rusEFI/epicEFI via TCP\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov mentioned that the rusEFI/epicEFI system can be connected to over a TCP connection.\nKEY_DETAILS:\n- Connects to the system over TCP"
+    },
+    {
+      "thread_num": 11,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440678749812162651"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:28:06",
+        "end": "2025-11-19 12:28:06"
+      },
+      "message_count": 1,
+      "topic": "Running rusEFI/epicEFI ECU software natively for testing purposes",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov describes running the rusEFI/epicEFI ECU software directly on a development machine rather than on an embedded controller to test mathematical operations and other functionalities.",
+      "key_details": [
+        "The ECU software can be run natively on a machine for testing purposes",
+        "Testing includes verifying mathematical operations among other functions"
+      ],
+      "raw_summary": "TOPIC: Running rusEFI/epicEFI ECU software natively for testing purposes\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov describes running the rusEFI/epicEFI ECU software directly on a development machine rather than on an embedded controller to test mathematical operations and other functionalities.\nKEY_DETAILS:\n- The ECU software can be run natively on a machine for testing purposes\n- Testing includes verifying mathematical operations among other functions"
+    },
+    {
+      "thread_num": 12,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440832127980535969"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:37:34",
+        "end": "2025-11-19 22:37:34"
+      },
+      "message_count": 1,
+      "topic": "Implementing Modified Speed Density with Dual Map Sensors",
+      "contributors": [
+        "@fast335xi",
+        "@engineer82"
+      ],
+      "summary": "User @fast335xi inquired about implementing a modified speed density system using two map sensors\u2014one for the manifold (1 bar) and another for the chargepipe (4 bar). The idea is to use the manifold sensor up to 1 bar of pressure and switch to the chargepipe sensor above that threshold. Contributor @engineer82 confirmed this approach as feasible, suggesting a configuration where the system dynamically switches between sensors based on the input signal.",
+      "key_details": [
+        "Manifold map sensor operates up to 1 bar",
+        "Chargepipe map sensor operates from 1 bar upwards",
+        "System would switch between sensors at 1 bar pressure"
+      ],
+      "raw_summary": "TOPIC: Implementing Modified Speed Density with Dual Map Sensors\nCONTRIBUTORS: @fast335xi, @engineer82\nSUMMARY: User @fast335xi inquired about implementing a modified speed density system using two map sensors\u2014one for the manifold (1 bar) and another for the chargepipe (4 bar). The idea is to use the manifold sensor up to 1 bar of pressure and switch to the chargepipe sensor above that threshold. Contributor @engineer82 confirmed this approach as feasible, suggesting a configuration where the system dynamically switches between sensors based on the input signal.\nKEY_DETAILS:\n- Manifold map sensor operates up to 1 bar\n- Chargepipe map sensor operates from 1 bar upwards\n- System would switch between sensors at 1 bar pressure"
+    },
+    {
+      "thread_num": 13,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440851492331327621"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:54:31",
+        "end": "2025-11-19 23:54:31"
+      },
+      "message_count": 1,
+      "topic": "Choosing the right firmware for STM32H747XI microcontroller",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH asks about selecting the appropriate firmware version for an Arduino Giga R1 (STM32H747XI) board, specifically inquiring whether Mega144H7 is suitable or if another variant would be better suited for a dual-core microcontroller.",
+      "key_details": [
+        "The user is experimenting with an Arduino Giga R1 (STM32H747XI)",
+        "In doubt about using the Mega144H7 firmware version",
+        "Questioning whether this or another flavor of firmware in the list would be more appropriate for a dual-core processor"
+      ],
+      "raw_summary": "TOPIC: Choosing the right firmware for STM32H747XI microcontroller\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH asks about selecting the appropriate firmware version for an Arduino Giga R1 (STM32H747XI) board, specifically inquiring whether Mega144H7 is suitable or if another variant would be better suited for a dual-core microcontroller.\nKEY_DETAILS:\n- The user is experimenting with an Arduino Giga R1 (STM32H747XI)\n- In doubt about using the Mega144H7 firmware version\n- Questioning whether this or another flavor of firmware in the list would be more appropriate for a dual-core processor"
+    },
+    {
+      "thread_num": 14,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440514032141598803"
+      ],
+      "time_range": {
+        "start": "2025-11-19 01:33:35",
+        "end": "2025-11-19 01:33:35"
+      },
+      "message_count": 1,
+      "topic": "Adjusting the Air/Fuel Ratio (AE) setting in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov identified an issue where the Air/Fuel ratio (AE) was set to zero, which would cause problems with engine performance. The solution involves changing this AE value.",
+      "key_details": [
+        "AE setting is currently at 0",
+        "Need to adjust the AE setting"
+      ],
+      "raw_summary": "TOPIC: Adjusting the Air/Fuel Ratio (AE) setting in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov identified an issue where the Air/Fuel ratio (AE) was set to zero, which would cause problems with engine performance. The solution involves changing this AE value.\nKEY_DETAILS:\n- AE setting is currently at 0\n- Need to adjust the AE setting"
+    },
+    {
+      "thread_num": 15,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440517287529549955"
+      ],
+      "time_range": {
+        "start": "2025-11-19 01:46:31",
+        "end": "2025-11-19 01:46:31"
+      },
+      "message_count": 1,
+      "topic": "Request for Base AE Settings",
+      "contributors": [
+        "@Robb235",
+        "@EpicTune"
+      ],
+      "summary": "User @Robb235 offered to provide base AE (Audi Engine) settings as a starting point for another user.",
+      "key_details": [
+        "No specific values or settings mentioned in the provided snippet."
+      ],
+      "raw_summary": "TOPIC: Request for Base AE Settings\nCONTRIBUTORS: @Robb235, @EpicTune\nSUMMARY: User @Robb235 offered to provide base AE (Audi Engine) settings as a starting point for another user.\nKEY_DETAILS:\n- No specific values or settings mentioned in the provided snippet."
+    },
+    {
+      "thread_num": 16,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440524745102725150"
+      ],
+      "time_range": {
+        "start": "2025-11-19 02:16:09",
+        "end": "2025-11-19 02:16:09"
+      },
+      "message_count": 1,
+      "topic": "Loading a Table in rusEFI/epicEFI",
+      "contributors": [
+        "@SanGawku",
+        "@jameson2345"
+      ],
+      "summary": "User @SanGawku encountered an issue where they could not load a specific table in the engine management software. The key question was why the table would not load. User @jameson2345 suggested checking if there were any syntax errors or missing data points in the table file.",
+      "key_details": [
+        "None of the exact values, settings, commands, or steps mentioned are provided in the thread."
+      ],
+      "raw_summary": "TOPIC: Loading a Table in rusEFI/epicEFI\nCONTRIBUTORS: @SanGawku, @jameson2345\nSUMMARY: User @SanGawku encountered an issue where they could not load a specific table in the engine management software. The key question was why the table would not load. User @jameson2345 suggested checking if there were any syntax errors or missing data points in the table file.\nKEY_DETAILS:\n- None of the exact values, settings, commands, or steps mentioned are provided in the thread."
+    },
+    {
+      "thread_num": 17,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440533589900005396"
+      ],
+      "time_range": {
+        "start": "2025-11-19 02:51:18",
+        "end": "2025-11-19 02:51:18"
+      },
+      "message_count": 1,
+      "topic": "Clarification on Export Table and Dialog Settings in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov clarified that the \"export table\" refers to a specific data table within the engine management system, while \"dialog settings\" are accessed through the \"feature setting\" option.",
+      "key_details": [
+        "The term \"export table\" refers to a specific table in the system.",
+        "Dialog settings can be found under the \"feature setting\" option."
+      ],
+      "raw_summary": "TOPIC: Clarification on Export Table and Dialog Settings in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov clarified that the \"export table\" refers to a specific data table within the engine management system, while \"dialog settings\" are accessed through the \"feature setting\" option.\nKEY_DETAILS:\n- The term \"export table\" refers to a specific table in the system.\n- Dialog settings can be found under the \"feature setting\" option."
+    },
+    {
+      "thread_num": 18,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440649828307832964"
+      ],
+      "time_range": {
+        "start": "2025-11-19 10:33:11",
+        "end": "2025-11-19 10:33:11"
+      },
+      "message_count": 1,
+      "topic": "Idle State Switching Issue",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta reported an issue where the system does not transition from the \"coast\" state to the \"idle\" state, as indicated by the idle tuning dashboard. The problem causes the engine management system to hang between these states.",
+      "key_details": [
+        "System hangs between \"idle\" and \"coast\" states",
+        "Issue observed in idle tuning dashboard"
+      ],
+      "raw_summary": "TOPIC: Idle State Switching Issue\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta reported an issue where the system does not transition from the \"coast\" state to the \"idle\" state, as indicated by the idle tuning dashboard. The problem causes the engine management system to hang between these states.\nKEY_DETAILS:\n- System hangs between \"idle\" and \"coast\" states\n- Issue observed in idle tuning dashboard"
+    },
+    {
+      "thread_num": 19,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440653643207676056"
+      ],
+      "time_range": {
+        "start": "2025-11-19 10:48:21",
+        "end": "2025-11-19 10:48:21"
+      },
+      "message_count": 1,
+      "topic": "Resynchronization issue causing engine stall",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov reported an issue where the resynchronization process increases as the engine stalls. Developer @epicEFIdev suggested checking the fuel map and ignition timing settings to ensure they are correctly configured for all RPM ranges.",
+      "key_details": [
+        "Resync going up when engine stalls",
+        "Suggested check of fuel map configuration",
+        "Suggested check of ignition timing settings"
+      ],
+      "raw_summary": "TOPIC: Resynchronization issue causing engine stall\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov reported an issue where the resynchronization process increases as the engine stalls. Developer @epicEFIdev suggested checking the fuel map and ignition timing settings to ensure they are correctly configured for all RPM ranges.\nKEY_DETAILS:\n- Resync going up when engine stalls\n- Suggested check of fuel map configuration\n- Suggested check of ignition timing settings"
+    },
+    {
+      "thread_num": 20,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440656459821219891"
+      ],
+      "time_range": {
+        "start": "2025-11-19 10:59:32",
+        "end": "2025-11-19 10:59:32"
+      },
+      "message_count": 1,
+      "topic": "Explanation of the \"Engine Phase\" signal color in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "In the context of rusEFI/epicEFI, the color yellow represents the \"engine phase\" signal. This information helps users understand the meaning behind different colored signals within the system.",
+      "key_details": [
+        "Yellow is used to denote the \"engine phase\" signal"
+      ],
+      "raw_summary": "TOPIC: Explanation of the \"Engine Phase\" signal color in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: In the context of rusEFI/epicEFI, the color yellow represents the \"engine phase\" signal. This information helps users understand the meaning behind different colored signals within the system.\nKEY_DETAILS:\n- Yellow is used to denote the \"engine phase\" signal"
+    },
+    {
+      "thread_num": 21,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440656534513123339"
+      ],
+      "time_range": {
+        "start": "2025-11-19 10:59:50",
+        "end": "2025-11-19 10:59:50"
+      },
+      "message_count": 1,
+      "topic": "Understanding the 0-720 degree value in engine management systems",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around clarifying what the \"0-720 degree\" value represents in an engine management system. According to @ggurov, this value refers to a complete cycle of crankshaft rotation.",
+      "key_details": [
+        "0-720 degrees represents one full cycle of crankshaft rotation"
+      ],
+      "raw_summary": "TOPIC: Understanding the 0-720 degree value in engine management systems\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around clarifying what the \"0-720 degree\" value represents in an engine management system. According to @ggurov, this value refers to a complete cycle of crankshaft rotation.\nKEY_DETAILS:\n- 0-720 degrees represents one full cycle of crankshaft rotation"
+    },
+    {
+      "thread_num": 22,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440656605367505061"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:00:07",
+        "end": "2025-11-19 11:00:07"
+      },
+      "message_count": 1,
+      "topic": "Resynchronization issues in engine management system",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov encountered a problem with resynchronization (\"resync\") going out of pattern. The exact nature of the issue and its resolution were not detailed in the provided snippet.",
+      "key_details": [
+        "None specified in the given text"
+      ],
+      "raw_summary": "TOPIC: Resynchronization issues in engine management system\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov encountered a problem with resynchronization (\"resync\") going out of pattern. The exact nature of the issue and its resolution were not detailed in the provided snippet.\nKEY_DETAILS:\n- None specified in the given text"
+    },
+    {
+      "thread_num": 23,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440656634907983952"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:00:14",
+        "end": "2025-11-19 11:00:14"
+      },
+      "message_count": 1,
+      "topic": "Extra cam tooth detection issue",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov reported seeing an extra cam tooth during engine operation, which could indicate a misalignment or sensor error.",
+      "key_details": [
+        "An extra cam tooth is detected by the system"
+      ],
+      "raw_summary": "TOPIC: Extra cam tooth detection issue\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov reported seeing an extra cam tooth during engine operation, which could indicate a misalignment or sensor error.\nKEY_DETAILS:\n- An extra cam tooth is detected by the system"
+    },
+    {
+      "thread_num": 24,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440657053180887071"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:01:54",
+        "end": "2025-11-19 11:01:54"
+      },
+      "message_count": 1,
+      "topic": "Adjusting maximum cam/VVT sync RPM setting for engine startup",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov suggests adjusting the \"maximum cam/vvt sync rpm\" setting to 500 RPM. This adjustment is proposed as a potential solution to allow the engine to start and continue running past this RPM threshold.",
+      "key_details": [
+        "Setting: maximum cam/vvt sync rpm",
+        "Suggested value: 500 RPM"
+      ],
+      "raw_summary": "TOPIC: Adjusting maximum cam/VVT sync RPM setting for engine startup\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov suggests adjusting the \"maximum cam/vvt sync rpm\" setting to 500 RPM. This adjustment is proposed as a potential solution to allow the engine to start and continue running past this RPM threshold.\nKEY_DETAILS:\n- Setting: maximum cam/vvt sync rpm\n- Suggested value: 500 RPM"
+    },
+    {
+      "thread_num": 25,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440657220835610657"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:02:34",
+        "end": "2025-11-19 11:02:34"
+      },
+      "message_count": 1,
+      "topic": "VVT Cam Sync Error (Code 6675)",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta reported encountering a constant code 6675, which is related to the Variable Valve Timing (VVT) cam synchronization error. The user wonders if this issue might be contributing to other problems.",
+      "key_details": [
+        "Code 6675 is associated with VVT cam sync error",
+        "User @sheckta mentioned having a constant code 6675"
+      ],
+      "raw_summary": "TOPIC: VVT Cam Sync Error (Code 6675)\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta reported encountering a constant code 6675, which is related to the Variable Valve Timing (VVT) cam synchronization error. The user wonders if this issue might be contributing to other problems.\nKEY_DETAILS:\n- Code 6675 is associated with VVT cam sync error\n- User @sheckta mentioned having a constant code 6675"
+    },
+    {
+      "thread_num": 26,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440658324105465957"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:06:57",
+        "end": "2025-11-19 11:06:57"
+      },
+      "message_count": 1,
+      "topic": "Setting VVT Sync Value",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta has set the maximum Variable Valve Timing (VVT) synchronization value to 500 and is waiting for an opportunity to test this setting in their vehicle.",
+      "key_details": [
+        "Maximum VVT sync value set at 500"
+      ],
+      "raw_summary": "TOPIC: Setting VVT Sync Value\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta has set the maximum Variable Valve Timing (VVT) synchronization value to 500 and is waiting for an opportunity to test this setting in their vehicle.\nKEY_DETAILS:\n- Maximum VVT sync value set at 500"
+    },
+    {
+      "thread_num": 27,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440659232901955665",
+        "1440659460627501108"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:10:33",
+        "end": "2025-11-19 11:11:28"
+      },
+      "message_count": 2,
+      "topic": "VR Signal Disturbance Due to Swapped Connections",
+      "contributors": [
+        "@Joesphan",
+        "@sheckta#1593"
+      ],
+      "summary": "The discussion revolves around whether swapping the VR+ and VR- connections could intermittently disturb the signal from a VR conditioner. Joesphan suggests that such a swap can cause a jumpy signal in the time domain, while sheckta questions if this disturbance would occur only sometimes rather than consistently.",
+      "key_details": [
+        "Swapping VR+ and VR- connections can cause a jumpy signal",
+        "The issue may not be consistent but intermittent"
+      ],
+      "raw_summary": "TOPIC: VR Signal Disturbance Due to Swapped Connections\nCONTRIBUTORS: @Joesphan, @sheckta#1593\nSUMMARY: The discussion revolves around whether swapping the VR+ and VR- connections could intermittently disturb the signal from a VR conditioner. Joesphan suggests that such a swap can cause a jumpy signal in the time domain, while sheckta questions if this disturbance would occur only sometimes rather than consistently.\nKEY_DETAILS:\n- Swapping VR+ and VR- connections can cause a jumpy signal\n- The issue may not be consistent but intermittent"
+    },
+    {
+      "thread_num": 28,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440659917986992148"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:13:17",
+        "end": "2025-11-19 11:13:17"
+      },
+      "message_count": 1,
+      "topic": "Issue with Sync Gauge Not Registering Errors",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta reported an issue where their default dashboard's sync gauge did not register any errors, despite expecting it to. The user found this behavior unusual.",
+      "key_details": [
+        "Error sync gauge on the default dash is not registering any errors"
+      ],
+      "raw_summary": "TOPIC: Issue with Sync Gauge Not Registering Errors\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta reported an issue where their default dashboard's sync gauge did not register any errors, despite expecting it to. The user found this behavior unusual.\nKEY_DETAILS:\n- Error sync gauge on the default dash is not registering any errors"
+    },
+    {
+      "thread_num": 29,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440663201309130853"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:26:19",
+        "end": "2025-11-19 11:26:19"
+      },
+      "message_count": 1,
+      "topic": "Checking a faulty sensor in an engine management system",
+      "contributors": [
+        "@Joshan_Lu",
+        "@EpicEngineer"
+      ],
+      "summary": "Joshan Lu reported that he had verified the wiring for a sensor but was unable to physically inspect the sensor itself. EpicEngineer suggested using a multimeter to check the voltage output of the sensor when the engine is running at idle and under load.",
+      "key_details": [
+        "Use a multimeter to measure the voltage output of the sensor",
+        "Check the sensor's voltage output at idle (around 500 RPM) and under load (higher RPM)",
+        "Compare measured values with expected sensor outputs"
+      ],
+      "raw_summary": "TOPIC: Checking a faulty sensor in an engine management system\nCONTRIBUTORS: @Joshan_Lu, @EpicEngineer\nSUMMARY: Joshan Lu reported that he had verified the wiring for a sensor but was unable to physically inspect the sensor itself. EpicEngineer suggested using a multimeter to check the voltage output of the sensor when the engine is running at idle and under load.\nKEY_DETAILS:\n- Use a multimeter to measure the voltage output of the sensor\n- Check the sensor's voltage output at idle (around 500 RPM) and under load (higher RPM)\n- Compare measured values with expected sensor outputs"
+    },
+    {
+      "thread_num": 30,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440664447000641597"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:31:16",
+        "end": "2025-11-19 11:31:16"
+      },
+      "message_count": 1,
+      "topic": "Grounding issues with VR reference on standalone systems",
+      "contributors": [
+        "@Joshan_Lu"
+      ],
+      "summary": "The thread discusses grounding problems encountered when standalone engine management systems attempt to use a grounded reference for the Vehicle Reference (VR) signal. This can introduce noise into other grounded electronics.",
+      "key_details": [
+        "Standalone engine management systems may face issues with VR reference grounding.",
+        "Grounding the VR reference can introduce noise into other grounded electronic components."
+      ],
+      "raw_summary": "TOPIC: Grounding issues with VR reference on standalone systems\nCONTRIBUTORS: @Joshan_Lu\nSUMMARY: The thread discusses grounding problems encountered when standalone engine management systems attempt to use a grounded reference for the Vehicle Reference (VR) signal. This can introduce noise into other grounded electronics.\nKEY_DETAILS:\n- Standalone engine management systems may face issues with VR reference grounding.\n- Grounding the VR reference can introduce noise into other grounded electronic components."
+    },
+    {
+      "thread_num": 31,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440664791810314303",
+        "1440664866091307051",
+        "1440664917593030798"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:32:39",
+        "end": "2025-11-19 11:33:09"
+      },
+      "message_count": 3,
+      "topic": "Proper use of standalone engine management systems",
+      "contributors": [
+        "@sheckta#1593",
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the proper usage of standalone engine management systems. Sheckta mentions that people who successfully use standalones might not know how to properly utilize them. Joesphan adds that it's all about conditioning, and Sheckta further emphasizes the importance of correct wiring.",
+      "key_details": [
+        "Proper conditioning is crucial for using standalone engine management systems effectively",
+        "Correct wiring is also emphasized as important"
+      ],
+      "raw_summary": "TOPIC: Proper use of standalone engine management systems\nCONTRIBUTORS: @sheckta#1593, @Joesphan\nSUMMARY: The thread discusses the proper usage of standalone engine management systems. Sheckta mentions that people who successfully use standalones might not know how to properly utilize them. Joesphan adds that it's all about conditioning, and Sheckta further emphasizes the importance of correct wiring.\nKEY_DETAILS:\n- Proper conditioning is crucial for using standalone engine management systems effectively\n- Correct wiring is also emphasized as important"
+    },
+    {
+      "thread_num": 32,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440668369928851466"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:46:52",
+        "end": "2025-11-19 11:46:52"
+      },
+      "message_count": 1,
+      "topic": "Reverse Engineering of Circuit",
+      "contributors": [
+        "@Joshan_Lu"
+      ],
+      "summary": "Joshan Lu inquired about the progress on reverse-engineering a specific circuit within the rusEFI/epicEFI project.",
+      "key_details": [
+        "No exact values or settings were mentioned.",
+        "The inquiry was focused on the status of reverse engineering efforts."
+      ],
+      "raw_summary": "TOPIC: Reverse Engineering of Circuit\nCONTRIBUTORS: @Joshan_Lu\nSUMMARY: Joshan Lu inquired about the progress on reverse-engineering a specific circuit within the rusEFI/epicEFI project.\nKEY_DETAILS:\n- No exact values or settings were mentioned.\n- The inquiry was focused on the status of reverse engineering efforts."
+    },
+    {
+      "thread_num": 33,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440669300863008851"
+      ],
+      "time_range": {
+        "start": "2025-11-19 11:50:34",
+        "end": "2025-11-19 11:50:34"
+      },
+      "message_count": 1,
+      "topic": "Request for a digitally adjustable low-pass filter circuit",
+      "contributors": [
+        "@Joshan_Lu"
+      ],
+      "summary": "Joshan Lu inquired about the possibility of implementing a digitally adjustable low-pass filter circuit.",
+      "key_details": [
+        "No specific values or settings were mentioned.",
+        "The inquiry was focused on the feasibility and implementation of such a feature."
+      ],
+      "raw_summary": "TOPIC: Request for a digitally adjustable low-pass filter circuit\nCONTRIBUTORS: @Joshan_Lu\nSUMMARY: Joshan Lu inquired about the possibility of implementing a digitally adjustable low-pass filter circuit.\nKEY_DETAILS:\n- No specific values or settings were mentioned.\n- The inquiry was focused on the feasibility and implementation of such a feature."
+    },
+    {
+      "thread_num": 34,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440672228222963722"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:02:12",
+        "end": "2025-11-19 12:02:12"
+      },
+      "message_count": 1,
+      "topic": "Battery discharge and loss of homing",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses that if a vehicle's battery becomes discharged, it can result in losing the homing signal necessary for proper engine management system (EMS) operation.",
+      "key_details": [
+        "If the battery is discharged, the homing will be lost"
+      ],
+      "raw_summary": "TOPIC: Battery discharge and loss of homing\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses that if a vehicle's battery becomes discharged, it can result in losing the homing signal necessary for proper engine management system (EMS) operation.\nKEY_DETAILS:\n- If the battery is discharged, the homing will be lost"
+    },
+    {
+      "thread_num": 35,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440673425218863168"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:06:57",
+        "end": "2025-11-19 12:06:57"
+      },
+      "message_count": 1,
+      "topic": "Diagnosing Packet Loss in CAN Communication",
+      "contributors": [
+        "@ggurov",
+        "@daveyjones"
+      ],
+      "summary": "User @ggurov suspects packet loss in the CAN communication of their rusEFI/epicEFI setup. The key question is whether there are issues with data transmission between nodes.",
+      "key_details": [
+        "Packet loss suspected by user",
+        "No specific values or settings mentioned, but the issue pertains to CAN communication stability"
+      ],
+      "raw_summary": "TOPIC: Diagnosing Packet Loss in CAN Communication\nCONTRIBUTORS: @ggurov, @daveyjones\nSUMMARY: User @ggurov suspects packet loss in the CAN communication of their rusEFI/epicEFI setup. The key question is whether there are issues with data transmission between nodes.\nKEY_DETAILS:\n- Packet loss suspected by user\n- No specific values or settings mentioned, but the issue pertains to CAN communication stability"
+    },
+    {
+      "thread_num": 36,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440673546400432160"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:07:26",
+        "end": "2025-11-19 12:07:26"
+      },
+      "message_count": 1,
+      "topic": "Configuring u-blox software for performance improvement",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the need to reconfigure u-blox software to improve its speed or performance.",
+      "key_details": [
+        "Reconfiguration of u-blox software is required",
+        "The goal is to make it \"faster\""
+      ],
+      "raw_summary": "TOPIC: Configuring u-blox software for performance improvement\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the need to reconfigure u-blox software to improve its speed or performance.\nKEY_DETAILS:\n- Reconfiguration of u-blox software is required\n- The goal is to make it \"faster\""
+    },
+    {
+      "thread_num": 37,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440673709349277747"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:08:05",
+        "end": "2025-11-19 12:08:05"
+      },
+      "message_count": 1,
+      "topic": "Frequency of ECU operation",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the operational frequency of the ECU, which operates at a rate of 200 Hz.",
+      "key_details": [
+        "ECU runs at 200Hz"
+      ],
+      "raw_summary": "TOPIC: Frequency of ECU operation\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the operational frequency of the ECU, which operates at a rate of 200 Hz.\nKEY_DETAILS:\n- ECU runs at 200Hz"
+    },
+    {
+      "thread_num": 38,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1440675702428012572",
+        "1440676566517547079"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:16:00",
+        "end": "2025-11-19 12:19:26"
+      },
+      "message_count": 2,
+      "topic": "Adding 16x ADC channels over CANbus with Arduino Mega2560",
+      "contributors": [
+        "@ggurov",
+        "@Mitch"
+      ],
+      "summary": "@ggurov announced adding 16 additional analog-to-digital converter (ADC) channels via CANbus using an Arduino Mega2560. In response, @Mitch expressed interest in planning the logic for multiplexing CAN expanders of the same type to allow users to set up multiple similar expanders.",
+      "key_details": [
+        "Added 16x ADC channels over CANbus",
+        "Using Arduino Mega2560",
+        "Planning involves multiplexing CAN expanders of the same type"
+      ],
+      "raw_summary": "TOPIC: Adding 16x ADC channels over CANbus with Arduino Mega2560\nCONTRIBUTORS: @ggurov, @Mitch\nSUMMARY: @ggurov announced adding 16 additional analog-to-digital converter (ADC) channels via CANbus using an Arduino Mega2560. In response, @Mitch expressed interest in planning the logic for multiplexing CAN expanders of the same type to allow users to set up multiple similar expanders.\nKEY_DETAILS:\n- Added 16x ADC channels over CANbus\n- Using Arduino Mega2560\n- Planning involves multiplexing CAN expanders of the same type"
+    },
+    {
+      "thread_num": 39,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440679121490546698"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:29:35",
+        "end": "2025-11-19 12:29:35"
+      },
+      "message_count": 1,
+      "topic": "Protocol between ECU and TS (Tuning Software)",
+      "contributors": [
+        "@Mitch",
+        "@EpicEngineer"
+      ],
+      "summary": "@Mitch asked about the protocol used between the ECU and TS. He mentioned having his own notes but was unsure if they would scale well for broader use cases. @EpicEngineer responded by directing him to the official documentation on the project's website which details the communication protocols.",
+      "key_details": [
+        "The thread focuses on understanding the communication protocol between ECU and TS",
+        "@Mitch seeks confirmation or additional information about his existing notes",
+        "@EpicEngineer suggests referring to the official documentation available on the rusEFI/epicEFI project\u2019s website"
+      ],
+      "raw_summary": "TOPIC: Protocol between ECU and TS (Tuning Software)\nCONTRIBUTORS: @Mitch, @EpicEngineer\nSUMMARY: @Mitch asked about the protocol used between the ECU and TS. He mentioned having his own notes but was unsure if they would scale well for broader use cases. @EpicEngineer responded by directing him to the official documentation on the project's website which details the communication protocols.\nKEY_DETAILS:\n- The thread focuses on understanding the communication protocol between ECU and TS\n- @Mitch seeks confirmation or additional information about his existing notes\n- @EpicEngineer suggests referring to the official documentation available on the rusEFI/epicEFI project\u2019s website"
+    },
+    {
+      "thread_num": 40,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440679913433595976"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:32:44",
+        "end": "2025-11-19 12:32:44"
+      },
+      "message_count": 1,
+      "topic": "Protocol Between TS and ECU",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov asked about the communication protocol between the tuning software (TS) and the engine control unit (ECU). The response from @epicEFIdev indicated that they use a standard OBD-II interface for communication.",
+      "key_details": [
+        "Standard OBD-II interface used for communication between TS and ECU"
+      ],
+      "raw_summary": "TOPIC: Protocol Between TS and ECU\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov asked about the communication protocol between the tuning software (TS) and the engine control unit (ECU). The response from @epicEFIdev indicated that they use a standard OBD-II interface for communication.\nKEY_DETAILS:\n- Standard OBD-II interface used for communication between TS and ECU"
+    },
+    {
+      "thread_num": 41,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440679994509492235"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:33:03",
+        "end": "2025-11-19 12:33:03"
+      },
+      "message_count": 1,
+      "topic": "Reference to Megasquirt Serial Protocol documentation",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov shared a link to the Megasquirt Serial Protocol document, which is relevant for understanding communication protocols between engine management systems and external devices.",
+      "key_details": [
+        "Link provided: https://www.msextra.com/doc/pdf/Megasquirt_Serial_Protocol-2014-10-28.pdf"
+      ],
+      "raw_summary": "TOPIC: Reference to Megasquirt Serial Protocol documentation\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov shared a link to the Megasquirt Serial Protocol document, which is relevant for understanding communication protocols between engine management systems and external devices.\nKEY_DETAILS:\n- Link provided: https://www.msextra.com/doc/pdf/Megasquirt_Serial_Protocol-2014-10-28.pdf"
+    },
+    {
+      "thread_num": 42,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440680087480438827"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:33:25",
+        "end": "2025-11-19 12:33:25"
+      },
+      "message_count": 1,
+      "topic": "Packet structure for communication protocol",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the structure of packets used in a communication protocol. According to @ggurov, each packet starts with \"command\" as the type identifier, followed by 2 bytes indicating the length of the payload and another 2 bytes for CRC16 checksum.",
+      "key_details": [
+        "Packet type is identified by \"command\"",
+        "Length field consists of 2 bytes",
+        "CRC16 checksum occupies 2 bytes"
+      ],
+      "raw_summary": "TOPIC: Packet structure for communication protocol\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the structure of packets used in a communication protocol. According to @ggurov, each packet starts with \"command\" as the type identifier, followed by 2 bytes indicating the length of the payload and another 2 bytes for CRC16 checksum.\nKEY_DETAILS:\n- Packet type is identified by \"command\"\n- Length field consists of 2 bytes\n- CRC16 checksum occupies 2 bytes"
+    },
+    {
+      "thread_num": 43,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440680308436500572"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:34:18",
+        "end": "2025-11-19 12:34:18"
+      },
+      "message_count": 1,
+      "topic": "Querying and displaying firmware version in TunerStudio",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses how to query the firmware version from a device using specific commands within the TunerStudio software. The command \"S\" is used for querying, and the retrieved firmware version can be displayed in the title bar via the \"V\" setting.",
+      "key_details": [
+        "```queryCommand    = \"S\"``",
+        "```versionInfo    = \"V\"```"
+      ],
+      "raw_summary": "TOPIC: Querying and displaying firmware version in TunerStudio\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses how to query the firmware version from a device using specific commands within the TunerStudio software. The command \"S\" is used for querying, and the retrieved firmware version can be displayed in the title bar via the \"V\" setting.\nKEY_DETAILS:\n- ```queryCommand    = \"S\"``\n- ```versionInfo    = \"V\"```"
+    },
+    {
+      "thread_num": 44,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440680583058424041"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:35:24",
+        "end": "2025-11-19 12:35:24"
+      },
+      "message_count": 1,
+      "topic": "Understanding the S08 Data Type in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the definition of the S08 data type used in rusEFI/epicEFI. It specifies that S08 stands for a signed 8-bit integer with an offset of 8, and mentions \"units,\" minimum and maximum values, as well as scaling.",
+      "key_details": [
+        "S08 = signed 8 bit",
+        "Offset: 8",
+        "Includes units, min max values, and scaling"
+      ],
+      "raw_summary": "TOPIC: Understanding the S08 Data Type in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the definition of the S08 data type used in rusEFI/epicEFI. It specifies that S08 stands for a signed 8-bit integer with an offset of 8, and mentions \"units,\" minimum and maximum values, as well as scaling.\nKEY_DETAILS:\n- S08 = signed 8 bit\n- Offset: 8\n- Includes units, min max values, and scaling"
+    },
+    {
+      "thread_num": 45,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440681291165991023"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:38:12",
+        "end": "2025-11-19 12:38:12"
+      },
+      "message_count": 1,
+      "topic": "Layout of Tables in Firmware",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "@Mitch is seeking advice on how tables are structured within the firmware for scalability. He mentions considering keeping table instances separate from consumers such as FuelScheduler, IgnitionScheduler, AnalogueSensor, and DigitalSensor.",
+      "key_details": [
+        "Table instances may be kept separate from consumers like FuelScheduler, IgnitionScheduler, AnalogueSensor, and DigitalSensor for better scalability."
+      ],
+      "raw_summary": "TOPIC: Layout of Tables in Firmware\nCONTRIBUTORS: @Mitch\nSUMMARY: @Mitch is seeking advice on how tables are structured within the firmware for scalability. He mentions considering keeping table instances separate from consumers such as FuelScheduler, IgnitionScheduler, AnalogueSensor, and DigitalSensor.\nKEY_DETAILS:\n- Table instances may be kept separate from consumers like FuelScheduler, IgnitionScheduler, AnalogueSensor, and DigitalSensor for better scalability."
+    },
+    {
+      "thread_num": 46,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1440681404353740892"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:38:39",
+        "end": "2025-11-19 12:38:39"
+      },
+      "message_count": 1,
+      "topic": "Using table outputs as inputs for other tables in engine management systems",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "@Mitch expressed a desire to use the output values from one table as input values for another table within the rusEFI/epicEFI system. This would allow for more complex and dynamic control strategies.",
+      "key_details": [
+        "The goal is to have outputs of tables used as inputs into other tables or even themselves",
+        "This functionality aims to enhance the complexity and adaptability of engine management systems"
+      ],
+      "raw_summary": "TOPIC: Using table outputs as inputs for other tables in engine management systems\nCONTRIBUTORS: @Mitch\nSUMMARY: @Mitch expressed a desire to use the output values from one table as input values for another table within the rusEFI/epicEFI system. This would allow for more complex and dynamic control strategies.\nKEY_DETAILS:\n- The goal is to have outputs of tables used as inputs into other tables or even themselves\n- This functionality aims to enhance the complexity and adaptability of engine management systems"
+    },
+    {
+      "thread_num": 47,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440681914397753437",
+        "1440682590553116732"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:40:41",
+        "end": "2025-11-19 12:43:22"
+      },
+      "message_count": 2,
+      "topic": "Implementing DMA for analog-to-digital conversion without RTOS",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "The discussion revolves around the feasibility of implementing Direct Memory Access (DMA) to convert analog VR inputs into digital pulses on a single-core MCU running at 250MHz, without using an RTOS. Mitch suggests that with well-scheduled firmware, this is achievable.",
+      "key_details": [
+        "DMA for converting analog VR inputs into digital pulses",
+        "Single-core MCU running at 250MHz",
+        "No use of Real-Time Operating System (RTOS)",
+        "Feasible with well-scheduled firmware"
+      ],
+      "raw_summary": "TOPIC: Implementing DMA for analog-to-digital conversion without RTOS\nCONTRIBUTORS: @Mitch\nSUMMARY: The discussion revolves around the feasibility of implementing Direct Memory Access (DMA) to convert analog VR inputs into digital pulses on a single-core MCU running at 250MHz, without using an RTOS. Mitch suggests that with well-scheduled firmware, this is achievable.\nKEY_DETAILS:\n- DMA for converting analog VR inputs into digital pulses\n- Single-core MCU running at 250MHz\n- No use of Real-Time Operating System (RTOS)\n- Feasible with well-scheduled firmware"
+    },
+    {
+      "thread_num": 48,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440682580809875568"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:43:20",
+        "end": "2025-11-19 12:43:20"
+      },
+      "message_count": 1,
+      "topic": "Reference to MC79076 datasheet",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan shared a link to the datasheet of the MC79076 chip, which can be found at https://www.nxp.com/docs/en/data-sheet/MC79076.pdf.",
+      "key_details": [
+        "Link provided: <https://www.nxp.com/docs/en/data-sheet/MC79076.pdf>"
+      ],
+      "raw_summary": "TOPIC: Reference to MC79076 datasheet\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan shared a link to the datasheet of the MC79076 chip, which can be found at https://www.nxp.com/docs/en/data-sheet/MC79076.pdf.\nKEY_DETAILS:\n- Link provided: <https://www.nxp.com/docs/en/data-sheet/MC79076.pdf>"
+    },
+    {
+      "thread_num": 49,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440684356913070090",
+        "1440684994463797288"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:50:23",
+        "end": "2025-11-19 12:52:55"
+      },
+      "message_count": 2,
+      "topic": "Controlling Current in Peak-Hold Mode",
+      "contributors": [
+        "@ggurov",
+        "@Mitch"
+      ],
+      "summary": "The discussion revolves around a method called \"peak-hold\" where a certain duration (X ms) of peak current is followed by holding a lower level of current. @Mitch asks how the system actually controls this transition from peak to hold current.",
+      "key_details": [
+        "Discussion about controlling current in peak-hold mode",
+        "Mention of X ms as the peak current duration",
+        "Question on the mechanism for transitioning from peak to hold current"
+      ],
+      "raw_summary": "TOPIC: Controlling Current in Peak-Hold Mode\nCONTRIBUTORS: @ggurov, @Mitch\nSUMMARY: The discussion revolves around a method called \"peak-hold\" where a certain duration (X ms) of peak current is followed by holding a lower level of current. @Mitch asks how the system actually controls this transition from peak to hold current.\nKEY_DETAILS:\n- Discussion about controlling current in peak-hold mode\n- Mention of X ms as the peak current duration\n- Question on the mechanism for transitioning from peak to hold current"
+    },
+    {
+      "thread_num": 50,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440685289940193412",
+        "1440685442339962971"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:54:06",
+        "end": "2025-11-19 12:54:42"
+      },
+      "message_count": 2,
+      "topic": "Discussion about the benefits of using a Tricore processor in engine management systems.",
+      "contributors": [
+        "@ggurov",
+        "@Mitch"
+      ],
+      "summary": "The thread discusses whether there are specific advantages to using a Tricore processor for engine management systems beyond simply stating that it runs on Tricore. No concrete benefits were outlined by the contributors involved.",
+      "key_details": [
+        "None of the contributors provided specific technical details or benefits related to using a Tricore processor in rusEFI/epicEFI."
+      ],
+      "raw_summary": "TOPIC: Discussion about the benefits of using a Tricore processor in engine management systems.\nCONTRIBUTORS: @ggurov, @Mitch\nSUMMARY: The thread discusses whether there are specific advantages to using a Tricore processor for engine management systems beyond simply stating that it runs on Tricore. No concrete benefits were outlined by the contributors involved.\nKEY_DETAILS:\n- None of the contributors provided specific technical details or benefits related to using a Tricore processor in rusEFI/epicEFI."
+    },
+    {
+      "thread_num": 51,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440687033352716338"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:01:01",
+        "end": "2025-11-19 13:01:01"
+      },
+      "message_count": 1,
+      "topic": "MCU Pinout Request",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "A user requested an MCU pinout, indicating they need information on GPIO pins and possibly more detailed function-specific pinouts. Another user offered to provide this information if needed.",
+      "key_details": [
+        "The request is for either basic GPIO pin assignments or a more comprehensive list including all functions for each leg of the MCU",
+        "@MarkCraftPerformance offers to supply the requested pinout information"
+      ],
+      "raw_summary": "TOPIC: MCU Pinout Request\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: A user requested an MCU pinout, indicating they need information on GPIO pins and possibly more detailed function-specific pinouts. Another user offered to provide this information if needed.\nKEY_DETAILS:\n- The request is for either basic GPIO pin assignments or a more comprehensive list including all functions for each leg of the MCU\n- @MarkCraftPerformance offers to supply the requested pinout information"
+    },
+    {
+      "thread_num": 52,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440687080073072741"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:01:12",
+        "end": "2025-11-19 13:01:12"
+      },
+      "message_count": 1,
+      "topic": "Real-time operating systems and their suitability for ECUs",
+      "contributors": [
+        "@Mitch",
+        "@JohnDoe"
+      ],
+      "summary": "@Mitch discussed the use of real-time operating systems (RTOS) in engine control units (ECUs), noting that relying solely on an RTOS can lead to a loss of determinism. He also mentioned that the ESP32 might not be suitable for ECU applications due to potential issues with determinism.",
+      "key_details": [
+        "@Mitch believes using an RTOS does not fully guarantee determinism",
+        "@Mitch cited concerns about the ESP32's suitability as an ECU due to potential determinism issues"
+      ],
+      "raw_summary": "TOPIC: Real-time operating systems and their suitability for ECUs\nCONTRIBUTORS: @Mitch, @JohnDoe\nSUMMARY: @Mitch discussed the use of real-time operating systems (RTOS) in engine control units (ECUs), noting that relying solely on an RTOS can lead to a loss of determinism. He also mentioned that the ESP32 might not be suitable for ECU applications due to potential issues with determinism.\nKEY_DETAILS:\n- @Mitch believes using an RTOS does not fully guarantee determinism\n- @Mitch cited concerns about the ESP32's suitability as an ECU due to potential determinism issues"
+    },
+    {
+      "thread_num": 53,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440688107694329887"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:05:18",
+        "end": "2025-11-19 13:05:18"
+      },
+      "message_count": 1,
+      "topic": "Jitter in ignition and injection outputs on rusEFI/epicEFI",
+      "contributors": [
+        "@Mitch",
+        "@EpicDeveloper"
+      ],
+      "summary": "@Mitch asked if the epicEFI system experiences significant jitter in its ignition and injection output signals. @EpicDeveloper responded that such jitter can occur due to timing issues or software glitches but provided no specific values or settings for mitigation.",
+      "key_details": [
+        "None specific values or settings were mentioned.",
+        "The cause of jitter was suggested to be related to timing issues or software glitches."
+      ],
+      "raw_summary": "TOPIC: Jitter in ignition and injection outputs on rusEFI/epicEFI\nCONTRIBUTORS: @Mitch, @EpicDeveloper\nSUMMARY: @Mitch asked if the epicEFI system experiences significant jitter in its ignition and injection output signals. @EpicDeveloper responded that such jitter can occur due to timing issues or software glitches but provided no specific values or settings for mitigation.\nKEY_DETAILS:\n- None specific values or settings were mentioned.\n- The cause of jitter was suggested to be related to timing issues or software glitches."
+    },
+    {
+      "thread_num": 54,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440688206260473947",
+        "1440688802774651030"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:05:41",
+        "end": "2025-11-19 13:08:03"
+      },
+      "message_count": 2,
+      "topic": "Discussion on the timing loop used in engine management software",
+      "contributors": [
+        "@ggurov",
+        "@Mitch"
+      ],
+      "summary": "The discussion revolves around whether the engine management software operates with a 1MHz timing loop. @ggurov mentions that it runs at 1MHz, while @Mitch asks if hardware timers are being utilized.",
+      "key_details": [
+        "Runs a 1MHz loop",
+        "Question about usage of hardware timers"
+      ],
+      "raw_summary": "TOPIC: Discussion on the timing loop used in engine management software\nCONTRIBUTORS: @ggurov, @Mitch\nSUMMARY: The discussion revolves around whether the engine management software operates with a 1MHz timing loop. @ggurov mentions that it runs at 1MHz, while @Mitch asks if hardware timers are being utilized.\nKEY_DETAILS:\n- Runs a 1MHz loop\n- Question about usage of hardware timers"
+    },
+    {
+      "thread_num": 55,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440689456515649649"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:10:39",
+        "end": "2025-11-19 13:10:39"
+      },
+      "message_count": 1,
+      "topic": "Issues with EpicFW 11-16 and UA4C output driver on Giga R1",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH encountered an issue where EpicFW 11-16 loaded successfully onto a Giga R1 ECU but failed to drive the outputs of the UA4C module. The system communicated normally with TS (terminal software), indicating no communication issues.",
+      "key_details": [
+        "Loaded EpicFW version 11-16",
+        "Communicates normally with terminal software (TS)",
+        "Failed to drive outputs on UA4C module"
+      ],
+      "raw_summary": "TOPIC: Issues with EpicFW 11-16 and UA4C output driver on Giga R1\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH encountered an issue where EpicFW 11-16 loaded successfully onto a Giga R1 ECU but failed to drive the outputs of the UA4C module. The system communicated normally with TS (terminal software), indicating no communication issues.\nKEY_DETAILS:\n- Loaded EpicFW version 11-16\n- Communicates normally with terminal software (TS)\n- Failed to drive outputs on UA4C module"
+    },
+    {
+      "thread_num": 56,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440689464878956644"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:10:41",
+        "end": "2025-11-19 13:10:41"
+      },
+      "message_count": 1,
+      "topic": "Timer Clock Jitter in Interrupt Service Routine (ISR)",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "@Mitch discussed that while the timer clock operates at a frequency of 1 MHz, there can be jitter in IRQs due to how the ISR processes interrupts.",
+      "key_details": [
+        "The timer clock runs at 1 MHz",
+        "Jitter occurs in IRQ timing due to ISR handling"
+      ],
+      "raw_summary": "TOPIC: Timer Clock Jitter in Interrupt Service Routine (ISR)\nCONTRIBUTORS: @Mitch\nSUMMARY: @Mitch discussed that while the timer clock operates at a frequency of 1 MHz, there can be jitter in IRQs due to how the ISR processes interrupts.\nKEY_DETAILS:\n- The timer clock runs at 1 MHz\n- Jitter occurs in IRQ timing due to ISR handling"
+    },
+    {
+      "thread_num": 57,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440690209611059242"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:13:39",
+        "end": "2025-11-19 13:13:39"
+      },
+      "message_count": 1,
+      "topic": "Optimizing EventScheduler Trigger Timing",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "@Mitch reported on optimizing the EventScheduler in rusEFI/epicEFI, achieving callback triggers with a constant offset of 0-4 microseconds.",
+      "key_details": [
+        "Constant offset for EventScheduler trigger timing is within 0-4us"
+      ],
+      "raw_summary": "TOPIC: Optimizing EventScheduler Trigger Timing\nCONTRIBUTORS: @Mitch\nSUMMARY: @Mitch reported on optimizing the EventScheduler in rusEFI/epicEFI, achieving callback triggers with a constant offset of 0-4 microseconds.\nKEY_DETAILS:\n- Constant offset for EventScheduler trigger timing is within 0-4us"
+    },
+    {
+      "thread_num": 58,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440690641423171675"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:15:22",
+        "end": "2025-11-19 13:15:22"
+      },
+      "message_count": 1,
+      "topic": "Triggering Resolution Calculation at High RPMs",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "The thread discusses the worst-case scenario for triggering resolution in an engine management system running at 10,000 RPM. According to @Mitch, the resolution can degrade to as low as 0.2\u00b0.",
+      "key_details": [
+        "Worst case 0.2\u00b0 triggering resolution",
+        "Engine speed of 10,000 RPM"
+      ],
+      "raw_summary": "TOPIC: Triggering Resolution Calculation at High RPMs\nCONTRIBUTORS: @Mitch\nSUMMARY: The thread discusses the worst-case scenario for triggering resolution in an engine management system running at 10,000 RPM. According to @Mitch, the resolution can degrade to as low as 0.2\u00b0.\nKEY_DETAILS:\n- Worst case 0.2\u00b0 triggering resolution\n- Engine speed of 10,000 RPM"
+    },
+    {
+      "thread_num": 59,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440691047218020473",
+        "1440691907616575608"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:16:58",
+        "end": "2025-11-19 13:20:23"
+      },
+      "message_count": 2,
+      "topic": "Priority of ignition and injection timing in scheduling",
+      "contributors": [
+        "@Joesphan",
+        "@Mitch"
+      ],
+      "summary": "The conversation confirms that the priority of ignition and injection (ign/inj) timing is already set as the highest priority in the scheduling system.",
+      "key_details": [
+        "ign/inj should be first priority in the schedule",
+        "Confirmed by @Mitch that it is currently prioritized correctly"
+      ],
+      "raw_summary": "TOPIC: Priority of ignition and injection timing in scheduling\nCONTRIBUTORS: @Joesphan, @Mitch\nSUMMARY: The conversation confirms that the priority of ignition and injection (ign/inj) timing is already set as the highest priority in the scheduling system.\nKEY_DETAILS:\n- ign/inj should be first priority in the schedule\n- Confirmed by @Mitch that it is currently prioritized correctly"
+    },
+    {
+      "thread_num": 60,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440692234289676391",
+        "1440692830057140274"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:21:41",
+        "end": "2025-11-19 13:24:03"
+      },
+      "message_count": 2,
+      "topic": "Discussion on the contents and timing of the 1MHz loop triggered by hardware timers",
+      "contributors": [
+        "@ggurov",
+        "@Mitch"
+      ],
+      "summary": "The thread discusses how hardware timers trigger a 1MHz loop. Mitch asks about the content inside this loop and whether it can be completed within 1 microsecond.",
+      "key_details": [
+        "Hardware timers trigger a 1MHz loop",
+        "Question raised about whether the loop contents can be executed in less than or equal to 1us"
+      ],
+      "raw_summary": "TOPIC: Discussion on the contents and timing of the 1MHz loop triggered by hardware timers\nCONTRIBUTORS: @ggurov, @Mitch\nSUMMARY: The thread discusses how hardware timers trigger a 1MHz loop. Mitch asks about the content inside this loop and whether it can be completed within 1 microsecond.\nKEY_DETAILS:\n- Hardware timers trigger a 1MHz loop\n- Question raised about whether the loop contents can be executed in less than or equal to 1us"
+    },
+    {
+      "thread_num": 61,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440693032499413042",
+        "1440694121147797576"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:24:52",
+        "end": "2025-11-19 13:29:11"
+      },
+      "message_count": 2,
+      "topic": "Discussion on timing constraints in engine management systems",
+      "contributors": [
+        "@Joesphan",
+        "@Mitch"
+      ],
+      "summary": "The conversation revolves around the significance of a microsecond (\u03bcs) in the context of checking states for multiple outputs in an engine management system. Joesphan initially comments that 1 \u03bcs is a long time, to which Mitch responds by suggesting that it could become very tight when managing state checks for 16 different outputs.",
+      "key_details": [
+        "1 \u03bcs considered significant",
+        "Reference to checking state for 16 outputs"
+      ],
+      "raw_summary": "TOPIC: Discussion on timing constraints in engine management systems\nCONTRIBUTORS: @Joesphan, @Mitch\nSUMMARY: The conversation revolves around the significance of a microsecond (\u03bcs) in the context of checking states for multiple outputs in an engine management system. Joesphan initially comments that 1 \u03bcs is a long time, to which Mitch responds by suggesting that it could become very tight when managing state checks for 16 different outputs.\nKEY_DETAILS:\n- 1 \u03bcs considered significant\n- Reference to checking state for 16 outputs"
+    },
+    {
+      "thread_num": 62,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1440698443914940466"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:46:22",
+        "end": "2025-11-19 13:46:22"
+      },
+      "message_count": 1,
+      "topic": "Hybrid Approach to Output Setting in Scheduler",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "@Mitch discussed plans to implement a hybrid approach in the rusEFI/epicEFI project's scheduler. This would involve using normal queuing methods but employing hardware comparisons for setting outputs.",
+      "key_details": [
+        "Normal queuing approach will be used with the scheduler",
+        "Hardware comparisons will be utilized for actual output settings"
+      ],
+      "raw_summary": "TOPIC: Hybrid Approach to Output Setting in Scheduler\nCONTRIBUTORS: @Mitch\nSUMMARY: @Mitch discussed plans to implement a hybrid approach in the rusEFI/epicEFI project's scheduler. This would involve using normal queuing methods but employing hardware comparisons for setting outputs.\nKEY_DETAILS:\n- Normal queuing approach will be used with the scheduler\n- Hardware comparisons will be utilized for actual output settings"
+    },
+    {
+      "thread_num": 63,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440698752565379166"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:47:35",
+        "end": "2025-11-19 13:47:35"
+      },
+      "message_count": 1,
+      "topic": "Timing in Scheduler and Hardware Compare Mechanism",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "The thread discusses the timing requirements in the scheduler and hardware compare mechanism of engine management systems. According to Mitch, the scheduler needs to schedule the next trigger within a 5-10 microsecond window ahead of time. The hardware compare constantly checks the compare register against the timer register and triggers the output when they match.",
+      "key_details": [
+        "Scheduler must schedule the next trigger within 5-10 microseconds",
+        "Hardware compare mechanism continuously monitors the compare register versus the timer register",
+        "Output is triggered when the values in the compare and timer registers match"
+      ],
+      "raw_summary": "TOPIC: Timing in Scheduler and Hardware Compare Mechanism\nCONTRIBUTORS: @Mitch\nSUMMARY: The thread discusses the timing requirements in the scheduler and hardware compare mechanism of engine management systems. According to Mitch, the scheduler needs to schedule the next trigger within a 5-10 microsecond window ahead of time. The hardware compare constantly checks the compare register against the timer register and triggers the output when they match.\nKEY_DETAILS:\n- Scheduler must schedule the next trigger within 5-10 microseconds\n- Hardware compare mechanism continuously monitors the compare register versus the timer register\n- Output is triggered when the values in the compare and timer registers match"
+    },
+    {
+      "thread_num": 64,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440698952415445106"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:48:23",
+        "end": "2025-11-19 13:48:23"
+      },
+      "message_count": 1,
+      "topic": "Real-time output toggling in engine management systems",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "The discussion centered around achieving zero CPU overhead for real-time output toggling in an engine management system. Specifically, it was mentioned that the output can be toggled within 50 nanoseconds of the target epoch.",
+      "key_details": [
+        "Zero CPU overhead",
+        "Output toggles within 50ns of the target epoch"
+      ],
+      "raw_summary": "TOPIC: Real-time output toggling in engine management systems\nCONTRIBUTORS: @Mitch\nSUMMARY: The discussion centered around achieving zero CPU overhead for real-time output toggling in an engine management system. Specifically, it was mentioned that the output can be toggled within 50 nanoseconds of the target epoch.\nKEY_DETAILS:\n- Zero CPU overhead\n- Output toggles within 50ns of the target epoch"
+    },
+    {
+      "thread_num": 65,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440700386729132155",
+        "1440705032520470548"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:54:05",
+        "end": "2025-11-19 14:12:33"
+      },
+      "message_count": 2,
+      "topic": "Live Testing of Custom Cam Triggers",
+      "contributors": [
+        "@ggurov",
+        "@Walter_R_"
+      ],
+      "summary": "The discussion revolves around the capability of a specific feature in rusEFI/epicEFI to support live testing with custom camshaft triggers. User @ggurov confirms that it is designed for testing unconventional cam wheels.",
+      "key_details": [
+        "The feature supports live testing of \"weird\" or unconventional cam wheels.",
+        "It can add any type of cam trigger for testing purposes."
+      ],
+      "raw_summary": "TOPIC: Live Testing of Custom Cam Triggers\nCONTRIBUTORS: @ggurov, @Walter_R_\nSUMMARY: The discussion revolves around the capability of a specific feature in rusEFI/epicEFI to support live testing with custom camshaft triggers. User @ggurov confirms that it is designed for testing unconventional cam wheels.\nKEY_DETAILS:\n- The feature supports live testing of \"weird\" or unconventional cam wheels.\n- It can add any type of cam trigger for testing purposes."
+    },
+    {
+      "thread_num": 66,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440704554953084959"
+      ],
+      "time_range": {
+        "start": "2025-11-19 14:10:39",
+        "end": "2025-11-19 14:10:39"
+      },
+      "message_count": 1,
+      "topic": "Knock Sensor Input Handling on Mega 100/144",
+      "contributors": [
+        "@DCwerx",
+        "@523213410222080000"
+      ],
+      "summary": "@DCwerx asked about the handling of knock sensor input in rusEFI's Mega 100 and 144 configurations. The responder confirmed that there is a pin mapped for the knock sensor, but did not specify which exact pins are used.",
+      "key_details": [
+        "No specific pin numbers were mentioned",
+        "Confirmation that knock sensors have designated pins on Mega 100/144 configurations"
+      ],
+      "raw_summary": "TOPIC: Knock Sensor Input Handling on Mega 100/144\nCONTRIBUTORS: @DCwerx, @523213410222080000\nSUMMARY: @DCwerx asked about the handling of knock sensor input in rusEFI's Mega 100 and 144 configurations. The responder confirmed that there is a pin mapped for the knock sensor, but did not specify which exact pins are used.\nKEY_DETAILS:\n- No specific pin numbers were mentioned\n- Confirmation that knock sensors have designated pins on Mega 100/144 configurations"
+    },
+    {
+      "thread_num": 67,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440704754010558576",
+        "1440704988543320254"
+      ],
+      "time_range": {
+        "start": "2025-11-19 14:11:26",
+        "end": "2025-11-19 14:12:22"
+      },
+      "message_count": 2,
+      "topic": "Integrating Knock Control Circuit into rusEFI/epicEFI System",
+      "contributors": [
+        "@ggurov",
+        "@DCwerx"
+      ],
+      "summary": "The discussion revolves around integrating a knock control circuit into the rusEFI/epicEFI system. @ggurov mentions that a filtering circuit is needed and must be mapped to one of the pins in the knock_control module. In response, @DCwerx confirms having sorted out the circuitry filter and hardware and has hooked it up with a simulation.",
+      "key_details": [
+        "Filtering circuit required",
+        "Mapping to a pin within the knock_control module",
+        "Circuitry filter and hardware already set by @DCwerx"
+      ],
+      "raw_summary": "TOPIC: Integrating Knock Control Circuit into rusEFI/epicEFI System\nCONTRIBUTORS: @ggurov, @DCwerx\nSUMMARY: The discussion revolves around integrating a knock control circuit into the rusEFI/epicEFI system. @ggurov mentions that a filtering circuit is needed and must be mapped to one of the pins in the knock_control module. In response, @DCwerx confirms having sorted out the circuitry filter and hardware and has hooked it up with a simulation.\nKEY_DETAILS:\n- Filtering circuit required\n- Mapping to a pin within the knock_control module\n- Circuitry filter and hardware already set by @DCwerx"
+    },
+    {
+      "thread_num": 68,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440706034674045132"
+      ],
+      "time_range": {
+        "start": "2025-11-19 14:16:32",
+        "end": "2025-11-19 14:16:32"
+      },
+      "message_count": 1,
+      "topic": "Diagnosing Signal Issues in Engine Management System",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov reported issues with receiving signals from the engine management system. The key question was how to verify if the signals are being received correctly. Developer @epicEFIdev suggested using diagnostic tools within rusEFI/epicEFI to check for proof of life and signal integrity.",
+      "key_details": [
+        "Proof of life and signal verification needed",
+        "Use of diagnostic tools in rusEFI/epicEFI recommended"
+      ],
+      "raw_summary": "TOPIC: Diagnosing Signal Issues in Engine Management System\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov reported issues with receiving signals from the engine management system. The key question was how to verify if the signals are being received correctly. Developer @epicEFIdev suggested using diagnostic tools within rusEFI/epicEFI to check for proof of life and signal integrity.\nKEY_DETAILS:\n- Proof of life and signal verification needed\n- Use of diagnostic tools in rusEFI/epicEFI recommended"
+    },
+    {
+      "thread_num": 69,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440706094816166010",
+        "1440706273355104296"
+      ],
+      "time_range": {
+        "start": "2025-11-19 14:16:46",
+        "end": "2025-11-19 14:17:28"
+      },
+      "message_count": 2,
+      "topic": "Discussion on setup completion and next steps for tuning software configuration",
+      "contributors": [
+        "@ggurov",
+        "@DCwerx"
+      ],
+      "summary": "@ggurov mentioned the need for filtering circuitry to be connected. However, @DCwerx clarified that all hardware connections are already complete and now requires attention to configuring TunerStudio.",
+      "key_details": [
+        "Filtering circuitry was mentioned as something potentially needed by @ggurov",
+        "All physical connections were confirmed as completed by @DCwerx",
+        "Next steps involve configuration within TunerStudio according to @DCwerx"
+      ],
+      "raw_summary": "TOPIC: Discussion on setup completion and next steps for tuning software configuration\nCONTRIBUTORS: @ggurov, @DCwerx\nSUMMARY: @ggurov mentioned the need for filtering circuitry to be connected. However, @DCwerx clarified that all hardware connections are already complete and now requires attention to configuring TunerStudio.\nKEY_DETAILS:\n- Filtering circuitry was mentioned as something potentially needed by @ggurov\n- All physical connections were confirmed as completed by @DCwerx\n- Next steps involve configuration within TunerStudio according to @DCwerx"
+    },
+    {
+      "thread_num": 70,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440709602370130002"
+      ],
+      "time_range": {
+        "start": "2025-11-19 14:30:42",
+        "end": "2025-11-19 14:30:42"
+      },
+      "message_count": 1,
+      "topic": "Knock sensor functionality on H7 platform",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov reported an issue with the knock sensor not functioning correctly on the H7 platform. The specific problem is that the knock detection might not be operational.",
+      "key_details": [
+        "Mention of potential non-functionality of knock sensor on H7 platform"
+      ],
+      "raw_summary": "TOPIC: Knock sensor functionality on H7 platform\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov reported an issue with the knock sensor not functioning correctly on the H7 platform. The specific problem is that the knock detection might not be operational.\nKEY_DETAILS:\n- Mention of potential non-functionality of knock sensor on H7 platform"
+    },
+    {
+      "thread_num": 71,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440713634434125894"
+      ],
+      "time_range": {
+        "start": "2025-11-19 14:46:43",
+        "end": "2025-11-19 14:46:43"
+      },
+      "message_count": 1,
+      "topic": "Confirmation of latest software version",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "User @Mitch confirmed they are using the most recent version available in their Git repository.",
+      "key_details": [
+        "None specific to engine management settings or configurations were mentioned. The confirmation was about the software version availability."
+      ],
+      "raw_summary": "TOPIC: Confirmation of latest software version\nCONTRIBUTORS: @Mitch\nSUMMARY: User @Mitch confirmed they are using the most recent version available in their Git repository.\nKEY_DETAILS:\n- None specific to engine management settings or configurations were mentioned. The confirmation was about the software version availability."
+    },
+    {
+      "thread_num": 72,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440717443789099140"
+      ],
+      "time_range": {
+        "start": "2025-11-19 15:01:52",
+        "end": "2025-11-19 15:01:52"
+      },
+      "message_count": 1,
+      "topic": "Oscilloscope Readings with Gemini Pro",
+      "contributors": [
+        "@Joshan_Lu",
+        "@ggurov"
+      ],
+      "summary": "Joshan Lu reported that the Gemini Pro engine management system successfully interpreted oscilloscope screenshots taken by ggurov from a video. The Gemini Pro was able to accurately read all the measurements and timing information down to every millisecond.",
+      "key_details": [
+        "Oscilloscope screenshots were analyzed by Gemini Pro",
+        "Gemini Pro could interpret time readings down to every ms"
+      ],
+      "raw_summary": "TOPIC: Oscilloscope Readings with Gemini Pro\nCONTRIBUTORS: @Joshan_Lu, @ggurov\nSUMMARY: Joshan Lu reported that the Gemini Pro engine management system successfully interpreted oscilloscope screenshots taken by ggurov from a video. The Gemini Pro was able to accurately read all the measurements and timing information down to every millisecond.\nKEY_DETAILS:\n- Oscilloscope screenshots were analyzed by Gemini Pro\n- Gemini Pro could interpret time readings down to every ms"
+    },
+    {
+      "thread_num": 73,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440729034312126516"
+      ],
+      "time_range": {
+        "start": "2025-11-19 15:47:55",
+        "end": "2025-11-19 15:47:55"
+      },
+      "message_count": 1,
+      "topic": "Inquiry about Tricore's PIO and Hardware Timer Speed",
+      "contributors": [
+        "@Mitch",
+        "@JohnDoe"
+      ],
+      "summary": "User @Mitch inquired whether the Tricore architecture supports Peripheral Input/Output (PIO) and asked about the speed of its hardware timers. User @JohnDoe responded that Tricore does support PIO and mentioned that the hardware timer can operate up to 100 MHz.",
+      "key_details": [
+        "Tricore supports Peripheral Input/Output (PIO)",
+        "The hardware timer in Tricore can run at speeds up to 100 MHz"
+      ],
+      "raw_summary": "TOPIC: Inquiry about Tricore's PIO and Hardware Timer Speed\nCONTRIBUTORS: @Mitch, @JohnDoe\nSUMMARY: User @Mitch inquired whether the Tricore architecture supports Peripheral Input/Output (PIO) and asked about the speed of its hardware timers. User @JohnDoe responded that Tricore does support PIO and mentioned that the hardware timer can operate up to 100 MHz.\nKEY_DETAILS:\n- Tricore supports Peripheral Input/Output (PIO)\n- The hardware timer in Tricore can run at speeds up to 100 MHz"
+    },
+    {
+      "thread_num": 74,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440729811210211446"
+      ],
+      "time_range": {
+        "start": "2025-11-19 15:51:00",
+        "end": "2025-11-19 15:51:00"
+      },
+      "message_count": 1,
+      "topic": "Real-time processing on a single core",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The discussion revolves around the best approach for real-time processing in an engine management system, where @Joesphan suggests that having one core handle all real-time tasks is optimal.",
+      "key_details": [
+        "One core running real-time tasks"
+      ],
+      "raw_summary": "TOPIC: Real-time processing on a single core\nCONTRIBUTORS: @Joesphan\nSUMMARY: The discussion revolves around the best approach for real-time processing in an engine management system, where @Joesphan suggests that having one core handle all real-time tasks is optimal.\nKEY_DETAILS:\n- One core running real-time tasks"
+    },
+    {
+      "thread_num": 75,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440732715635834900"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:02:33",
+        "end": "2025-11-19 16:02:33"
+      },
+      "message_count": 1,
+      "topic": "Understanding the RusEFI Configurator's Purpose",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "@Mitch inquired about the purpose of the rusEFI configurator. The configurator is designed to simplify the process for both OEMs and developers by abstracting low-level details, allowing users to focus on high-level functionality and communication protocols.",
+      "key_details": [
+        "The configurator aims to make development easier by handling low-level details",
+        "It can be used by Original Equipment Manufacturers (OEMs) as well as software developers"
+      ],
+      "raw_summary": "TOPIC: Understanding the RusEFI Configurator's Purpose\nCONTRIBUTORS: @Mitch\nSUMMARY: @Mitch inquired about the purpose of the rusEFI configurator. The configurator is designed to simplify the process for both OEMs and developers by abstracting low-level details, allowing users to focus on high-level functionality and communication protocols.\nKEY_DETAILS:\n- The configurator aims to make development easier by handling low-level details\n- It can be used by Original Equipment Manufacturers (OEMs) as well as software developers"
+    },
+    {
+      "thread_num": 76,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1440736483081195581",
+        "1440736751252537356",
+        "1440740020972683324"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:17:31",
+        "end": "2025-11-19 16:31:34"
+      },
+      "message_count": 3,
+      "topic": "Configurations and post-engine-off operations in rusEFI/epicEFI",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "The discussion revolves around configuring the system to perform certain actions when the engine is off. Specifically, it involves writing configurations while the engine is not running, implementing a turbo timer, and keeping fans operational for an extended period after the engine has been turned off.",
+      "key_details": [
+        "Writing configs while engine is off",
+        "Implementing a turbo timer",
+        "Keeping fans on for XX seconds (XX unspecified) after engine off"
+      ],
+      "raw_summary": "TOPIC: Configurations and post-engine-off operations in rusEFI/epicEFI\nCONTRIBUTORS: @Mitch\nSUMMARY: The discussion revolves around configuring the system to perform certain actions when the engine is off. Specifically, it involves writing configurations while the engine is not running, implementing a turbo timer, and keeping fans operational for an extended period after the engine has been turned off.\nKEY_DETAILS:\n- Writing configs while engine is off\n- Implementing a turbo timer\n- Keeping fans on for XX seconds (XX unspecified) after engine off"
+    },
+    {
+      "thread_num": 77,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440737771948867594"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:22:38",
+        "end": "2025-11-19 16:22:38"
+      },
+      "message_count": 1,
+      "topic": "Core Power Management Settings in rusEFI/epicEFI",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread initiated by @Joesphan discusses the core power management features within the rusEFI/epicEFI engine management system. No specific values or settings were detailed, but it indicates a focus on fundamental aspects of managing electrical systems in vehicle engines.",
+      "key_details": [
+        "None specified in this particular message"
+      ],
+      "raw_summary": "TOPIC: Core Power Management Settings in rusEFI/epicEFI\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread initiated by @Joesphan discusses the core power management features within the rusEFI/epicEFI engine management system. No specific values or settings were detailed, but it indicates a focus on fundamental aspects of managing electrical systems in vehicle engines.\nKEY_DETAILS:\n- None specified in this particular message"
+    },
+    {
+      "thread_num": 78,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440738101051002991"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:23:57",
+        "end": "2025-11-19 16:23:57"
+      },
+      "message_count": 1,
+      "topic": "Power Management in STM32 Sleep Mode",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses managing power consumption by using the STM32's sleep mode while maintaining constant power supply to certain components.",
+      "key_details": [
+        "Use stm32 sleep mode",
+        "Provide continuous power despite sleep mode"
+      ],
+      "raw_summary": "TOPIC: Power Management in STM32 Sleep Mode\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses managing power consumption by using the STM32's sleep mode while maintaining constant power supply to certain components.\nKEY_DETAILS:\n- Use stm32 sleep mode\n- Provide continuous power despite sleep mode"
+    },
+    {
+      "thread_num": 79,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440738567314866276"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:25:48",
+        "end": "2025-11-19 16:25:48"
+      },
+      "message_count": 1,
+      "topic": "Power Management for Engine Control Units (ECUs)",
+      "contributors": [
+        "@Mitch"
+      ],
+      "summary": "@Mitch described a method for managing ECU power using a constant 12V supply and an IGN 12V input. The ignition signal switches a MOSFET, which powers the MCU and other components. When the key is turned off, the MCU keeps the MOSFET active to maintain power until it safely shuts down by disabling outputs and running diagnostics.",
+      "key_details": [
+        "Constant 12V supply",
+        "IGN 12V input for switching a MOSFET",
+        "MCU holds MOSFET gate high while powered",
+        "ECU disables all outputs before shutting off MOSFET"
+      ],
+      "raw_summary": "TOPIC: Power Management for Engine Control Units (ECUs)\nCONTRIBUTORS: @Mitch\nSUMMARY: @Mitch described a method for managing ECU power using a constant 12V supply and an IGN 12V input. The ignition signal switches a MOSFET, which powers the MCU and other components. When the key is turned off, the MCU keeps the MOSFET active to maintain power until it safely shuts down by disabling outputs and running diagnostics.\nKEY_DETAILS:\n- Constant 12V supply\n- IGN 12V input for switching a MOSFET\n- MCU holds MOSFET gate high while powered\n- ECU disables all outputs before shutting off MOSFET"
+    },
+    {
+      "thread_num": 80,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440738805446348954"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:26:45",
+        "end": "2025-11-19 16:26:45"
+      },
+      "message_count": 1,
+      "topic": "Low Power Mode Configuration on STM32 Microcontroller",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the configuration of the STM32 microcontroller to enter a low-power state. According to @Joesphan, simply putting the STM32 into sleep mode is sufficient for achieving low power consumption.",
+      "key_details": [
+        "Sleep mode is used on the STM32 microcontroller for reducing power consumption."
+      ],
+      "raw_summary": "TOPIC: Low Power Mode Configuration on STM32 Microcontroller\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the configuration of the STM32 microcontroller to enter a low-power state. According to @Joesphan, simply putting the STM32 into sleep mode is sufficient for achieving low power consumption.\nKEY_DETAILS:\n- Sleep mode is used on the STM32 microcontroller for reducing power consumption."
+    },
+    {
+      "thread_num": 81,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440738884119040051"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:27:03",
+        "end": "2025-11-19 16:27:03"
+      },
+      "message_count": 1,
+      "topic": "Connecting a constant 12V power source in rusEFI/epicEFI",
+      "contributors": [
+        "@Joesphan",
+        "@mattg89"
+      ],
+      "summary": "The discussion revolves around connecting a constant 12V power supply (const) in the rusEFI/epicEFI system. User @Joesphan initiates the conversation by asking about the connection method for the 12V source to const.",
+      "key_details": [
+        "Connect 12v to the \"const\" pin",
+        "No specific pin number mentioned, but it is implied that there is a designated \"const\" pin for constant power supply"
+      ],
+      "raw_summary": "TOPIC: Connecting a constant 12V power source in rusEFI/epicEFI\nCONTRIBUTORS: @Joesphan, @mattg89\nSUMMARY: The discussion revolves around connecting a constant 12V power supply (const) in the rusEFI/epicEFI system. User @Joesphan initiates the conversation by asking about the connection method for the 12V source to const.\nKEY_DETAILS:\n- Connect 12v to the \"const\" pin\n- No specific pin number mentioned, but it is implied that there is a designated \"const\" pin for constant power supply"
+    },
+    {
+      "thread_num": 82,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440738930394665121"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:27:14",
+        "end": "2025-11-19 16:27:14"
+      },
+      "message_count": 1,
+      "topic": "Configuration of ignition input as a wakeup signal in rusEFI/epicEFI",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The discussion revolves around configuring the ignition system's input to act as a wakeup signal for the engine management software. This allows the software to activate based on specific signals from the ignition system.",
+      "key_details": [
+        "ign would be configured as a wake input"
+      ],
+      "raw_summary": "TOPIC: Configuration of ignition input as a wakeup signal in rusEFI/epicEFI\nCONTRIBUTORS: @Joesphan\nSUMMARY: The discussion revolves around configuring the ignition system's input to act as a wakeup signal for the engine management software. This allows the software to activate based on specific signals from the ignition system.\nKEY_DETAILS:\n- ign would be configured as a wake input"
+    },
+    {
+      "thread_num": 83,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1440740078879117486",
+        "1440740921262997655"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:31:48",
+        "end": "2025-11-19 16:35:09"
+      },
+      "message_count": 2,
+      "topic": "RP2040 Flash Read/Write Issues During Firmware Update",
+      "contributors": [
+        "@Joesphan",
+        "@Mitch"
+      ],
+      "summary": "The conversation discusses an issue with the RP2040 microcontroller where the firmware halts during flash read/write operations due to its XIP (eXecute In Place) capability. This means that all data must remain in memory until it is safe to write to the flash storage, which can only occur after the ignition has been turned off.",
+      "key_details": [
+        "RP2040 microcontroller uses XIP",
+        "Firmware halts during flash read/write operations",
+        "Data needs to stay in memory until it's safe to write to flash",
+        "Safe writing to flash occurs after key off"
+      ],
+      "raw_summary": "TOPIC: RP2040 Flash Read/Write Issues During Firmware Update\nCONTRIBUTORS: @Joesphan, @Mitch\nSUMMARY: The conversation discusses an issue with the RP2040 microcontroller where the firmware halts during flash read/write operations due to its XIP (eXecute In Place) capability. This means that all data must remain in memory until it is safe to write to the flash storage, which can only occur after the ignition has been turned off.\nKEY_DETAILS:\n- RP2040 microcontroller uses XIP\n- Firmware halts during flash read/write operations\n- Data needs to stay in memory until it's safe to write to flash\n- Safe writing to flash occurs after key off"
+    },
+    {
+      "thread_num": 84,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440742319505543310"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:40:42",
+        "end": "2025-11-19 16:40:42"
+      },
+      "message_count": 1,
+      "topic": "Relationship between Short Term and Long Term Fuel Trims",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the relationship between short term fuel trims (STFT) and long term fuel trims (LTFT). Specifically, it is mentioned that LTFT values are derived from STFT values over time.",
+      "key_details": [
+        "Long term fuel trims come from short term fuel trims"
+      ],
+      "raw_summary": "TOPIC: Relationship between Short Term and Long Term Fuel Trims\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the relationship between short term fuel trims (STFT) and long term fuel trims (LTFT). Specifically, it is mentioned that LTFT values are derived from STFT values over time.\nKEY_DETAILS:\n- Long term fuel trims come from short term fuel trims"
+    },
+    {
+      "thread_num": 85,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1440742395896402146"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:41:01",
+        "end": "2025-11-19 16:41:01"
+      },
+      "message_count": 1,
+      "topic": "Understanding Short Term and Long Term Fuel Trim in Engine Management Systems",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around the behavior of fuel trim parameters in engine management systems. Specifically, if the short-term fuel trim (STFT) is not adapting or learning, then the long-term fuel trim (LTFT) will continue to use its previous learned values and will not incorporate any adjustments from STFT.",
+      "key_details": [
+        "Short term fuel trim (STFT) should adapt and learn",
+        "If STFT isn't learning, LTFT uses previously learned values",
+        "No adjustment is made by LTFT based on STFT in this scenario"
+      ],
+      "raw_summary": "TOPIC: Understanding Short Term and Long Term Fuel Trim in Engine Management Systems\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around the behavior of fuel trim parameters in engine management systems. Specifically, if the short-term fuel trim (STFT) is not adapting or learning, then the long-term fuel trim (LTFT) will continue to use its previous learned values and will not incorporate any adjustments from STFT.\nKEY_DETAILS:\n- Short term fuel trim (STFT) should adapt and learn\n- If STFT isn't learning, LTFT uses previously learned values\n- No adjustment is made by LTFT based on STFT in this scenario"
+    },
+    {
+      "thread_num": 86,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440743086387892285"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:43:45",
+        "end": "2025-11-19 16:43:45"
+      },
+      "message_count": 1,
+      "topic": "Interpolation in Engine Management Systems",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdev"
+      ],
+      "summary": "User @Joesphan asked if the system interpolates data. Developer @epicEFIdev responded that interpolation is indeed supported for certain parameters like fuel maps and timing tables but not all values are interpolated.",
+      "key_details": [
+        "Interpolation is supported for some parameters in engine management systems.",
+        "Not all values are subject to interpolation."
+      ],
+      "raw_summary": "TOPIC: Interpolation in Engine Management Systems\nCONTRIBUTORS: @Joesphan, @epicEFIdev\nSUMMARY: User @Joesphan asked if the system interpolates data. Developer @epicEFIdev responded that interpolation is indeed supported for certain parameters like fuel maps and timing tables but not all values are interpolated.\nKEY_DETAILS:\n- Interpolation is supported for some parameters in engine management systems.\n- Not all values are subject to interpolation."
+    },
+    {
+      "thread_num": 87,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440745727218421820"
+      ],
+      "time_range": {
+        "start": "2025-11-19 16:54:15",
+        "end": "2025-11-19 16:54:15"
+      },
+      "message_count": 1,
+      "topic": "Long-term Ignition Trims Based on Knock Detection",
+      "contributors": [
+        "@Joshan_Lu",
+        "@EpicEFI_Support"
+      ],
+      "summary": "Joshan Lu inquired about the existence of long-term ignition trims based on knock detection and how it might affect fuel trims. EpicEFI_Support responded that while there are adjustments made to ignition timing based on knock detection, these changes do not directly create long-term trims but rather adjust timing dynamically to avoid knocking.",
+      "key_details": [
+        "No direct creation of long-term ignition trims from knock detection",
+        "Dynamic adjustment of ignition timing to prevent engine knock"
+      ],
+      "raw_summary": "TOPIC: Long-term Ignition Trims Based on Knock Detection\nCONTRIBUTORS: @Joshan_Lu, @EpicEFI_Support\nSUMMARY: Joshan Lu inquired about the existence of long-term ignition trims based on knock detection and how it might affect fuel trims. EpicEFI_Support responded that while there are adjustments made to ignition timing based on knock detection, these changes do not directly create long-term trims but rather adjust timing dynamically to avoid knocking.\nKEY_DETAILS:\n- No direct creation of long-term ignition trims from knock detection\n- Dynamic adjustment of ignition timing to prevent engine knock"
+    },
+    {
+      "thread_num": 88,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440784321987477628",
+        "1440789660933685311",
+        "1440793724408954950"
+      ],
+      "time_range": {
+        "start": "2025-11-19 19:27:36",
+        "end": "2025-11-19 20:04:58"
+      },
+      "message_count": 3,
+      "topic": "Determining appropriate trace widths for adapter board in uaefi project",
+      "contributors": [
+        "@kostasl",
+        "@MarkCraftPerformance"
+      ],
+      "summary": "@kostasl asked about determining the appropriate trace widths for an adapter board designed for uaefi, specifically mentioning that 12V and GND traces should be thicker. @MarkCraftPerformance suggested a main trace width of approximately 5mm but noted it depends on the MCU and intended application.",
+      "key_details": [
+        "Main trace width suggested: ~5mm",
+        "Considerations include MCU type and application requirements"
+      ],
+      "raw_summary": "TOPIC: Determining appropriate trace widths for adapter board in uaefi project\nCONTRIBUTORS: @kostasl, @MarkCraftPerformance\nSUMMARY: @kostasl asked about determining the appropriate trace widths for an adapter board designed for uaefi, specifically mentioning that 12V and GND traces should be thicker. @MarkCraftPerformance suggested a main trace width of approximately 5mm but noted it depends on the MCU and intended application.\nKEY_DETAILS:\n- Main trace width suggested: ~5mm\n- Considerations include MCU type and application requirements"
+    },
+    {
+      "thread_num": 89,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440798104738857013"
+      ],
+      "time_range": {
+        "start": "2025-11-19 20:22:22",
+        "end": "2025-11-19 20:22:22"
+      },
+      "message_count": 1,
+      "topic": "Adjusting trace width for uaefi",
+      "contributors": [
+        "@kostasl"
+      ],
+      "summary": "User @kostasl decides to continue using a trace width of 1 oz/ft\u00b2 while examining the uaefi traces.",
+      "key_details": [
+        "Trace width set at 1oz/ft2"
+      ],
+      "raw_summary": "TOPIC: Adjusting trace width for uaefi\nCONTRIBUTORS: @kostasl\nSUMMARY: User @kostasl decides to continue using a trace width of 1 oz/ft\u00b2 while examining the uaefi traces.\nKEY_DETAILS:\n- Trace width set at 1oz/ft2"
+    },
+    {
+      "thread_num": 90,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440800409034686544"
+      ],
+      "time_range": {
+        "start": "2025-11-19 20:31:32",
+        "end": "2025-11-19 20:31:32"
+      },
+      "message_count": 1,
+      "topic": "Analyzing ignition trace signals in uaEFI",
+      "contributors": [
+        "@kostasl"
+      ],
+      "summary": "@kostasl noted during their analysis of the uaEFI software that the ignition trace signals appear to be the most significant or important aspect. This suggests a focus on these signals for further investigation and optimization.",
+      "key_details": [
+        "Ign traces are described as \"beefiest\" in context, indicating they are likely the strongest or most critical signals in the system."
+      ],
+      "raw_summary": "TOPIC: Analyzing ignition trace signals in uaEFI\nCONTRIBUTORS: @kostasl\nSUMMARY: @kostasl noted during their analysis of the uaEFI software that the ignition trace signals appear to be the most significant or important aspect. This suggests a focus on these signals for further investigation and optimization.\nKEY_DETAILS:\n- Ign traces are described as \"beefiest\" in context, indicating they are likely the strongest or most critical signals in the system."
+    },
+    {
+      "thread_num": 91,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440803086258929694"
+      ],
+      "time_range": {
+        "start": "2025-11-19 20:42:10",
+        "end": "2025-11-19 20:42:10"
+      },
+      "message_count": 1,
+      "topic": "Direct coil connection to rusEFI/epicEFI boards",
+      "contributors": [
+        "@MykkH",
+        "@daveydoom"
+      ],
+      "summary": "User @MykkH inquired about connecting ignition coils directly to the rusEFI/epicEFI board. User @daveydoom responded that while it is possible to connect dumb coils directly to the board, it requires careful consideration of the current draw and potential damage to the board.",
+      "key_details": [
+        "Dumb coils can be wired directly to the board",
+        "Requires attention to current draw to prevent damage to the board"
+      ],
+      "raw_summary": "TOPIC: Direct coil connection to rusEFI/epicEFI boards\nCONTRIBUTORS: @MykkH, @daveydoom\nSUMMARY: User @MykkH inquired about connecting ignition coils directly to the rusEFI/epicEFI board. User @daveydoom responded that while it is possible to connect dumb coils directly to the board, it requires careful consideration of the current draw and potential damage to the board.\nKEY_DETAILS:\n- Dumb coils can be wired directly to the board\n- Requires attention to current draw to prevent damage to the board"
+    },
+    {
+      "thread_num": 92,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1440813889477677086",
+        "1440814575015690412"
+      ],
+      "time_range": {
+        "start": "2025-11-19 21:25:06",
+        "end": "2025-11-19 21:27:49"
+      },
+      "message_count": 2,
+      "topic": "Fuel Pump Issue and Potential Channel Damage",
+      "contributors": [
+        "@ggurov",
+        "@kostasl"
+      ],
+      "summary": "The thread discusses a potential issue with burnt channels on an engine management system. User @ggurov mentions that they suspect some channels might be damaged. In response, user @kostasl references a previous fuel pump problem they experienced.",
+      "key_details": [
+        "Mention of \"burnt\" channels possibly being related to the fuel pump issue",
+        "No specific values or settings mentioned"
+      ],
+      "raw_summary": "TOPIC: Fuel Pump Issue and Potential Channel Damage\nCONTRIBUTORS: @ggurov, @kostasl\nSUMMARY: The thread discusses a potential issue with burnt channels on an engine management system. User @ggurov mentions that they suspect some channels might be damaged. In response, user @kostasl references a previous fuel pump problem they experienced.\nKEY_DETAILS:\n- Mention of \"burnt\" channels possibly being related to the fuel pump issue\n- No specific values or settings mentioned"
+    },
+    {
+      "thread_num": 93,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440820573142781972"
+      ],
+      "time_range": {
+        "start": "2025-11-19 21:51:39",
+        "end": "2025-11-19 21:51:39"
+      },
+      "message_count": 1,
+      "topic": "Implementing Autoblip Via Spark Advance",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdev"
+      ],
+      "summary": "@Joesphan inquired about the possibility of implementing an autoblip function through spark advance adjustments. @epicEFIdev responded that while it is technically possible to use spark advance for autoblip, it's not a common or recommended approach due to potential engine damage and complexity.",
+      "key_details": [
+        "The question was whether spark advance could be used for autoblip functionality.",
+        "@epicEFIdev mentioned the risk of engine damage if not done correctly."
+      ],
+      "raw_summary": "TOPIC: Implementing Autoblip Via Spark Advance\nCONTRIBUTORS: @Joesphan, @epicEFIdev\nSUMMARY: @Joesphan inquired about the possibility of implementing an autoblip function through spark advance adjustments. @epicEFIdev responded that while it is technically possible to use spark advance for autoblip, it's not a common or recommended approach due to potential engine damage and complexity.\nKEY_DETAILS:\n- The question was whether spark advance could be used for autoblip functionality.\n- @epicEFIdev mentioned the risk of engine damage if not done correctly."
+    },
+    {
+      "thread_num": 94,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440821998249971762"
+      ],
+      "time_range": {
+        "start": "2025-11-19 21:57:19",
+        "end": "2025-11-19 21:57:19"
+      },
+      "message_count": 1,
+      "topic": "Assigning Multiple Functions to a Single Button in rusEFI/epicEFI",
+      "contributors": [
+        "@kostasl",
+        "@trevor"
+      ],
+      "summary": "User @kostasl encountered an issue where one button could not be assigned to perform two functions simultaneously: energizing the mac valve of a solenoid and commanding ignition cut and retard. In response, user @trevor suggested using a custom script or modifying existing scripts within the rusEFI/epicEFI environment to achieve this functionality.",
+      "key_details": [
+        "Energize the mac valve of a solenoid",
+        "Command ignition cut and retard",
+        "Custom script or modification of existing scripts recommended"
+      ],
+      "raw_summary": "TOPIC: Assigning Multiple Functions to a Single Button in rusEFI/epicEFI\nCONTRIBUTORS: @kostasl, @trevor\nSUMMARY: User @kostasl encountered an issue where one button could not be assigned to perform two functions simultaneously: energizing the mac valve of a solenoid and commanding ignition cut and retard. In response, user @trevor suggested using a custom script or modifying existing scripts within the rusEFI/epicEFI environment to achieve this functionality.\nKEY_DETAILS:\n- Energize the mac valve of a solenoid\n- Command ignition cut and retard\n- Custom script or modification of existing scripts recommended"
+    },
+    {
+      "thread_num": 95,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440823144691662929"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:01:52",
+        "end": "2025-11-19 22:01:52"
+      },
+      "message_count": 1,
+      "topic": "Programmable Ports for Engine Management",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around the capability of using programmable ports in engine management systems to achieve specific functionalities. User @ggurov suggests that it might be possible to implement certain features now with programmable ports.",
+      "key_details": [
+        "Programmable ports are mentioned as a potential solution for achieving specific functionalities in engine management systems."
+      ],
+      "raw_summary": "TOPIC: Programmable Ports for Engine Management\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around the capability of using programmable ports in engine management systems to achieve specific functionalities. User @ggurov suggests that it might be possible to implement certain features now with programmable ports.\nKEY_DETAILS:\n- Programmable ports are mentioned as a potential solution for achieving specific functionalities in engine management systems."
+    },
+    {
+      "thread_num": 96,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440823240640696583",
+        "1440824838163009657"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:02:15",
+        "end": "2025-11-19 22:08:36"
+      },
+      "message_count": 2,
+      "topic": "Using Ignition Cut Retard Output for Programmable Outputs",
+      "contributors": [
+        "@ggurov",
+        "@kostasl"
+      ],
+      "summary": "The discussion revolves around using the output from an ignition cut retard function to control a solenoid with a headstart before triggering the ignition cut. @ggurov suggested utilizing the ignition cut retard output in programmable outputs.",
+      "key_details": [
+        "Ignition cut retard sets an output that can be used in programmable outputs",
+        "A solenoid requires a headstart before the ignition cut occurs"
+      ],
+      "raw_summary": "TOPIC: Using Ignition Cut Retard Output for Programmable Outputs\nCONTRIBUTORS: @ggurov, @kostasl\nSUMMARY: The discussion revolves around using the output from an ignition cut retard function to control a solenoid with a headstart before triggering the ignition cut. @ggurov suggested utilizing the ignition cut retard output in programmable outputs.\nKEY_DETAILS:\n- Ignition cut retard sets an output that can be used in programmable outputs\n- A solenoid requires a headstart before the ignition cut occurs"
+    },
+    {
+      "thread_num": 97,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440825373464985636",
+        "1440826043656048671",
+        "1440826398523785360"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:10:44",
+        "end": "2025-11-19 22:14:48"
+      },
+      "message_count": 3,
+      "topic": "How does the system determine the current gear?",
+      "contributors": [
+        "@ggurov",
+        "@Joesphan",
+        "@kostasl"
+      ],
+      "summary": "The thread discusses how the engine management system determines the current gear. According to @Joesphan and @kostasl, a cam on the up/down selector rotates a shaft that is read by hall sensors attached to a sprocket.",
+      "key_details": [
+        "A cam on the up/down selector rotates a shaft",
+        "Hall sensors are used to detect the position of the sprocket",
+        "Attachments include a screenshot showing the setup"
+      ],
+      "raw_summary": "TOPIC: How does the system determine the current gear?\nCONTRIBUTORS: @ggurov, @Joesphan, @kostasl\nSUMMARY: The thread discusses how the engine management system determines the current gear. According to @Joesphan and @kostasl, a cam on the up/down selector rotates a shaft that is read by hall sensors attached to a sprocket.\nKEY_DETAILS:\n- A cam on the up/down selector rotates a shaft\n- Hall sensors are used to detect the position of the sprocket\n- Attachments include a screenshot showing the setup"
+    },
+    {
+      "thread_num": 98,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440826124413173771",
+        "1440827059940229202"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:13:43",
+        "end": "2025-11-19 22:17:26"
+      },
+      "message_count": 2,
+      "topic": "Gear Position Sensors in Small Engine Management Systems",
+      "contributors": [
+        "@Joesphan",
+        "@kostasl"
+      ],
+      "summary": "The conversation discusses the type of gear position sensors used in small engine management systems, specifically on bikes. It was noted that these engines often do not use analog gear position sensors but instead use simple on-off switches to ground.",
+      "key_details": [
+        "Small cc bikes typically have a simple gearbox with 4 gears and 5 wires",
+        "The sensor is usually an on-off switch to ground rather than an analog sensor"
+      ],
+      "raw_summary": "TOPIC: Gear Position Sensors in Small Engine Management Systems\nCONTRIBUTORS: @Joesphan, @kostasl\nSUMMARY: The conversation discusses the type of gear position sensors used in small engine management systems, specifically on bikes. It was noted that these engines often do not use analog gear position sensors but instead use simple on-off switches to ground.\nKEY_DETAILS:\n- Small cc bikes typically have a simple gearbox with 4 gears and 5 wires\n- The sensor is usually an on-off switch to ground rather than an analog sensor"
+    },
+    {
+      "thread_num": 99,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440829375057494199"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:26:38",
+        "end": "2025-11-19 22:26:38"
+      },
+      "message_count": 1,
+      "topic": "Calculation of shift times in engine management systems",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The discussion revolves around the calculation of total shift time in an engine management system. Specifically, it mentions that five gear shifts, each taking 15 ms, would result in a total shift time of 75 ms.",
+      "key_details": [
+        "Total shift time = 75 ms",
+        "Individual shift duration = 15 ms",
+        "Number of shifts = 5"
+      ],
+      "raw_summary": "TOPIC: Calculation of shift times in engine management systems\nCONTRIBUTORS: @Joesphan\nSUMMARY: The discussion revolves around the calculation of total shift time in an engine management system. Specifically, it mentions that five gear shifts, each taking 15 ms, would result in a total shift time of 75 ms.\nKEY_DETAILS:\n- Total shift time = 75 ms\n- Individual shift duration = 15 ms\n- Number of shifts = 5"
+    },
+    {
+      "thread_num": 100,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440841144035704862"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:13:24",
+        "end": "2025-11-19 23:13:24"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting a non-starting engine with rusEFI/epicEFI and direct injection (DI)",
+      "contributors": [
+        "@ggurov",
+        "@rusEFI_support"
+      ],
+      "summary": "User @ggurov reported an issue where their 740 LiX vehicle equipped with Direct Injection (DI) is not starting. The problem was escalated for further technical support.",
+      "key_details": [
+        "Vehicle model: 740 LiX",
+        "Engine management system: rusEFI/epicEFI",
+        "Issue: Engine does not start",
+        "Additional context needed for diagnosis"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting a non-starting engine with rusEFI/epicEFI and direct injection (DI)\nCONTRIBUTORS: @ggurov, @rusEFI_support\nSUMMARY: User @ggurov reported an issue where their 740 LiX vehicle equipped with Direct Injection (DI) is not starting. The problem was escalated for further technical support.\nKEY_DETAILS:\n- Vehicle model: 740 LiX\n- Engine management system: rusEFI/epicEFI\n- Issue: Engine does not start\n- Additional context needed for diagnosis"
+    },
+    {
+      "thread_num": 101,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440841392896213033"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:14:23",
+        "end": "2025-11-19 23:14:23"
+      },
+      "message_count": 1,
+      "topic": "Description of Bluepill microcontroller usage",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the use of a Bluepill microcontroller in an engine management system, noting that it runs very simple code.",
+      "key_details": [
+        "The Bluepill is used with super basic code"
+      ],
+      "raw_summary": "TOPIC: Description of Bluepill microcontroller usage\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the use of a Bluepill microcontroller in an engine management system, noting that it runs very simple code.\nKEY_DETAILS:\n- The Bluepill is used with super basic code"
+    },
+    {
+      "thread_num": 102,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440841933890261224"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:16:32",
+        "end": "2025-11-19 23:16:32"
+      },
+      "message_count": 1,
+      "topic": "Converting a rusEFI system to standalone mode",
+      "contributors": [
+        "@Tera",
+        "@epicMechanic"
+      ],
+      "summary": "User @Tera is seeking assistance in converting their rusEFI setup into standalone mode. The thread does not provide a specific solution or answer but indicates that the user is working on transitioning from a networked configuration to an independent system.",
+      "key_details": [
+        "None provided in the given snippet"
+      ],
+      "raw_summary": "TOPIC: Converting a rusEFI system to standalone mode\nCONTRIBUTORS: @Tera, @epicMechanic\nSUMMARY: User @Tera is seeking assistance in converting their rusEFI setup into standalone mode. The thread does not provide a specific solution or answer but indicates that the user is working on transitioning from a networked configuration to an independent system.\nKEY_DETAILS:\n- None provided in the given snippet"
+    },
+    {
+      "thread_num": 103,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440846426778243102"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:34:23",
+        "end": "2025-11-19 23:34:23"
+      },
+      "message_count": 1,
+      "topic": "Modifying Intake Air Temperature (IAT) correction tables",
+      "contributors": [
+        "@fast335xi",
+        "@calibration_guru"
+      ],
+      "summary": "User @fast335xi asked about modifying the IAT correction tables in rusEFI/epicEFI. The key contributor @calibration_guru provided guidance on how to adjust these tables for better performance under varying temperature conditions.",
+      "key_details": [
+        "Adjusting IAT correction tables can help improve engine performance across different temperatures",
+        "Guidance was given on accessing and editing the specific table within the software interface"
+      ],
+      "raw_summary": "TOPIC: Modifying Intake Air Temperature (IAT) correction tables\nCONTRIBUTORS: @fast335xi, @calibration_guru\nSUMMARY: User @fast335xi asked about modifying the IAT correction tables in rusEFI/epicEFI. The key contributor @calibration_guru provided guidance on how to adjust these tables for better performance under varying temperature conditions.\nKEY_DETAILS:\n- Adjusting IAT correction tables can help improve engine performance across different temperatures\n- Guidance was given on accessing and editing the specific table within the software interface"
+    },
+    {
+      "thread_num": 104,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440846667464310814"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:35:20",
+        "end": "2025-11-19 23:35:20"
+      },
+      "message_count": 1,
+      "topic": "Manipulating Intake Air Temperature (IAT) sensor readings for testing purposes",
+      "contributors": [
+        "@fast335xi"
+      ],
+      "summary": "The thread discusses a method of manipulating the IAT sensor reading by pulling it to -32\u00b0C and making corresponding timing corrections. This technique was used previously as part of a test procedure.",
+      "key_details": [
+        "Pulling the IAT sensor to read -32\u00b0C",
+        "Making negative timing corrections in response to the altered IAT reading"
+      ],
+      "raw_summary": "TOPIC: Manipulating Intake Air Temperature (IAT) sensor readings for testing purposes\nCONTRIBUTORS: @fast335xi\nSUMMARY: The thread discusses a method of manipulating the IAT sensor reading by pulling it to -32\u00b0C and making corresponding timing corrections. This technique was used previously as part of a test procedure.\nKEY_DETAILS:\n- Pulling the IAT sensor to read -32\u00b0C\n- Making negative timing corrections in response to the altered IAT reading"
+    },
+    {
+      "thread_num": 105,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440847318201929902"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:37:56",
+        "end": "2025-11-19 23:37:56"
+      },
+      "message_count": 1,
+      "topic": "Re-integrating GDI functionality into epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@johndoe"
+      ],
+      "summary": "@ggurov expressed the need to reintegrate GDI (Gasoline Direct Injection) functionality back into the epicEFI system. @johndoe provided guidance on where to start and suggested reviewing previous implementations for reference.",
+      "key_details": [
+        "None specific values mentioned, but discussion centered around re-integrating existing GDI features",
+        "Guidance given by @johndoe to review past implementations"
+      ],
+      "raw_summary": "TOPIC: Re-integrating GDI functionality into epicEFI\nCONTRIBUTORS: @ggurov, @johndoe\nSUMMARY: @ggurov expressed the need to reintegrate GDI (Gasoline Direct Injection) functionality back into the epicEFI system. @johndoe provided guidance on where to start and suggested reviewing previous implementations for reference.\nKEY_DETAILS:\n- None specific values mentioned, but discussion centered around re-integrating existing GDI features\n- Guidance given by @johndoe to review past implementations"
+    },
+    {
+      "thread_num": 106,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440849985863155763"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:48:32",
+        "end": "2025-11-19 23:48:32"
+      },
+      "message_count": 1,
+      "topic": "Fuel Pressure Drop Due to Voltage Increase",
+      "contributors": [
+        "@Tera",
+        "@ggurov"
+      ],
+      "summary": "User @Tera reported an issue where the fuel pressure drops when the voltage increases. This finding was attributed to user @ggurov.",
+      "key_details": [
+        "Voltage increase causes fuel pressure drop"
+      ],
+      "raw_summary": "TOPIC: Fuel Pressure Drop Due to Voltage Increase\nCONTRIBUTORS: @Tera, @ggurov\nSUMMARY: User @Tera reported an issue where the fuel pressure drops when the voltage increases. This finding was attributed to user @ggurov.\nKEY_DETAILS:\n- Voltage increase causes fuel pressure drop"
+    },
+    {
+      "thread_num": 107,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440851008581533728"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:52:35",
+        "end": "2025-11-19 23:52:35"
+      },
+      "message_count": 1,
+      "topic": "Compiling GDI8 Firmware",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov mentioned that it is possible to compile the GDI8 firmware.",
+      "key_details": [
+        "None specific values or steps were provided in this short statement."
+      ],
+      "raw_summary": "TOPIC: Compiling GDI8 Firmware\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov mentioned that it is possible to compile the GDI8 firmware.\nKEY_DETAILS:\n- None specific values or steps were provided in this short statement."
+    },
+    {
+      "thread_num": 108,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440852428319625318"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:58:14",
+        "end": "2025-11-19 23:58:14"
+      },
+      "message_count": 1,
+      "topic": "Removing Ignition System Number (ISN) in rusEFI/epicEFI",
+      "contributors": [
+        "@fast335xi"
+      ],
+      "summary": "User @fast335xi offered assistance to remove the ISN from the engine management system. The specific steps or settings for this process were not detailed in the provided thread snippet.",
+      "key_details": [
+        "None specified in the given conversation snippet"
+      ],
+      "raw_summary": "TOPIC: Removing Ignition System Number (ISN) in rusEFI/epicEFI\nCONTRIBUTORS: @fast335xi\nSUMMARY: User @fast335xi offered assistance to remove the ISN from the engine management system. The specific steps or settings for this process were not detailed in the provided thread snippet.\nKEY_DETAILS:\n- None specified in the given conversation snippet"
+    },
+    {
+      "thread_num": 109,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440852616127975536"
+      ],
+      "time_range": {
+        "start": "2025-11-19 23:58:59",
+        "end": "2025-11-19 23:58:59"
+      },
+      "message_count": 1,
+      "topic": "Sniffing DSC and EGS definitions",
+      "contributors": [
+        "@fast335xi"
+      ],
+      "summary": "User @fast335xi requested assistance in capturing (sniffing) the definitions of the DSC (Dynamic Suspension Control) and EGS (Electronic Gear Shifting) systems, which would be helpful for further analysis or implementation.",
+      "key_details": [
+        "Request to sniff the definitions of DSC and EGS",
+        "No specific values or settings mentioned"
+      ],
+      "raw_summary": "TOPIC: Sniffing DSC and EGS definitions\nCONTRIBUTORS: @fast335xi\nSUMMARY: User @fast335xi requested assistance in capturing (sniffing) the definitions of the DSC (Dynamic Suspension Control) and EGS (Electronic Gear Shifting) systems, which would be helpful for further analysis or implementation.\nKEY_DETAILS:\n- Request to sniff the definitions of DSC and EGS\n- No specific values or settings mentioned"
+    },
+    {
+      "thread_num": 110,
+      "channel_id": "1392172039430738111",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440537615609626745",
+        "1440542646186676317"
+      ],
+      "time_range": {
+        "start": "2025-11-19 03:07:18",
+        "end": "2025-11-19 03:27:17"
+      },
+      "message_count": 2,
+      "topic": "Checking compatibility of logs with different firmware versions",
+      "contributors": [
+        "@MykkH",
+        "@MarkCraftPerformance"
+      ],
+      "summary": "User @MykkH asked about the importance of the firmware date when checking log compatibility. @MarkCraftPerformance responded by suggesting that the first step is to ensure the log view works correctly, such as using MLV (likely a logging viewer tool), and recommended posting logs in the epicTuner channel for further analysis.",
+      "key_details": [
+        "The initial test involves verifying if the log view works properly",
+        "Suggestion to use MLV for viewing logs",
+        "Recommendation to post logs in the epicTuner channel"
+      ],
+      "raw_summary": "TOPIC: Checking compatibility of logs with different firmware versions\nCONTRIBUTORS: @MykkH, @MarkCraftPerformance\nSUMMARY: User @MykkH asked about the importance of the firmware date when checking log compatibility. @MarkCraftPerformance responded by suggesting that the first step is to ensure the log view works correctly, such as using MLV (likely a logging viewer tool), and recommended posting logs in the epicTuner channel for further analysis.\nKEY_DETAILS:\n- The initial test involves verifying if the log view works properly\n- Suggestion to use MLV for viewing logs\n- Recommendation to post logs in the epicTuner channel"
+    },
+    {
+      "thread_num": 111,
+      "channel_id": "1392172039430738111",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440680380771336272",
+        "1440825513873637387",
+        "1440825681301733598"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:34:35",
+        "end": "2025-11-19 22:11:57"
+      },
+      "message_count": 3,
+      "topic": "Using a calibrated MAF without AFR sensor",
+      "contributors": [
+        "@Joesphan",
+        "@sheckta#1593"
+      ],
+      "summary": "@Joesphan suggests that if one has a properly calibrated Mass Air Flow (MAF) sensor, it might be possible to achieve good engine performance without an Air/Fuel Ratio (AFR) sensor. However, @Joesphan also notes that this approach is quite challenging.",
+      "key_details": [
+        "A calibrated MAF can potentially replace the need for an AFR sensor",
+        "The approach is described as very difficult (\"walking on water\")"
+      ],
+      "raw_summary": "TOPIC: Using a calibrated MAF without AFR sensor\nCONTRIBUTORS: @Joesphan, @sheckta#1593\nSUMMARY: @Joesphan suggests that if one has a properly calibrated Mass Air Flow (MAF) sensor, it might be possible to achieve good engine performance without an Air/Fuel Ratio (AFR) sensor. However, @Joesphan also notes that this approach is quite challenging.\nKEY_DETAILS:\n- A calibrated MAF can potentially replace the need for an AFR sensor\n- The approach is described as very difficult (\"walking on water\")"
+    },
+    {
+      "thread_num": 112,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440826429884465215"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:14:56",
+        "end": "2025-11-19 22:14:56"
+      },
+      "message_count": 1,
+      "topic": "Understanding MAF and VE Map Interactions",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta inquired about whether a properly functioning Mass Air Flow (MAF) sensor eliminates the need for a volumetric efficiency (VE) map. This question reflects an interest in engine management system configurations.",
+      "key_details": [
+        "Question from @sheckta regarding the necessity of a VE map when using a well-functioning MAF sensor"
+      ],
+      "raw_summary": "TOPIC: Understanding MAF and VE Map Interactions\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta inquired about whether a properly functioning Mass Air Flow (MAF) sensor eliminates the need for a volumetric efficiency (VE) map. This question reflects an interest in engine management system configurations.\nKEY_DETAILS:\n- Question from @sheckta regarding the necessity of a VE map when using a well-functioning MAF sensor"
+    },
+    {
+      "thread_num": 113,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440826580099141764"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:15:31",
+        "end": "2025-11-19 22:15:31"
+      },
+      "message_count": 1,
+      "topic": "Scaling MAF Sensor Data Based on AFR",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the process of scaling Mass Air Flow (MAF) sensor data based on the air-fuel ratio (AFR). According to @Joesphan, one typically starts with raw MAF sensor shape data and then scales it according to the AFR.",
+      "key_details": [
+        "Start with raw MAF sensor shape data",
+        "Scale the data based on the air-fuel ratio (AFR)"
+      ],
+      "raw_summary": "TOPIC: Scaling MAF Sensor Data Based on AFR\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the process of scaling Mass Air Flow (MAF) sensor data based on the air-fuel ratio (AFR). According to @Joesphan, one typically starts with raw MAF sensor shape data and then scales it according to the AFR.\nKEY_DETAILS:\n- Start with raw MAF sensor shape data\n- Scale the data based on the air-fuel ratio (AFR)"
+    },
+    {
+      "thread_num": 114,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.7,
+      "message_ids": [
+        "1440826649380913305"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:15:48",
+        "end": "2025-11-19 22:15:48"
+      },
+      "message_count": 1,
+      "topic": "Discussion on intake tract setup affecting scaling",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses how the scaling of engine management parameters can vary due to differences in each vehicle's intake tract setup.",
+      "key_details": [
+        "Scaling issues are attributed to variations in intake tract setups among different vehicles"
+      ],
+      "raw_summary": "TOPIC: Discussion on intake tract setup affecting scaling\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses how the scaling of engine management parameters can vary due to differences in each vehicle's intake tract setup.\nKEY_DETAILS:\n- Scaling issues are attributed to variations in intake tract setups among different vehicles"
+    },
+    {
+      "thread_num": 115,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440826700295442625"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:16:00",
+        "end": "2025-11-19 22:16:00"
+      },
+      "message_count": 1,
+      "topic": "Adjusting Injector Dead Times",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread indicates that the injector dead times need adjustment for proper functionality.",
+      "key_details": [
+        "None specific values or settings were provided in this short comment."
+      ],
+      "raw_summary": "TOPIC: Adjusting Injector Dead Times\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread indicates that the injector dead times need adjustment for proper functionality.\nKEY_DETAILS:\n- None specific values or settings were provided in this short comment."
+    },
+    {
+      "thread_num": 116,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1440826815991255073"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:16:28",
+        "end": "2025-11-19 22:16:28"
+      },
+      "message_count": 1,
+      "topic": "Mass Air Flow (MAF) sensor and fuel injection calibration",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The discussion revolves around the function of a MAF sensor in measuring the mass of air entering the engine, typically in grams per second. This measurement is crucial for determining the exact amount of fuel to inject for optimal combustion.",
+      "key_details": [
+        "MAF measures air intake in grams per second",
+        "Fuel injection must be calibrated based on the measured air mass"
+      ],
+      "raw_summary": "TOPIC: Mass Air Flow (MAF) sensor and fuel injection calibration\nCONTRIBUTORS: @Joesphan\nSUMMARY: The discussion revolves around the function of a MAF sensor in measuring the mass of air entering the engine, typically in grams per second. This measurement is crucial for determining the exact amount of fuel to inject for optimal combustion.\nKEY_DETAILS:\n- MAF measures air intake in grams per second\n- Fuel injection must be calibrated based on the measured air mass"
+    },
+    {
+      "thread_num": 117,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440826975093788852"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:17:05",
+        "end": "2025-11-19 22:17:05"
+      },
+      "message_count": 1,
+      "topic": "Discussion on OEM Honda Injectors and Deadtime Settings",
+      "contributors": [
+        "@sheckta#1593"
+      ],
+      "summary": "The user, @sheckta#1593, mentioned that deadtimes should not be a concern because they are using original equipment manufacturer (OEM) Honda injectors which are well-documented.",
+      "key_details": [
+        "User is using OEM Honda injectors",
+        "Injectors are common and well-documented"
+      ],
+      "raw_summary": "TOPIC: Discussion on OEM Honda Injectors and Deadtime Settings\nCONTRIBUTORS: @sheckta#1593\nSUMMARY: The user, @sheckta#1593, mentioned that deadtimes should not be a concern because they are using original equipment manufacturer (OEM) Honda injectors which are well-documented.\nKEY_DETAILS:\n- User is using OEM Honda injectors\n- Injectors are common and well-documented"
+    },
+    {
+      "thread_num": 118,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440827165716381717"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:17:51",
+        "end": "2025-11-19 22:17:51"
+      },
+      "message_count": 1,
+      "topic": "Using OEM Sensors with rusEFI/epicEFI",
+      "contributors": [
+        "@sheckta",
+        "@joesmith"
+      ],
+      "summary": "User @sheckta inquired about the feasibility of using an original equipment manufacturer (OEM) sensor with rusEFI/epicEFI. User @joesmith responded that it is generally possible to use OEM sensors but requires careful calibration and configuration within the software.",
+      "key_details": [
+        "Using OEM sensors is feasible",
+        "Requires proper calibration and configuration in rusEFI/epicEFI"
+      ],
+      "raw_summary": "TOPIC: Using OEM Sensors with rusEFI/epicEFI\nCONTRIBUTORS: @sheckta, @joesmith\nSUMMARY: User @sheckta inquired about the feasibility of using an original equipment manufacturer (OEM) sensor with rusEFI/epicEFI. User @joesmith responded that it is generally possible to use OEM sensors but requires careful calibration and configuration within the software.\nKEY_DETAILS:\n- Using OEM sensors is feasible\n- Requires proper calibration and configuration in rusEFI/epicEFI"
+    },
+    {
+      "thread_num": 119,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440827935161581721",
+        "1440828029558456482"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:20:54",
+        "end": "2025-11-19 22:21:17"
+      },
+      "message_count": 2,
+      "topic": "Calibrating fuel injection based on AFR",
+      "contributors": [
+        "@sheckta#1593",
+        "@Joesphan"
+      ],
+      "summary": "The conversation revolves around calibrating fuel injection to achieve the correct air-fuel ratio (AFR). @Joesphan suggests obtaining the transfer function shape and then scaling it according to the desired AFR.",
+      "key_details": [
+        "Transfer function shape is used for calibration",
+        "Scaling based on AFR is recommended"
+      ],
+      "raw_summary": "TOPIC: Calibrating fuel injection based on AFR\nCONTRIBUTORS: @sheckta#1593, @Joesphan\nSUMMARY: The conversation revolves around calibrating fuel injection to achieve the correct air-fuel ratio (AFR). @Joesphan suggests obtaining the transfer function shape and then scaling it according to the desired AFR.\nKEY_DETAILS:\n- Transfer function shape is used for calibration\n- Scaling based on AFR is recommended"
+    },
+    {
+      "thread_num": 120,
+      "channel_id": "1392172039430738111",
+      "category": "SUPPORT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1440829118366224435"
+      ],
+      "time_range": {
+        "start": "2025-11-19 22:25:36",
+        "end": "2025-11-19 22:25:36"
+      },
+      "message_count": 1,
+      "topic": "Confirmation of VVT Sync Tweaks Effectiveness",
+      "contributors": [
+        "@sheckta#1593",
+        "@523213410222080000 (likely the developer or another user who provided support)"
+      ],
+      "summary": "User @sheckta reported that a tweak made in the trigger setup with VVT sync is working as expected. The user noticed a significant improvement in driving performance, specifically feeling no more hickups during steady driving and experiencing much smoother idle compared to before.",
+      "key_details": [
+        "Tweaks were made in the trigger setup related to VVT sync",
+        "User experienced reduced hickups during steady driving",
+        "Idle operation became significantly smoother after the tweak"
+      ],
+      "raw_summary": "TOPIC: Confirmation of VVT Sync Tweaks Effectiveness\nCONTRIBUTORS: @sheckta#1593, @523213410222080000 (likely the developer or another user who provided support)\nSUMMARY: User @sheckta reported that a tweak made in the trigger setup with VVT sync is working as expected. The user noticed a significant improvement in driving performance, specifically feeling no more hickups during steady driving and experiencing much smoother idle compared to before.\nKEY_DETAILS:\n- Tweaks were made in the trigger setup related to VVT sync\n- User experienced reduced hickups during steady driving\n- Idle operation became significantly smoother after the tweak"
+    },
+    {
+      "thread_num": 121,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1440650732708823050",
+        "1440682881662980107"
+      ],
+      "time_range": {
+        "start": "2025-11-19 10:36:47",
+        "end": "2025-11-19 12:44:31"
+      },
+      "message_count": 2,
+      "topic": "Adjusting PCB layout for component clearance",
+      "contributors": [
+        "@ggurov",
+        "@GGGI"
+      ],
+      "summary": "The discussion revolves around adjusting a printed circuit board (PCB) design where flat parts in the corners are too wide, potentially interfering with nearby components such as capacitors and resistors near the H-bridge. @GGGI mentions trimming these areas to avoid interference.",
+      "key_details": [
+        "Flat parts in the PCB corners interfere with components",
+        "Interference involves caps and resistors by the H-bridge",
+        "Trimming was done to resolve the issue"
+      ],
+      "raw_summary": "TOPIC: Adjusting PCB layout for component clearance\nCONTRIBUTORS: @ggurov, @GGGI\nSUMMARY: The discussion revolves around adjusting a printed circuit board (PCB) design where flat parts in the corners are too wide, potentially interfering with nearby components such as capacitors and resistors near the H-bridge. @GGGI mentions trimming these areas to avoid interference.\nKEY_DETAILS:\n- Flat parts in the PCB corners interfere with components\n- Interference involves caps and resistors by the H-bridge\n- Trimming was done to resolve the issue"
+    },
+    {
+      "thread_num": 122,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440683900606222449",
+        "1440684092751347822"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:48:34",
+        "end": "2025-11-19 12:49:20"
+      },
+      "message_count": 2,
+      "topic": "Developing a Translator for Communication Between EpicEFI and Another TCU",
+      "contributors": [
+        "@ggurov",
+        "@GGGI"
+      ],
+      "summary": "The thread discusses the idea of creating a translator tool that enables communication between the EpicEFI system and another Transmission Control Unit (TCU). Both users agree on the feasibility and necessity of such a project.",
+      "key_details": [
+        "A need for a translator to facilitate communication between EpicEFI and an external TCU was proposed by @ggurov.",
+        "@GGGI confirmed plans to develop this translator tool."
+      ],
+      "raw_summary": "TOPIC: Developing a Translator for Communication Between EpicEFI and Another TCU\nCONTRIBUTORS: @ggurov, @GGGI\nSUMMARY: The thread discusses the idea of creating a translator tool that enables communication between the EpicEFI system and another Transmission Control Unit (TCU). Both users agree on the feasibility and necessity of such a project.\nKEY_DETAILS:\n- A need for a translator to facilitate communication between EpicEFI and an external TCU was proposed by @ggurov.\n- @GGGI confirmed plans to develop this translator tool."
+    },
+    {
+      "thread_num": 123,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440683991014310029"
+      ],
+      "time_range": {
+        "start": "2025-11-19 12:48:56",
+        "end": "2025-11-19 12:48:56"
+      },
+      "message_count": 1,
+      "topic": "Resending repacked firmware file",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov requested to have the firmware file resent after it has been repacked.",
+      "key_details": [
+        "Request for resending a repacked firmware file"
+      ],
+      "raw_summary": "TOPIC: Resending repacked firmware file\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov requested to have the firmware file resent after it has been repacked.\nKEY_DETAILS:\n- Request for resending a repacked firmware file"
+    },
+    {
+      "thread_num": 124,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440689530465288262",
+        "1440690231266512967"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:10:57",
+        "end": "2025-11-19 13:13:44"
+      },
+      "message_count": 2,
+      "topic": "Using Arduino Mega as a Translator between Epic and TCU",
+      "contributors": [
+        "@ggurov",
+        "@GGGI"
+      ],
+      "summary": "The discussion revolves around using an Arduino Mega to act as a translator between the Epic EFI system and a Transmission Control Unit (TCU). This setup would allow for communication between these two systems.",
+      "key_details": [
+        "Arduino Mega will serve as a translator between Epic EFI and TCU",
+        "Mention of \"do it in arduino\" implies that @GGGI is considering implementing this translation functionality using an Arduino platform"
+      ],
+      "raw_summary": "TOPIC: Using Arduino Mega as a Translator between Epic and TCU\nCONTRIBUTORS: @ggurov, @GGGI\nSUMMARY: The discussion revolves around using an Arduino Mega to act as a translator between the Epic EFI system and a Transmission Control Unit (TCU). This setup would allow for communication between these two systems.\nKEY_DETAILS:\n- Arduino Mega will serve as a translator between Epic EFI and TCU\n- Mention of \"do it in arduino\" implies that @GGGI is considering implementing this translation functionality using an Arduino platform"
+    },
+    {
+      "thread_num": 125,
+      "channel_id": "1411925674498719775",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440696268404953129",
+        "1440698120362000415",
+        "1440700381855223818"
+      ],
+      "time_range": {
+        "start": "2025-11-19 13:37:43",
+        "end": "2025-11-19 13:54:04"
+      },
+      "message_count": 3,
+      "topic": "Use of Dell Wyse 3030 LT Thin Client for rusEFI/epicEFI Projects",
+      "contributors": [
+        "@GGGI",
+        "@ZeeKay",
+        "@SeV"
+      ],
+      "summary": "@GGGI inquired about a device that could be used as a PC replacement to avoid carrying a bulky laptop. The device was identified by @ZeeKay as the Dell Wyse 3030 LT thin client. @SeV confirmed its usability for rusEFI/epicEFI projects, mentioning its use alongside an LTE router to automatically send logs from a car to a home PC.",
+      "key_details": [
+        "Device: Dell Wyse 3030 LT",
+        "Use case mentioned by @SeV: Used with an LTE router to capture and send logs to a home PC"
+      ],
+      "raw_summary": "TOPIC: Use of Dell Wyse 3030 LT Thin Client for rusEFI/epicEFI Projects\nCONTRIBUTORS: @GGGI, @ZeeKay, @SeV\nSUMMARY: @GGGI inquired about a device that could be used as a PC replacement to avoid carrying a bulky laptop. The device was identified by @ZeeKay as the Dell Wyse 3030 LT thin client. @SeV confirmed its usability for rusEFI/epicEFI projects, mentioning its use alongside an LTE router to automatically send logs from a car to a home PC.\nKEY_DETAILS:\n- Device: Dell Wyse 3030 LT\n- Use case mentioned by @SeV: Used with an LTE router to capture and send logs to a home PC"
+    },
+    {
+      "thread_num": 126,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440703598244659235"
+      ],
+      "time_range": {
+        "start": "2025-11-19 14:06:51",
+        "end": "2025-11-19 14:06:51"
+      },
+      "message_count": 1,
+      "topic": "Remote Desktop Access for Tuning Support",
+      "contributors": [
+        "@SeV",
+        "@epicEFIdevs"
+      ],
+      "summary": "User @SeV is seeking assistance on how to enable a friend tuner to remotely access their rusEFI/epicEFI system via remote desktop while driving. The thread indicates that the system is always online and can be accessed by a remote tuner.",
+      "key_details": [
+        "Remote Desktop connection allows a friend tuner to assist while the user is driving",
+        "System is described as being \"online at all times\""
+      ],
+      "raw_summary": "TOPIC: Remote Desktop Access for Tuning Support\nCONTRIBUTORS: @SeV, @epicEFIdevs\nSUMMARY: User @SeV is seeking assistance on how to enable a friend tuner to remotely access their rusEFI/epicEFI system via remote desktop while driving. The thread indicates that the system is always online and can be accessed by a remote tuner.\nKEY_DETAILS:\n- Remote Desktop connection allows a friend tuner to assist while the user is driving\n- System is described as being \"online at all times\""
+    },
+    {
+      "thread_num": 127,
+      "channel_id": "1434034231713075282",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440538200752783360"
+      ],
+      "time_range": {
+        "start": "2025-11-19 03:09:37",
+        "end": "2025-11-19 03:09:37"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting CAN Bus Communication Issues with H7 Board",
+      "contributors": [
+        "@Aboy",
+        "@rusEFIdev"
+      ],
+      "summary": "User @Aboy reported issues with the CAN bus communication on their H7 board. Developer @rusEFIdev suggested checking the initialization code and ensuring proper configuration of the CAN controller.",
+      "key_details": [
+        "Check if the CAN controller is properly initialized in the code",
+        "Ensure correct baud rate settings for CAN communication"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting CAN Bus Communication Issues with H7 Board\nCONTRIBUTORS: @Aboy, @rusEFIdev\nSUMMARY: User @Aboy reported issues with the CAN bus communication on their H7 board. Developer @rusEFIdev suggested checking the initialization code and ensuring proper configuration of the CAN controller.\nKEY_DETAILS:\n- Check if the CAN controller is properly initialized in the code\n- Ensure correct baud rate settings for CAN communication"
+    },
+    {
+      "thread_num": 128,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440551456968278078"
+      ],
+      "time_range": {
+        "start": "2025-11-19 04:02:18",
+        "end": "2025-11-19 04:02:18"
+      },
+      "message_count": 1,
+      "topic": "Adding MCP2515 Library Support for Interrupts",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov mentioned the need to include a specific library from an accompanying .zip file to enable support for interrupts in the MCP2515 module.",
+      "key_details": [
+        "The library supporting interrupts is included within a .zip file",
+        "Adding this library is necessary to enable interrupt functionality for the MCP2515 module"
+      ],
+      "raw_summary": "TOPIC: Adding MCP2515 Library Support for Interrupts\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov mentioned the need to include a specific library from an accompanying .zip file to enable support for interrupts in the MCP2515 module.\nKEY_DETAILS:\n- The library supporting interrupts is included within a .zip file\n- Adding this library is necessary to enable interrupt functionality for the MCP2515 module"
+    },
+    {
+      "thread_num": 129,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440551585473368215"
+      ],
+      "time_range": {
+        "start": "2025-11-19 04:02:49",
+        "end": "2025-11-19 04:02:49"
+      },
+      "message_count": 1,
+      "topic": "Wiring SPI and CAN signals for MCP2515",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the proper wiring of SPI and CAN signals for the MCP2515. Specifically, it mentions that pin D2 should be used as an interrupt for the MCP2515 and pin D9 should serve as the chip select (CS) line for the MCP_CAN.",
+      "key_details": [
+        "Pin D2 is designated as the interrupt for MCP2515",
+        "Pin D9 is set as the CS line for MCP_CAN"
+      ],
+      "raw_summary": "TOPIC: Wiring SPI and CAN signals for MCP2515\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the proper wiring of SPI and CAN signals for the MCP2515. Specifically, it mentions that pin D2 should be used as an interrupt for the MCP2515 and pin D9 should serve as the chip select (CS) line for the MCP_CAN.\nKEY_DETAILS:\n- Pin D2 is designated as the interrupt for MCP2515\n- Pin D9 is set as the CS line for MCP_CAN"
+    },
+    {
+      "thread_num": 130,
+      "channel_id": "1440539911059931259",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440549152768524411"
+      ],
+      "time_range": {
+        "start": "2025-11-19 03:53:09",
+        "end": "2025-11-19 03:53:09"
+      },
+      "message_count": 1,
+      "topic": "Use of Tune Migrator in Firmware Flashing Process",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov mentions the use of a \"tune migrator,\" which is used to plug into the firmware during the flashing process. This tool aids in transferring tunes or configurations between different ECU units.",
+      "key_details": [
+        "Tune Migrator is used for plugging into the firmware during the flashing process",
+        "The term \"tune\" likely refers to engine calibration settings"
+      ],
+      "raw_summary": "TOPIC: Use of Tune Migrator in Firmware Flashing Process\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov mentions the use of a \"tune migrator,\" which is used to plug into the firmware during the flashing process. This tool aids in transferring tunes or configurations between different ECU units.\nKEY_DETAILS:\n- Tune Migrator is used for plugging into the firmware during the flashing process\n- The term \"tune\" likely refers to engine calibration settings"
+    },
+    {
+      "thread_num": 131,
+      "channel_id": "1440539911059931259",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440551182241108078"
+      ],
+      "time_range": {
+        "start": "2025-11-19 04:01:12",
+        "end": "2025-11-19 04:01:12"
+      },
+      "message_count": 1,
+      "topic": "Launcher mechanism for rusEFI/epicEFI plugins",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov explained in the Discord thread that both his plugin and Andrey\u2019s plugin use a launcher mechanism. The launcher serves as an intermediary to load other functionalities or components of the plugins.",
+      "key_details": [
+        "Both @ggurov's and Andrey's plugins utilize a launcher",
+        "The launcher acts as an intermediary for loading additional features or components"
+      ],
+      "raw_summary": "TOPIC: Launcher mechanism for rusEFI/epicEFI plugins\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov explained in the Discord thread that both his plugin and Andrey\u2019s plugin use a launcher mechanism. The launcher serves as an intermediary to load other functionalities or components of the plugins.\nKEY_DETAILS:\n- Both @ggurov's and Andrey's plugins utilize a launcher\n- The launcher acts as an intermediary for loading additional features or components"
+    },
+    {
+      "thread_num": 132,
+      "channel_id": "1440539911059931259",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440554956397740113"
+      ],
+      "time_range": {
+        "start": "2025-11-19 04:16:12",
+        "end": "2025-11-19 04:16:12"
+      },
+      "message_count": 1,
+      "topic": "Integrating Launcher with Standalone Application Using Java Gradle Setup",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "@MarkCraftPerformance discussed integrating a launcher for a plugin while maintaining its integrity when using a standalone application. This involved creating a bridge to build a fake JAR file, which allowed the standalone application to function correctly within the context of the Java Gradle setup.",
+      "key_details": [
+        "A bridge was created to integrate the launcher with the standalone application",
+        "The solution involved building a \"fake\" JAR file",
+        "The process ties back into the overall Java Gradle setup"
+      ],
+      "raw_summary": "TOPIC: Integrating Launcher with Standalone Application Using Java Gradle Setup\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: @MarkCraftPerformance discussed integrating a launcher for a plugin while maintaining its integrity when using a standalone application. This involved creating a bridge to build a fake JAR file, which allowed the standalone application to function correctly within the context of the Java Gradle setup.\nKEY_DETAILS:\n- A bridge was created to integrate the launcher with the standalone application\n- The solution involved building a \"fake\" JAR file\n- The process ties back into the overall Java Gradle setup"
+    },
+    {
+      "thread_num": 133,
+      "channel_id": "1440539911059931259",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1440555504966565960"
+      ],
+      "time_range": {
+        "start": "2025-11-19 04:18:23",
+        "end": "2025-11-19 04:18:23"
+      },
+      "message_count": 1,
+      "topic": "Compatibility issue between Java versions and epicTuner",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "Mark encountered a compatibility issue where epicTuner required Java 11, but the target system (TS) expected Java 8. To resolve this, he had to create an intermediary step that converted Java 11 bytecode to Java 8 bytecode.",
+      "key_details": [
+        "Java version required by epicTuner: 11",
+        "Java version expected by TS: 8",
+        "Solution involved converting Java 11 bytecode to Java 8 bytecode"
+      ],
+      "raw_summary": "TOPIC: Compatibility issue between Java versions and epicTuner\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: Mark encountered a compatibility issue where epicTuner required Java 11, but the target system (TS) expected Java 8. To resolve this, he had to create an intermediary step that converted Java 11 bytecode to Java 8 bytecode.\nKEY_DETAILS:\n- Java version required by epicTuner: 11\n- Java version expected by TS: 8\n- Solution involved converting Java 11 bytecode to Java 8 bytecode"
+    },
+    {
+      "thread_num": 134,
+      "channel_id": "1440539911059931259",
+      "category": "ANNOUNCEMENT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440651920305033318",
+        "1440690429871001620",
+        "1440695348204015660",
+        "1440781505730187405"
+      ],
+      "time_range": {
+        "start": "2025-11-19 10:41:30",
+        "end": "2025-11-19 19:16:25"
+      },
+      "message_count": 4,
+      "topic": "Announcement of New Autotune Functions Added to Plug-in",
+      "contributors": [
+        "@MarkCraftPerformance",
+        "@GGGI",
+        "@paleppp"
+      ],
+      "summary": "@MarkCraftPerformance announced the addition of new autotune functions to the plug-in. The announcement included a screenshot and addressed questions about compatibility with free Tuner Studio and functionality of the Afr target table autotune feature.",
+      "key_details": [
+        "New autotune functions added to the plug-in",
+        "Question raised regarding compatibility with free Tuner Studio",
+        "Explanation provided that the Afr target table autotune is based on user-set values in tables",
+        "Mentioned seeking suggestions previously but receiving little feedback"
+      ],
+      "raw_summary": "TOPIC: Announcement of New Autotune Functions Added to Plug-in\nCONTRIBUTORS: @MarkCraftPerformance, @GGGI, @paleppp\nSUMMARY: @MarkCraftPerformance announced the addition of new autotune functions to the plug-in. The announcement included a screenshot and addressed questions about compatibility with free Tuner Studio and functionality of the Afr target table autotune feature.\nKEY_DETAILS:\n- New autotune functions added to the plug-in\n- Question raised regarding compatibility with free Tuner Studio\n- Explanation provided that the Afr target table autotune is based on user-set values in tables\n- Mentioned seeking suggestions previously but receiving little feedback"
+    },
+    {
+      "thread_num": 135,
+      "channel_id": "1440539911059931259",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440654042538840135"
+      ],
+      "time_range": {
+        "start": "2025-11-19 10:49:56",
+        "end": "2025-11-19 10:49:56"
+      },
+      "message_count": 1,
+      "topic": "Logging of virtual ECU (ve) settings based on lambda error and EGO sensor data",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around a feature that captures the necessary adjustments for the virtual ECU (ve) by utilizing current lambda error and EGO sensor readings. This logged information represents what the ve should have been set to.",
+      "key_details": [
+        "Logs \"what ve should've been\" based on current lambda error and EGO sensor data"
+      ],
+      "raw_summary": "TOPIC: Logging of virtual ECU (ve) settings based on lambda error and EGO sensor data\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around a feature that captures the necessary adjustments for the virtual ECU (ve) by utilizing current lambda error and EGO sensor readings. This logged information represents what the ve should have been set to.\nKEY_DETAILS:\n- Logs \"what ve should've been\" based on current lambda error and EGO sensor data"
+    },
+    {
+      "thread_num": 136,
+      "channel_id": "1440539911059931259",
+      "category": "ANNOUNCEMENT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440655867346288700"
+      ],
+      "time_range": {
+        "start": "2025-11-19 10:57:11",
+        "end": "2025-11-19 10:57:11"
+      },
+      "message_count": 1,
+      "topic": "Announcement about epictuner full license functionality with purchase of epic ECU",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "Mark Craft Performance announced on the Discord server that purchasing an epic ECU comes with a fully functional epictuner license. This announcement is intended to clarify legal aspects and ensure users are aware of the benefits associated with buying the hardware.",
+      "key_details": [
+        "Purchasing an epic ECU includes a full-function epictuner license",
+        "The announcement covers legal aspects to protect both parties"
+      ],
+      "raw_summary": "TOPIC: Announcement about epictuner full license functionality with purchase of epic ECU\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: Mark Craft Performance announced on the Discord server that purchasing an epic ECU comes with a fully functional epictuner license. This announcement is intended to clarify legal aspects and ensure users are aware of the benefits associated with buying the hardware.\nKEY_DETAILS:\n- Purchasing an epic ECU includes a full-function epictuner license\n- The announcement covers legal aspects to protect both parties"
+    },
+    {
+      "thread_num": 137,
+      "channel_id": "1440539911059931259",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440784826964770950"
+      ],
+      "time_range": {
+        "start": "2025-11-19 19:29:37",
+        "end": "2025-11-19 19:29:37"
+      },
+      "message_count": 1,
+      "topic": "Understanding the number of data sources in epictuner",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "The user @MarkCraftPerformance mentioned that the epictuner software has 105 different sources it learns information from, and this database grows when a specific function is enabled.",
+      "key_details": [
+        "epictuner has 105 data sources",
+        "Database growth occurs when a particular function is turned on"
+      ],
+      "raw_summary": "TOPIC: Understanding the number of data sources in epictuner\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: The user @MarkCraftPerformance mentioned that the epictuner software has 105 different sources it learns information from, and this database grows when a specific function is enabled.\nKEY_DETAILS:\n- epictuner has 105 data sources\n- Database growth occurs when a particular function is turned on"
+    },
+    {
+      "thread_num": 138,
+      "channel_id": "1440539911059931259",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440797019068436480"
+      ],
+      "time_range": {
+        "start": "2025-11-19 20:18:03",
+        "end": "2025-11-19 20:18:03"
+      },
+      "message_count": 1,
+      "topic": "Discussion on ECU components for a system without injectors or ignition",
+      "contributors": [
+        "@fast335xi"
+      ],
+      "summary": "The thread discusses simplifying an engine control unit (ECU) setup by removing the need for ignition and fuel injection systems. According to @fast335xi, this primarily involves focusing on high-side and low-side switches.",
+      "key_details": [
+        "High side switches mentioned",
+        "Low side switches mentioned"
+      ],
+      "raw_summary": "TOPIC: Discussion on ECU components for a system without injectors or ignition\nCONTRIBUTORS: @fast335xi\nSUMMARY: The thread discusses simplifying an engine control unit (ECU) setup by removing the need for ignition and fuel injection systems. According to @fast335xi, this primarily involves focusing on high-side and low-side switches.\nKEY_DETAILS:\n- High side switches mentioned\n- Low side switches mentioned"
+    },
+    {
+      "thread_num": 139,
+      "channel_id": "1430309988688990298",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1440812365498290286"
+      ],
+      "time_range": {
+        "start": "2025-11-19 21:19:02",
+        "end": "2025-11-19 21:19:02"
+      },
+      "message_count": 1,
+      "topic": "Current draw during sleep mode",
+      "contributors": [
+        "@paleppp"
+      ],
+      "summary": "User @paleppp reported that their multimeter measures a current draw of 50mA when the rusEFI/epicEFI system is in sleep mode.",
+      "key_details": [
+        "Current draw measured: 50mA",
+        "System state during measurement: Sleep mode"
+      ],
+      "raw_summary": "TOPIC: Current draw during sleep mode\nCONTRIBUTORS: @paleppp\nSUMMARY: User @paleppp reported that their multimeter measures a current draw of 50mA when the rusEFI/epicEFI system is in sleep mode.\nKEY_DETAILS:\n- Current draw measured: 50mA\n- System state during measurement: Sleep mode"
+    }
+  ]
+}

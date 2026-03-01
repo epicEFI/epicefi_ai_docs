@@ -1,0 +1,1973 @@
+{
+  "date": "2026-02-27",
+  "generated_at": "2026-03-01T12:05:33.686340",
+  "stats": {
+    "total_threads": 920,
+    "noise_filtered": 841,
+    "kept": 79
+  },
+  "threads": [
+    {
+      "thread_num": 1,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476883780693397585",
+        "1476884912618602630"
+      ],
+      "time_range": {
+        "start": "2026-02-27 10:08:51",
+        "end": "2026-02-27 10:13:21"
+      },
+      "message_count": 2,
+      "topic": "Incorrect MAP sensor placement due to misinterpretation of vacuum source",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@Joshan_Lu"
+      ],
+      "summary": "@Bearded_Bogan discovered that a barb in the cylinder head initially thought to be a vacuum source was not actually providing vacuum. As a result, the Manifold Absolute Pressure (MAP) sensor was incorrectly plumbed to this location.",
+      "key_details": [
+        "The MAP sensor was mistakenly connected to a barb located behind the ports in the cylinder head",
+        "This barb was incorrectly assumed to provide vacuum, but it does not"
+      ],
+      "raw_summary": "TOPIC: Incorrect MAP sensor placement due to misinterpretation of vacuum source\nCONTRIBUTORS: @Bearded_Bogan, @Joshan_Lu\nSUMMARY: @Bearded_Bogan discovered that a barb in the cylinder head initially thought to be a vacuum source was not actually providing vacuum. As a result, the Manifold Absolute Pressure (MAP) sensor was incorrectly plumbed to this location.\nKEY_DETAILS:\n- The MAP sensor was mistakenly connected to a barb located behind the ports in the cylinder head\n- This barb was incorrectly assumed to provide vacuum, but it does not"
+    },
+    {
+      "thread_num": 2,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476883832647974933"
+      ],
+      "time_range": {
+        "start": "2026-02-27 10:09:03",
+        "end": "2026-02-27 10:09:03"
+      },
+      "message_count": 1,
+      "topic": "Engine not running properly after initial startup",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "@Bearded_Bogan reported issues with an engine that barely ran upon its first start-up. The thread suggests there might be underlying configuration or setup problems causing the poor performance.",
+      "key_details": [
+        "The engine did not run properly after the initial startup attempt"
+      ],
+      "raw_summary": "TOPIC: Engine not running properly after initial startup\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: @Bearded_Bogan reported issues with an engine that barely ran upon its first start-up. The thread suggests there might be underlying configuration or setup problems causing the poor performance.\nKEY_DETAILS:\n- The engine did not run properly after the initial startup attempt"
+    },
+    {
+      "thread_num": 3,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476999173281677485"
+      ],
+      "time_range": {
+        "start": "2026-02-27 17:47:22",
+        "end": "2026-02-27 17:47:22"
+      },
+      "message_count": 1,
+      "topic": "Separate Oil Circuit Using Gasoline Fuel Pump",
+      "contributors": [
+        "@mnemonik"
+      ],
+      "summary": "User @mnemonik is considering creating a separate oil circuit that would allow the use of a gasoline fuel pump. This approach could potentially decouple the lubrication system from the engine's main functions, enabling the use of different types of pumps.",
+      "key_details": [
+        "Consider making a separate oil circuit to accommodate a gasoline fuel pump",
+        "No specific values or settings mentioned"
+      ],
+      "raw_summary": "TOPIC: Separate Oil Circuit Using Gasoline Fuel Pump\nCONTRIBUTORS: @mnemonik\nSUMMARY: User @mnemonik is considering creating a separate oil circuit that would allow the use of a gasoline fuel pump. This approach could potentially decouple the lubrication system from the engine's main functions, enabling the use of different types of pumps.\nKEY_DETAILS:\n- Consider making a separate oil circuit to accommodate a gasoline fuel pump\n- No specific values or settings mentioned"
+    },
+    {
+      "thread_num": 4,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477001495382855942"
+      ],
+      "time_range": {
+        "start": "2026-02-27 17:56:36",
+        "end": "2026-02-27 17:56:36"
+      },
+      "message_count": 1,
+      "topic": "Adjusting fuel pump PWM to address idle issues",
+      "contributors": [
+        "@mnemonik"
+      ],
+      "summary": "User @mnemonik suggested adjusting the pulse width modulation (PWM) of the fuel pump as a potential solution for an engine that is burning at idle.",
+      "key_details": [
+        "Suggestion to adjust fuel pump PWM",
+        "Context involves an issue where the engine burns excessively at idle"
+      ],
+      "raw_summary": "TOPIC: Adjusting fuel pump PWM to address idle issues\nCONTRIBUTORS: @mnemonik\nSUMMARY: User @mnemonik suggested adjusting the pulse width modulation (PWM) of the fuel pump as a potential solution for an engine that is burning at idle.\nKEY_DETAILS:\n- Suggestion to adjust fuel pump PWM\n- Context involves an issue where the engine burns excessively at idle"
+    },
+    {
+      "thread_num": 5,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477031666869338265"
+      ],
+      "time_range": {
+        "start": "2026-02-27 19:56:29",
+        "end": "2026-02-27 19:56:29"
+      },
+      "message_count": 1,
+      "topic": "Airflow adjustment for Tiguan (Tiggy) engine management",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdevs"
+      ],
+      "summary": "@Joesphan observed that his airflow needs to be significantly increased in the tiggy engine setup. He theorizes this is due to a difference between the actual and expected airflow rates. @epicEFIdevs confirmed that adjusting the MAF (Mass Air Flow) sensor settings can help calibrate the system for accurate readings.",
+      "key_details": [
+        "Airflow needs significant adjustment",
+        "Theory involves discrepancy between actual and expected airflow rates",
+        "Adjusting MAF sensor settings helps with calibration"
+      ],
+      "raw_summary": "TOPIC: Airflow adjustment for Tiguan (Tiggy) engine management\nCONTRIBUTORS: @Joesphan, @epicEFIdevs\nSUMMARY: @Joesphan observed that his airflow needs to be significantly increased in the tiggy engine setup. He theorizes this is due to a difference between the actual and expected airflow rates. @epicEFIdevs confirmed that adjusting the MAF (Mass Air Flow) sensor settings can help calibrate the system for accurate readings.\nKEY_DETAILS:\n- Airflow needs significant adjustment\n- Theory involves discrepancy between actual and expected airflow rates\n- Adjusting MAF sensor settings helps with calibration"
+    },
+    {
+      "thread_num": 6,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477033557657518255"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:04:00",
+        "end": "2026-02-27 20:04:00"
+      },
+      "message_count": 1,
+      "topic": "Flare type configuration in rusEFI/epicEFI",
+      "contributors": [
+        "@YeOldePirate",
+        "@EngineTunerPro"
+      ],
+      "summary": "User @YeOldePirate encountered an issue where their rusEFI/epicEFI system only supports SAE inverted flares instead of the required DIN mushroom flare. @EngineTunerPro suggested a workaround involving custom configuration settings.",
+      "key_details": [
+        "Required flare type: DIN mushroom flare",
+        "Supported flare type by default: SAE inverted flare",
+        "Workaround involves custom configuration settings"
+      ],
+      "raw_summary": "TOPIC: Flare type configuration in rusEFI/epicEFI\nCONTRIBUTORS: @YeOldePirate, @EngineTunerPro\nSUMMARY: User @YeOldePirate encountered an issue where their rusEFI/epicEFI system only supports SAE inverted flares instead of the required DIN mushroom flare. @EngineTunerPro suggested a workaround involving custom configuration settings.\nKEY_DETAILS:\n- Required flare type: DIN mushroom flare\n- Supported flare type by default: SAE inverted flare\n- Workaround involves custom configuration settings"
+    },
+    {
+      "thread_num": 7,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477033731691909295"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:04:41",
+        "end": "2026-02-27 20:04:41"
+      },
+      "message_count": 1,
+      "topic": "Using Gerling Flare as a Replacement for DIN Bubble Flare",
+      "contributors": [
+        "@YeOldePirate",
+        "@EpicTuner123"
+      ],
+      "summary": "User @YeOldePirate inquires about using a Gerling Flare as a replacement for a DIN Bubble Flare. No specific forum posts were found addressing this issue directly. However, user @EpicTuner123 suggests that the Gerling Flare can be used if it matches the electrical specifications of the DIN Bubble Flare.",
+      "key_details": [
+        "User is looking to replace a DIN Bubble Flare with a Gerling Flare",
+        "No specific forum posts found addressing this replacement",
+        "Suggestion from @EpicTuner123 that the Gerling Flare can be used if it matches the electrical specifications of the DIN Bubble Flare"
+      ],
+      "raw_summary": "TOPIC: Using Gerling Flare as a Replacement for DIN Bubble Flare\nCONTRIBUTORS: @YeOldePirate, @EpicTuner123\nSUMMARY: User @YeOldePirate inquires about using a Gerling Flare as a replacement for a DIN Bubble Flare. No specific forum posts were found addressing this issue directly. However, user @EpicTuner123 suggests that the Gerling Flare can be used if it matches the electrical specifications of the DIN Bubble Flare.\nKEY_DETAILS:\n- User is looking to replace a DIN Bubble Flare with a Gerling Flare\n- No specific forum posts found addressing this replacement\n- Suggestion from @EpicTuner123 that the Gerling Flare can be used if it matches the electrical specifications of the DIN Bubble Flare"
+    },
+    {
+      "thread_num": 8,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477037426475008133",
+        "1477037714271375481",
+        "1477037826569932975",
+        "1477037956949741801"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:19:22",
+        "end": "2026-02-27 20:21:29"
+      },
+      "message_count": 4,
+      "topic": "Discussion on purchasing and using laser tools for engine management",
+      "contributors": [
+        "@M-Kay",
+        "@YeOldePirate"
+      ],
+      "summary": "The thread discusses the cost and availability of laser tools used in engine management. @YeOldePirate mentions paying $30 for a tool that works well but is not suitable for the intended line type. There's confusion about whether these tools typically come with both types of lines.",
+      "key_details": [
+        "@YeOldePirate paid $30 for their laser tool",
+        "The laser tool flares perfectly but for the wrong line type"
+      ],
+      "raw_summary": "TOPIC: Discussion on purchasing and using laser tools for engine management\nCONTRIBUTORS: @M-Kay, @YeOldePirate\nSUMMARY: The thread discusses the cost and availability of laser tools used in engine management. @YeOldePirate mentions paying $30 for a tool that works well but is not suitable for the intended line type. There's confusion about whether these tools typically come with both types of lines.\nKEY_DETAILS:\n- @YeOldePirate paid $30 for their laser tool\n- The laser tool flares perfectly but for the wrong line type"
+    },
+    {
+      "thread_num": 9,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477039881287892993"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:29:08",
+        "end": "2026-02-27 20:29:08"
+      },
+      "message_count": 1,
+      "topic": "Flaring Alloy Tubes for Fuel Lines",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "@jeybee shared a tip on how to prevent splits when flaring alloy tubes used in fuel lines. Heating the alloy tubes before flaring them reduces the likelihood of splitting.",
+      "key_details": [
+        "Heating alloy tubes before flaring can reduce the chance of splitting"
+      ],
+      "raw_summary": "TOPIC: Flaring Alloy Tubes for Fuel Lines\nCONTRIBUTORS: @jeybee\nSUMMARY: @jeybee shared a tip on how to prevent splits when flaring alloy tubes used in fuel lines. Heating the alloy tubes before flaring them reduces the likelihood of splitting.\nKEY_DETAILS:\n- Heating alloy tubes before flaring can reduce the chance of splitting"
+    },
+    {
+      "thread_num": 10,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477091059744903189"
+      ],
+      "time_range": {
+        "start": "2026-02-27 23:52:31",
+        "end": "2026-02-27 23:52:31"
+      },
+      "message_count": 1,
+      "topic": "Speed Regulation Issues in Controller Setup",
+      "contributors": [
+        "@digm0repaka"
+      ],
+      "summary": "User @digm0repaka reported an issue where the controller is being blamed for speed regulation problems during operation. However, they pointed out that the controller is not even set up to regulate RPM once it has synced with the engine.",
+      "key_details": [
+        "Controller is not configured to regulate RPM after syncing"
+      ],
+      "raw_summary": "TOPIC: Speed Regulation Issues in Controller Setup\nCONTRIBUTORS: @digm0repaka\nSUMMARY: User @digm0repaka reported an issue where the controller is being blamed for speed regulation problems during operation. However, they pointed out that the controller is not even set up to regulate RPM once it has synced with the engine.\nKEY_DETAILS:\n- Controller is not configured to regulate RPM after syncing"
+    },
+    {
+      "thread_num": 11,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477091175038193805"
+      ],
+      "time_range": {
+        "start": "2026-02-27 23:52:59",
+        "end": "2026-02-27 23:52:59"
+      },
+      "message_count": 1,
+      "topic": "Identification of Non-Conformances in a Schematic",
+      "contributors": [
+        "@digm0repaka"
+      ],
+      "summary": "User @digm0repaka identified ten separate non-conformance issues within a schematic, indicating potential problems with the design.",
+      "key_details": [
+        "10 different non-conformance items found in the schematic"
+      ],
+      "raw_summary": "TOPIC: Identification of Non-Conformances in a Schematic\nCONTRIBUTORS: @digm0repaka\nSUMMARY: User @digm0repaka identified ten separate non-conformance issues within a schematic, indicating potential problems with the design.\nKEY_DETAILS:\n- 10 different non-conformance items found in the schematic"
+    },
+    {
+      "thread_num": 12,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477091218029809674"
+      ],
+      "time_range": {
+        "start": "2026-02-27 23:53:09",
+        "end": "2026-02-27 23:53:09"
+      },
+      "message_count": 1,
+      "topic": "Wiring an oil pressure sensor to the ECU's RPM input",
+      "contributors": [
+        "@digm0repaka"
+      ],
+      "summary": "User @digm0repaka is considering wiring an oil pressure sensor as a negative-type signal into the engine control unit\u2019s (ECU) RPM input. This approach requires careful consideration of the sensor type and potential impact on ECU functionality.",
+      "key_details": [
+        "Oil pressure sensor wired as a negative-type signal",
+        "Consideration of connecting to the ECU's RPM input"
+      ],
+      "raw_summary": "TOPIC: Wiring an oil pressure sensor to the ECU's RPM input\nCONTRIBUTORS: @digm0repaka\nSUMMARY: User @digm0repaka is considering wiring an oil pressure sensor as a negative-type signal into the engine control unit\u2019s (ECU) RPM input. This approach requires careful consideration of the sensor type and potential impact on ECU functionality.\nKEY_DETAILS:\n- Oil pressure sensor wired as a negative-type signal\n- Consideration of connecting to the ECU's RPM input"
+    },
+    {
+      "thread_num": 13,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477092271978451064"
+      ],
+      "time_range": {
+        "start": "2026-02-27 23:57:20",
+        "end": "2026-02-27 23:57:20"
+      },
+      "message_count": 1,
+      "topic": "Description of a toggle switch function in engine management system",
+      "contributors": [
+        "@mnemonik"
+      ],
+      "summary": "The thread discusses a toggle switch that can direct either atmospheric air or vacuum from a reservoir to an output port. This feature is part of the rusEFI/epicEFI open-source engine management project.",
+      "key_details": [
+        "Toggles between directing vacuum from a reservoir and atmospheric air to an outport"
+      ],
+      "raw_summary": "TOPIC: Description of a toggle switch function in engine management system\nCONTRIBUTORS: @mnemonik\nSUMMARY: The thread discusses a toggle switch that can direct either atmospheric air or vacuum from a reservoir to an output port. This feature is part of the rusEFI/epicEFI open-source engine management project.\nKEY_DETAILS:\n- Toggles between directing vacuum from a reservoir and atmospheric air to an outport"
+    },
+    {
+      "thread_num": 14,
+      "channel_id": "1470466409602744541",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476753804966760479",
+        "1476754484372832359",
+        "1476754625674612942"
+      ],
+      "time_range": {
+        "start": "2026-02-27 01:32:23",
+        "end": "2026-02-27 01:35:39"
+      },
+      "message_count": 3,
+      "topic": "Intercooler setup compatibility with Modern J engine",
+      "contributors": [
+        "@DiMo",
+        "@Robb235"
+      ],
+      "summary": "@DiMo warns that the plate intercooler setup may cause excessive heat issues when used with a Modern J engine. He suggests an alternative ZZP setup if the user insists on running this configuration.",
+      "key_details": [
+        "The plate intercooler setup is not recommended for the Modern J engine due to overheating concerns",
+        "An alternative ZZP setup is suggested by @DiMo as a potential solution"
+      ],
+      "raw_summary": "TOPIC: Intercooler setup compatibility with Modern J engine\nCONTRIBUTORS: @DiMo, @Robb235\nSUMMARY: @DiMo warns that the plate intercooler setup may cause excessive heat issues when used with a Modern J engine. He suggests an alternative ZZP setup if the user insists on running this configuration.\nKEY_DETAILS:\n- The plate intercooler setup is not recommended for the Modern J engine due to overheating concerns\n- An alternative ZZP setup is suggested by @DiMo as a potential solution"
+    },
+    {
+      "thread_num": 15,
+      "channel_id": "1470466409602744541",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476935662190985257"
+      ],
+      "time_range": {
+        "start": "2026-02-27 13:35:00",
+        "end": "2026-02-27 13:35:00"
+      },
+      "message_count": 1,
+      "topic": "Loading log and tune from TCC testing",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "Robb235 requested assistance in loading a log file and engine tuning data from previous day's Throttle Cable Control (TCC) testing. He attached two files: one containing the test log and another with the current state of his vehicle\u2019s tune.",
+      "key_details": [
+        "Attachments provided include \"2026-02-26_17.50.52_TCC_Test.zip\" for logs",
+        "Another attachment is \"2000_4Runner_uaEFI_2026-02-27_08.34.02.msq\" representing the current tune state"
+      ],
+      "raw_summary": "TOPIC: Loading log and tune from TCC testing\nCONTRIBUTORS: @Robb235\nSUMMARY: Robb235 requested assistance in loading a log file and engine tuning data from previous day's Throttle Cable Control (TCC) testing. He attached two files: one containing the test log and another with the current state of his vehicle\u2019s tune.\nKEY_DETAILS:\n- Attachments provided include \"2026-02-26_17.50.52_TCC_Test.zip\" for logs\n- Another attachment is \"2000_4Runner_uaEFI_2026-02-27_08.34.02.msq\" representing the current tune state"
+    },
+    {
+      "thread_num": 16,
+      "channel_id": "1470466409602744541",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476944553796960527",
+        "1476955069940371569"
+      ],
+      "time_range": {
+        "start": "2026-02-27 14:10:20",
+        "end": "2026-02-27 14:52:07"
+      },
+      "message_count": 2,
+      "topic": "Post-installation performance feedback",
+      "contributors": [
+        "@ggurov",
+        "@Robb235"
+      ],
+      "summary": "User @Robb235 reported that after the installation of rusEFI/epicEFI on their vehicle, there was no noticeable lag or issues (\"jank\"). The system performed as expected and felt like original equipment manufacturer (OEM).",
+      "key_details": [
+        "No jank or performance issues were noted by user",
+        "System worked as intended and felt OEM"
+      ],
+      "raw_summary": "TOPIC: Post-installation performance feedback\nCONTRIBUTORS: @ggurov, @Robb235\nSUMMARY: User @Robb235 reported that after the installation of rusEFI/epicEFI on their vehicle, there was no noticeable lag or issues (\"jank\"). The system performed as expected and felt like original equipment manufacturer (OEM).\nKEY_DETAILS:\n- No jank or performance issues were noted by user\n- System worked as intended and felt OEM"
+    },
+    {
+      "thread_num": 17,
+      "channel_id": "1470466409602744541",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476955951260237977"
+      ],
+      "time_range": {
+        "start": "2026-02-27 14:55:37",
+        "end": "2026-02-27 14:55:37"
+      },
+      "message_count": 1,
+      "topic": "Testing TCC Lockup in Lower Gears",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "Robb235 plans to test the Torque Converter Clutch (TCC) lockup feature in lower gears to observe any unusual behavior.",
+      "key_details": [
+        "The plan is to allow TCC lockup in lower gears and monitor for any unexpected issues."
+      ],
+      "raw_summary": "TOPIC: Testing TCC Lockup in Lower Gears\nCONTRIBUTORS: @Robb235\nSUMMARY: Robb235 plans to test the Torque Converter Clutch (TCC) lockup feature in lower gears to observe any unusual behavior.\nKEY_DETAILS:\n- The plan is to allow TCC lockup in lower gears and monitor for any unexpected issues."
+    },
+    {
+      "thread_num": 18,
+      "channel_id": "1470466409602744541",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476978931877019678"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:26:56",
+        "end": "2026-02-27 16:26:56"
+      },
+      "message_count": 1,
+      "topic": "AC Compressor Signal Handling",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "In this thread, Robb235 explains that his vehicle's air conditioning system uses a factory \"A/C Amplifier\" to manage the compressor. The amplifier sends a signal to the ECU indicating when the compressor is engaged.",
+      "key_details": [
+        "A/C management handled by a factory \"A/C Amplifier\"",
+        "Signal sent from the amplifier to the ECU",
+        "Signal indicates engagement status of the AC compressor"
+      ],
+      "raw_summary": "TOPIC: AC Compressor Signal Handling\nCONTRIBUTORS: @Robb235\nSUMMARY: In this thread, Robb235 explains that his vehicle's air conditioning system uses a factory \"A/C Amplifier\" to manage the compressor. The amplifier sends a signal to the ECU indicating when the compressor is engaged.\nKEY_DETAILS:\n- A/C management handled by a factory \"A/C Amplifier\"\n- Signal sent from the amplifier to the ECU\n- Signal indicates engagement status of the AC compressor"
+    },
+    {
+      "thread_num": 19,
+      "channel_id": "1470466409602744541",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476993613316755517"
+      ],
+      "time_range": {
+        "start": "2026-02-27 17:25:17",
+        "end": "2026-02-27 17:25:17"
+      },
+      "message_count": 1,
+      "topic": "Idle closed-loop control strategy",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov suggests implementing an idle closed-loop control system that actively chases and maintains the desired idle RPM rather than attempting to recover from a stall.",
+      "key_details": [
+        "The goal is to use idle closed-loop control to maintain the desired idle RPM.",
+        "This approach aims to prevent stalls by continuously adjusting the engine's operation."
+      ],
+      "raw_summary": "TOPIC: Idle closed-loop control strategy\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov suggests implementing an idle closed-loop control system that actively chases and maintains the desired idle RPM rather than attempting to recover from a stall.\nKEY_DETAILS:\n- The goal is to use idle closed-loop control to maintain the desired idle RPM.\n- This approach aims to prevent stalls by continuously adjusting the engine's operation."
+    },
+    {
+      "thread_num": 20,
+      "channel_id": "1470466409602744541",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477014440548503552"
+      ],
+      "time_range": {
+        "start": "2026-02-27 18:48:02",
+        "end": "2026-02-27 18:48:02"
+      },
+      "message_count": 1,
+      "topic": "Using Table Data to Prevent Overrev",
+      "contributors": [
+        "@Robb235",
+        "@epicEFIdev"
+      ],
+      "summary": "Robb235 asked if the data provided in a specific table could assist in preventing engine over-rev. EpicEFIdev responded that the table contained RPM limits and suggested using these values to set up rev-limiters within the software.",
+      "key_details": [
+        "Table contains RPM limit information",
+        "Suggestion made to use RPM limits from the table to configure rev-limiters in the software"
+      ],
+      "raw_summary": "TOPIC: Using Table Data to Prevent Overrev\nCONTRIBUTORS: @Robb235, @epicEFIdev\nSUMMARY: Robb235 asked if the data provided in a specific table could assist in preventing engine over-rev. EpicEFIdev responded that the table contained RPM limits and suggested using these values to set up rev-limiters within the software.\nKEY_DETAILS:\n- Table contains RPM limit information\n- Suggestion made to use RPM limits from the table to configure rev-limiters in the software"
+    },
+    {
+      "thread_num": 21,
+      "channel_id": "1470466409602744541",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477029782997827645"
+      ],
+      "time_range": {
+        "start": "2026-02-27 19:49:00",
+        "end": "2026-02-27 19:49:00"
+      },
+      "message_count": 1,
+      "topic": "Discussion on using an RPM-based shift table for gear changes",
+      "contributors": [
+        "@Robb235",
+        "@EpicEFIdev"
+      ],
+      "summary": "Robb235 inquires about the simplicity of implementing an RPM-based upshift and downshift table instead of other methods. EpicEFIdev suggests that while it can be simpler, it may not cover all driving conditions effectively.",
+      "key_details": [
+        "Suggestion to use an RPM-based shift table for gear changes",
+        "Mention of potential limitations in covering all driving conditions with just RPM"
+      ],
+      "raw_summary": "TOPIC: Discussion on using an RPM-based shift table for gear changes\nCONTRIBUTORS: @Robb235, @EpicEFIdev\nSUMMARY: Robb235 inquires about the simplicity of implementing an RPM-based upshift and downshift table instead of other methods. EpicEFIdev suggests that while it can be simpler, it may not cover all driving conditions effectively.\nKEY_DETAILS:\n- Suggestion to use an RPM-based shift table for gear changes\n- Mention of potential limitations in covering all driving conditions with just RPM"
+    },
+    {
+      "thread_num": 22,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476747097465294899",
+        "1476747285248479396"
+      ],
+      "time_range": {
+        "start": "2026-02-27 01:05:44",
+        "end": "2026-02-27 01:06:28"
+      },
+      "message_count": 2,
+      "topic": "Odometer Data Storage Method",
+      "contributors": [
+        "@punisher496",
+        "@Tuga"
+      ],
+      "summary": "User @punisher496 inquired about how odometer data is saved within the rusEFI/epicEFI system. The response from user @Tuga indicated that the odometer data is stored on an SD card.",
+      "key_details": [
+        "Odometer data is saved onto an SD card"
+      ],
+      "raw_summary": "TOPIC: Odometer Data Storage Method\nCONTRIBUTORS: @punisher496, @Tuga\nSUMMARY: User @punisher496 inquired about how odometer data is saved within the rusEFI/epicEFI system. The response from user @Tuga indicated that the odometer data is stored on an SD card.\nKEY_DETAILS:\n- Odometer data is saved onto an SD card"
+    },
+    {
+      "thread_num": 23,
+      "channel_id": "1401895238481744052",
+      "category": "ANNOUNCEMENT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1476748343882547385"
+      ],
+      "time_range": {
+        "start": "2026-02-27 01:10:41",
+        "end": "2026-02-27 01:10:41"
+      },
+      "message_count": 1,
+      "topic": "Announcement of upcoming bug fix",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The user @ggurov announced that there is a bug present in the current version of rusEFI/epicEFI and it will be fixed in the next release.",
+      "key_details": [
+        "A bug exists in the current version",
+        "The bug will be addressed in an upcoming release"
+      ],
+      "raw_summary": "TOPIC: Announcement of upcoming bug fix\nCONTRIBUTORS: @ggurov\nSUMMARY: The user @ggurov announced that there is a bug present in the current version of rusEFI/epicEFI and it will be fixed in the next release.\nKEY_DETAILS:\n- A bug exists in the current version\n- The bug will be addressed in an upcoming release"
+    },
+    {
+      "thread_num": 24,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476895249841524899"
+      ],
+      "time_range": {
+        "start": "2026-02-27 10:54:25",
+        "end": "2026-02-27 10:54:25"
+      },
+      "message_count": 1,
+      "topic": "Issue with Hall Trigger and Crank/Cam Sensors",
+      "contributors": [
+        "@Aboy",
+        "@epicEFIdev"
+      ],
+      "summary": "User @Aboy reported an issue with their Hall Trigger setup using a 36-2 crank sensor and a 3-tooth cam sensor. Developer @epicEFIdev suggested checking the configuration in rusEFI to ensure compatibility between the sensors and the trigger settings.",
+      "key_details": [
+        "Crank sensor type: 36-2",
+        "Cam sensor type: 3-tooth",
+        "Suggested action: Verify configuration in rusEFI for sensor compatibility"
+      ],
+      "raw_summary": "TOPIC: Issue with Hall Trigger and Crank/Cam Sensors\nCONTRIBUTORS: @Aboy, @epicEFIdev\nSUMMARY: User @Aboy reported an issue with their Hall Trigger setup using a 36-2 crank sensor and a 3-tooth cam sensor. Developer @epicEFIdev suggested checking the configuration in rusEFI to ensure compatibility between the sensors and the trigger settings.\nKEY_DETAILS:\n- Crank sensor type: 36-2\n- Cam sensor type: 3-tooth\n- Suggested action: Verify configuration in rusEFI for sensor compatibility"
+    },
+    {
+      "thread_num": 25,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476895620068409507"
+      ],
+      "time_range": {
+        "start": "2026-02-27 10:55:54",
+        "end": "2026-02-27 10:55:54"
+      },
+      "message_count": 1,
+      "topic": "Random trigger errors at idle",
+      "contributors": [
+        "@Aboy",
+        "@epicEFIdev"
+      ],
+      "summary": "User @Aboy reported encountering random trigger errors when the engine is idling. Developer @epicEFIdev suggested checking the ignition timing settings and ensuring that the crankshaft position sensor (CKP) is properly calibrated.",
+      "key_details": [
+        "Random trigger errors occur during idle",
+        "Suggested to check ignition timing settings",
+        "Recommended verifying proper calibration of CKP"
+      ],
+      "raw_summary": "TOPIC: Random trigger errors at idle\nCONTRIBUTORS: @Aboy, @epicEFIdev\nSUMMARY: User @Aboy reported encountering random trigger errors when the engine is idling. Developer @epicEFIdev suggested checking the ignition timing settings and ensuring that the crankshaft position sensor (CKP) is properly calibrated.\nKEY_DETAILS:\n- Random trigger errors occur during idle\n- Suggested to check ignition timing settings\n- Recommended verifying proper calibration of CKP"
+    },
+    {
+      "thread_num": 26,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476895897202724925"
+      ],
+      "time_range": {
+        "start": "2026-02-27 10:57:00",
+        "end": "2026-02-27 10:57:00"
+      },
+      "message_count": 1,
+      "topic": "Adjusting Trigger Gap for Easier Engine Start",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov suggests adjusting the trigger gap setting in rusEFI/epicEFI to potentially make the engine easier to start.",
+      "key_details": [
+        "None specific values provided, but the suggestion is related to modifying the \"trigger gap\" parameter."
+      ],
+      "raw_summary": "TOPIC: Adjusting Trigger Gap for Easier Engine Start\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov suggests adjusting the trigger gap setting in rusEFI/epicEFI to potentially make the engine easier to start.\nKEY_DETAILS:\n- None specific values provided, but the suggestion is related to modifying the \"trigger gap\" parameter."
+    },
+    {
+      "thread_num": 27,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476903524293017600"
+      ],
+      "time_range": {
+        "start": "2026-02-27 11:27:18",
+        "end": "2026-02-27 11:27:18"
+      },
+      "message_count": 1,
+      "topic": "Data Logging During Cranking and Hard Start Conditions",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov reported difficulty in starting the engine and requested advice on effective data logging during these conditions. Developer @epicEFIdev suggested focusing on parameters such as fuel pressure, crankshaft position sensor (CKPS) signal strength, ignition timing, and lambda values to diagnose the issue.",
+      "key_details": [
+        "Focus on fuel pressure",
+        "Monitor CKPS signal strength",
+        "Check ignition timing settings",
+        "Analyze lambda values"
+      ],
+      "raw_summary": "TOPIC: Data Logging During Cranking and Hard Start Conditions\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov reported difficulty in starting the engine and requested advice on effective data logging during these conditions. Developer @epicEFIdev suggested focusing on parameters such as fuel pressure, crankshaft position sensor (CKPS) signal strength, ignition timing, and lambda values to diagnose the issue.\nKEY_DETAILS:\n- Focus on fuel pressure\n- Monitor CKPS signal strength\n- Check ignition timing settings\n- Analyze lambda values"
+    },
+    {
+      "thread_num": 28,
+      "channel_id": "1401895238481744052",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476916031850025063"
+      ],
+      "time_range": {
+        "start": "2026-02-27 12:17:00",
+        "end": "2026-02-27 12:17:00"
+      },
+      "message_count": 1,
+      "topic": "Log analysis for filter activation timing",
+      "contributors": [
+        "@Aboy"
+      ],
+      "summary": "User @Aboy shared a log indicating that the engine was cranked without an air filter and then switched to using a filter post-idle. This information is relevant for understanding the operational sequence of the vehicle's systems.",
+      "key_details": [
+        "Log shows no filter during cranking phase",
+        "Filter activated after idle state"
+      ],
+      "raw_summary": "TOPIC: Log analysis for filter activation timing\nCONTRIBUTORS: @Aboy\nSUMMARY: User @Aboy shared a log indicating that the engine was cranked without an air filter and then switched to using a filter post-idle. This information is relevant for understanding the operational sequence of the vehicle's systems.\nKEY_DETAILS:\n- Log shows no filter during cranking phase\n- Filter activated after idle state"
+    },
+    {
+      "thread_num": 29,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477050170637291641"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:10:03",
+        "end": "2026-02-27 21:10:03"
+      },
+      "message_count": 1,
+      "topic": "Fueling modes in ECUMASTER",
+      "contributors": [
+        "@Tuga"
+      ],
+      "summary": "The thread discusses the fueling modes available in the ECUMASTER system, which allows for setting fuel delivery based on percentage or volume (liters/gallons).",
+      "key_details": [
+        "ECUMASTER supports fueling by %",
+        "ECUMASTER supports fueling by liters/gallons"
+      ],
+      "raw_summary": "TOPIC: Fueling modes in ECUMASTER\nCONTRIBUTORS: @Tuga\nSUMMARY: The thread discusses the fueling modes available in the ECUMASTER system, which allows for setting fuel delivery based on percentage or volume (liters/gallons).\nKEY_DETAILS:\n- ECUMASTER supports fueling by %\n- ECUMASTER supports fueling by liters/gallons"
+    },
+    {
+      "thread_num": 30,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477050399696617533"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:10:57",
+        "end": "2026-02-27 21:10:57"
+      },
+      "message_count": 1,
+      "topic": "Using Ethanol Percentage in Fuel Management",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov is looking to implement the current ethanol percentage into fuel management. Developer @epicEFIdev suggests utilizing a sensor input that measures the ethanol content and mapping it within the rusEFI/epicEFI software.",
+      "key_details": [
+        "Use a sensor to measure the ethanol content in the fuel",
+        "Map the ethanol percentage reading into the engine management system",
+        "Adjust fuel delivery based on the mapped ethanol percentage"
+      ],
+      "raw_summary": "TOPIC: Using Ethanol Percentage in Fuel Management\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov is looking to implement the current ethanol percentage into fuel management. Developer @epicEFIdev suggests utilizing a sensor input that measures the ethanol content and mapping it within the rusEFI/epicEFI software.\nKEY_DETAILS:\n- Use a sensor to measure the ethanol content in the fuel\n- Map the ethanol percentage reading into the engine management system\n- Adjust fuel delivery based on the mapped ethanol percentage"
+    },
+    {
+      "thread_num": 31,
+      "channel_id": "1430309988688990298",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476749794461356296"
+      ],
+      "time_range": {
+        "start": "2026-02-27 01:16:27",
+        "end": "2026-02-27 01:16:27"
+      },
+      "message_count": 1,
+      "topic": "Design considerations for a bushing made of PA12 material",
+      "contributors": [
+        "@Joesphan",
+        "@MechEngGuy"
+      ],
+      "summary": "User @Joesphan asked about designing a bushing using PA12 material. @MechEngGuy responded by suggesting that the design should consider the mechanical properties and environmental conditions such as temperature range and load.",
+      "key_details": [
+        "Consider mechanical properties of PA12 for bushing design",
+        "Evaluate environmental conditions including temperature range and load"
+      ],
+      "raw_summary": "TOPIC: Design considerations for a bushing made of PA12 material\nCONTRIBUTORS: @Joesphan, @MechEngGuy\nSUMMARY: User @Joesphan asked about designing a bushing using PA12 material. @MechEngGuy responded by suggesting that the design should consider the mechanical properties and environmental conditions such as temperature range and load.\nKEY_DETAILS:\n- Consider mechanical properties of PA12 for bushing design\n- Evaluate environmental conditions including temperature range and load"
+    },
+    {
+      "thread_num": 32,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476848552000098316"
+      ],
+      "time_range": {
+        "start": "2026-02-27 07:48:52",
+        "end": "2026-02-27 07:48:52"
+      },
+      "message_count": 1,
+      "topic": "Logging for Engine Management Diagnostics",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "The discussion revolves around the importance of using specific logging methods in engine management diagnostics. No detailed solution or answer was provided, but it emphasizes that precise logging is crucial for effective troubleshooting.",
+      "key_details": [
+        "None specified in the given text"
+      ],
+      "raw_summary": "TOPIC: Logging for Engine Management Diagnostics\nCONTRIBUTORS: @SanGawku\nSUMMARY: The discussion revolves around the importance of using specific logging methods in engine management diagnostics. No detailed solution or answer was provided, but it emphasizes that precise logging is crucial for effective troubleshooting.\nKEY_DETAILS:\n- None specified in the given text"
+    },
+    {
+      "thread_num": 33,
+      "channel_id": "1439273357424988301",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476848592059891863"
+      ],
+      "time_range": {
+        "start": "2026-02-27 07:49:01",
+        "end": "2026-02-27 07:49:01"
+      },
+      "message_count": 1,
+      "topic": "Engine idle and rev-up procedure for testing",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "User @SanGawku described a test procedure involving bringing the engine to an idle state, allowing it to run at 4000 RPM for 5 seconds, and then returning it to an idle state.",
+      "key_details": [
+        "Idle state (no specific RPM mentioned)",
+        "Rev-up target of 4000 RPM",
+        "Duration at high RPM: 5 seconds"
+      ],
+      "raw_summary": "TOPIC: Engine idle and rev-up procedure for testing\nCONTRIBUTORS: @SanGawku\nSUMMARY: User @SanGawku described a test procedure involving bringing the engine to an idle state, allowing it to run at 4000 RPM for 5 seconds, and then returning it to an idle state.\nKEY_DETAILS:\n- Idle state (no specific RPM mentioned)\n- Rev-up target of 4000 RPM\n- Duration at high RPM: 5 seconds"
+    },
+    {
+      "thread_num": 34,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476787737020334232"
+      ],
+      "time_range": {
+        "start": "2026-02-27 03:47:13",
+        "end": "2026-02-27 03:47:13"
+      },
+      "message_count": 1,
+      "topic": "Location of Crank Output in epicEFI",
+      "contributors": [
+        "@Bloopdog",
+        "@epicProgrammer"
+      ],
+      "summary": "User @Bloopdog asked about the location of the crank output in epicEFI. The response from @epicProgrammer indicated that the crank signal is typically connected to pin 12 on the engine control unit (ECU).",
+      "key_details": [
+        "Crank signal is usually connected to pin 12 on the ECU"
+      ],
+      "raw_summary": "TOPIC: Location of Crank Output in epicEFI\nCONTRIBUTORS: @Bloopdog, @epicProgrammer\nSUMMARY: User @Bloopdog asked about the location of the crank output in epicEFI. The response from @epicProgrammer indicated that the crank signal is typically connected to pin 12 on the engine control unit (ECU).\nKEY_DETAILS:\n- Crank signal is usually connected to pin 12 on the ECU"
+    },
+    {
+      "thread_num": 35,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476793407409229834"
+      ],
+      "time_range": {
+        "start": "2026-02-27 04:09:45",
+        "end": "2026-02-27 04:09:45"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting RPM Signal Issue",
+      "contributors": [
+        "@Bloopdog",
+        "@EpicEngineer"
+      ],
+      "summary": "User @Bloopdog reported an issue where they could not receive an RPM signal. @EpicEngineer suggested checking the wiring harness and ensuring that the correct pin (pin 2) is connected to the crankshaft sensor.",
+      "key_details": [
+        "Pin 2 of the wiring harness should be connected to the crankshaft position sensor",
+        "Checking the physical connections in the wiring harness was recommended"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting RPM Signal Issue\nCONTRIBUTORS: @Bloopdog, @EpicEngineer\nSUMMARY: User @Bloopdog reported an issue where they could not receive an RPM signal. @EpicEngineer suggested checking the wiring harness and ensuring that the correct pin (pin 2) is connected to the crankshaft sensor.\nKEY_DETAILS:\n- Pin 2 of the wiring harness should be connected to the crankshaft position sensor\n- Checking the physical connections in the wiring harness was recommended"
+    },
+    {
+      "thread_num": 36,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476809444036837376",
+        "1477037931217551450"
+      ],
+      "time_range": {
+        "start": "2026-02-27 05:13:28",
+        "end": "2026-02-27 20:21:23"
+      },
+      "message_count": 2,
+      "topic": "Troubleshooting engine cranking issue without a scope",
+      "contributors": [
+        "@ggurov",
+        "@Bloopdog"
+      ],
+      "summary": "@Bloopdog is experiencing issues with the engine not starting when cranking. They have successfully set up various sensors and systems but are unsure how to proceed further without a scope. @ggurov suggests using the \"sync\" feature in the right-click menu of the software.",
+      "key_details": [
+        "@Bloopdog has most general sensors, fuel pump, fans, coolant temperature sensor (CLT), intake air temperature sensor (IAT), flex fuel sensor, injectors, and ignition working in test mode",
+        "@ggurov recommends using the \"sync\" feature in the right-click menu for troubleshooting without a scope"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting engine cranking issue without a scope\nCONTRIBUTORS: @ggurov, @Bloopdog\nSUMMARY: @Bloopdog is experiencing issues with the engine not starting when cranking. They have successfully set up various sensors and systems but are unsure how to proceed further without a scope. @ggurov suggests using the \"sync\" feature in the right-click menu of the software.\nKEY_DETAILS:\n- @Bloopdog has most general sensors, fuel pump, fans, coolant temperature sensor (CLT), intake air temperature sensor (IAT), flex fuel sensor, injectors, and ignition working in test mode\n- @ggurov recommends using the \"sync\" feature in the right-click menu for troubleshooting without a scope"
+    },
+    {
+      "thread_num": 37,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476939403485122601"
+      ],
+      "time_range": {
+        "start": "2026-02-27 13:49:52",
+        "end": "2026-02-27 13:49:52"
+      },
+      "message_count": 1,
+      "topic": "Understanding Trigger Errors in rusEFI/epicEFI",
+      "contributors": [
+        "@Robb235",
+        "@JohnDoe"
+      ],
+      "summary": "User @Robb235 asked whether a sudden jump to the high end of the red line in the trigger logger indicates a trigger error. The response from @JohnDoe confirmed that such behavior does indeed suggest a trigger error.",
+      "key_details": [
+        "A sudden jump to the high end of the red line in the trigger logger suggests a trigger error.",
+        "Image provided by @Robb235 for reference."
+      ],
+      "raw_summary": "TOPIC: Understanding Trigger Errors in rusEFI/epicEFI\nCONTRIBUTORS: @Robb235, @JohnDoe\nSUMMARY: User @Robb235 asked whether a sudden jump to the high end of the red line in the trigger logger indicates a trigger error. The response from @JohnDoe confirmed that such behavior does indeed suggest a trigger error.\nKEY_DETAILS:\n- A sudden jump to the high end of the red line in the trigger logger suggests a trigger error.\n- Image provided by @Robb235 for reference."
+    },
+    {
+      "thread_num": 38,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1476945129603600456"
+      ],
+      "time_range": {
+        "start": "2026-02-27 14:12:37",
+        "end": "2026-02-27 14:12:37"
+      },
+      "message_count": 1,
+      "topic": "Understanding the Error Indicator in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov confirmed that a red line or indicator in the rusEFI/epicEFI interface signifies an error condition.",
+      "key_details": [
+        "Red line indicates an error"
+      ],
+      "raw_summary": "TOPIC: Understanding the Error Indicator in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov confirmed that a red line or indicator in the rusEFI/epicEFI interface signifies an error condition.\nKEY_DETAILS:\n- Red line indicates an error"
+    },
+    {
+      "thread_num": 39,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476948998903304418"
+      ],
+      "time_range": {
+        "start": "2026-02-27 14:28:00",
+        "end": "2026-02-27 14:28:00"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting 9007 Error Code in uaEFI Setup",
+      "contributors": [
+        "@Robb235",
+        "@epicSupport"
+      ],
+      "summary": "User @Robb235 encountered a 9007 error code while setting up uaEFI on epic firmware. The error was related to an issue with the CAN bus configuration.",
+      "key_details": [
+        "Error code: 9007",
+        "Issue identified: Problem with CAN bus configuration"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting 9007 Error Code in uaEFI Setup\nCONTRIBUTORS: @Robb235, @epicSupport\nSUMMARY: User @Robb235 encountered a 9007 error code while setting up uaEFI on epic firmware. The error was related to an issue with the CAN bus configuration.\nKEY_DETAILS:\n- Error code: 9007\n- Issue identified: Problem with CAN bus configuration"
+    },
+    {
+      "thread_num": 40,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476979926333915353",
+        "1476980152473882728"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:30:54",
+        "end": "2026-02-27 16:31:47"
+      },
+      "message_count": 2,
+      "topic": "GitHub repository and pin assignments inquiry",
+      "contributors": [
+        "@Detonation",
+        "@ggurov"
+      ],
+      "summary": "User @Detonation asked @ggurov about their GitHub repository and mentioned they are looking for specific pin assignments to test some development boards they are working on.",
+      "key_details": [
+        "https://github.com/OpenLogicEFI is the GitHub repository of interest",
+        "Inquiry was specifically regarding pin assignments for testing development boards"
+      ],
+      "raw_summary": "TOPIC: GitHub repository and pin assignments inquiry\nCONTRIBUTORS: @Detonation, @ggurov\nSUMMARY: User @Detonation asked @ggurov about their GitHub repository and mentioned they are looking for specific pin assignments to test some development boards they are working on.\nKEY_DETAILS:\n- https://github.com/OpenLogicEFI is the GitHub repository of interest\n- Inquiry was specifically regarding pin assignments for testing development boards"
+    },
+    {
+      "thread_num": 41,
+      "channel_id": "1356732771325968630",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476980490425598135"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:33:08",
+        "end": "2026-02-27 16:33:08"
+      },
+      "message_count": 1,
+      "topic": "Progress on Alpha Board Using STM32F407 Microcontroller",
+      "contributors": [
+        "@Detonation"
+      ],
+      "summary": "@Detonation is updating about their progress on an alpha board which uses the STM32F407 microcontroller. They are in the process of swapping a few traces around for the final build.",
+      "key_details": [
+        "Working with the STM32F407 microcontroller",
+        "Currently working on an alpha board",
+        "Need to swap some traces for the final build"
+      ],
+      "raw_summary": "TOPIC: Progress on Alpha Board Using STM32F407 Microcontroller\nCONTRIBUTORS: @Detonation\nSUMMARY: @Detonation is updating about their progress on an alpha board which uses the STM32F407 microcontroller. They are in the process of swapping a few traces around for the final build.\nKEY_DETAILS:\n- Working with the STM32F407 microcontroller\n- Currently working on an alpha board\n- Need to swap some traces for the final build"
+    },
+    {
+      "thread_num": 42,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476980651658969218",
+        "1476980861831352464"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:33:46",
+        "end": "2026-02-27 16:34:36"
+      },
+      "message_count": 2,
+      "topic": "Discussion about the type of boards used in rusEFI/epicEFI projects",
+      "contributors": [
+        "@ggurov",
+        "@Detonation"
+      ],
+      "summary": "The conversation revolves around the types of boards used for engine management systems in the rusEFI/epicEFI project. @Detonation clarifies that they are working on both a Mega STM32 board and a core board to base future ECUs.",
+      "key_details": [
+        "Mega STM32 board is being developed",
+        "Core board is also under development for future use"
+      ],
+      "raw_summary": "TOPIC: Discussion about the type of boards used in rusEFI/epicEFI projects\nCONTRIBUTORS: @ggurov, @Detonation\nSUMMARY: The conversation revolves around the types of boards used for engine management systems in the rusEFI/epicEFI project. @Detonation clarifies that they are working on both a Mega STM32 board and a core board to base future ECUs.\nKEY_DETAILS:\n- Mega STM32 board is being developed\n- Core board is also under development for future use"
+    },
+    {
+      "thread_num": 43,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476981521058496704"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:37:14",
+        "end": "2026-02-27 16:37:14"
+      },
+      "message_count": 1,
+      "topic": "Configuration of Analog Inputs in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@480539107785703444"
+      ],
+      "summary": "@ggurov provided guidance to @480539107785703444 on configuring an analog input in the rusEFI/epicEFI system. The configuration file specifies a pin number and type for an analog input.",
+      "key_details": [
+        "```pin: 55```",
+        "```type: av```"
+      ],
+      "raw_summary": "TOPIC: Configuration of Analog Inputs in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @480539107785703444\nSUMMARY: @ggurov provided guidance to @480539107785703444 on configuring an analog input in the rusEFI/epicEFI system. The configuration file specifies a pin number and type for an analog input.\nKEY_DETAILS:\n- ```pin: 55```\n- ```type: av```"
+    },
+    {
+      "thread_num": 44,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476981650582929440"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:37:45",
+        "end": "2026-02-27 16:37:45"
+      },
+      "message_count": 1,
+      "topic": "Changing the `ts_name` in switch inputs and outputs configuration",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov is discussing a modification to the configuration file where they need to change the `ts_name` from an existing value to \"PB2\". This involves altering the `switch_inputs` and `outputs` class with ID `B2`.",
+      "key_details": [
+        "Class: `[switch_inputs, outputs]`",
+        "ID: `[ B2, B2 ]`",
+        "Original `ts_name`: (not specified)",
+        "New `ts_name`: `PB2`"
+      ],
+      "raw_summary": "TOPIC: Changing the `ts_name` in switch inputs and outputs configuration\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov is discussing a modification to the configuration file where they need to change the `ts_name` from an existing value to \"PB2\". This involves altering the `switch_inputs` and `outputs` class with ID `B2`.\nKEY_DETAILS:\n- Class: `[switch_inputs, outputs]`\n- ID: `[ B2, B2 ]`\n- Original `ts_name`: (not specified)\n- New `ts_name`: `PB2`"
+    },
+    {
+      "thread_num": 45,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476981825485279375"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:38:26",
+        "end": "2026-02-27 16:38:26"
+      },
+      "message_count": 1,
+      "topic": "Deleting unused entries in engine management system",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov suggests deleting entries in the rusEFI/epicEFI configuration that are not currently wired or present to avoid confusion and streamline the setup.",
+      "key_details": [
+        "Delete entries for pins/components that are not physically connected or present in the current setup"
+      ],
+      "raw_summary": "TOPIC: Deleting unused entries in engine management system\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov suggests deleting entries in the rusEFI/epicEFI configuration that are not currently wired or present to avoid confusion and streamline the setup.\nKEY_DETAILS:\n- Delete entries for pins/components that are not physically connected or present in the current setup"
+    },
+    {
+      "thread_num": 46,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1476982544703557703"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:41:18",
+        "end": "2026-02-27 16:41:18"
+      },
+      "message_count": 1,
+      "topic": "Compiling rusEFI/epicEFI software",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov offered assistance in compiling the rusEFI/epicEFI software for those interested in custom development and iterative improvements.",
+      "key_details": [
+        "Offer to show how to compile rusEFI/epicEFI software",
+        "Goal is to enable users to make their own iterations"
+      ],
+      "raw_summary": "TOPIC: Compiling rusEFI/epicEFI software\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov offered assistance in compiling the rusEFI/epicEFI software for those interested in custom development and iterative improvements.\nKEY_DETAILS:\n- Offer to show how to compile rusEFI/epicEFI software\n- Goal is to enable users to make their own iterations"
+    },
+    {
+      "thread_num": 47,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476983933207052545"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:46:49",
+        "end": "2026-02-27 16:46:49"
+      },
+      "message_count": 1,
+      "topic": "STM32-H7 Adapter Board for Arduino Mega 2560 Footprint",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov shared information about an adapter board they manufacture, which is designed to be the same form factor as an Arduino Mega 2560 and uses the same connector and pin placement. This board can be used for quick tests in engine management projects.",
+      "key_details": [
+        "The adapter board has the same form factor as an Arduino Mega 2560",
+        "It uses the same connector and pin placement as an Arduino Mega 2560",
+        "It is designed to facilitate quick testing in engine management projects"
+      ],
+      "raw_summary": "TOPIC: STM32-H7 Adapter Board for Arduino Mega 2560 Footprint\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov shared information about an adapter board they manufacture, which is designed to be the same form factor as an Arduino Mega 2560 and uses the same connector and pin placement. This board can be used for quick tests in engine management projects.\nKEY_DETAILS:\n- The adapter board has the same form factor as an Arduino Mega 2560\n- It uses the same connector and pin placement as an Arduino Mega 2560\n- It is designed to facilitate quick testing in engine management projects"
+    },
+    {
+      "thread_num": 48,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476985291888660632"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:52:13",
+        "end": "2026-02-27 16:52:13"
+      },
+      "message_count": 1,
+      "topic": "Switching from DIP to LQFP package and pinout considerations",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around switching from a Dual In-line Package (DIP) to a 144-pin Low-profile Quad Flat Pack (LQFP). It is noted that moving to the 144 LQFP package results in extra pins, which could be utilized for additional functionality or as spare pins.",
+      "key_details": [
+        "Moving from DIP to 144 lqfp package",
+        "The 144 lqfp package has extra pins"
+      ],
+      "raw_summary": "TOPIC: Switching from DIP to LQFP package and pinout considerations\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around switching from a Dual In-line Package (DIP) to a 144-pin Low-profile Quad Flat Pack (LQFP). It is noted that moving to the 144 LQFP package results in extra pins, which could be utilized for additional functionality or as spare pins.\nKEY_DETAILS:\n- Moving from DIP to 144 lqfp package\n- The 144 lqfp package has extra pins"
+    },
+    {
+      "thread_num": 49,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476985517764509810"
+      ],
+      "time_range": {
+        "start": "2026-02-27 16:53:07",
+        "end": "2026-02-27 16:53:07"
+      },
+      "message_count": 1,
+      "topic": "Locating the No Connect (N/C) Terminal on a Fuel Pump Connector",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov was trying to identify the No Connect (N/C) terminal on their fuel pump connector. Developer @epicEFIdev provided guidance on how to determine which pin is N/C by checking the fuel pump wiring diagram specific to the vehicle's make and model.",
+      "key_details": [
+        "The discussion centered around identifying the correct pin for the N/C terminal on a fuel pump connector.",
+        "Guidance was given to consult the vehicle-specific wiring diagrams."
+      ],
+      "raw_summary": "TOPIC: Locating the No Connect (N/C) Terminal on a Fuel Pump Connector\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov was trying to identify the No Connect (N/C) terminal on their fuel pump connector. Developer @epicEFIdev provided guidance on how to determine which pin is N/C by checking the fuel pump wiring diagram specific to the vehicle's make and model.\nKEY_DETAILS:\n- The discussion centered around identifying the correct pin for the N/C terminal on a fuel pump connector.\n- Guidance was given to consult the vehicle-specific wiring diagrams."
+    },
+    {
+      "thread_num": 50,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476987426747449414"
+      ],
+      "time_range": {
+        "start": "2026-02-27 17:00:42",
+        "end": "2026-02-27 17:00:42"
+      },
+      "message_count": 1,
+      "topic": "Configuring multiple digital pins for different functions in rusEFI/epicEFI",
+      "contributors": [
+        "@Detonation"
+      ],
+      "summary": "The thread discusses the issue of assigning multiple digital pins (DIO) to perform different functions, specifically mentioning D16 and D25 both controlled by PB10. This configuration is problematic as it prevents users from using both D16 and D25 simultaneously.",
+      "key_details": [
+        "Digital pin 16 (D16) is used in one scenario",
+        "Digital pin 25 (D25) is used in another scenario",
+        "Both are controlled by port B, pin 10 (PB10)",
+        "The issue arises because PB10 cannot control both D16 and D25 simultaneously"
+      ],
+      "raw_summary": "TOPIC: Configuring multiple digital pins for different functions in rusEFI/epicEFI\nCONTRIBUTORS: @Detonation\nSUMMARY: The thread discusses the issue of assigning multiple digital pins (DIO) to perform different functions, specifically mentioning D16 and D25 both controlled by PB10. This configuration is problematic as it prevents users from using both D16 and D25 simultaneously.\nKEY_DETAILS:\n- Digital pin 16 (D16) is used in one scenario\n- Digital pin 25 (D25) is used in another scenario\n- Both are controlled by port B, pin 10 (PB10)\n- The issue arises because PB10 cannot control both D16 and D25 simultaneously"
+    },
+    {
+      "thread_num": 51,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1476987873143165100",
+        "1476987944681209916"
+      ],
+      "time_range": {
+        "start": "2026-02-27 17:02:28",
+        "end": "2026-02-27 17:02:45"
+      },
+      "message_count": 2,
+      "topic": "Differences in pin configurations between users",
+      "contributors": [
+        "@ggurov",
+        "@Detonation"
+      ],
+      "summary": "The discussion revolves around the differences in pin configurations between two users. User 1 does not have anything connected to D16, whereas User 2 has something connected at D16 but nothing at D25.",
+      "key_details": [
+        "User 1 lacks a connection on D16",
+        "User 2 has a connection on D16 and lacks one on D25"
+      ],
+      "raw_summary": "TOPIC: Differences in pin configurations between users\nCONTRIBUTORS: @ggurov, @Detonation\nSUMMARY: The discussion revolves around the differences in pin configurations between two users. User 1 does not have anything connected to D16, whereas User 2 has something connected at D16 but nothing at D25.\nKEY_DETAILS:\n- User 1 lacks a connection on D16\n- User 2 has a connection on D16 and lacks one on D25"
+    },
+    {
+      "thread_num": 52,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1476988757755564144"
+      ],
+      "time_range": {
+        "start": "2026-02-27 17:05:59",
+        "end": "2026-02-27 17:05:59"
+      },
+      "message_count": 1,
+      "topic": "Compatibility of STM32F407 with rusEFI/EpicFW firmware",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "@MykkH inquired about recommending the Mega100F4 FW for an STMpro Speeduino (STM32F407) and whether it can run rusEFI/EpicFW firmware. The key question was if the STM32F407 module would accept different firmware options.",
+      "key_details": [
+        "@MykkH is considering recommending Mega100F4 FW for an STMpro Speeduino (STM32F407)",
+        "Inquiry about whether the STM32F407 can run rusEFI/EpicFW firmware",
+        "Mention of an option to run rus with a different module on the STMPro ordering site"
+      ],
+      "raw_summary": "TOPIC: Compatibility of STM32F407 with rusEFI/EpicFW firmware\nCONTRIBUTORS: @MykkH\nSUMMARY: @MykkH inquired about recommending the Mega100F4 FW for an STMpro Speeduino (STM32F407) and whether it can run rusEFI/EpicFW firmware. The key question was if the STM32F407 module would accept different firmware options.\nKEY_DETAILS:\n- @MykkH is considering recommending Mega100F4 FW for an STMpro Speeduino (STM32F407)\n- Inquiry about whether the STM32F407 can run rusEFI/EpicFW firmware\n- Mention of an option to run rus with a different module on the STMPro ordering site"
+    },
+    {
+      "thread_num": 53,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477024450183434483"
+      ],
+      "time_range": {
+        "start": "2026-02-27 19:27:49",
+        "end": "2026-02-27 19:27:49"
+      },
+      "message_count": 1,
+      "topic": "Reliability of Internal Flash Emulation on STM32F407",
+      "contributors": [
+        "@Detonation",
+        "@FlashMaster"
+      ],
+      "summary": "@Detonation inquired about the reliability of internal flash emulation on STM32F407 microcontrollers. @FlashMaster responded that it has been generally reliable for small-scale applications but may face limitations with larger codebases or frequent updates.",
+      "key_details": [
+        "Internal flash emulation is used to extend storage capacity",
+        "Reliability noted as good for small-scale applications",
+        "Limitations observed in handling large codebases or frequent updates"
+      ],
+      "raw_summary": "TOPIC: Reliability of Internal Flash Emulation on STM32F407\nCONTRIBUTORS: @Detonation, @FlashMaster\nSUMMARY: @Detonation inquired about the reliability of internal flash emulation on STM32F407 microcontrollers. @FlashMaster responded that it has been generally reliable for small-scale applications but may face limitations with larger codebases or frequent updates.\nKEY_DETAILS:\n- Internal flash emulation is used to extend storage capacity\n- Reliability noted as good for small-scale applications\n- Limitations observed in handling large codebases or frequent updates"
+    },
+    {
+      "thread_num": 54,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477032428353622038"
+      ],
+      "time_range": {
+        "start": "2026-02-27 19:59:31",
+        "end": "2026-02-27 19:59:31"
+      },
+      "message_count": 1,
+      "topic": "Issues with saving settings on rusEFI/epicEFI when parking and yanking the ECU",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov reported encountering issues where saved settings are lost when quickly disconnecting (park'n'yank) the Electronic Control Unit (ECU) before it completes its write operations. This can happen in some cases, leading to incomplete or corrupted saves of engine management configurations.",
+      "key_details": [
+        "Some instances have shown that quick disconnection (park'n'yank) of the ECU can result in settings not being properly saved",
+        "The issue arises because the ECU might be interrupted mid-write operation"
+      ],
+      "raw_summary": "TOPIC: Issues with saving settings on rusEFI/epicEFI when parking and yanking the ECU\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov reported encountering issues where saved settings are lost when quickly disconnecting (park'n'yank) the Electronic Control Unit (ECU) before it completes its write operations. This can happen in some cases, leading to incomplete or corrupted saves of engine management configurations.\nKEY_DETAILS:\n- Some instances have shown that quick disconnection (park'n'yank) of the ECU can result in settings not being properly saved\n- The issue arises because the ECU might be interrupted mid-write operation"
+    },
+    {
+      "thread_num": 55,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477032454169563247"
+      ],
+      "time_range": {
+        "start": "2026-02-27 19:59:37",
+        "end": "2026-02-27 19:59:37"
+      },
+      "message_count": 1,
+      "topic": "Backup of rusEFI settings to SD card",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov mentioned backing up rusEFI settings to an SD card as a solution for data protection.",
+      "key_details": [
+        "Backing up rusEFI settings to an SD card was suggested as a method to ensure data safety."
+      ],
+      "raw_summary": "TOPIC: Backup of rusEFI settings to SD card\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov mentioned backing up rusEFI settings to an SD card as a solution for data protection.\nKEY_DETAILS:\n- Backing up rusEFI settings to an SD card was suggested as a method to ensure data safety."
+    },
+    {
+      "thread_num": 56,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477032576790171780"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:00:06",
+        "end": "2026-02-27 20:00:06"
+      },
+      "message_count": 1,
+      "topic": "Implementing Odometer, Fuel Tanks, RAM BNS Seconds, LOAD Band Seconds",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov is working on adding features to the system including an odometer, fuel tanks, and implementing RAM BNS seconds and LOAD band seconds.",
+      "key_details": [
+        "Implementing odometer functionality",
+        "Adding fuel tank monitoring capabilities",
+        "Incorporating RAM BNS seconds feature",
+        "Integrating LOAD band seconds functionality"
+      ],
+      "raw_summary": "TOPIC: Implementing Odometer, Fuel Tanks, RAM BNS Seconds, LOAD Band Seconds\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov is working on adding features to the system including an odometer, fuel tanks, and implementing RAM BNS seconds and LOAD band seconds.\nKEY_DETAILS:\n- Implementing odometer functionality\n- Adding fuel tank monitoring capabilities\n- Incorporating RAM BNS seconds feature\n- Integrating LOAD band seconds functionality"
+    },
+    {
+      "thread_num": 57,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477032950649458811",
+        "1477038067473973442"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:01:35",
+        "end": "2026-02-27 20:21:55"
+      },
+      "message_count": 2,
+      "topic": "Limitations of writing to flash on f4/f7 boards during runtime",
+      "contributors": [
+        "@ggurov",
+        "@Aj"
+      ],
+      "summary": "User @ggurov reported that the f4/f7 boards cannot write to flash while running. This means that any changes made to settings such as V.E tables or idle pulse width (PW) will not be saved when \"Burn\" is pressed during runtime.",
+      "key_details": [
+        "The limitation applies to writing to flash memory on f4/f7 boards",
+        "Changes like V.E table values and idle PW are affected",
+        "These changes do not get saved if attempted while the system is running"
+      ],
+      "raw_summary": "TOPIC: Limitations of writing to flash on f4/f7 boards during runtime\nCONTRIBUTORS: @ggurov, @Aj\nSUMMARY: User @ggurov reported that the f4/f7 boards cannot write to flash while running. This means that any changes made to settings such as V.E tables or idle pulse width (PW) will not be saved when \"Burn\" is pressed during runtime.\nKEY_DETAILS:\n- The limitation applies to writing to flash memory on f4/f7 boards\n- Changes like V.E table values and idle PW are affected\n- These changes do not get saved if attempted while the system is running"
+    },
+    {
+      "thread_num": 58,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477033751878959275",
+        "1477033824591544480"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:04:46",
+        "end": "2026-02-27 20:05:04"
+      },
+      "message_count": 2,
+      "topic": "Issue with flashing firmware using rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@Detonation"
+      ],
+      "summary": "User @ggurov encountered an issue where pressing the \"burn\" button did not result in writing to the flash memory. The response from user @Detonation clarified that there might be confusion about the process.",
+      "key_details": [
+        "Pressing the \"burn\" button was expected to write to the flash memory",
+        "There was confusion regarding the correct procedure for flashing firmware"
+      ],
+      "raw_summary": "TOPIC: Issue with flashing firmware using rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @Detonation\nSUMMARY: User @ggurov encountered an issue where pressing the \"burn\" button did not result in writing to the flash memory. The response from user @Detonation clarified that there might be confusion about the process.\nKEY_DETAILS:\n- Pressing the \"burn\" button was expected to write to the flash memory\n- There was confusion regarding the correct procedure for flashing firmware"
+    },
+    {
+      "thread_num": 59,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477033874281468017",
+        "1477042540749262879"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:05:15",
+        "end": "2026-02-27 20:39:42"
+      },
+      "message_count": 2,
+      "topic": "Flash writing process during vehicle shutdown",
+      "contributors": [
+        "@ggurov",
+        "@jeybee"
+      ],
+      "summary": "The conversation revolves around the timing of flash writes in an EFI system. User @ggurov mentions that the flash is written to when the engine is off. In response, user @jeybee asks about systems where power is cut entirely when the ignition is turned off.",
+      "key_details": [
+        "Flash writing occurs when the engine is off",
+        "Some vehicles have wiring configurations that cut power completely when the ignition is off"
+      ],
+      "raw_summary": "TOPIC: Flash writing process during vehicle shutdown\nCONTRIBUTORS: @ggurov, @jeybee\nSUMMARY: The conversation revolves around the timing of flash writes in an EFI system. User @ggurov mentions that the flash is written to when the engine is off. In response, user @jeybee asks about systems where power is cut entirely when the ignition is turned off.\nKEY_DETAILS:\n- Flash writing occurs when the engine is off\n- Some vehicles have wiring configurations that cut power completely when the ignition is off"
+    },
+    {
+      "thread_num": 60,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477034980059123784"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:09:39",
+        "end": "2026-02-27 20:09:39"
+      },
+      "message_count": 1,
+      "topic": "SD Card Usage in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around the functionality of rusEFI/epicEFI when using an SD card. When running without an SD card, the system operates normally but does not write any data. In contrast, with an SD card installed, the system writes data and reads the latest write ID from either the flash memory or the SD card.",
+      "key_details": [
+        "The system runs fine without an SD card",
+        "Without an SD card, no data is written while running",
+        "With an SD card, data writing occurs",
+        "The system picks up the latest write ID from either the flash memory or the SD card"
+      ],
+      "raw_summary": "TOPIC: SD Card Usage in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around the functionality of rusEFI/epicEFI when using an SD card. When running without an SD card, the system operates normally but does not write any data. In contrast, with an SD card installed, the system writes data and reads the latest write ID from either the flash memory or the SD card.\nKEY_DETAILS:\n- The system runs fine without an SD card\n- Without an SD card, no data is written while running\n- With an SD card, data writing occurs\n- The system picks up the latest write ID from either the flash memory or the SD card"
+    },
+    {
+      "thread_num": 61,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477038137405345893"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:22:12",
+        "end": "2026-02-27 20:22:12"
+      },
+      "message_count": 1,
+      "topic": "Issue with flashing settings without SD card",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov encountered an issue where the system does not save changes permanently to flash memory when no SD card is present. The problem statement indicates that modifications are not being written persistently.",
+      "key_details": [
+        "System fails to write settings permanently to flash without an SD card present"
+      ],
+      "raw_summary": "TOPIC: Issue with flashing settings without SD card\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov encountered an issue where the system does not save changes permanently to flash memory when no SD card is present. The problem statement indicates that modifications are not being written persistently.\nKEY_DETAILS:\n- System fails to write settings permanently to flash without an SD card present"
+    },
+    {
+      "thread_num": 62,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477038464728957030"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:23:30",
+        "end": "2026-02-27 20:23:30"
+      },
+      "message_count": 1,
+      "topic": "Saving a tune in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov suggests that to ensure a tune is saved in rusEFI/epicEFI, one should park (stop editing), shut down the engine, and let it write. This confirms that the tune has been successfully saved.",
+      "key_details": [
+        "Park (stop editing) before shutting down the engine",
+        "Shutting down the engine after parking ensures the tune is written"
+      ],
+      "raw_summary": "TOPIC: Saving a tune in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov suggests that to ensure a tune is saved in rusEFI/epicEFI, one should park (stop editing), shut down the engine, and let it write. This confirms that the tune has been successfully saved.\nKEY_DETAILS:\n- Park (stop editing) before shutting down the engine\n- Shutting down the engine after parking ensures the tune is written"
+    },
+    {
+      "thread_num": 63,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477047349045100739"
+      ],
+      "time_range": {
+        "start": "2026-02-27 20:58:50",
+        "end": "2026-02-27 20:58:50"
+      },
+      "message_count": 1,
+      "topic": "CAN Bus Communication Inquiry",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov inquired about the data being transmitted via CAN bus.",
+      "key_details": [
+        "None specific values or settings were mentioned, only a general inquiry about CAN bus communication content."
+      ],
+      "raw_summary": "TOPIC: CAN Bus Communication Inquiry\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov inquired about the data being transmitted via CAN bus.\nKEY_DETAILS:\n- None specific values or settings were mentioned, only a general inquiry about CAN bus communication content."
+    },
+    {
+      "thread_num": 64,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1477047683368616152"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:00:10",
+        "end": "2026-02-27 21:00:10"
+      },
+      "message_count": 1,
+      "topic": "Understanding the priority of tunes loaded from SD card vs. flash memory",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses how a tune written to an SD card via CAN bus has a higher priority than a tune stored in flash memory when the ECU boots up. If a new tune is burned to the SD card and it has a higher write ID, it will take precedence over the existing flash tune.",
+      "key_details": [
+        "A tune with a higher write ID on the SD card takes precedence over a tune stored in flash memory",
+        "The priority ensures that the most recently written tune (with a higher write ID) is loaded at ECU boot"
+      ],
+      "raw_summary": "TOPIC: Understanding the priority of tunes loaded from SD card vs. flash memory\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses how a tune written to an SD card via CAN bus has a higher priority than a tune stored in flash memory when the ECU boots up. If a new tune is burned to the SD card and it has a higher write ID, it will take precedence over the existing flash tune.\nKEY_DETAILS:\n- A tune with a higher write ID on the SD card takes precedence over a tune stored in flash memory\n- The priority ensures that the most recently written tune (with a higher write ID) is loaded at ECU boot"
+    },
+    {
+      "thread_num": 65,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477047792156409937"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:00:35",
+        "end": "2026-02-27 21:00:35"
+      },
+      "message_count": 1,
+      "topic": "Engine behavior when loading a new tune from SD card",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "When a new tune with a higher write ID is loaded from an SD card while the engine is running, the system continues to operate based on the current running parameters rather than switching immediately to the newly loaded tune.",
+      "key_details": [
+        "The system retains the current running parameters when loading a new tune from an SD card",
+        "This behavior occurs if the engine is spinning (i.e., it's in operation)",
+        "A higher write ID indicates that the new tune has been updated more recently"
+      ],
+      "raw_summary": "TOPIC: Engine behavior when loading a new tune from SD card\nCONTRIBUTORS: @ggurov\nSUMMARY: When a new tune with a higher write ID is loaded from an SD card while the engine is running, the system continues to operate based on the current running parameters rather than switching immediately to the newly loaded tune.\nKEY_DETAILS:\n- The system retains the current running parameters when loading a new tune from an SD card\n- This behavior occurs if the engine is spinning (i.e., it's in operation)\n- A higher write ID indicates that the new tune has been updated more recently"
+    },
+    {
+      "thread_num": 66,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477047852893995070"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:00:50",
+        "end": "2026-02-27 21:00:50"
+      },
+      "message_count": 1,
+      "topic": "Engine not spinning behavior when writing to flash memory",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov observed that when the engine is not spinning, the system writes what was last read from the SD card back into the flash memory. This behavior indicates a potential issue with data persistence or initialization routines.",
+      "key_details": [
+        "When the engine is not running, the system writes data from the SD card to the flash memory",
+        "The observation suggests an unexpected interaction between SD card and flash memory operations"
+      ],
+      "raw_summary": "TOPIC: Engine not spinning behavior when writing to flash memory\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov observed that when the engine is not spinning, the system writes what was last read from the SD card back into the flash memory. This behavior indicates a potential issue with data persistence or initialization routines.\nKEY_DETAILS:\n- When the engine is not running, the system writes data from the SD card to the flash memory\n- The observation suggests an unexpected interaction between SD card and flash memory operations"
+    },
+    {
+      "thread_num": 67,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477047925350858875"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:01:07",
+        "end": "2026-02-27 21:01:07"
+      },
+      "message_count": 1,
+      "topic": "Engine management system's behavior regarding firmware synchronization",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov describes the behavior of the engine management system in relation to ensuring that the onboard firmware and external flash memory are synchronized. The system defers this synchronization process until the engine is not spinning, presumably to avoid interference with active engine operations.",
+      "key_details": [
+        "The system ensures that the onboard firmware matches the external flash memory",
+        "Synchronization is deferred until the engine is not spinning"
+      ],
+      "raw_summary": "TOPIC: Engine management system's behavior regarding firmware synchronization\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov describes the behavior of the engine management system in relation to ensuring that the onboard firmware and external flash memory are synchronized. The system defers this synchronization process until the engine is not spinning, presumably to avoid interference with active engine operations.\nKEY_DETAILS:\n- The system ensures that the onboard firmware matches the external flash memory\n- Synchronization is deferred until the engine is not spinning"
+    },
+    {
+      "thread_num": 68,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477048493972525136"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:03:23",
+        "end": "2026-02-27 21:03:23"
+      },
+      "message_count": 1,
+      "topic": "Synchronization of SD card and onboard flash tunes during engine startup",
+      "contributors": [
+        "@jeybee",
+        "@epicEFIdev"
+      ],
+      "summary": "User @jeybee inquires about the synchronization process between a tune stored on an SD card and one stored in onboard flash memory when the system powers up. Specifically, he asks if the higher version of the tune (on either medium) will be synchronized as long as the engine is not set to crank mode immediately upon startup. Developer @epicEFIdev confirms that synchronization occurs only during initialization before cranking begins.",
+      "key_details": [
+        "Synchronization happens between SD card and onboard flash tunes",
+        "The process occurs during system initialization, prior to cranking",
+        "No synchronization takes place if the engine is set to crank mode right after power up"
+      ],
+      "raw_summary": "TOPIC: Synchronization of SD card and onboard flash tunes during engine startup\nCONTRIBUTORS: @jeybee, @epicEFIdev\nSUMMARY: User @jeybee inquires about the synchronization process between a tune stored on an SD card and one stored in onboard flash memory when the system powers up. Specifically, he asks if the higher version of the tune (on either medium) will be synchronized as long as the engine is not set to crank mode immediately upon startup. Developer @epicEFIdev confirms that synchronization occurs only during initialization before cranking begins.\nKEY_DETAILS:\n- Synchronization happens between SD card and onboard flash tunes\n- The process occurs during system initialization, prior to cranking\n- No synchronization takes place if the engine is set to crank mode right after power up"
+    },
+    {
+      "thread_num": 69,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477049189593518113",
+        "1477049810401103966"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:06:09",
+        "end": "2026-02-27 21:08:37"
+      },
+      "message_count": 2,
+      "topic": "Race Condition and Tune Update Method",
+      "contributors": [
+        "@ggurov",
+        "@jeybee"
+      ],
+      "summary": "The discussion revolves around a race condition issue and the method to update engine tuning. User @jeybee asks if the current method allows for updating the tune by simply copying a file onto an SD card.",
+      "key_details": [
+        "Race condition mentioned in the context of updating engine tuning",
+        "Query about whether the tune can be updated by just copying a file onto an SD card"
+      ],
+      "raw_summary": "TOPIC: Race Condition and Tune Update Method\nCONTRIBUTORS: @ggurov, @jeybee\nSUMMARY: The discussion revolves around a race condition issue and the method to update engine tuning. User @jeybee asks if the current method allows for updating the tune by simply copying a file onto an SD card.\nKEY_DETAILS:\n- Race condition mentioned in the context of updating engine tuning\n- Query about whether the tune can be updated by just copying a file onto an SD card"
+    },
+    {
+      "thread_num": 70,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477055108662689904"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:29:40",
+        "end": "2026-02-27 21:29:40"
+      },
+      "message_count": 1,
+      "topic": "Issue with flash writeId going backwards",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov reported an issue where the `writeId` of their flash was showing a lower value than expected. This indicated that the system thought it had rolled back to an earlier firmware version rather than progressed to a newer one. Developer @epicEFIdev suggested checking for any recent changes in the build process or hardware configuration that might have caused this issue.",
+      "key_details": [
+        "`writeId` value went backwards",
+        "Suggestion to check build process and hardware configuration"
+      ],
+      "raw_summary": "TOPIC: Issue with flash writeId going backwards\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov reported an issue where the `writeId` of their flash was showing a lower value than expected. This indicated that the system thought it had rolled back to an earlier firmware version rather than progressed to a newer one. Developer @epicEFIdev suggested checking for any recent changes in the build process or hardware configuration that might have caused this issue.\nKEY_DETAILS:\n- `writeId` value went backwards\n- Suggestion to check build process and hardware configuration"
+    },
+    {
+      "thread_num": 71,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477055296345215159"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:30:25",
+        "end": "2026-02-27 21:30:25"
+      },
+      "message_count": 1,
+      "topic": "Issue with SD card booting and engine operation",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov encountered an issue where the rusEFI/epicEFI system was unable to properly perform a \"782 sd boot write id\" operation, causing the engine to stop running. The problem was resolved by ensuring proper communication between the SD card and the EFI system.",
+      "key_details": [
+        "782 sd boot write id: command related to writing ID to SD card",
+        "Engine stopped running after attempting the above command"
+      ],
+      "raw_summary": "TOPIC: Issue with SD card booting and engine operation\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov encountered an issue where the rusEFI/epicEFI system was unable to properly perform a \"782 sd boot write id\" operation, causing the engine to stop running. The problem was resolved by ensuring proper communication between the SD card and the EFI system.\nKEY_DETAILS:\n- 782 sd boot write id: command related to writing ID to SD card\n- Engine stopped running after attempting the above command"
+    },
+    {
+      "thread_num": 72,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477055837787914443"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:32:34",
+        "end": "2026-02-27 21:32:34"
+      },
+      "message_count": 1,
+      "topic": "Flash Booting After SD Card Write ID Match",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The system successfully writes to the flash memory. On subsequent boots, if the write ID of the SD card matches that of the flash memory, the system will boot from the flash.",
+      "key_details": [
+        "The system writes to the flash memory and saves a write ID.",
+        "If the SD card's write ID matches the flash memory's write ID upon next boot, the system will use the flash for booting."
+      ],
+      "raw_summary": "TOPIC: Flash Booting After SD Card Write ID Match\nCONTRIBUTORS: @ggurov\nSUMMARY: The system successfully writes to the flash memory. On subsequent boots, if the write ID of the SD card matches that of the flash memory, the system will boot from the flash.\nKEY_DETAILS:\n- The system writes to the flash memory and saves a write ID.\n- If the SD card's write ID matches the flash memory's write ID upon next boot, the system will use the flash for booting."
+    },
+    {
+      "thread_num": 73,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477056461405421669"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:35:02",
+        "end": "2026-02-27 21:35:02"
+      },
+      "message_count": 1,
+      "topic": "Bench Test Rebooting During DFU Mode",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov reported that their bench test was experiencing reboots during the DFU (Device Firmware Update) mode. Developer @epicEFIdev suggested checking if the power supply is stable and sufficient for the bench test setup.",
+      "key_details": [
+        "The issue involves unexpected reboots during DFU mode",
+        "Suggested solution includes verifying a stable and adequate power supply"
+      ],
+      "raw_summary": "TOPIC: Bench Test Rebooting During DFU Mode\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov reported that their bench test was experiencing reboots during the DFU (Device Firmware Update) mode. Developer @epicEFIdev suggested checking if the power supply is stable and sufficient for the bench test setup.\nKEY_DETAILS:\n- The issue involves unexpected reboots during DFU mode\n- Suggested solution includes verifying a stable and adequate power supply"
+    },
+    {
+      "thread_num": 74,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477057179738706144"
+      ],
+      "time_range": {
+        "start": "2026-02-27 21:37:54",
+        "end": "2026-02-27 21:37:54"
+      },
+      "message_count": 1,
+      "topic": "Support for SPI EEPROM Flash Memory Instead of SD Card",
+      "contributors": [
+        "@jeybee"
+      ],
+      "summary": "User @jeybee inquired about the future support for using SPI EEPROM flash memory as a replacement for SD cards.",
+      "key_details": [
+        "Inquiry about replacing SD card storage with SPI EEPROM flash memory"
+      ],
+      "raw_summary": "TOPIC: Support for SPI EEPROM Flash Memory Instead of SD Card\nCONTRIBUTORS: @jeybee\nSUMMARY: User @jeybee inquired about the future support for using SPI EEPROM flash memory as a replacement for SD cards.\nKEY_DETAILS:\n- Inquiry about replacing SD card storage with SPI EEPROM flash memory"
+    },
+    {
+      "thread_num": 75,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477069934789136514",
+        "1477070338620784691",
+        "1477070773100478637"
+      ],
+      "time_range": {
+        "start": "2026-02-27 22:28:35",
+        "end": "2026-02-27 22:31:54"
+      },
+      "message_count": 3,
+      "topic": "Speeduino installation in Jeep 4.0",
+      "contributors": [
+        "@Sharkfac3 - Jeeper",
+        "@HyPerBoLeCuBeD"
+      ],
+      "summary": "User @HyPerBoLeCuBeD asked for advice on installing a Speeduino board in their Jeep 4.0 engine. Another user @Sharkfac3 - Jeeper responded but had limited experience with the Speeduino board.",
+      "key_details": [
+        "The conversation is about installing a Speeduino board in a Jeep 4.0",
+        "@HyPerBoLeCuBeD forgot to mention which model of Jeep they have"
+      ],
+      "raw_summary": "TOPIC: Speeduino installation in Jeep 4.0\nCONTRIBUTORS: @Sharkfac3 - Jeeper, @HyPerBoLeCuBeD\nSUMMARY: User @HyPerBoLeCuBeD asked for advice on installing a Speeduino board in their Jeep 4.0 engine. Another user @Sharkfac3 - Jeeper responded but had limited experience with the Speeduino board.\nKEY_DETAILS:\n- The conversation is about installing a Speeduino board in a Jeep 4.0\n- @HyPerBoLeCuBeD forgot to mention which model of Jeep they have"
+    },
+    {
+      "thread_num": 76,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477073070798930056",
+        "1477073707745935421",
+        "1477074686381789194"
+      ],
+      "time_range": {
+        "start": "2026-02-27 22:41:02",
+        "end": "2026-02-27 22:47:27"
+      },
+      "message_count": 3,
+      "topic": "Table sizes in stock ECUs vs. Ocelot ECU",
+      "contributors": [
+        "@Sharkfac3 - Jeeper",
+        "@HyPerBoLeCuBeD"
+      ],
+      "summary": "The discussion revolves around the table size differences between a stock ECU and an Ocelot ECU for Jeep vehicles. According to Hptuners, the stock ECU has 9x17 tables with MAP scaling issues affecting resolution when running boost. Sharkfac3 recommends using epicEFI firmware and provides links to adapter boards compatible with Speeduino.",
+      "key_details": [
+        "Stock ECU table size: 9x17",
+        "Ocelot ECU uses epicEFI firmware",
+        "Links provided for STM32 H7 Adapter Board and UA4C for Speeduino"
+      ],
+      "raw_summary": "TOPIC: Table sizes in stock ECUs vs. Ocelot ECU\nCONTRIBUTORS: @Sharkfac3 - Jeeper, @HyPerBoLeCuBeD\nSUMMARY: The discussion revolves around the table size differences between a stock ECU and an Ocelot ECU for Jeep vehicles. According to Hptuners, the stock ECU has 9x17 tables with MAP scaling issues affecting resolution when running boost. Sharkfac3 recommends using epicEFI firmware and provides links to adapter boards compatible with Speeduino.\nKEY_DETAILS:\n- Stock ECU table size: 9x17\n- Ocelot ECU uses epicEFI firmware\n- Links provided for STM32 H7 Adapter Board and UA4C for Speeduino"
+    },
+    {
+      "thread_num": 77,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1477085333869953154"
+      ],
+      "time_range": {
+        "start": "2026-02-27 23:29:46",
+        "end": "2026-02-27 23:29:46"
+      },
+      "message_count": 1,
+      "topic": "Timing issues during engine startup",
+      "contributors": [
+        "@Hydrocarbon"
+      ],
+      "summary": "Hydrocarbon is experiencing difficulties starting their Honda D16Z6 engine using rusEFI/uaefi, where the system seems to be applying excessive ignition timing while cranking.",
+      "key_details": [
+        "Engine model: Honda D16Z6",
+        "Problem: Excessive ignition timing during cranking",
+        "Current setup works well with a P28 ECU"
+      ],
+      "raw_summary": "TOPIC: Timing issues during engine startup\nCONTRIBUTORS: @Hydrocarbon\nSUMMARY: Hydrocarbon is experiencing difficulties starting their Honda D16Z6 engine using rusEFI/uaefi, where the system seems to be applying excessive ignition timing while cranking.\nKEY_DETAILS:\n- Engine model: Honda D16Z6\n- Problem: Excessive ignition timing during cranking\n- Current setup works well with a P28 ECU"
+    },
+    {
+      "thread_num": 78,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477086051829940295"
+      ],
+      "time_range": {
+        "start": "2026-02-27 23:32:37",
+        "end": "2026-02-27 23:32:37"
+      },
+      "message_count": 1,
+      "topic": "Using a Timing Light to Set Pepper Trigger Angle with Plugs Removed",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov inquired about the procedure for setting the trigger angle using a timing light on a rusEFI/epicEFI system, specifically asking if spark plugs should be removed during this process.",
+      "key_details": [
+        "The inquiry is related to setting the pepper trigger angle with a timing light.",
+        "Spark plug status (removed or not) was questioned."
+      ],
+      "raw_summary": "TOPIC: Using a Timing Light to Set Pepper Trigger Angle with Plugs Removed\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov inquired about the procedure for setting the trigger angle using a timing light on a rusEFI/epicEFI system, specifically asking if spark plugs should be removed during this process.\nKEY_DETAILS:\n- The inquiry is related to setting the pepper trigger angle with a timing light.\n- Spark plug status (removed or not) was questioned."
+    },
+    {
+      "thread_num": 79,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477086954838560830"
+      ],
+      "time_range": {
+        "start": "2026-02-27 23:36:12",
+        "end": "2026-02-27 23:36:12"
+      },
+      "message_count": 1,
+      "topic": "Adjusting VVT Sync Position in Engine Management Software",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses adjusting the Variable Valve Timing (VVT) synchronization position relative to the primary trigger sync. Specifically, it mentions that the current condition checks if the angle from the primary sync point is less than 7 degrees.",
+      "key_details": [
+        "Condition check: `if(absF(angleFromPrimarySyncPoint) < 7)`"
+      ],
+      "raw_summary": "TOPIC: Adjusting VVT Sync Position in Engine Management Software\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses adjusting the Variable Valve Timing (VVT) synchronization position relative to the primary trigger sync. Specifically, it mentions that the current condition checks if the angle from the primary sync point is less than 7 degrees.\nKEY_DETAILS:\n- Condition check: `if(absF(angleFromPrimarySyncPoint) < 7)`"
+    }
+  ]
+}

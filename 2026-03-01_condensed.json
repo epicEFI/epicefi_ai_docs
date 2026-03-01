@@ -1,0 +1,1187 @@
+{
+  "date": "2026-03-01",
+  "generated_at": "2026-03-01T09:49:23.273049",
+  "stats": {
+    "total_threads": 434,
+    "noise_filtered": 386,
+    "kept": 48
+  },
+  "threads": [
+    {
+      "thread_num": 1,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477455643337031793"
+      ],
+      "time_range": {
+        "start": "2026-03-01 00:01:14",
+        "end": "2026-03-01 00:01:14"
+      },
+      "message_count": 1,
+      "topic": "Diagnosing a fuel pump issue",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "@Bearded_Bogan reported an issue with the fuel pump not functioning correctly. After confirming there were no wiring shorts, he sought further assistance from the community.",
+      "key_details": [
+        "No wiring shorts confirmed"
+      ],
+      "raw_summary": "TOPIC: Diagnosing a fuel pump issue\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: @Bearded_Bogan reported an issue with the fuel pump not functioning correctly. After confirming there were no wiring shorts, he sought further assistance from the community.\nKEY_DETAILS:\n- No wiring shorts confirmed"
+    },
+    {
+      "thread_num": 2,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477455718646022296"
+      ],
+      "time_range": {
+        "start": "2026-03-01 00:01:32",
+        "end": "2026-03-01 00:01:32"
+      },
+      "message_count": 1,
+      "topic": "Disconnecting ECU and Sensors",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan reported disconnecting the ECU and all 5V-specific sensors in an effort to troubleshoot or perform maintenance on the system.",
+      "key_details": [
+        "Disconnected the ECU",
+        "Disconnected all 5V-specific sensors"
+      ],
+      "raw_summary": "TOPIC: Disconnecting ECU and Sensors\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan reported disconnecting the ECU and all 5V-specific sensors in an effort to troubleshoot or perform maintenance on the system.\nKEY_DETAILS:\n- Disconnected the ECU\n- Disconnected all 5V-specific sensors"
+    },
+    {
+      "thread_num": 3,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477455790242660444"
+      ],
+      "time_range": {
+        "start": "2026-03-01 00:01:49",
+        "end": "2026-03-01 00:01:49"
+      },
+      "message_count": 1,
+      "topic": "Identifying an open circuit issue in wiring",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "User @Bearded_Bogan reported an open circuit problem between the 5V power line and the ground (GND) line, which is likely causing issues with their engine management system.",
+      "key_details": [
+        "Open circuit detected between 5v and sense gnd"
+      ],
+      "raw_summary": "TOPIC: Identifying an open circuit issue in wiring\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: User @Bearded_Bogan reported an open circuit problem between the 5V power line and the ground (GND) line, which is likely causing issues with their engine management system.\nKEY_DETAILS:\n- Open circuit detected between 5v and sense gnd"
+    },
+    {
+      "thread_num": 4,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477460398683979776"
+      ],
+      "time_range": {
+        "start": "2026-03-01 00:20:08",
+        "end": "2026-03-01 00:20:08"
+      },
+      "message_count": 1,
+      "topic": "Resolving an engine management issue",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFIdev"
+      ],
+      "summary": "The thread indicates that @Bearded_Bogan identified and resolved a specific issue. However, no further details about the nature of the problem or its resolution are provided in the given snippet.",
+      "key_details": [
+        "None specified in the provided conversation snippet"
+      ],
+      "raw_summary": "TOPIC: Resolving an engine management issue\nCONTRIBUTORS: @Bearded_Bogan, @epicEFIdev\nSUMMARY: The thread indicates that @Bearded_Bogan identified and resolved a specific issue. However, no further details about the nature of the problem or its resolution are provided in the given snippet.\nKEY_DETAILS:\n- None specified in the provided conversation snippet"
+    },
+    {
+      "thread_num": 5,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477462049691795637"
+      ],
+      "time_range": {
+        "start": "2026-03-01 00:26:42",
+        "end": "2026-03-01 00:26:42"
+      },
+      "message_count": 1,
+      "topic": "Reversing connections in engine management system",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@Engineer_Eric"
+      ],
+      "summary": "@Bearded_Bogan reported issues after incorrectly connecting 5V and sensor ground wires to the external harness. @Engineer_Eric suggested checking for any hardware damage and advised on how to properly reconnect the wires.",
+      "key_details": [
+        "Incorrectly connected 5V and sensor ground wires",
+        "Suggested checking for hardware damage before reconnection"
+      ],
+      "raw_summary": "TOPIC: Reversing connections in engine management system\nCONTRIBUTORS: @Bearded_Bogan, @Engineer_Eric\nSUMMARY: @Bearded_Bogan reported issues after incorrectly connecting 5V and sensor ground wires to the external harness. @Engineer_Eric suggested checking for any hardware damage and advised on how to properly reconnect the wires.\nKEY_DETAILS:\n- Incorrectly connected 5V and sensor ground wires\n- Suggested checking for hardware damage before reconnection"
+    },
+    {
+      "thread_num": 6,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477462100832944238"
+      ],
+      "time_range": {
+        "start": "2026-03-01 00:26:54",
+        "end": "2026-03-01 00:26:54"
+      },
+      "message_count": 1,
+      "topic": "Explanation of Oil Pressure Sensor Reading",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan provided an explanation regarding the oil pressure sensor reading, clarifying that while the issue doesn\u2019t affect the camshaft sensors, it does provide insight into the oil pressure readings.",
+      "key_details": [
+        "The discussion centers on oil pressure sensor readings rather than camshaft sensors."
+      ],
+      "raw_summary": "TOPIC: Explanation of Oil Pressure Sensor Reading\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan provided an explanation regarding the oil pressure sensor reading, clarifying that while the issue doesn\u2019t affect the camshaft sensors, it does provide insight into the oil pressure readings.\nKEY_DETAILS:\n- The discussion centers on oil pressure sensor readings rather than camshaft sensors."
+    },
+    {
+      "thread_num": 7,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477482178844692642"
+      ],
+      "time_range": {
+        "start": "2026-03-01 01:46:41",
+        "end": "2026-03-01 01:46:41"
+      },
+      "message_count": 1,
+      "topic": "Fixing a wiring issue in an engine management system",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan reported that they had resolved a wiring error in their setup.",
+      "key_details": [
+        "None specific values or settings were mentioned beyond the fact that there was a wiring issue that has been fixed."
+      ],
+      "raw_summary": "TOPIC: Fixing a wiring issue in an engine management system\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan reported that they had resolved a wiring error in their setup.\nKEY_DETAILS:\n- None specific values or settings were mentioned beyond the fact that there was a wiring issue that has been fixed."
+    },
+    {
+      "thread_num": 8,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477482214588420240"
+      ],
+      "time_range": {
+        "start": "2026-03-01 01:46:49",
+        "end": "2026-03-01 01:46:49"
+      },
+      "message_count": 1,
+      "topic": "Correcting wiring issues with a sensor",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "@Bearded_Bogan encountered an issue where the 5V and GND connections were reversed on a sensor. The key question was how to correct this wiring issue.",
+      "key_details": [
+        "5V and GND were connected in reverse for the sensor"
+      ],
+      "raw_summary": "TOPIC: Correcting wiring issues with a sensor\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: @Bearded_Bogan encountered an issue where the 5V and GND connections were reversed on a sensor. The key question was how to correct this wiring issue.\nKEY_DETAILS:\n- 5V and GND were connected in reverse for the sensor"
+    },
+    {
+      "thread_num": 9,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477482775643947099"
+      ],
+      "time_range": {
+        "start": "2026-03-01 01:49:03",
+        "end": "2026-03-01 01:49:03"
+      },
+      "message_count": 1,
+      "topic": "Using generic pressure sensors as MAP sensors",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFIdev"
+      ],
+      "summary": "@Bearded_Bogan asked if generic pressure sensors could be used as Manifold Absolute Pressure (MAP) sensors. @epicEFIdev responded that while it's technically possible to use a generic pressure sensor for MAP sensing, the sensor must have the appropriate range and accuracy for engine management systems.",
+      "key_details": [
+        "The question pertains to using generic pressure sensors in place of dedicated MAP sensors",
+        "@epicEFIdev emphasized the need for proper range and accuracy in the chosen sensor"
+      ],
+      "raw_summary": "TOPIC: Using generic pressure sensors as MAP sensors\nCONTRIBUTORS: @Bearded_Bogan, @epicEFIdev\nSUMMARY: @Bearded_Bogan asked if generic pressure sensors could be used as Manifold Absolute Pressure (MAP) sensors. @epicEFIdev responded that while it's technically possible to use a generic pressure sensor for MAP sensing, the sensor must have the appropriate range and accuracy for engine management systems.\nKEY_DETAILS:\n- The question pertains to using generic pressure sensors in place of dedicated MAP sensors\n- @epicEFIdev emphasized the need for proper range and accuracy in the chosen sensor"
+    },
+    {
+      "thread_num": 10,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477488424679247995",
+        "1477488475090587812"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:11:30",
+        "end": "2026-03-01 02:11:42"
+      },
+      "message_count": 2,
+      "topic": "Understanding dTPS in Auto Tune",
+      "contributors": [
+        "@Robb235",
+        "@Joesphan"
+      ],
+      "summary": "@Robb235 asked about the term 'dTPS' used in auto tuning. @Joesphan clarified that 'dTPS' stands for \"change in throttle position,\" which is a key parameter monitored during the auto-tuning process.",
+      "key_details": [
+        "dTPS refers to the change in throttle position"
+      ],
+      "raw_summary": "TOPIC: Understanding dTPS in Auto Tune\nCONTRIBUTORS: @Robb235, @Joesphan\nSUMMARY: @Robb235 asked about the term 'dTPS' used in auto tuning. @Joesphan clarified that 'dTPS' stands for \"change in throttle position,\" which is a key parameter monitored during the auto-tuning process.\nKEY_DETAILS:\n- dTPS refers to the change in throttle position"
+    },
+    {
+      "thread_num": 11,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477489421036158997"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:15:27",
+        "end": "2026-03-01 02:15:27"
+      },
+      "message_count": 1,
+      "topic": "Preventing tuning during transient throttle conditions",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "@Joesphan inquired about how to prevent the engine management system from attempting to tune during transient throttle events. No specific solution or answer was provided within the given context.",
+      "key_details": [
+        "None specified in the provided context"
+      ],
+      "raw_summary": "TOPIC: Preventing tuning during transient throttle conditions\nCONTRIBUTORS: @Joesphan\nSUMMARY: @Joesphan inquired about how to prevent the engine management system from attempting to tune during transient throttle events. No specific solution or answer was provided within the given context.\nKEY_DETAILS:\n- None specified in the provided context"
+    },
+    {
+      "thread_num": 12,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477490029172359168",
+        "1477490952452178021"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:17:52",
+        "end": "2026-03-01 02:21:32"
+      },
+      "message_count": 2,
+      "topic": "Adjusting VEAL's Max Cell Percentage Change for smoother operation",
+      "contributors": [
+        "@MykkH",
+        "@Joesphan"
+      ],
+      "summary": "@MykkH discussed adjusting the Max Cell Percentage Change in VEAL to a small value (2-4%) to prevent overshooting the target VE values. This adjustment allows for incremental changes every 12 seconds instead of making large adjustments based on outdated data.",
+      "key_details": [
+        "Max Cell Percentage Change set between 2% and 4%",
+        "VEAL updates every 12-15 seconds",
+        "Smaller incremental changes help avoid overshooting the target VE values"
+      ],
+      "raw_summary": "TOPIC: Adjusting VEAL's Max Cell Percentage Change for smoother operation\nCONTRIBUTORS: @MykkH, @Joesphan\nSUMMARY: @MykkH discussed adjusting the Max Cell Percentage Change in VEAL to a small value (2-4%) to prevent overshooting the target VE values. This adjustment allows for incremental changes every 12 seconds instead of making large adjustments based on outdated data.\nKEY_DETAILS:\n- Max Cell Percentage Change set between 2% and 4%\n- VEAL updates every 12-15 seconds\n- Smaller incremental changes help avoid overshooting the target VE values"
+    },
+    {
+      "thread_num": 13,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477492131760308235"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:26:14",
+        "end": "2026-03-01 02:26:14"
+      },
+      "message_count": 1,
+      "topic": "Adjusting VE table settings for optimal performance",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH discusses the adjustment of fuel tuning parameters, specifically mentioning that switching from \"easy\" to \"normal\" mode in the VE (Volumetric Efficiency) table improves performance. They note achieving a better approximation of target AFRs with a 2% max cell change in normal mode.",
+      "key_details": [
+        "Switching from \"easy\" to \"normal\" mode in the VE table",
+        "Achieving optimal performance with a 2% max cell change in normal mode"
+      ],
+      "raw_summary": "TOPIC: Adjusting VE table settings for optimal performance\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH discusses the adjustment of fuel tuning parameters, specifically mentioning that switching from \"easy\" to \"normal\" mode in the VE (Volumetric Efficiency) table improves performance. They note achieving a better approximation of target AFRs with a 2% max cell change in normal mode.\nKEY_DETAILS:\n- Switching from \"easy\" to \"normal\" mode in the VE table\n- Achieving optimal performance with a 2% max cell change in normal mode"
+    },
+    {
+      "thread_num": 14,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477492295493357622"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:26:53",
+        "end": "2026-03-01 02:26:53"
+      },
+      "message_count": 1,
+      "topic": "Limiting Autotune Start RPM",
+      "contributors": [
+        "@paleppp"
+      ],
+      "summary": "User @paleppp discussed limiting the autotune function in rusEFI/epicEFI to begin operation only above a certain RPM threshold. Specifically, they set this limit at 2000 RPM.",
+      "key_details": [
+        "Autotune starts after 2000rpm"
+      ],
+      "raw_summary": "TOPIC: Limiting Autotune Start RPM\nCONTRIBUTORS: @paleppp\nSUMMARY: User @paleppp discussed limiting the autotune function in rusEFI/epicEFI to begin operation only above a certain RPM threshold. Specifically, they set this limit at 2000 RPM.\nKEY_DETAILS:\n- Autotune starts after 2000rpm"
+    },
+    {
+      "thread_num": 15,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1477492602461753434"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:28:06",
+        "end": "2026-03-01 02:28:06"
+      },
+      "message_count": 1,
+      "topic": "Locking Idle Cells for Stable Idle Operation",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH is experiencing issues when transitioning from overrun to idle, where the Air-Fuel Ratio (AFR) becomes unstable and shows large fluctuations due to oversized long tube headers. To address this, they plan to lock their idle cells for more stable operation.",
+      "key_details": [
+        "Transitioning from overrun to idle causes instability in AFR",
+        "Large fluctuations are attributed to oversized long tube headers",
+        "Plan to lock idle cells to achieve a more stable idle operation"
+      ],
+      "raw_summary": "TOPIC: Locking Idle Cells for Stable Idle Operation\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH is experiencing issues when transitioning from overrun to idle, where the Air-Fuel Ratio (AFR) becomes unstable and shows large fluctuations due to oversized long tube headers. To address this, they plan to lock their idle cells for more stable operation.\nKEY_DETAILS:\n- Transitioning from overrun to idle causes instability in AFR\n- Large fluctuations are attributed to oversized long tube headers\n- Plan to lock idle cells to achieve a more stable idle operation"
+    },
+    {
+      "thread_num": 16,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477493223692959786",
+        "1477494248973533244",
+        "1477495185888907488"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:30:34",
+        "end": "2026-03-01 02:38:22"
+      },
+      "message_count": 3,
+      "topic": "Adjustments for reducing pops and bangs during engine deceleration",
+      "contributors": [
+        "@paleppp",
+        "@MykkH"
+      ],
+      "summary": "The thread discusses methods to reduce popping and banging noises that occur during engine deceleration. @paleppp suggests leaning the VE ( volumetric efficiency ) table in overrun areas and setting the ignition advance for those same areas to 0. @MykkH confirms this approach by sharing a video demonstrating the issue.",
+      "key_details": [
+        "Adjust the VE table to lean in overrun areas",
+        "Set the ignition advance to 0 in the same overrun areas"
+      ],
+      "raw_summary": "TOPIC: Adjustments for reducing pops and bangs during engine deceleration\nCONTRIBUTORS: @paleppp, @MykkH\nSUMMARY: The thread discusses methods to reduce popping and banging noises that occur during engine deceleration. @paleppp suggests leaning the VE ( volumetric efficiency ) table in overrun areas and setting the ignition advance for those same areas to 0. @MykkH confirms this approach by sharing a video demonstrating the issue.\nKEY_DETAILS:\n- Adjust the VE table to lean in overrun areas\n- Set the ignition advance to 0 in the same overrun areas"
+    },
+    {
+      "thread_num": 17,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477496028952268862"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:41:43",
+        "end": "2026-03-01 02:41:43"
+      },
+      "message_count": 1,
+      "topic": "Voltage range for a specific sensor input",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the typical voltage range for a specific sensor input, which is between 0.5V and 4.5V.",
+      "key_details": [
+        "The voltage range for the sensor input is 0.5v to 4.5v"
+      ],
+      "raw_summary": "TOPIC: Voltage range for a specific sensor input\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the typical voltage range for a specific sensor input, which is between 0.5V and 4.5V.\nKEY_DETAILS:\n- The voltage range for the sensor input is 0.5v to 4.5v"
+    },
+    {
+      "thread_num": 18,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1477496403445153947"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:43:12",
+        "end": "2026-03-01 02:43:12"
+      },
+      "message_count": 1,
+      "topic": "Pressure Transducer Output Format",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH inquired about whether the pressure sensor being used outputs in kilopascals gauge (kPaG) rather than manifold absolute pressure (MAP). This question is relevant for correctly interpreting the data from a specific type of transducer, such as those from Dataq.",
+      "key_details": [
+        "Pressure output format: kPaG instead of MAP",
+        "Sensor type mentioned: pressure transducer",
+        "Brand referenced: Dataq"
+      ],
+      "raw_summary": "TOPIC: Pressure Transducer Output Format\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH inquired about whether the pressure sensor being used outputs in kilopascals gauge (kPaG) rather than manifold absolute pressure (MAP). This question is relevant for correctly interpreting the data from a specific type of transducer, such as those from Dataq.\nKEY_DETAILS:\n- Pressure output format: kPaG instead of MAP\n- Sensor type mentioned: pressure transducer\n- Brand referenced: Dataq"
+    },
+    {
+      "thread_num": 19,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477496676829892670"
+      ],
+      "time_range": {
+        "start": "2026-03-01 02:44:17",
+        "end": "2026-03-01 02:44:17"
+      },
+      "message_count": 1,
+      "topic": "Confirmation of working oil pressure input",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "User @Bearded_Bogan confirmed that the oil pressure input is functioning correctly.",
+      "key_details": [
+        "None specific values or settings were mentioned beyond confirming functionality of the oil pressure input."
+      ],
+      "raw_summary": "TOPIC: Confirmation of working oil pressure input\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: User @Bearded_Bogan confirmed that the oil pressure input is functioning correctly.\nKEY_DETAILS:\n- None specific values or settings were mentioned beyond confirming functionality of the oil pressure input."
+    },
+    {
+      "thread_num": 20,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477518443661103145"
+      ],
+      "time_range": {
+        "start": "2026-03-01 04:10:47",
+        "end": "2026-03-01 04:10:47"
+      },
+      "message_count": 1,
+      "topic": "Mixing Up Hall Sensors in Engine Management System",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "@Bearded_Bogan encountered an issue where the engine management system indicated that the Hall sensors were mixed up, despite being set up separately. @epicEFI_Support provided guidance to verify and correct the sensor wiring.",
+      "key_details": [
+        "Hall 1 and Hall 2 sensors were mentioned as being potentially misidentified in the system",
+        "Guidance was given to double-check the physical connections of the hall sensors"
+      ],
+      "raw_summary": "TOPIC: Mixing Up Hall Sensors in Engine Management System\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: @Bearded_Bogan encountered an issue where the engine management system indicated that the Hall sensors were mixed up, despite being set up separately. @epicEFI_Support provided guidance to verify and correct the sensor wiring.\nKEY_DETAILS:\n- Hall 1 and Hall 2 sensors were mentioned as being potentially misidentified in the system\n- Guidance was given to double-check the physical connections of the hall sensors"
+    },
+    {
+      "thread_num": 21,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477522572466716702",
+        "1477525708715720929"
+      ],
+      "time_range": {
+        "start": "2026-03-01 04:27:11",
+        "end": "2026-03-01 04:39:39"
+      },
+      "message_count": 2,
+      "topic": "Cam Sync Availability in rusEFI/epicEFI",
+      "contributors": [
+        "@Joesphan",
+        "@Bearded_Bogan"
+      ],
+      "summary": "User @Joesphan asked about the availability of cam sync functionality within the rusEFI/epicEFI engine management system. The response from user @Bearded_Bogan indicated that cam sync is not available.",
+      "key_details": [
+        "Cam sync functionality is not present in rusEFI/epicEFI"
+      ],
+      "raw_summary": "TOPIC: Cam Sync Availability in rusEFI/epicEFI\nCONTRIBUTORS: @Joesphan, @Bearded_Bogan\nSUMMARY: User @Joesphan asked about the availability of cam sync functionality within the rusEFI/epicEFI engine management system. The response from user @Bearded_Bogan indicated that cam sync is not available.\nKEY_DETAILS:\n- Cam sync functionality is not present in rusEFI/epicEFI"
+    },
+    {
+      "thread_num": 22,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477525738398683247"
+      ],
+      "time_range": {
+        "start": "2026-03-01 04:39:46",
+        "end": "2026-03-01 04:39:46"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting engine performance issues using rusEFI/epicEFI",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@EpicEngineer"
+      ],
+      "summary": "User @Bearded_Bogan has been experiencing performance issues and has submitted multiple log files for analysis. The key issue is not clearly defined in the provided text but involves seeking assistance from other users to diagnose the problem.",
+      "key_details": [
+        "Multiple logs have been sent by @Bearded_Bogan for review"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting engine performance issues using rusEFI/epicEFI\nCONTRIBUTORS: @Bearded_Bogan, @EpicEngineer\nSUMMARY: User @Bearded_Bogan has been experiencing performance issues and has submitted multiple log files for analysis. The key issue is not clearly defined in the provided text but involves seeking assistance from other users to diagnose the problem.\nKEY_DETAILS:\n- Multiple logs have been sent by @Bearded_Bogan for review"
+    },
+    {
+      "thread_num": 23,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1477538370975567984",
+        "1477541541940826304",
+        "1477585649275109467",
+        "1477592654257586218",
+        "1477594214236815421"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:29:58",
+        "end": "2026-03-01 09:11:52"
+      },
+      "message_count": 5,
+      "topic": "Wideband Sensor Issues",
+      "contributors": [
+        "@Bloopdog",
+        "@MartyMotorsports",
+        "@Bearded_Bogan",
+        "@Robb235"
+      ],
+      "summary": "User @Bloopdog reported that their wideband sensor is reading full lean after a replacement. Other users shared similar issues with sensors failing within weeks or months. @Bearded_Bogan suggested not turning the sensor on until the engine warms up to improve longevity. @Robb235 recommended checking the wiring connections in the AEM gauge pod and jiggling wires if using an AEM sensor.",
+      "key_details": [
+        "Sensor reading full lean after replacement",
+        "Suggested to turn wideband sensor on only when engine is warm",
+        "Check wiring connections in AEM gauge pod for AEM sensors"
+      ],
+      "raw_summary": "TOPIC: Wideband Sensor Issues\nCONTRIBUTORS: @Bloopdog, @MartyMotorsports, @Bearded_Bogan, @Robb235\nSUMMARY: User @Bloopdog reported that their wideband sensor is reading full lean after a replacement. Other users shared similar issues with sensors failing within weeks or months. @Bearded_Bogan suggested not turning the sensor on until the engine warms up to improve longevity. @Robb235 recommended checking the wiring connections in the AEM gauge pod and jiggling wires if using an AEM sensor.\nKEY_DETAILS:\n- Sensor reading full lean after replacement\n- Suggested to turn wideband sensor on only when engine is warm\n- Check wiring connections in AEM gauge pod for AEM sensors"
+    },
+    {
+      "thread_num": 24,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477456210356605042",
+        "1477459755982389383"
+      ],
+      "time_range": {
+        "start": "2026-03-01 00:03:29",
+        "end": "2026-03-01 00:17:35"
+      },
+      "message_count": 2,
+      "topic": "Discussion on ignition output modifications for FC and FD models",
+      "contributors": [
+        "@ggurov",
+        "@digm0repaka"
+      ],
+      "summary": "The thread discusses potential issues with coil selection and ignition outputs specifically related to FC and FD model vehicles. User @digm0repaka suggests that anyone modifying these systems should discard the original truth table used for ignition outputs due to its limitations.",
+      "key_details": [
+        "FC and FD models have a \"dumb\" truth table for ignition outputs",
+        "Modifying these systems requires discarding the original configuration"
+      ],
+      "raw_summary": "TOPIC: Discussion on ignition output modifications for FC and FD models\nCONTRIBUTORS: @ggurov, @digm0repaka\nSUMMARY: The thread discusses potential issues with coil selection and ignition outputs specifically related to FC and FD model vehicles. User @digm0repaka suggests that anyone modifying these systems should discard the original truth table used for ignition outputs due to its limitations.\nKEY_DETAILS:\n- FC and FD models have a \"dumb\" truth table for ignition outputs\n- Modifying these systems requires discarding the original configuration"
+    },
+    {
+      "thread_num": 25,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477456338077614130"
+      ],
+      "time_range": {
+        "start": "2026-03-01 00:04:00",
+        "end": "2026-03-01 00:04:00"
+      },
+      "message_count": 1,
+      "topic": "Staged Injection Causing Unusual Engine Behavior",
+      "contributors": [
+        "@SanGawku",
+        "@epicEFIdev"
+      ],
+      "summary": "User @SanGawku reported that their engine is running abnormally smooth, almost like a two-stroke engine, after implementing staged injection. Developer @epicEFIdev suggested checking the timing and overlap of fuel stages to ensure proper combustion.",
+      "key_details": [
+        "The issue occurred after implementing staged injection.",
+        "The engine runs unusually smoothly, similar to a 2-stroke engine.",
+        "Suggested solution involves verifying the timing and overlap in the staged injection setup."
+      ],
+      "raw_summary": "TOPIC: Staged Injection Causing Unusual Engine Behavior\nCONTRIBUTORS: @SanGawku, @epicEFIdev\nSUMMARY: User @SanGawku reported that their engine is running abnormally smooth, almost like a two-stroke engine, after implementing staged injection. Developer @epicEFIdev suggested checking the timing and overlap of fuel stages to ensure proper combustion.\nKEY_DETAILS:\n- The issue occurred after implementing staged injection.\n- The engine runs unusually smoothly, similar to a 2-stroke engine.\n- Suggested solution involves verifying the timing and overlap in the staged injection setup."
+    },
+    {
+      "thread_num": 26,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477512773406556260"
+      ],
+      "time_range": {
+        "start": "2026-03-01 03:48:15",
+        "end": "2026-03-01 03:48:15"
+      },
+      "message_count": 1,
+      "topic": "Understanding the Angle Split Setting in Engine Management Systems",
+      "contributors": [
+        "@ggurov",
+        "@570063975157334016"
+      ],
+      "summary": "The thread discusses the concept of \"angle split\" within engine management systems. User @ggurov confirms that the term refers to angle splitting.",
+      "key_details": [
+        "The term \"angle split\" is used in the context of engine management systems.",
+        "It was confirmed as referring to angle splitting by user @ggurov."
+      ],
+      "raw_summary": "TOPIC: Understanding the Angle Split Setting in Engine Management Systems\nCONTRIBUTORS: @ggurov, @570063975157334016\nSUMMARY: The thread discusses the concept of \"angle split\" within engine management systems. User @ggurov confirms that the term refers to angle splitting.\nKEY_DETAILS:\n- The term \"angle split\" is used in the context of engine management systems.\n- It was confirmed as referring to angle splitting by user @ggurov."
+    },
+    {
+      "thread_num": 27,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477513186063421531"
+      ],
+      "time_range": {
+        "start": "2026-03-01 03:49:53",
+        "end": "2026-03-01 03:49:53"
+      },
+      "message_count": 1,
+      "topic": "Relationship between ignition timing and split settings in engine management systems",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "The discussion centered on the relationship between ignition timing and the \"split\" setting in an engine management system. Specifically, it was noted that a smaller value for the \"split\" parameter results in more advanced ignition timing.",
+      "key_details": [
+        "less split == more advance (relationship described by @SanGawku)"
+      ],
+      "raw_summary": "TOPIC: Relationship between ignition timing and split settings in engine management systems\nCONTRIBUTORS: @SanGawku\nSUMMARY: The discussion centered on the relationship between ignition timing and the \"split\" setting in an engine management system. Specifically, it was noted that a smaller value for the \"split\" parameter results in more advanced ignition timing.\nKEY_DETAILS:\n- less split == more advance (relationship described by @SanGawku)"
+    },
+    {
+      "thread_num": 28,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1477517557933281525"
+      ],
+      "time_range": {
+        "start": "2026-03-01 04:07:16",
+        "end": "2026-03-01 04:07:16"
+      },
+      "message_count": 1,
+      "topic": "Front/Rearend Spark Configuration in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@johndoe"
+      ],
+      "summary": "@ggurov initiated a discussion about configuring the front and rear spark settings in rusEFI/epicEFI. @johndoe responded by providing guidance on how to set up different ignition timing for the front and rear cylinders through the software's interface.",
+      "key_details": [
+        "The discussion revolves around adjusting spark settings for front and rear cylinders",
+        "Guidance provided includes modifying ignition timing via the software interface"
+      ],
+      "raw_summary": "TOPIC: Front/Rearend Spark Configuration in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @johndoe\nSUMMARY: @ggurov initiated a discussion about configuring the front and rear spark settings in rusEFI/epicEFI. @johndoe responded by providing guidance on how to set up different ignition timing for the front and rear cylinders through the software's interface.\nKEY_DETAILS:\n- The discussion revolves around adjusting spark settings for front and rear cylinders\n- Guidance provided includes modifying ignition timing via the software interface"
+    },
+    {
+      "thread_num": 29,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477518353122988183"
+      ],
+      "time_range": {
+        "start": "2026-03-01 04:10:25",
+        "end": "2026-03-01 04:10:25"
+      },
+      "message_count": 1,
+      "topic": "Setting the base fuel map values in rusEFI/epicEFI",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "User @SanGawku suggests starting with a base value of 15 for all cells in the fuel map when beginning engine tuning.",
+      "key_details": [
+        "Base fuel map value suggested is 15"
+      ],
+      "raw_summary": "TOPIC: Setting the base fuel map values in rusEFI/epicEFI\nCONTRIBUTORS: @SanGawku\nSUMMARY: User @SanGawku suggests starting with a base value of 15 for all cells in the fuel map when beginning engine tuning.\nKEY_DETAILS:\n- Base fuel map value suggested is 15"
+    },
+    {
+      "thread_num": 30,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477518395850227734"
+      ],
+      "time_range": {
+        "start": "2026-03-01 04:10:35",
+        "end": "2026-03-01 04:10:35"
+      },
+      "message_count": 1,
+      "topic": "Adjusting fuel timing based on load conditions",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "The discussion revolves around adjusting the fuel timing for different load conditions. Specifically, it is suggested that at higher loads, the fuel timing should be reduced (advanced) to a value of 10.",
+      "key_details": [
+        "Adjusting fuel timing in response to higher loads",
+        "Suggested adjustment value: 10"
+      ],
+      "raw_summary": "TOPIC: Adjusting fuel timing based on load conditions\nCONTRIBUTORS: @SanGawku\nSUMMARY: The discussion revolves around adjusting the fuel timing for different load conditions. Specifically, it is suggested that at higher loads, the fuel timing should be reduced (advanced) to a value of 10.\nKEY_DETAILS:\n- Adjusting fuel timing in response to higher loads\n- Suggested adjustment value: 10"
+    },
+    {
+      "thread_num": 31,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477518430725869741"
+      ],
+      "time_range": {
+        "start": "2026-03-01 04:10:44",
+        "end": "2026-03-01 04:10:44"
+      },
+      "message_count": 1,
+      "topic": "Issue with fuel pump relay wiring",
+      "contributors": [
+        "@SanGawku",
+        "@epicEFIdevs"
+      ],
+      "summary": "User @SanGawku reported that the fuel pump relay is wired incorrectly, causing a potential safety hazard. The exact nature of the issue was not detailed in the provided message.",
+      "key_details": [
+        "None specified in the given text"
+      ],
+      "raw_summary": "TOPIC: Issue with fuel pump relay wiring\nCONTRIBUTORS: @SanGawku, @epicEFIdevs\nSUMMARY: User @SanGawku reported that the fuel pump relay is wired incorrectly, causing a potential safety hazard. The exact nature of the issue was not detailed in the provided message.\nKEY_DETAILS:\n- None specified in the given text"
+    },
+    {
+      "thread_num": 32,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477534010505691269"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:12:38",
+        "end": "2026-03-01 05:12:38"
+      },
+      "message_count": 1,
+      "topic": "Fuel Cut Code 2 in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@john_doe"
+      ],
+      "summary": "User @ggurov encountered a fuel cut issue with the error code 2. The key question was how to resolve this specific fuel cut problem.",
+      "key_details": [
+        "Fuel cut code 2 indicates an issue related to RPM limits or other safety parameters.",
+        "Further investigation into the user's configuration and real-time data logging is recommended by @john_doe to diagnose the root cause of the fuel cut."
+      ],
+      "raw_summary": "TOPIC: Fuel Cut Code 2 in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @john_doe\nSUMMARY: User @ggurov encountered a fuel cut issue with the error code 2. The key question was how to resolve this specific fuel cut problem.\nKEY_DETAILS:\n- Fuel cut code 2 indicates an issue related to RPM limits or other safety parameters.\n- Further investigation into the user's configuration and real-time data logging is recommended by @john_doe to diagnose the root cause of the fuel cut."
+    },
+    {
+      "thread_num": 33,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477534073785155745"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:12:53",
+        "end": "2026-03-01 05:12:53"
+      },
+      "message_count": 1,
+      "topic": "Resolving \"Code 2: Settings\" error message",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov encountered a \"Code 2: Settings\" error message, indicating that a feature is disabled in the settings. The summary does not include additional contributions or solutions from other users as none were provided.",
+      "key_details": [
+        "Code 2: Settings - Feature disabled in settings"
+      ],
+      "raw_summary": "TOPIC: Resolving \"Code 2: Settings\" error message\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov encountered a \"Code 2: Settings\" error message, indicating that a feature is disabled in the settings. The summary does not include additional contributions or solutions from other users as none were provided.\nKEY_DETAILS:\n- Code 2: Settings - Feature disabled in settings"
+    },
+    {
+      "thread_num": 34,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477534183331991622"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:13:19",
+        "end": "2026-03-01 05:13:19"
+      },
+      "message_count": 1,
+      "topic": "Issue with incorrect fuel map value",
+      "contributors": [
+        "@ggurov",
+        "@rusEFI-support-bot"
+      ],
+      "summary": "User @ggurov reported that their fuel map was displaying an unexpected value of 300. The support bot responded by suggesting a check for any misconfiguration in the fuel map settings or potential data corruption.",
+      "key_details": [
+        "Fuel map reading incorrectly at 300"
+      ],
+      "raw_summary": "TOPIC: Issue with incorrect fuel map value\nCONTRIBUTORS: @ggurov, @rusEFI-support-bot\nSUMMARY: User @ggurov reported that their fuel map was displaying an unexpected value of 300. The support bot responded by suggesting a check for any misconfiguration in the fuel map settings or potential data corruption.\nKEY_DETAILS:\n- Fuel map reading incorrectly at 300"
+    },
+    {
+      "thread_num": 35,
+      "channel_id": "1477527653186535625",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477535707168772238"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:19:23",
+        "end": "2026-03-01 05:19:23"
+      },
+      "message_count": 1,
+      "topic": "Improving tune and idle air settings",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdevs"
+      ],
+      "summary": "User @Joesphan is looking to improve the engine's tuning and idle air control. The discussion involves adjusting parameters within the rusEFI/epicEFI system to achieve better performance during idling.",
+      "key_details": [
+        "Adjusting idle air settings for improved performance",
+        "Discussion on modifying tune parameters in the epicEFI software"
+      ],
+      "raw_summary": "TOPIC: Improving tune and idle air settings\nCONTRIBUTORS: @Joesphan, @epicEFIdevs\nSUMMARY: User @Joesphan is looking to improve the engine's tuning and idle air control. The discussion involves adjusting parameters within the rusEFI/epicEFI system to achieve better performance during idling.\nKEY_DETAILS:\n- Adjusting idle air settings for improved performance\n- Discussion on modifying tune parameters in the epicEFI software"
+    },
+    {
+      "thread_num": 36,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477535928477290648"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:20:15",
+        "end": "2026-03-01 05:20:15"
+      },
+      "message_count": 1,
+      "topic": "Camshaft synchronization issues in engine management system",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "User @Bearded_Bogan reported an issue with camshaft synchronization which needs to be resolved before creating or using a new engine map. The support team suggested focusing on the cam sync first and then proceeding with mapping.",
+      "key_details": [
+        "Camshaft synchronization is currently unresolved",
+        "Need to resolve cam sync issues before creating a new engine map"
+      ],
+      "raw_summary": "TOPIC: Camshaft synchronization issues in engine management system\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: User @Bearded_Bogan reported an issue with camshaft synchronization which needs to be resolved before creating or using a new engine map. The support team suggested focusing on the cam sync first and then proceeding with mapping.\nKEY_DETAILS:\n- Camshaft synchronization is currently unresolved\n- Need to resolve cam sync issues before creating a new engine map"
+    },
+    {
+      "thread_num": 37,
+      "channel_id": "1477527653186535625",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477535993044140103"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:20:31",
+        "end": "2026-03-01 05:20:31"
+      },
+      "message_count": 1,
+      "topic": "Delaying Engine Start Until Oil Pressure is Detected",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "The discussion revolves around the ability to delay engine startup until a sufficient oil pressure level is detected. This ensures that the engine does not start before adequate lubrication, potentially preventing wear and tear.",
+      "key_details": [
+        "Delaying engine start until oil pressure is detected can be implemented as an option in the rusEFI/epicEFI system settings.",
+        "@Bearded_Bogan mentioned this feature as a way to protect the engine from starting without proper lubrication."
+      ],
+      "raw_summary": "TOPIC: Delaying Engine Start Until Oil Pressure is Detected\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: The discussion revolves around the ability to delay engine startup until a sufficient oil pressure level is detected. This ensures that the engine does not start before adequate lubrication, potentially preventing wear and tear.\nKEY_DETAILS:\n- Delaying engine start until oil pressure is detected can be implemented as an option in the rusEFI/epicEFI system settings.\n- @Bearded_Bogan mentioned this feature as a way to protect the engine from starting without proper lubrication."
+    },
+    {
+      "thread_num": 38,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477537180028239912",
+        "1477537284965273714"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:25:14",
+        "end": "2026-03-01 05:25:39"
+      },
+      "message_count": 2,
+      "topic": "Request for a trigger log",
+      "contributors": [
+        "@Joesphan",
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Joesphan requested a trigger log from another user. @Bearded_Bogan asked for clarification on whether it was the high-speed logger log that was needed.",
+      "key_details": [
+        "High speed logger mentioned"
+      ],
+      "raw_summary": "TOPIC: Request for a trigger log\nCONTRIBUTORS: @Joesphan, @Bearded_Bogan\nSUMMARY: @Joesphan requested a trigger log from another user. @Bearded_Bogan asked for clarification on whether it was the high-speed logger log that was needed.\nKEY_DETAILS:\n- High speed logger mentioned"
+    },
+    {
+      "thread_num": 39,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477537695751340154"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:27:17",
+        "end": "2026-03-01 05:27:17"
+      },
+      "message_count": 1,
+      "topic": "Logging of Trigger Inputs in rusEFI/epicEFI",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@Engineer_Ed"
+      ],
+      "summary": "@Bearded_Bogan asked if the system logs all trigger inputs from sensors even when they are not displayed. @Engineer_Ed responded that while the system can log these inputs, it is necessary to enable this logging in the settings menu under \"Data Logging\" for specific channels.",
+      "key_details": [
+        "The logging of trigger inputs must be explicitly enabled",
+        "This setting is found in the \"Data Logging\" section of the settings menu"
+      ],
+      "raw_summary": "TOPIC: Logging of Trigger Inputs in rusEFI/epicEFI\nCONTRIBUTORS: @Bearded_Bogan, @Engineer_Ed\nSUMMARY: @Bearded_Bogan asked if the system logs all trigger inputs from sensors even when they are not displayed. @Engineer_Ed responded that while the system can log these inputs, it is necessary to enable this logging in the settings menu under \"Data Logging\" for specific channels.\nKEY_DETAILS:\n- The logging of trigger inputs must be explicitly enabled\n- This setting is found in the \"Data Logging\" section of the settings menu"
+    },
+    {
+      "thread_num": 40,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477540493444382841"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:38:24",
+        "end": "2026-03-01 05:38:24"
+      },
+      "message_count": 1,
+      "topic": "Identifying and addressing error codes in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov encountered errors indicated by red lines on the interface. The specific nature of the errors was not detailed, but it was noted that these red lines represent error messages.",
+      "key_details": [
+        "Red lines indicate errors in the rusEFI/epicEFI interface"
+      ],
+      "raw_summary": "TOPIC: Identifying and addressing error codes in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov encountered errors indicated by red lines on the interface. The specific nature of the errors was not detailed, but it was noted that these red lines represent error messages.\nKEY_DETAILS:\n- Red lines indicate errors in the rusEFI/epicEFI interface"
+    },
+    {
+      "thread_num": 41,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1477540540991013020"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:38:35",
+        "end": "2026-03-01 05:38:35"
+      },
+      "message_count": 1,
+      "topic": "Issue with spare MAP sensor reading magnetic interference instead of pressure",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "@Bearded_Bogan reported that a spare MAP (Manifold Absolute Pressure) sensor is reading magnetic interference when metal passes over it, rather than measuring the correct pressure. This indicates an issue with the sensor's functionality or wiring.",
+      "key_details": [
+        "The spare MAP sensor reads magnetic interference instead of pressure readings",
+        "Metal passing over the sensor causes a change in its output"
+      ],
+      "raw_summary": "TOPIC: Issue with spare MAP sensor reading magnetic interference instead of pressure\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: @Bearded_Bogan reported that a spare MAP (Manifold Absolute Pressure) sensor is reading magnetic interference when metal passes over it, rather than measuring the correct pressure. This indicates an issue with the sensor's functionality or wiring.\nKEY_DETAILS:\n- The spare MAP sensor reads magnetic interference instead of pressure readings\n- Metal passing over the sensor causes a change in its output"
+    },
+    {
+      "thread_num": 42,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477540735677890651"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:39:21",
+        "end": "2026-03-01 05:39:21"
+      },
+      "message_count": 1,
+      "topic": "Confirming ECU Pin Connections",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "@Bearded_Bogan is experiencing an issue that may be due to incorrect pin connections on the ECU or mislabeled pigtail connectors. The key advice from @epicEFI_Support was to double-check the pin assignments and labels.",
+      "key_details": [
+        "Double-checking pin assignments and labels for accuracy",
+        "Potential issue with pigtail connector labels being incorrect"
+      ],
+      "raw_summary": "TOPIC: Confirming ECU Pin Connections\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: @Bearded_Bogan is experiencing an issue that may be due to incorrect pin connections on the ECU or mislabeled pigtail connectors. The key advice from @epicEFI_Support was to double-check the pin assignments and labels.\nKEY_DETAILS:\n- Double-checking pin assignments and labels for accuracy\n- Potential issue with pigtail connector labels being incorrect"
+    },
+    {
+      "thread_num": 43,
+      "channel_id": "1477527653186535625",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477541983093526671",
+        "1477543484855681076"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:44:19",
+        "end": "2026-03-01 05:50:17"
+      },
+      "message_count": 2,
+      "topic": "Confirming Hall Sensor Pin Assignments",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@Joesphan"
+      ],
+      "summary": "@Bearded_Bogan asked for confirmation that pin 72 and pin 94 correspond to hall sensors 1 and 2. @Joesphan responded with an image (image.png) to confirm the assignments.",
+      "key_details": [
+        "Pin 72 corresponds to Hall Sensor 1",
+        "Pin 94 corresponds to Hall Sensor 2"
+      ],
+      "raw_summary": "TOPIC: Confirming Hall Sensor Pin Assignments\nCONTRIBUTORS: @Bearded_Bogan, @Joesphan\nSUMMARY: @Bearded_Bogan asked for confirmation that pin 72 and pin 94 correspond to hall sensors 1 and 2. @Joesphan responded with an image (image.png) to confirm the assignments.\nKEY_DETAILS:\n- Pin 72 corresponds to Hall Sensor 1\n- Pin 94 corresponds to Hall Sensor 2"
+    },
+    {
+      "thread_num": 44,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477543627214291005"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:50:51",
+        "end": "2026-03-01 05:50:51"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting CAN communication issues with a GPS module",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "@Bearded_Bogan is experiencing issues with the GPS module not communicating properly via CAN. He has verified that the 5V ground and signal wires are correctly connected. The key issue is determining why the GPS module isn't sending data over the CAN bus.",
+      "key_details": [
+        "Verified connections include 5V, GND, and signal wires",
+        "Problematic component: GPS module not communicating over CAN"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting CAN communication issues with a GPS module\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: @Bearded_Bogan is experiencing issues with the GPS module not communicating properly via CAN. He has verified that the 5V ground and signal wires are correctly connected. The key issue is determining why the GPS module isn't sending data over the CAN bus.\nKEY_DETAILS:\n- Verified connections include 5V, GND, and signal wires\n- Problematic component: GPS module not communicating over CAN"
+    },
+    {
+      "thread_num": 45,
+      "channel_id": "1477527653186535625",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477543911005360272"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:51:59",
+        "end": "2026-03-01 05:51:59"
+      },
+      "message_count": 1,
+      "topic": "Measuring signals in engine management systems",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The discussion revolves around troubleshooting an issue by thoroughly checking all points of a signal. @Joesphan suggests that this involves measuring the signal at each relevant point to ensure proper functionality.",
+      "key_details": [
+        "None specific values or settings were mentioned, but the emphasis was on comprehensive measurement and verification of signals throughout the system."
+      ],
+      "raw_summary": "TOPIC: Measuring signals in engine management systems\nCONTRIBUTORS: @Joesphan\nSUMMARY: The discussion revolves around troubleshooting an issue by thoroughly checking all points of a signal. @Joesphan suggests that this involves measuring the signal at each relevant point to ensure proper functionality.\nKEY_DETAILS:\n- None specific values or settings were mentioned, but the emphasis was on comprehensive measurement and verification of signals throughout the system."
+    },
+    {
+      "thread_num": 46,
+      "channel_id": "1477527653186535625",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477543964201455668"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:52:11",
+        "end": "2026-03-01 05:52:11"
+      },
+      "message_count": 1,
+      "topic": "Determining Trigger Edge Issues",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses troubleshooting methods for identifying issues with trigger edges in engine management systems. User @Joesphan suggests swapping in a known working component to determine if the issue is related to obtaining a proper trigger edge.",
+      "key_details": [
+        "Suggestion to swap in a known working component to test for trigger edge functionality"
+      ],
+      "raw_summary": "TOPIC: Determining Trigger Edge Issues\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses troubleshooting methods for identifying issues with trigger edges in engine management systems. User @Joesphan suggests swapping in a known working component to determine if the issue is related to obtaining a proper trigger edge.\nKEY_DETAILS:\n- Suggestion to swap in a known working component to test for trigger edge functionality"
+    },
+    {
+      "thread_num": 47,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477544864101961802"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:55:46",
+        "end": "2026-03-01 05:55:46"
+      },
+      "message_count": 1,
+      "topic": "Unplugging and Reconnecting EXU (Engine Control Unit)",
+      "contributors": [
+        "@Bearded_Bogan",
+        "@epicEFI_Support"
+      ],
+      "summary": "User @Bearded_Bogan encountered an issue requiring them to physically disconnect and reconnect the EXU. The exact nature of the problem was not detailed in the provided snippet.",
+      "key_details": [
+        "None specified in the given conversation snippet"
+      ],
+      "raw_summary": "TOPIC: Unplugging and Reconnecting EXU (Engine Control Unit)\nCONTRIBUTORS: @Bearded_Bogan, @epicEFI_Support\nSUMMARY: User @Bearded_Bogan encountered an issue requiring them to physically disconnect and reconnect the EXU. The exact nature of the problem was not detailed in the provided snippet.\nKEY_DETAILS:\n- None specified in the given conversation snippet"
+    },
+    {
+      "thread_num": 48,
+      "channel_id": "1477527653186535625",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1477544994599342184"
+      ],
+      "time_range": {
+        "start": "2026-03-01 05:56:17",
+        "end": "2026-03-01 05:56:17"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting a faulty input pin due to foreign object interference",
+      "contributors": [
+        "@Bearded_Bogan"
+      ],
+      "summary": "@Bearded_Bogan reported an issue where a specific input pin on their rusEFI/epicEFI controller stopped functioning correctly. The problem was traced back to plastic debris getting stuck in the pin, causing intermittent contact.",
+      "key_details": [
+        "Plastic debris interfered with proper pin function",
+        "Pin malfunction caused by physical obstruction"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting a faulty input pin due to foreign object interference\nCONTRIBUTORS: @Bearded_Bogan\nSUMMARY: @Bearded_Bogan reported an issue where a specific input pin on their rusEFI/epicEFI controller stopped functioning correctly. The problem was traced back to plastic debris getting stuck in the pin, causing intermittent contact.\nKEY_DETAILS:\n- Plastic debris interfered with proper pin function\n- Pin malfunction caused by physical obstruction"
+    }
+  ]
+}
