@@ -1,6 +1,6 @@
 # Arduino Mega Giga R1 with UA4C: Pin Mapping and PA7 Fuel Output 4 Issue
 
-*Source: rusEFI Discord, 2026-02-22 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-22 | Channel: 1401895238481744052*
 *Contributors: @MykkH (@mykkh), @ggurov (@ggurov)*
 
 ## Summary

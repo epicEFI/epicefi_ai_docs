@@ -1,6 +1,6 @@
 # DFCO Configuration: TPS/APP + RPM Conditions and MAP Pin Workaround
 
-*Source: rusEFI Discord, 2026-02-21 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-21 | Channel: 1401895238481744052*
 *Contributors: @Tuga, @MykkH*
 
 ## Summary

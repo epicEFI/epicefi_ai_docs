@@ -1,6 +1,6 @@
 # Proteus ECU Hardware Modification: Adding CAN Channel, Second WBO2, and MCU Upgrade
 
-*Source: rusEFI Discord, 2026-02-28 | Channel: 1411925674498719775*
+*Source: epicEFI Discord, 2026-02-28 | Channel: 1411925674498719775*
 *Contributors: @SanGawku*
 
 ## Summary

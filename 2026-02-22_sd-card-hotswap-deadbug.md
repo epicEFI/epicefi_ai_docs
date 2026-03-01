@@ -1,6 +1,6 @@
 # SD Card Integration: Tune Hotswap, Deadbugging, and Capacity
 
-*Source: rusEFI Discord, 2026-02-22 | Channel: 1411925674498719775*
+*Source: epicEFI Discord, 2026-02-22 | Channel: 1411925674498719775*
 *Contributors: @ggurov, @YeOldePirate, @SanGawku*
 
 ## Summary

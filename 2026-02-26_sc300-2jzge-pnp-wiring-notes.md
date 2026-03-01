@@ -1,6 +1,6 @@
 # SC300 (2JZ-GE N/A) PNP Adapter Wiring Notes
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @ggurov, @SanGawku, @Joshan_Lu (@joshseek_30236_07984), @ZeeKay*
 
 ## Summary

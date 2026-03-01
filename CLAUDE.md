@@ -22,7 +22,7 @@ Every article follows this template:
 ```markdown
 # Title
 
-*Source: rusEFI Discord, YYYY-MM-DD | Channel: <channel_id>*
+*Source: epicEFI Discord, YYYY-MM-DD | Channel: <channel_id>*
 *Contributors: @user1, @user2*
 
 ## Summary

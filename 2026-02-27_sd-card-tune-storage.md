@@ -1,6 +1,6 @@
 # SD Card vs Flash Memory: Tune Storage and Write ID Priority in epicEFI/rusEFI
 
-*Source: rusEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
 *Contributors: @ggurov, @jeybee, @Detonation, @Aj*
 
 ## Summary

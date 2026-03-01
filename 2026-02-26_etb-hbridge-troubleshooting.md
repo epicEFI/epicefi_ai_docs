@@ -1,6 +1,6 @@
 # ETB H-Bridge Troubleshooting: No Motor Movement, Fuse, and Wiring Checks
 
-*Source: rusEFI Discord, 2026-02-25 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-25 | Channel: 1356732771325968630*
 *Contributors: @Hydrocarbon, @ggurov*
 
 ## Summary

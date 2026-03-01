@@ -1,6 +1,6 @@
 # OEM ECU Torque Management in Automatic Transmissions
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1392172039430738111*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1392172039430738111*
 *Contributors: @ggurov, @MartyMotorsports, @Neos6443*
 
 ## Summary

@@ -1,6 +1,6 @@
 # Deutsch DT Connector Issues: Corrosion, Worn Sockets, and Partial Pin Population
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
 *Contributors: @Lysdex, @Joshan_Lu, @ZeeKay, @Immrpablo*
 
 ## Summary

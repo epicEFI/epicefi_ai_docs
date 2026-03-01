@@ -1,6 +1,6 @@
 # Staged Injection Bug Fix: Testing on Proteus F4 and TeraFlash Firmware Flashing
 
-*Source: rusEFI Discord, 2026-02-22 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-22 | Channel: 1401895238481744052*
 *Contributors: @tmbryhn (@tmbryhn), @ggurov (@ggurov)*
 
 ## Summary

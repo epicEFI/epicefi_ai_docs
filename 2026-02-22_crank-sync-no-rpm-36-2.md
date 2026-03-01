@@ -1,6 +1,6 @@
 # Crank Signal Present But No RPM: 36-2 Trigger Sync Troubleshooting
 
-*Source: rusEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
 *Contributors: @Robb235, @ggurov, @Joesphan*
 
 ## Summary

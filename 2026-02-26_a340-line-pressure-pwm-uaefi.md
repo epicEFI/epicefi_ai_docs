@@ -1,6 +1,6 @@
 # A340 Transmission Line Pressure Control via uaEFI H-Bridge and PWM Outputs
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1470466409602744541*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1470466409602744541*
 *Contributors: @robb235_00916, @ggurov, @punisher496_97082*
 
 ## Summary

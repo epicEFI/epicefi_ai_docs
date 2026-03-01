@@ -1,6 +1,6 @@
 # Firmware 2.20: Cranking Ignition Fix
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
 *Contributors: @ggurov, @MykkH*
 
 ## Summary

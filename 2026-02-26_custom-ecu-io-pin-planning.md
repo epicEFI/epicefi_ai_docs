@@ -1,6 +1,6 @@
 # Custom ECU I/O and Pin Planning for rusEFI/epicEFI Hardware
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @offtheband, @ZeeKay, @GGGI, @SanGawku*
 
 ## Summary

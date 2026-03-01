@@ -1,6 +1,6 @@
 # uaEFI PCB Design Quality Notes: Via Current Rating and Single-Sided Layout
 
-*Source: rusEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
 *Contributors: @jeybee, @GGGI (.gunadi), @ogalic, @ggurov*
 
 ## Summary

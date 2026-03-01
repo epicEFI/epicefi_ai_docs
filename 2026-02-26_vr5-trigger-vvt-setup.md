@@ -1,6 +1,6 @@
 # VR5 Engine Trigger Wheel and VVT Cam Sensor Configuration
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @Bearded_Bogan, @audigates*
 
 ## Summary

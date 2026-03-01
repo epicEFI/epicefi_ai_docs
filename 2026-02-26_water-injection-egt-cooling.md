@@ -1,6 +1,6 @@
 # Water/Methanol Injection Strategies: EGT-Triggered and Decel Cooling
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1475534320310554887*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1475534320310554887*
 *Contributors: @Joshan_Lu, @Jackscr, @ggurov*
 
 ## Summary

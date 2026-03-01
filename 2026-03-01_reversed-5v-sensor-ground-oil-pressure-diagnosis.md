@@ -1,6 +1,6 @@
 # Reversed 5V and Sensor Ground Wiring — Oil Pressure Sensor Not Reading
 
-*Source: rusEFI Discord, 2026-03-01 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-03-01 | Channel: 1356732771325968630*
 *Contributors: @Bearded_Bogan, @Joesphan*
 
 ## Summary

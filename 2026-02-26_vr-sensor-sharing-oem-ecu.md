@@ -1,6 +1,6 @@
 # Sharing VR Sensors Between Standalone ECU and OEM ECU
 
-*Source: rusEFI Discord, 2026-02-24 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-24 | Channel: 1356732771325968630*
 *Contributors: @tren, @ggurov, @Ognjen Galic*
 
 ## Summary

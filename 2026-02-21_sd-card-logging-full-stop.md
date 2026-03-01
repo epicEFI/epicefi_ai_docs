@@ -1,6 +1,6 @@
 # SD Card Logging Stops When Storage Is Full
 
-*Source: rusEFI Discord, 2026-02-21 | Channel: 1401895238481744052 and 1464230782905352261*
+*Source: epicEFI Discord, 2026-02-21 | Channel: 1401895238481744052 and 1464230782905352261*
 *Contributors: @ggurov, @kostasl, @MykkH*
 
 ## Summary

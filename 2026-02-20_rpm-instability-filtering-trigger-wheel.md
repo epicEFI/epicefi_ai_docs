@@ -1,6 +1,6 @@
 # RPM Instability, Filtering, and Trigger Wheel Configuration
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
 *Contributors: @Alice (@__._.alice._.__), @jeybee (@_jeybee), @Ognjen Galic (@ogalic), @Joesphan (@joesphan)*
 
 ## Summary

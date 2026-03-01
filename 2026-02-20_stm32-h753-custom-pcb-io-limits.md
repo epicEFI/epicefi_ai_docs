@@ -1,6 +1,6 @@
 # STM32 H753 / Nucleo-144 Custom PCB for epicEFI: Pin Mapping and I/O Limits
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
 *Contributors: @punisher496, @ggurov*
 
 ## Summary

@@ -1,6 +1,6 @@
 # Fuel Pressure Input Units: kPa Required, Not PSI
 
-*Source: rusEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
 *Contributors: @Robb235, @ggurov*
 
 ## Summary

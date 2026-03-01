@@ -1,6 +1,6 @@
 # Using DC1 vs DC2 Output for VW Electronic Wastegate Control
 
-*Source: rusEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
 *Contributors: @jeybee, @Jackscr*
 
 ## Summary

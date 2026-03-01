@@ -1,6 +1,6 @@
 # Running the rusEFI Simulator over TCP in WSL2
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1440539911059931259*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1440539911059931259*
 *Contributors: @ggurov, @SanGawku*
 
 ## Summary

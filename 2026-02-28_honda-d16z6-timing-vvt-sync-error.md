@@ -1,6 +1,6 @@
 # Honda D16Z6 Cranking Timing and VVT Sync Error (C6675)
 
-*Source: rusEFI Discord, 2026-02-28 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-28 | Channel: 1356732771325968630*
 *Contributors: @Hydrocarbon, @ggurov*
 
 ## Summary

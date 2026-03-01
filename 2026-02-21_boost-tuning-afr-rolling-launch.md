@@ -1,6 +1,6 @@
 # Boost Tuning Session: AFR, Fuel Cut, and Rolling Launch Setup
 
-*Source: rusEFI Discord, 2026-02-21 | Channel: 1411925674498719775*
+*Source: epicEFI Discord, 2026-02-21 | Channel: 1411925674498719775*
 *Contributors: @Immrpablo, @ggurov, @jeybee*
 
 ## Summary

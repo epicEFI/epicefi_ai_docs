@@ -1,6 +1,6 @@
 # Turbocharger Fundamentals: BOV Function, Spool Lag, Surge, and ETB Strategy
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
 *Contributors: @Hydrocarbon (@hydrocarbon82), @jeybee (@_jeybee), @Joesphan (@joesphan), @Robb235 (@robb235_00916), @ggurov (@ggurov)*
 
 ## Summary

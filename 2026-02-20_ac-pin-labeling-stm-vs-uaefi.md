@@ -1,6 +1,6 @@
 # AC Pin Labeling Discrepancy: STM Names vs uaeFI Names in Firmware
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
 *Contributors: @DCwerx*
 
 ## Summary

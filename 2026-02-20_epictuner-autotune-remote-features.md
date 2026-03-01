@@ -1,6 +1,6 @@
 # Enabling Remote and Autotune Features in epICTuner
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1440539911059931259*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1440539911059931259*
 *Contributors: @ggurov, @jeybee*
 
 ## Summary

@@ -1,6 +1,6 @@
 # SD Card Setup and Troubleshooting on epicEFI / Mega100
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
 *Contributors: @MykkH, @BossTheTuga, @ggurov*
 
 ## Summary

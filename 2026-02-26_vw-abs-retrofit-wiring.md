@@ -1,6 +1,6 @@
 # VW/VAG ABS System Retrofit: Wiring Requirements and Cross-Generation Compatibility
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
 *Contributors: @YeOldePirate, @ZeeKay, @ggurov*
 
 ## Summary

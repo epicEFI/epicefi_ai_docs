@@ -1,6 +1,6 @@
 # Injector Pulse Width Resolution vs VE Table Granularity
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
 *Contributors: @MykkH*
 
 ## Summary

@@ -1,6 +1,6 @@
 # Fuel Trim Instability: Wall Wetting and Map Multiply Interaction
 
-*Source: rusEFI Discord, 2026-02-21 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-21 | Channel: 1401895238481744052*
 *Contributors: @ggurov*
 
 ## Summary

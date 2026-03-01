@@ -1,6 +1,6 @@
 # Multi-Tank Fuel Measurement and Consumption Monitoring
 
-*Source: rusEFI Discord, 2026-02-28 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-28 | Channel: 1401895238481744052*
 *Contributors: @ggurov*
 
 ## Summary

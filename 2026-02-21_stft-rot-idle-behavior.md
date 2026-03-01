@@ -1,6 +1,6 @@
 # STFT Behavior with "Stop STFT for Rot Idle" Setting
 
-*Source: rusEFI Discord, 2026-02-21 | Channel: 1464230782905352261*
+*Source: epicEFI Discord, 2026-02-21 | Channel: 1464230782905352261*
 *Contributors: @MykkH*
 
 ## Summary

@@ -1,6 +1,6 @@
 # Troubleshooting Online Flasher: Manually Entering DFU Mode
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @DCwerx*
 
 ## Summary

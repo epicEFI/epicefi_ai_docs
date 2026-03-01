@@ -1,6 +1,6 @@
 # Upgrading Proteus MCU from STM32F4 to F7 or H7
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1439273357424988301 (dev/testing)*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1439273357424988301 (dev/testing)*
 *Contributors: @tmbryhn, @GGGI*
 
 ## Summary

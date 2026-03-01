@@ -1,6 +1,6 @@
 # EGT Sensors via CAN Bus: Supported Devices and DIY Approach
 
-*Source: rusEFI Discord, 2026-02-24 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-24 | Channel: 1356732771325968630*
 *Contributors: @Tuga, @ggurov, @Joesphan*
 
 ## Summary

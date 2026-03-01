@@ -1,6 +1,6 @@
 # VTEC Control Implementation: Settings, Oil Pressure Interlock, and Override Input
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1401895238481744052 (general-tech)*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1401895238481744052 (general-tech)*
 *Contributors: @BossTheTuga, @ggurov, @sheckta#1593*
 
 ## Summary

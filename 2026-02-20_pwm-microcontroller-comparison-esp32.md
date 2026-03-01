@@ -1,6 +1,6 @@
 # PWM Capabilities of Microcontrollers Used with rusEFI (Arduino Mega, 328P, ESP32-S2)
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1434034231713075282*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1434034231713075282*
 *Contributors: @Hydrocarbon, @ggurov, @Robb235*
 
 ## Summary

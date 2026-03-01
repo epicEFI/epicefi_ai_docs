@@ -1,6 +1,6 @@
 # SD Card Logging, Real-Time Tune Saves, and Power-Loss Recovery
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
 *Contributors: @ggurov, @MykkH, @Aj*
 
 ## Summary

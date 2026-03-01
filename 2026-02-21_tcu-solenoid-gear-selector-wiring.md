@@ -1,6 +1,6 @@
 # TCU Solenoid Control and Gear Selector Signal Conditioning
 
-*Source: rusEFI Discord, 2026-02-21 | Channel: 1470466409602744541*
+*Source: epicEFI Discord, 2026-02-21 | Channel: 1470466409602744541*
 *Contributors: @ggurov, @Robb235, @SanGawku*
 
 ## Summary

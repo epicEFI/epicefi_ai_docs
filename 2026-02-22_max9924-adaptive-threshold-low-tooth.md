@@ -1,6 +1,6 @@
 # MAX9924/MAX9926 Adaptive Threshold Failure with Low Tooth Count VR Sensors
 
-*Source: rusEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
 *Contributors: @Ognjen Galic (@ogalic), @Joesphan (@joesphan)*
 
 ## Summary

@@ -1,6 +1,6 @@
 # Expanding I/O on super uaEFI / epicEFI: Pins, MOSFETs, CAN, and Arduino
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @offtheband, @Hydrocarbon, @jeybee, @ggurov*
 
 ## Summary

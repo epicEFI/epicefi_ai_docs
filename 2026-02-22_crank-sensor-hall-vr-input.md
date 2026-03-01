@@ -1,6 +1,6 @@
 # Crank Sensor Input Selection: Hall vs VR in epicEFI
 
-*Source: rusEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
 *Contributors: @offtheband, @ggurov*
 
 ## Summary

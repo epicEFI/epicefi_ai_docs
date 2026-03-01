@@ -1,6 +1,6 @@
 # Barometric Pressure Correction Table: Default Values and Behavior
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @ggurov, @jeybee, @SanGawku, @ZeeKay, @kitaji_SR20*
 
 ## Summary

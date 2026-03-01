@@ -1,6 +1,6 @@
 # TCU/TCC Control Tuning for A340 Transmission in epicEFI
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1470466409602744541*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1470466409602744541*
 *Contributors: @ggurov, @Robb235, @GGGI, @DiMo, @Joesphan, @SanGawku, @ZeeKay, @punisher496, @Ramzes*
 
 ## Summary

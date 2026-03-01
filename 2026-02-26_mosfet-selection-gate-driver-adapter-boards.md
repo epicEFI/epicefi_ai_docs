@@ -1,6 +1,6 @@
 # MOSFET Selection and Gate Driver Considerations for rusEFI Adapter Boards
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @hydrocarbon82, @sangawku, @ggurov, @robb235_00916*
 
 ## Summary

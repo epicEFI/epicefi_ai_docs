@@ -1,6 +1,6 @@
 # Cranking Injection Modes: Batch/Wasted Spark Before Full Sync vs Full Sequential
 
-*Source: rusEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
+*Source: epicEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
 *Contributors: @MykkH, @ggurov, @tmbryhn*
 
 ## Summary

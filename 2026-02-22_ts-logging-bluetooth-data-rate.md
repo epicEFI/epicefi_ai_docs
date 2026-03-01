@@ -1,6 +1,6 @@
 # TunerStudio Logging: Data Rate, Bluetooth Issues, and CAN Bus Logging
 
-*Source: rusEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
 *Contributors: @Bloopdog, @Joesphan, @Neos6443*
 
 ## Summary

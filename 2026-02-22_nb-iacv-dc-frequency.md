@@ -1,6 +1,6 @@
 # Mazda NB IACV Behavior: DC Duty Cycle and Frequency Settings on epicEFI
 
-*Source: rusEFI Discord, 2026-02-22 | Channel: 1464230782905352261*
+*Source: epicEFI Discord, 2026-02-22 | Channel: 1464230782905352261*
 *Contributors: @MartyMotorsports, @Neos6443, @ggurov*
 
 ## Summary

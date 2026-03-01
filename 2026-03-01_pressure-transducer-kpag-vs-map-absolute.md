@@ -1,6 +1,6 @@
 # Pressure Transducer Output: kPaG (Gauge) vs MAP (Absolute)
 
-*Source: rusEFI Discord, 2026-03-01 | Channel: 1356732771325968630*
+*Source: epicEFI Discord, 2026-03-01 | Channel: 1356732771325968630*
 *Contributors: @MykkH, @Bearded_Bogan, @Joesphan, @ggurov*
 
 ## Summary

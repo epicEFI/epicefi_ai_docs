@@ -1,6 +1,6 @@
 # TCC Control Configuration in epicEFI TCU: Load, TPS, and Speed Parameters
 
-*Source: rusEFI Discord, 2026-02-26 | Channel: 1470466409602744541*
+*Source: epicEFI Discord, 2026-02-26 | Channel: 1470466409602744541*
 *Contributors: @robb235_00916, @ggurov, @sangawku, @nishirams*
 
 ## Summary
