@@ -1,6 +1,6 @@
 # Autotune RPM Wall and C9012/C6899 Console Warnings
 
-*Source: epicEFI Discord, 2026-02-24 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-24 | Channel: 1356732771325968630*
 *Contributors: @Immrpablo, @ggurov*
 
 ## Summary

@@ -1,6 +1,6 @@
 # B48/B58 Brushless Fuel Pump Replacement with Walbro 525
 
-*Source: epicEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
 *Contributors: @fast335xi*
 
 ## Summary

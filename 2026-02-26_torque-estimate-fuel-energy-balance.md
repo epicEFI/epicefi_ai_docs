@@ -1,6 +1,6 @@
 # Torque Estimation via Fuel Energy Balance
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1401895238481744052 (general-tech)*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1401895238481744052 (general-tech)*
 *Contributors: @ggurov*
 
 ## Summary

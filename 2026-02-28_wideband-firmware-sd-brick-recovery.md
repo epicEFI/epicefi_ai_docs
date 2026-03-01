@@ -1,6 +1,6 @@
 # Wideband Controller Bricked by SD Firmware Flash — Recovery via ST-LINK
 
-*Source: epicEFI Discord, 2026-02-28 | Channel: 1401895238481744052*
+*Source: rusEFI Discord, 2026-02-28 | Channel: 1401895238481744052*
 *Contributors: @ggurov, @tmbryhn*
 
 ## Summary

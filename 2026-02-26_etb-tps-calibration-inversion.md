@@ -1,6 +1,6 @@
 # ETB TPS Calibration Inversion: Diagnosing and Fixing Inverted Throttle Direction
 
-*Source: epicEFI Discord, 2026-02-25 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-25 | Channel: 1356732771325968630*
 *Contributors: @Hydrocarbon, @Joesphan, @ggurov, @SanGawku*
 
 ## Summary

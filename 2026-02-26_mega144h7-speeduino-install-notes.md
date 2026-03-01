@@ -1,6 +1,6 @@
 # MEGA144H7 (DCwerx Green Board) Installation Notes on Speeduino
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @kitaji_SR20*
 
 ## Summary

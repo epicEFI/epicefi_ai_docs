@@ -1,6 +1,6 @@
 # DI Fuel System Sensor Configuration: Rail Sensor Input, LPFP/HPFP Setup, and Pressure Monitoring
 
-*Source: epicEFI Discord, 2026-02-23 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-23 | Channel: 1356732771325968630*
 *Contributors: @offtheband, @joesphan, @ggurov*
 
 ## Summary

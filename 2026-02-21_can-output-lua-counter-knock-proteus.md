@@ -1,6 +1,6 @@
 # CAN Output Variables, Lua Counters, and Knock Detection on Proteus V3
 
-*Source: epicEFI Discord, 2026-02-21 | Channel: 1439273357424988301*
+*Source: rusEFI Discord, 2026-02-21 | Channel: 1439273357424988301*
 *Contributors: @ggurov, @atntpt*
 
 ## Summary

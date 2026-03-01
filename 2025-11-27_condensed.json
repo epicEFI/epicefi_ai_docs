@@ -1,0 +1,621 @@
+{
+  "date": "2025-11-27",
+  "generated_at": "2026-03-01T12:48:52.264116",
+  "stats": {
+    "total_threads": 322,
+    "noise_filtered": 297,
+    "kept": 25
+  },
+  "threads": [
+    {
+      "thread_num": 1,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1443389660801007826"
+      ],
+      "time_range": {
+        "start": "2025-11-27 00:00:07",
+        "end": "2025-11-27 00:00:07"
+      },
+      "message_count": 1,
+      "topic": "Battery Charging Voltage Settings",
+      "contributors": [
+        "@mynameisdeleted"
+      ],
+      "summary": "The discussion revolves around battery charging voltages. It is mentioned that fast-charging requires a voltage of 4.2V per cell, whereas slow-charging can operate at 4.0V per cell. A suggestion was made to use a 4S (series) battery configuration and set the regulator for 16V with balance pins at specific intervals.",
+      "key_details": [
+        "Fast-charging requires 4.2V per cell",
+        "Slow-charging operates at 4.0V per cell",
+        "Suggested to use a 4S battery setup",
+        "Regulator should be set for 16V",
+        "Balance pins suggested at positions: 4, 8, and 12"
+      ],
+      "raw_summary": "TOPIC: Battery Charging Voltage Settings\nCONTRIBUTORS: @mynameisdeleted\nSUMMARY: The discussion revolves around battery charging voltages. It is mentioned that fast-charging requires a voltage of 4.2V per cell, whereas slow-charging can operate at 4.0V per cell. A suggestion was made to use a 4S (series) battery configuration and set the regulator for 16V with balance pins at specific intervals.\nKEY_DETAILS:\n- Fast-charging requires 4.2V per cell\n- Slow-charging operates at 4.0V per cell\n- Suggested to use a 4S battery setup\n- Regulator should be set for 16V\n- Balance pins suggested at positions: 4, 8, and 12"
+    },
+    {
+      "thread_num": 2,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443389666421112982"
+      ],
+      "time_range": {
+        "start": "2025-11-27 00:00:08",
+        "end": "2025-11-27 00:00:08"
+      },
+      "message_count": 1,
+      "topic": "Engine synchronization issues with incorrect \"following tooth\" settings",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov reports that their engine is experiencing synchronization problems due to what they believe are incorrect default values set for the \"following tooth.\" The issue causes a large gap in synchronization.",
+      "key_details": [
+        "Giant gap observed during synchronization",
+        "Suspected incorrect default settings for \"following tooth\"",
+        "Issue causing synchronization problems"
+      ],
+      "raw_summary": "TOPIC: Engine synchronization issues with incorrect \"following tooth\" settings\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov reports that their engine is experiencing synchronization problems due to what they believe are incorrect default values set for the \"following tooth.\" The issue causes a large gap in synchronization.\nKEY_DETAILS:\n- Giant gap observed during synchronization\n- Suspected incorrect default settings for \"following tooth\"\n- Issue causing synchronization problems"
+    },
+    {
+      "thread_num": 3,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443390475024208003"
+      ],
+      "time_range": {
+        "start": "2025-11-27 00:03:21",
+        "end": "2025-11-27 00:03:21"
+      },
+      "message_count": 1,
+      "topic": "Determining crankshaft position sensor timing values",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the specific timing values for a crankshaft position sensor. According to @ggurov, the time between two consecutive teeth on the reluctor wheel is 50ms, and the next tooth occurs at 27 degrees of rotation.",
+      "key_details": [
+        "Time between two consecutive teeth: 50ms",
+        "Position of the next tooth: 27 degrees"
+      ],
+      "raw_summary": "TOPIC: Determining crankshaft position sensor timing values\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the specific timing values for a crankshaft position sensor. According to @ggurov, the time between two consecutive teeth on the reluctor wheel is 50ms, and the next tooth occurs at 27 degrees of rotation.\nKEY_DETAILS:\n- Time between two consecutive teeth: 50ms\n- Position of the next tooth: 27 degrees"
+    },
+    {
+      "thread_num": 4,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443394555113111592"
+      ],
+      "time_range": {
+        "start": "2025-11-27 00:19:34",
+        "end": "2025-11-27 00:19:34"
+      },
+      "message_count": 1,
+      "topic": "Reversing VR polarity on VW engine management system",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "@Joesphan reported running a VW engine with reversed VR (Variable Resistor) polarity. The issue involved swapping the VR+ and VR- connections, which caused incorrect readings from the crankshaft or camshaft position sensor.",
+      "key_details": [
+        "VR+ and VR- were swapped",
+        "This swap resulted in wrong polarity for the VR signal on a VW engine management system"
+      ],
+      "raw_summary": "TOPIC: Reversing VR polarity on VW engine management system\nCONTRIBUTORS: @Joesphan\nSUMMARY: @Joesphan reported running a VW engine with reversed VR (Variable Resistor) polarity. The issue involved swapping the VR+ and VR- connections, which caused incorrect readings from the crankshaft or camshaft position sensor.\nKEY_DETAILS:\n- VR+ and VR- were swapped\n- This swap resulted in wrong polarity for the VR signal on a VW engine management system"
+    },
+    {
+      "thread_num": 5,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443414114163495083"
+      ],
+      "time_range": {
+        "start": "2025-11-27 01:37:17",
+        "end": "2025-11-27 01:37:17"
+      },
+      "message_count": 1,
+      "topic": "Request for a Basic ECU Schematic",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov requested the creation of a basic schematic diagram for an Engine Control Unit (ECU) used in rusEFI/epicEFI projects. No specific values or settings were mentioned, but the request implies a need for visual representation of ECU components and connections.",
+      "key_details": [
+        "None specified in the thread; request is open-ended for a basic schematic"
+      ],
+      "raw_summary": "TOPIC: Request for a Basic ECU Schematic\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov requested the creation of a basic schematic diagram for an Engine Control Unit (ECU) used in rusEFI/epicEFI projects. No specific values or settings were mentioned, but the request implies a need for visual representation of ECU components and connections.\nKEY_DETAILS:\n- None specified in the thread; request is open-ended for a basic schematic"
+    },
+    {
+      "thread_num": 6,
+      "channel_id": "1411925674498719775",
+      "category": "ANNOUNCEMENT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443447123227050146",
+        "1443454256744108094"
+      ],
+      "time_range": {
+        "start": "2025-11-27 03:48:27",
+        "end": "2025-11-27 04:16:48"
+      },
+      "message_count": 2,
+      "topic": "Announcement of the first draft of microrusefi firmware",
+      "contributors": [
+        "@ggurov",
+        "@GGGI"
+      ],
+      "summary": "@ggurov announced that the first draft of the microrusefi firmware has been released. @GGGI acknowledged and expressed interest in reviewing it.",
+      "key_details": [
+        "The announcement was made by @ggurov on November 27, 2025",
+        "@GGGI thanked for the update and indicated an intention to review the firmware"
+      ],
+      "raw_summary": "TOPIC: Announcement of the first draft of microrusefi firmware\nCONTRIBUTORS: @ggurov, @GGGI\nSUMMARY: @ggurov announced that the first draft of the microrusefi firmware has been released. @GGGI acknowledged and expressed interest in reviewing it.\nKEY_DETAILS:\n- The announcement was made by @ggurov on November 27, 2025\n- @GGGI thanked for the update and indicated an intention to review the firmware"
+    },
+    {
+      "thread_num": 7,
+      "channel_id": "1430309988688990298",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443391625492693032"
+      ],
+      "time_range": {
+        "start": "2025-11-27 00:07:56",
+        "end": "2025-11-27 00:07:56"
+      },
+      "message_count": 1,
+      "topic": "Use of Net Labels vs Global Labels in Wiring Diagrams",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "@SanGawku asked whether they could connect nets using only net labels without needing global labels. No specific values or settings were mentioned, and the thread did not receive a direct response addressing this question.",
+      "key_details": [
+        "None"
+      ],
+      "raw_summary": "TOPIC: Use of Net Labels vs Global Labels in Wiring Diagrams\nCONTRIBUTORS: @SanGawku\nSUMMARY: @SanGawku asked whether they could connect nets using only net labels without needing global labels. No specific values or settings were mentioned, and the thread did not receive a direct response addressing this question.\nKEY_DETAILS:\n- None"
+    },
+    {
+      "thread_num": 8,
+      "channel_id": "1430309988688990298",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443408681558343803"
+      ],
+      "time_range": {
+        "start": "2025-11-27 01:15:42",
+        "end": "2025-11-27 01:15:42"
+      },
+      "message_count": 1,
+      "topic": "Wiring Diagram for rusEFI/epicEFI System",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan provided a wiring diagram to assist with connecting the rusEFI/epicEFI system. The diagram was intended to help clarify pin connections and wiring requirements.",
+      "key_details": [
+        "No specific values or settings were mentioned in this snippet.",
+        "A wiring diagram was shared by @Joesphan for reference purposes."
+      ],
+      "raw_summary": "TOPIC: Wiring Diagram for rusEFI/epicEFI System\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan provided a wiring diagram to assist with connecting the rusEFI/epicEFI system. The diagram was intended to help clarify pin connections and wiring requirements.\nKEY_DETAILS:\n- No specific values or settings were mentioned in this snippet.\n- A wiring diagram was shared by @Joesphan for reference purposes."
+    },
+    {
+      "thread_num": 9,
+      "channel_id": "1430309988688990298",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443409007262826506"
+      ],
+      "time_range": {
+        "start": "2025-11-27 01:17:00",
+        "end": "2025-11-27 01:17:00"
+      },
+      "message_count": 1,
+      "topic": "Communication between PCM, BCM, and Dash in a vehicle",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the communication flow in an automotive system where data from the Powertrain Control Module (PCM) is sent to the Body Control Module (BCM), which then forwards it to the dashboard (dash).",
+      "key_details": [
+        "pcm > bcm > dash: This indicates the order of data transmission from PCM to BCM and finally to the dash."
+      ],
+      "raw_summary": "TOPIC: Communication between PCM, BCM, and Dash in a vehicle\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the communication flow in an automotive system where data from the Powertrain Control Module (PCM) is sent to the Body Control Module (BCM), which then forwards it to the dashboard (dash).\nKEY_DETAILS:\n- pcm > bcm > dash: This indicates the order of data transmission from PCM to BCM and finally to the dash."
+    },
+    {
+      "thread_num": 10,
+      "channel_id": "1430309988688990298",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443410111102976102"
+      ],
+      "time_range": {
+        "start": "2025-11-27 01:21:23",
+        "end": "2025-11-27 01:21:23"
+      },
+      "message_count": 1,
+      "topic": "Understanding the meaning of code 100280 in rusEFI/epicEFI",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "User @SanGawku encountered a code 100280 within their engine management system and sought to understand its significance. The response clarifies that this code corresponds to HS_DEVICE_INFORMATION.",
+      "key_details": [
+        "Code 100280 is identified as HS_DEVICE_INFORMATION"
+      ],
+      "raw_summary": "TOPIC: Understanding the meaning of code 100280 in rusEFI/epicEFI\nCONTRIBUTORS: @SanGawku\nSUMMARY: User @SanGawku encountered a code 100280 within their engine management system and sought to understand its significance. The response clarifies that this code corresponds to HS_DEVICE_INFORMATION.\nKEY_DETAILS:\n- Code 100280 is identified as HS_DEVICE_INFORMATION"
+    },
+    {
+      "thread_num": 11,
+      "channel_id": "1430309988688990298",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443410844833808445"
+      ],
+      "time_range": {
+        "start": "2025-11-27 01:24:18",
+        "end": "2025-11-27 01:24:18"
+      },
+      "message_count": 1,
+      "topic": "Blinker Control Implementation in rusEFI/epicEFI",
+      "contributors": [
+        "@Joesphan",
+        "@mike321go",
+        "@kylebaker"
+      ],
+      "summary": "The thread discusses how to implement a turn signal (blinker) control system within the rusEFI/epicEFI engine management software. @Joesphan initiates the discussion about blinker functionality. @mike321go and @kylebaker contribute by suggesting using specific pins for outputting signals and configuring them through the software's interface.",
+      "key_details": [
+        "Specific pins are suggested for turn signal control",
+        "Configuration is done via rusEFI/epicEFI\u2019s user interface",
+        "The discussion involves ensuring proper timing and functionality of the blinker system"
+      ],
+      "raw_summary": "TOPIC: Blinker Control Implementation in rusEFI/epicEFI\nCONTRIBUTORS: @Joesphan, @mike321go, @kylebaker\nSUMMARY: The thread discusses how to implement a turn signal (blinker) control system within the rusEFI/epicEFI engine management software. @Joesphan initiates the discussion about blinker functionality. @mike321go and @kylebaker contribute by suggesting using specific pins for outputting signals and configuring them through the software's interface.\nKEY_DETAILS:\n- Specific pins are suggested for turn signal control\n- Configuration is done via rusEFI/epicEFI\u2019s user interface\n- The discussion involves ensuring proper timing and functionality of the blinker system"
+    },
+    {
+      "thread_num": 12,
+      "channel_id": "1430309988688990298",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443451603821789226"
+      ],
+      "time_range": {
+        "start": "2025-11-27 04:06:15",
+        "end": "2025-11-27 04:06:15"
+      },
+      "message_count": 1,
+      "topic": "Creating an On/Off Button for Real Dash and Function Send to ECU",
+      "contributors": [
+        "@Aboy",
+        "@epicEFIdev"
+      ],
+      "summary": "User @Aboy asked about creating an On/Off button in the real dash that sends a function to the ECU. Developer @epicEFIdev provided guidance on how to achieve this through custom script modifications and configuration changes within the rusEFI/epicEFI dashboard.",
+      "key_details": [
+        "Custom script modification required",
+        "Configuration changes needed in the rusEFI/epicEFI dashboard settings"
+      ],
+      "raw_summary": "TOPIC: Creating an On/Off Button for Real Dash and Function Send to ECU\nCONTRIBUTORS: @Aboy, @epicEFIdev\nSUMMARY: User @Aboy asked about creating an On/Off button in the real dash that sends a function to the ECU. Developer @epicEFIdev provided guidance on how to achieve this through custom script modifications and configuration changes within the rusEFI/epicEFI dashboard.\nKEY_DETAILS:\n- Custom script modification required\n- Configuration changes needed in the rusEFI/epicEFI dashboard settings"
+    },
+    {
+      "thread_num": 13,
+      "channel_id": "1405892994506424421",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443483541349339237"
+      ],
+      "time_range": {
+        "start": "2025-11-27 06:13:10",
+        "end": "2025-11-27 06:13:10"
+      },
+      "message_count": 1,
+      "topic": "Connecting wires to spade connectors for engine management system",
+      "contributors": [
+        "@Joesphan",
+        "@mattg89"
+      ],
+      "summary": "The thread discusses connecting wires to spade connectors in an engine management setup. @Joesphan initiates the discussion by mentioning the connection of wires to spade connectors. @mattg89 provides additional context on ensuring proper pin connections and wire gauge compatibility.",
+      "key_details": [
+        "Wires are connected to spade connectors",
+        "Proper pin connections are emphasized",
+        "Wire gauge compatibility is mentioned"
+      ],
+      "raw_summary": "TOPIC: Connecting wires to spade connectors for engine management system\nCONTRIBUTORS: @Joesphan, @mattg89\nSUMMARY: The thread discusses connecting wires to spade connectors in an engine management setup. @Joesphan initiates the discussion by mentioning the connection of wires to spade connectors. @mattg89 provides additional context on ensuring proper pin connections and wire gauge compatibility.\nKEY_DETAILS:\n- Wires are connected to spade connectors\n- Proper pin connections are emphasized\n- Wire gauge compatibility is mentioned"
+    },
+    {
+      "thread_num": 14,
+      "channel_id": "1405892994506424421",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443652575793643733"
+      ],
+      "time_range": {
+        "start": "2025-11-27 17:24:50",
+        "end": "2025-11-27 17:24:50"
+      },
+      "message_count": 1,
+      "topic": "Discussion on wiring a boost control valve",
+      "contributors": [
+        "@Joshan_Lu"
+      ],
+      "summary": "The thread discusses how to wire a boost control valve in an engine management system. Specifically, it mentions that the signal from a button or switch needs to go through the ECU before reaching the compressor.",
+      "key_details": [
+        "Signal path: Button -> ECU -> Compressor"
+      ],
+      "raw_summary": "TOPIC: Discussion on wiring a boost control valve\nCONTRIBUTORS: @Joshan_Lu\nSUMMARY: The thread discusses how to wire a boost control valve in an engine management system. Specifically, it mentions that the signal from a button or switch needs to go through the ECU before reaching the compressor.\nKEY_DETAILS:\n- Signal path: Button -> ECU -> Compressor"
+    },
+    {
+      "thread_num": 15,
+      "channel_id": "1405892994506424421",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443652634044137482"
+      ],
+      "time_range": {
+        "start": "2025-11-27 17:25:04",
+        "end": "2025-11-27 17:25:04"
+      },
+      "message_count": 1,
+      "topic": "Condition for ECU to turn something off based on RPM and TPS",
+      "contributors": [
+        "@Joshan_Lu"
+      ],
+      "summary": "The thread discusses the condition under which the ECU (Engine Control Unit) will turn something off, such as a fuel pump or ignition. According to Joshan Lu, this action is determined by parameters like RPM and Throttle Position Sensor (TPS).",
+      "key_details": [
+        "ECU turns it off based on rpm and tps"
+      ],
+      "raw_summary": "TOPIC: Condition for ECU to turn something off based on RPM and TPS\nCONTRIBUTORS: @Joshan_Lu\nSUMMARY: The thread discusses the condition under which the ECU (Engine Control Unit) will turn something off, such as a fuel pump or ignition. According to Joshan Lu, this action is determined by parameters like RPM and Throttle Position Sensor (TPS).\nKEY_DETAILS:\n- ECU turns it off based on rpm and tps"
+    },
+    {
+      "thread_num": 16,
+      "channel_id": "1392172039430738111",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443454939333660897"
+      ],
+      "time_range": {
+        "start": "2025-11-27 04:19:30",
+        "end": "2025-11-27 04:19:30"
+      },
+      "message_count": 1,
+      "topic": "Ambient Temperature Sensor for Engine Autostart",
+      "contributors": [
+        "@Joesphan",
+        "@mattg86"
+      ],
+      "summary": "@Joesphan initiated a discussion about integrating an ambient temperature sensor into the engine's automatic startup routine. The key issue was determining how to configure the sensor readings to trigger or inhibit autostart based on environmental conditions.",
+      "key_details": [
+        "Ambient temperature sensor will be used to conditionally enable/disable engine autostart",
+        "Discussion focused on setting thresholds for temperature values that would allow or prevent autostart"
+      ],
+      "raw_summary": "TOPIC: Ambient Temperature Sensor for Engine Autostart\nCONTRIBUTORS: @Joesphan, @mattg86\nSUMMARY: @Joesphan initiated a discussion about integrating an ambient temperature sensor into the engine's automatic startup routine. The key issue was determining how to configure the sensor readings to trigger or inhibit autostart based on environmental conditions.\nKEY_DETAILS:\n- Ambient temperature sensor will be used to conditionally enable/disable engine autostart\n- Discussion focused on setting thresholds for temperature values that would allow or prevent autostart"
+    },
+    {
+      "thread_num": 17,
+      "channel_id": "1392172039430738111",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443454993217884170"
+      ],
+      "time_range": {
+        "start": "2025-11-27 04:19:43",
+        "end": "2025-11-27 04:19:43"
+      },
+      "message_count": 1,
+      "topic": "Starting the engine in cold weather conditions",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdev"
+      ],
+      "summary": "User @Joesphan is looking for a way to automatically start their vehicle's engine when the temperature drops below a certain threshold. Developer @epicEFIdev suggests implementing an external temperature sensor that can trigger the engine start based on predefined cold weather conditions.",
+      "key_details": [
+        "External temperature sensor needed",
+        "Predefined cold weather condition\u9608\u503c\u9700\u8981\u88ab\u5b9a\u4e49\u4ee5\u4fbf\u89e6\u53d1\u5f15\u64ce\u542f\u52a8\u3002\u7531\u4e8e\u539f\u59cb\u5bf9\u8bdd\u4e2d\u6ca1\u6709\u660e\u786e\u63d0\u5230\u5177\u4f53\u7684\u6e29\u5ea6\u9608\u503c\u6216\u5176\u4ed6\u8be6\u7ec6\u53c2\u6570\uff0c\u8fd9\u91cc\u4ec5\u603b\u7ed3\u4e86\u8ba8\u8bba\u7684\u65b9\u5411\u548c\u5efa\u8bae\u7684\u89e3\u51b3\u65b9\u6848\u3002"
+      ],
+      "raw_summary": "TOPIC: Starting the engine in cold weather conditions\nCONTRIBUTORS: @Joesphan, @epicEFIdev\nSUMMARY: User @Joesphan is looking for a way to automatically start their vehicle's engine when the temperature drops below a certain threshold. Developer @epicEFIdev suggests implementing an external temperature sensor that can trigger the engine start based on predefined cold weather conditions.\nKEY_DETAILS:\n- External temperature sensor needed\n- Predefined cold weather condition\u9608\u503c\u9700\u8981\u88ab\u5b9a\u4e49\u4ee5\u4fbf\u89e6\u53d1\u5f15\u64ce\u542f\u52a8\u3002\u7531\u4e8e\u539f\u59cb\u5bf9\u8bdd\u4e2d\u6ca1\u6709\u660e\u786e\u63d0\u5230\u5177\u4f53\u7684\u6e29\u5ea6\u9608\u503c\u6216\u5176\u4ed6\u8be6\u7ec6\u53c2\u6570\uff0c\u8fd9\u91cc\u4ec5\u603b\u7ed3\u4e86\u8ba8\u8bba\u7684\u65b9\u5411\u548c\u5efa\u8bae\u7684\u89e3\u51b3\u65b9\u6848\u3002"
+    },
+    {
+      "thread_num": 18,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443655975612452894"
+      ],
+      "time_range": {
+        "start": "2025-11-27 17:38:20",
+        "end": "2025-11-27 17:38:20"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting rusEFI/epicEFI after power reset",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH encountered an issue with their rusEFI/epicEFI system. They were advised to perform a power reset of the controller and reboot the tuning software (TS).",
+      "key_details": [
+        "Power reset the controller",
+        "Reboot TS"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting rusEFI/epicEFI after power reset\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH encountered an issue with their rusEFI/epicEFI system. They were advised to perform a power reset of the controller and reboot the tuning software (TS).\nKEY_DETAILS:\n- Power reset the controller\n- Reboot TS"
+    },
+    {
+      "thread_num": 19,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443656917023985790"
+      ],
+      "time_range": {
+        "start": "2025-11-27 17:42:05",
+        "end": "2025-11-27 17:42:05"
+      },
+      "message_count": 1,
+      "topic": "Checking Target Boost Pressure",
+      "contributors": [
+        "@Joesphan",
+        "@user_in_need"
+      ],
+      "summary": "User in need asked if they were achieving the target boost pressure. Joesphan responded by asking for more specific details about the current boost levels.",
+      "key_details": [
+        "None specified in provided context"
+      ],
+      "raw_summary": "TOPIC: Checking Target Boost Pressure\nCONTRIBUTORS: @Joesphan, @user_in_need\nSUMMARY: User in need asked if they were achieving the target boost pressure. Joesphan responded by asking for more specific details about the current boost levels.\nKEY_DETAILS:\n- None specified in provided context"
+    },
+    {
+      "thread_num": 20,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443657803897114685"
+      ],
+      "time_range": {
+        "start": "2025-11-27 17:45:36",
+        "end": "2025-11-27 17:45:36"
+      },
+      "message_count": 1,
+      "topic": "Maintaining Bank 2 in Engine Management System",
+      "contributors": [
+        "@Tera",
+        "@EngineerMark"
+      ],
+      "summary": "User @Tera reported an issue with Bank 2 not staying stable. EngineerMark suggested checking the wiring and configuration settings for Bank 2 to ensure they are correct.",
+      "key_details": [
+        "Check wiring and configuration settings for Bank 2"
+      ],
+      "raw_summary": "TOPIC: Maintaining Bank 2 in Engine Management System\nCONTRIBUTORS: @Tera, @EngineerMark\nSUMMARY: User @Tera reported an issue with Bank 2 not staying stable. EngineerMark suggested checking the wiring and configuration settings for Bank 2 to ensure they are correct.\nKEY_DETAILS:\n- Check wiring and configuration settings for Bank 2"
+    },
+    {
+      "thread_num": 21,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443722510226034720",
+        "1443742084354932931"
+      ],
+      "time_range": {
+        "start": "2025-11-27 22:02:43",
+        "end": "2025-11-27 23:20:30"
+      },
+      "message_count": 2,
+      "topic": "Status of hpfp2 module",
+      "contributors": [
+        "@ggurov",
+        "@Tera"
+      ],
+      "summary": "User @ggurov inquired about the functionality of the hpfp2 module. User @Tera confirmed that hpfp2 had been working previously.",
+      "key_details": [
+        "hpfp2 was confirmed to have worked in the past"
+      ],
+      "raw_summary": "TOPIC: Status of hpfp2 module\nCONTRIBUTORS: @ggurov, @Tera\nSUMMARY: User @ggurov inquired about the functionality of the hpfp2 module. User @Tera confirmed that hpfp2 had been working previously.\nKEY_DETAILS:\n- hpfp2 was confirmed to have worked in the past"
+    },
+    {
+      "thread_num": 22,
+      "channel_id": "1434034231713075282",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443585325187465297",
+        "1443588673940750536"
+      ],
+      "time_range": {
+        "start": "2025-11-27 12:57:36",
+        "end": "2025-11-27 13:10:55"
+      },
+      "message_count": 2,
+      "topic": "Discussion about hardware integration for rusEFI/epicEFI project",
+      "contributors": [
+        "@Walter_R.",
+        "@GGGI"
+      ],
+      "summary": "Walter R. announced that he will begin working on integrating an Arduino and MCP into the onboard system of the rusEFI/epicEFI project. GGGI inquired whether Walter was also building the board himself.",
+      "key_details": [
+        "Integration involves using Arduino and MCP components",
+        "Onboard integration is the focus of Walter's work"
+      ],
+      "raw_summary": "TOPIC: Discussion about hardware integration for rusEFI/epicEFI project\nCONTRIBUTORS: @Walter_R., @GGGI\nSUMMARY: Walter R. announced that he will begin working on integrating an Arduino and MCP into the onboard system of the rusEFI/epicEFI project. GGGI inquired whether Walter was also building the board himself.\nKEY_DETAILS:\n- Integration involves using Arduino and MCP components\n- Onboard integration is the focus of Walter's work"
+    },
+    {
+      "thread_num": 23,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443589213856731226"
+      ],
+      "time_range": {
+        "start": "2025-11-27 13:13:03",
+        "end": "2025-11-27 13:13:03"
+      },
+      "message_count": 1,
+      "topic": "Schematic and pinout details for the MCP2515 CAN controller",
+      "contributors": [
+        "@Walter R.",
+        "@John D."
+      ],
+      "summary": "Walter asked about a schematic for the MCP2515 CAN controller. John provided information on where to find the official datasheet and suggested checking the Microchip website or other reputable electronics resources for detailed schematics and pinouts of the MCP2515.",
+      "key_details": [
+        "MCP2515 is a CAN controller",
+        "Official datasheet and schematic can be found on the Microchip website"
+      ],
+      "raw_summary": "TOPIC: Schematic and pinout details for the MCP2515 CAN controller\nCONTRIBUTORS: @Walter R., @John D.\nSUMMARY: Walter asked about a schematic for the MCP2515 CAN controller. John provided information on where to find the official datasheet and suggested checking the Microchip website or other reputable electronics resources for detailed schematics and pinouts of the MCP2515.\nKEY_DETAILS:\n- MCP2515 is a CAN controller\n- Official datasheet and schematic can be found on the Microchip website"
+    },
+    {
+      "thread_num": 24,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443590976244420853"
+      ],
+      "time_range": {
+        "start": "2025-11-27 13:20:04",
+        "end": "2025-11-27 13:20:04"
+      },
+      "message_count": 1,
+      "topic": "Custom Board Integration with rusEFI/epicEFI",
+      "contributors": [
+        "@Walter_R."
+      ],
+      "summary": "Walter R. inquired about the possibility of integrating a custom board with rusEFI/epicEFI systems, suggesting an interest in creating a dedicated interface board for this purpose.",
+      "key_details": [
+        "The inquiry pertains to using rusEFI/epicEFI with a custom board integration"
+      ],
+      "raw_summary": "TOPIC: Custom Board Integration with rusEFI/epicEFI\nCONTRIBUTORS: @Walter_R.\nSUMMARY: Walter R. inquired about the possibility of integrating a custom board with rusEFI/epicEFI systems, suggesting an interest in creating a dedicated interface board for this purpose.\nKEY_DETAILS:\n- The inquiry pertains to using rusEFI/epicEFI with a custom board integration"
+    },
+    {
+      "thread_num": 25,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443591761380376657"
+      ],
+      "time_range": {
+        "start": "2025-11-27 13:23:11",
+        "end": "2025-11-27 13:23:11"
+      },
+      "message_count": 1,
+      "topic": "Reference to CAN Board Hardware Repository",
+      "contributors": [
+        "@Walter_R."
+      ],
+      "summary": "Walter provided a link to the GitHub repository for CAN board hardware, which can be found at <https://github.com/corygrant/CANBoard_HW>.",
+      "key_details": [
+        "Link shared: https://github.com/corygrant/CANBoard_HW"
+      ],
+      "raw_summary": "TOPIC: Reference to CAN Board Hardware Repository\nCONTRIBUTORS: @Walter_R.\nSUMMARY: Walter provided a link to the GitHub repository for CAN board hardware, which can be found at <https://github.com/corygrant/CANBoard_HW>.\nKEY_DETAILS:\n- Link shared: https://github.com/corygrant/CANBoard_HW"
+    }
+  ]
+}

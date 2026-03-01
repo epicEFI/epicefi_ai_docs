@@ -1,6 +1,6 @@
 # Hall Trigger Filter Trade-off: Hard Start vs. Idle Trigger Errors (36-2 / 3-Tooth Cam)
 
-*Source: epicEFI Discord, 2026-02-27 | Channel: 1401895238481744052*
+*Source: rusEFI Discord, 2026-02-27 | Channel: 1401895238481744052*
 *Contributors: @Aboy, @ggurov*
 
 ## Summary

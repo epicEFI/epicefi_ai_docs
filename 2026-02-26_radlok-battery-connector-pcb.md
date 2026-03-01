@@ -1,6 +1,6 @@
 # RADLOK High-Current Battery Connector PCB Identification
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1432272833014272050*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1432272833014272050*
 *Contributors: @ZeeKay, @offtheband*
 
 ## Summary

@@ -1,6 +1,6 @@
 # epicEFI Firmware: uaEFI Single-Connection Bug Fix Procedure
 
-*Source: epicEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
 *Contributors: @Robb235, @ggurov*
 
 ## Summary

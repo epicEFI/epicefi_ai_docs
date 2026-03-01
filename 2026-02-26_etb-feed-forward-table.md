@@ -1,6 +1,6 @@
 # ETB (Electronic Throttle Body) Feed-Forward Table in rusEFI
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
 *Contributors: @Joesphan, @SanGawku*
 
 ## Summary

@@ -1,6 +1,6 @@
 # Trigger Logger Error Interpretation and uaEFI 9007 Error Code
 
-*Source: epicEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
 *Contributors: @Robb235, @ggurov*
 
 ## Summary

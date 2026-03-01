@@ -1,6 +1,6 @@
 # TCC Lock/Unlock Control: Adding TPS Input and Improved Shift Point Table Design
 
-*Source: epicEFI Discord, 2026-02-22 | Channel: 1470466409602744541*
+*Source: rusEFI Discord, 2026-02-22 | Channel: 1470466409602744541*
 *Contributors: @Robb235 (@robb235_00916), @ggurov (@ggurov), @epicEFIdev*
 
 ## Summary

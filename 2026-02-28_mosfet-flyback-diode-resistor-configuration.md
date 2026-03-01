@@ -1,6 +1,6 @@
 # MOSFET Flyback Diode and Pull-Down Resistor Configuration
 
-*Source: epicEFI Discord, 2026-02-28 | Channel: 1411925674498719775*
+*Source: rusEFI Discord, 2026-02-28 | Channel: 1411925674498719775*
 *Contributors: @jeybee, @mnemonik*
 
 ## Summary

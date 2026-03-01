@@ -1,6 +1,6 @@
 # Reverse Engineering a Factory ECU to Find Sensor Pull-Up Resistor Values
 
-*Source: epicEFI Discord, 2026-02-28 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-28 | Channel: 1356732771325968630*
 *Contributors: @Robb235, @Joesphan, @jeybee, @Ognjen Galic*
 
 ## Summary

@@ -1,6 +1,6 @@
 # Fuel Cut Code 2, MAP Sensor Failure, and Cam Trigger Diagnosis
 
-*Source: epicEFI Discord, 2026-03-01 | Channel: 1477527653186535625*
+*Source: rusEFI Discord, 2026-03-01 | Channel: 1477527653186535625*
 *Contributors: @ggurov, @Bearded_Bogan, @Joesphan*
 
 ## Summary

@@ -1,6 +1,6 @@
 # SD Card Behavior and STM32 Flash Write Protection in epicEFI
 
-*Source: epicEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
 *Contributors: @jeybee, @ggurov, @Robb235*
 
 ## Summary

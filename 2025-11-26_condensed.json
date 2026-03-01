@@ -1,0 +1,1126 @@
+{
+  "date": "2025-11-26",
+  "generated_at": "2026-03-01T12:47:34.734527",
+  "stats": {
+    "total_threads": 898,
+    "noise_filtered": 852,
+    "kept": 46
+  },
+  "threads": [
+    {
+      "thread_num": 1,
+      "channel_id": "1356732771325968630",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443041114155257928"
+      ],
+      "time_range": {
+        "start": "2025-11-26 00:55:09",
+        "end": "2025-11-26 00:55:09"
+      },
+      "message_count": 1,
+      "topic": "Sharing a custom rusEFI build container repository",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov shared a git repository link for a custom rusEFI build container. The repository can be cloned using the provided URL.",
+      "key_details": [
+        "```git clone https://github.com/ggurov/rusefibuildcontainer```"
+      ],
+      "raw_summary": "TOPIC: Sharing a custom rusEFI build container repository\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov shared a git repository link for a custom rusEFI build container. The repository can be cloned using the provided URL.\nKEY_DETAILS:\n- ```git clone https://github.com/ggurov/rusefibuildcontainer```"
+    },
+    {
+      "thread_num": 2,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443041218073329684",
+        "1443041560261431439"
+      ],
+      "time_range": {
+        "start": "2025-11-26 00:55:33",
+        "end": "2025-11-26 00:56:55"
+      },
+      "message_count": 2,
+      "topic": "SSH Key Generation for Container Access",
+      "contributors": [
+        "@ggurov",
+        "@MarkCraftPerformance"
+      ],
+      "summary": "User @MarkCraftPerformance was having trouble accessing a container and suspected it might be due to missing SSH keys. User @ggurov suggested generating an RSA key pair using the command ```ssh-keygen -t rsa```, which is necessary for proper access.",
+      "key_details": [
+        "Command used: ```ssh-keygen -t rsa```"
+      ],
+      "raw_summary": "TOPIC: SSH Key Generation for Container Access\nCONTRIBUTORS: @ggurov, @MarkCraftPerformance\nSUMMARY: User @MarkCraftPerformance was having trouble accessing a container and suspected it might be due to missing SSH keys. User @ggurov suggested generating an RSA key pair using the command ```ssh-keygen -t rsa```, which is necessary for proper access.\nKEY_DETAILS:\n- Command used: ```ssh-keygen -t rsa```"
+    },
+    {
+      "thread_num": 3,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443041763316072549",
+        "1443059519516180530",
+        "1443059884068175882"
+      ],
+      "time_range": {
+        "start": "2025-11-26 00:57:43",
+        "end": "2025-11-26 02:09:44"
+      },
+      "message_count": 3,
+      "topic": "Updating git submodules in rusEFI/epicEFI project",
+      "contributors": [
+        "@ggurov",
+        "@fast335xi"
+      ],
+      "summary": "User @Tera was having trouble with updating git submodules and received a suggestion from @ggurov to use the command `git submodule update --init --recursive`. After receiving this advice, @Tera attempted the suggested command but did not provide feedback on its success.",
+      "key_details": [
+        "Command used: ```git submodule update --init --recursive```"
+      ],
+      "raw_summary": "TOPIC: Updating git submodules in rusEFI/epicEFI project\nCONTRIBUTORS: @ggurov, @fast335xi\nSUMMARY: User @Tera was having trouble with updating git submodules and received a suggestion from @ggurov to use the command `git submodule update --init --recursive`. After receiving this advice, @Tera attempted the suggested command but did not provide feedback on its success.\nKEY_DETAILS:\n- Command used: ```git submodule update --init --recursive```"
+    },
+    {
+      "thread_num": 4,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443044349549219930"
+      ],
+      "time_range": {
+        "start": "2025-11-26 01:08:00",
+        "end": "2025-11-26 01:08:00"
+      },
+      "message_count": 1,
+      "topic": "Proper Directory for rusEFI/epicEFI Installation on WSL",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov advised that when installing rusEFI or epicEFI on Windows Subsystem for Linux (WSL), the software should be checked out into the home directory of WSL. This ensures proper functioning and ease of access.",
+      "key_details": [
+        "Directory recommendation: Home directory in WSL"
+      ],
+      "raw_summary": "TOPIC: Proper Directory for rusEFI/epicEFI Installation on WSL\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov advised that when installing rusEFI or epicEFI on Windows Subsystem for Linux (WSL), the software should be checked out into the home directory of WSL. This ensures proper functioning and ease of access.\nKEY_DETAILS:\n- Directory recommendation: Home directory in WSL"
+    },
+    {
+      "thread_num": 5,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.7,
+      "message_ids": [
+        "1443049548447744132"
+      ],
+      "time_range": {
+        "start": "2025-11-26 01:28:39",
+        "end": "2025-11-26 01:28:39"
+      },
+      "message_count": 1,
+      "topic": "Connecting to a WSL2 instance via SSH",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses connecting to a Windows Subsystem for Linux (WSL) 2 instance via SSH. User @ggurov mentions that it will work once the user connects through SSH.",
+      "key_details": [
+        "None specific values or settings were mentioned beyond the context of connecting to WSL2 via SSH"
+      ],
+      "raw_summary": "TOPIC: Connecting to a WSL2 instance via SSH\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses connecting to a Windows Subsystem for Linux (WSL) 2 instance via SSH. User @ggurov mentions that it will work once the user connects through SSH.\nKEY_DETAILS:\n- None specific values or settings were mentioned beyond the context of connecting to WSL2 via SSH"
+    },
+    {
+      "thread_num": 6,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443056281974870198"
+      ],
+      "time_range": {
+        "start": "2025-11-26 01:55:25",
+        "end": "2025-11-26 01:55:25"
+      },
+      "message_count": 1,
+      "topic": "Cloning a specific part of the rusEFI/epicEFI project",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov suggests attempting to clone only a specific portion of the rusEFI/epicEFI repository rather than the entire project.",
+      "key_details": [
+        "Cloning a specific part of the repository instead of the whole project"
+      ],
+      "raw_summary": "TOPIC: Cloning a specific part of the rusEFI/epicEFI project\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov suggests attempting to clone only a specific portion of the rusEFI/epicEFI repository rather than the entire project.\nKEY_DETAILS:\n- Cloning a specific part of the repository instead of the whole project"
+    },
+    {
+      "thread_num": 7,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443056710984925214"
+      ],
+      "time_range": {
+        "start": "2025-11-26 01:57:07",
+        "end": "2025-11-26 01:57:07"
+      },
+      "message_count": 1,
+      "topic": "Cloning rusEFI/epicEFI repository via Git Bash",
+      "contributors": [
+        "@fast335xi"
+      ],
+      "summary": "User @fast335xi suggested using Git Bash to clone the rusEFI/epicEFI repository. The user recommended changing directories (cd) to the desired location before cloning.",
+      "key_details": [
+        "Use Git Bash for cloning",
+        "Command `cd` used to change directory to desired location before cloning"
+      ],
+      "raw_summary": "TOPIC: Cloning rusEFI/epicEFI repository via Git Bash\nCONTRIBUTORS: @fast335xi\nSUMMARY: User @fast335xi suggested using Git Bash to clone the rusEFI/epicEFI repository. The user recommended changing directories (cd) to the desired location before cloning.\nKEY_DETAILS:\n- Use Git Bash for cloning\n- Command `cd` used to change directory to desired location before cloning"
+    },
+    {
+      "thread_num": 8,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443072809181122732"
+      ],
+      "time_range": {
+        "start": "2025-11-26 03:01:05",
+        "end": "2025-11-26 03:01:05"
+      },
+      "message_count": 1,
+      "topic": "Error identification in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@userInNeed"
+      ],
+      "summary": "User @userInNeed encountered an unspecified error and sought assistance from @ggurov to identify the nature of the error.",
+      "key_details": [
+        "No specific values or settings mentioned",
+        "The conversation did not proceed beyond identifying that there was an error"
+      ],
+      "raw_summary": "TOPIC: Error identification in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @userInNeed\nSUMMARY: User @userInNeed encountered an unspecified error and sought assistance from @ggurov to identify the nature of the error.\nKEY_DETAILS:\n- No specific values or settings mentioned\n- The conversation did not proceed beyond identifying that there was an error"
+    },
+    {
+      "thread_num": 9,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443074846731931779"
+      ],
+      "time_range": {
+        "start": "2025-11-26 03:09:11",
+        "end": "2025-11-26 03:09:11"
+      },
+      "message_count": 1,
+      "topic": "Adding an additional fuel pump using rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov comments positively about the repository code, indicating it works well for adding an additional fuel pump. No specific technical details or solutions are provided in this short comment.",
+      "key_details": [
+        "None specified in the given thread excerpt"
+      ],
+      "raw_summary": "TOPIC: Adding an additional fuel pump using rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov comments positively about the repository code, indicating it works well for adding an additional fuel pump. No specific technical details or solutions are provided in this short comment.\nKEY_DETAILS:\n- None specified in the given thread excerpt"
+    },
+    {
+      "thread_num": 10,
+      "channel_id": "1356732771325968630",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443081603265073183"
+      ],
+      "time_range": {
+        "start": "2025-11-26 03:36:02",
+        "end": "2025-11-26 03:36:02"
+      },
+      "message_count": 1,
+      "topic": "Building a bench for testing with Ardustim",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov suggested building a test bench using Ardustim for those deeply involved in the project. This recommendation implies that having such a setup can aid in development and testing processes.",
+      "key_details": [
+        "Suggestion to build a bench with Ardustim"
+      ],
+      "raw_summary": "TOPIC: Building a bench for testing with Ardustim\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov suggested building a test bench using Ardustim for those deeply involved in the project. This recommendation implies that having such a setup can aid in development and testing processes.\nKEY_DETAILS:\n- Suggestion to build a bench with Ardustim"
+    },
+    {
+      "thread_num": 11,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1443082285283934341"
+      ],
+      "time_range": {
+        "start": "2025-11-26 03:38:44",
+        "end": "2025-11-26 03:38:44"
+      },
+      "message_count": 1,
+      "topic": "Adding definitions for crankshaft and camshaft wheels in @wheel_defs.h file",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov is discussing the addition of a definition for a 60-2 crank wheel and BMWN63TU engine in the `@wheel_defs.h` file. They also mention using `addEvent720` information for defining the cam profile.",
+      "key_details": [
+        "Using `@wheel_defs.h` (lines 1660-1683)",
+        "Adding a definition for a 60-2 crank wheel",
+        "Defining BMWN63TU engine",
+        "Using `addEvent720` information for cam profile"
+      ],
+      "raw_summary": "TOPIC: Adding definitions for crankshaft and camshaft wheels in @wheel_defs.h file\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov is discussing the addition of a definition for a 60-2 crank wheel and BMWN63TU engine in the `@wheel_defs.h` file. They also mention using `addEvent720` information for defining the cam profile.\nKEY_DETAILS:\n- Using `@wheel_defs.h` (lines 1660-1683)\n- Adding a definition for a 60-2 crank wheel\n- Defining BMWN63TU engine\n- Using `addEvent720` information for cam profile"
+    },
+    {
+      "thread_num": 12,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443088788594229268"
+      ],
+      "time_range": {
+        "start": "2025-11-26 04:04:35",
+        "end": "2025-11-26 04:04:35"
+      },
+      "message_count": 1,
+      "topic": "Determining necessity of libfirmware",
+      "contributors": [
+        "@Tera",
+        "@EpicEngineer"
+      ],
+      "summary": "User @Tera asks whether the libfirmware package is necessary for rusEFI/epicEFI operation. @EpicEngineer responds that libfirmware is required if users are working with firmware updates or customizations.",
+      "key_details": [
+        "Libfirmware is needed for firmware updates and customizations."
+      ],
+      "raw_summary": "TOPIC: Determining necessity of libfirmware\nCONTRIBUTORS: @Tera, @EpicEngineer\nSUMMARY: User @Tera asks whether the libfirmware package is necessary for rusEFI/epicEFI operation. @EpicEngineer responds that libfirmware is required if users are working with firmware updates or customizations.\nKEY_DETAILS:\n- Libfirmware is needed for firmware updates and customizations."
+    },
+    {
+      "thread_num": 13,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443109774911606924"
+      ],
+      "time_range": {
+        "start": "2025-11-26 05:27:58",
+        "end": "2025-11-26 05:27:58"
+      },
+      "message_count": 1,
+      "topic": "Implementation of TESTED DUALBANK DI in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the implementation of a TESTED DUALBANK Direct Injection (DI) setup within the context of the rusEFI/epicEFI project. It indicates that this configuration is being considered or tested.",
+      "key_details": [
+        "Implementation of TESTED DUALBANK DI",
+        "Mentioned by @ggurov"
+      ],
+      "raw_summary": "TOPIC: Implementation of TESTED DUALBANK DI in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the implementation of a TESTED DUALBANK Direct Injection (DI) setup within the context of the rusEFI/epicEFI project. It indicates that this configuration is being considered or tested.\nKEY_DETAILS:\n- Implementation of TESTED DUALBANK DI\n- Mentioned by @ggurov"
+    },
+    {
+      "thread_num": 14,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443118703221805077"
+      ],
+      "time_range": {
+        "start": "2025-11-26 06:03:27",
+        "end": "2025-11-26 06:03:27"
+      },
+      "message_count": 1,
+      "topic": "Dual Bank Configuration and Coolant Temperature Sensors (CTS)",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread initiated by @Joesphan discusses considerations when configuring a dual bank setup in an engine management system. Specifically, it mentions the need to consider separate coolant temperature sensors (CLT) for each bank.",
+      "key_details": [
+        "Consideration of CLT for one bank in a dual bank configuration"
+      ],
+      "raw_summary": "TOPIC: Dual Bank Configuration and Coolant Temperature Sensors (CTS)\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread initiated by @Joesphan discusses considerations when configuring a dual bank setup in an engine management system. Specifically, it mentions the need to consider separate coolant temperature sensors (CLT) for each bank.\nKEY_DETAILS:\n- Consideration of CLT for one bank in a dual bank configuration"
+    },
+    {
+      "thread_num": 15,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443120792253497384"
+      ],
+      "time_range": {
+        "start": "2025-11-26 06:11:45",
+        "end": "2025-11-26 06:11:45"
+      },
+      "message_count": 1,
+      "topic": "Unique Sensors per Engine Bank",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan inquired about which sensors are specific to each engine bank. No direct answer was provided in the given snippet, so further context or response is needed.",
+      "key_details": [
+        "None provided in the snippet"
+      ],
+      "raw_summary": "TOPIC: Unique Sensors per Engine Bank\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan inquired about which sensors are specific to each engine bank. No direct answer was provided in the given snippet, so further context or response is needed.\nKEY_DETAILS:\n- None provided in the snippet"
+    },
+    {
+      "thread_num": 16,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443121434057506949"
+      ],
+      "time_range": {
+        "start": "2025-11-26 06:14:18",
+        "end": "2025-11-26 06:14:18"
+      },
+      "message_count": 1,
+      "topic": "Comparison of injector ratings between Toyota and BMW",
+      "contributors": [
+        "@fast335xi"
+      ],
+      "summary": "The discussion centered on the comparison between Toyota and BMW fuel injectors, with a focus on their pressure ratings. Specifically, it was noted that Toyota injectors are rated for 350 bar, whereas BMW injectors are rated for 250 bar.",
+      "key_details": [
+        "Toyota injectors rated to 350 bar",
+        "BMW injectors rated to 250 bar"
+      ],
+      "raw_summary": "TOPIC: Comparison of injector ratings between Toyota and BMW\nCONTRIBUTORS: @fast335xi\nSUMMARY: The discussion centered on the comparison between Toyota and BMW fuel injectors, with a focus on their pressure ratings. Specifically, it was noted that Toyota injectors are rated for 350 bar, whereas BMW injectors are rated for 250 bar.\nKEY_DETAILS:\n- Toyota injectors rated to 350 bar\n- BMW injectors rated to 250 bar"
+    },
+    {
+      "thread_num": 17,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443205939942391858",
+        "1443206661404889110"
+      ],
+      "time_range": {
+        "start": "2025-11-26 11:50:05",
+        "end": "2025-11-26 11:52:58"
+      },
+      "message_count": 2,
+      "topic": "Issues with a vehicle that intermittently enters limp mode due to a faulty speed sensor",
+      "contributors": [
+        "@Joshan_Lu",
+        "@DCwerx"
+      ],
+      "summary": "The conversation discusses the challenges of working on vehicles that already have issues with their stock ECU. Specifically, one contributor mentions a car that runs well but occasionally enters limp mode because of a malfunctioning speed sensor.",
+      "key_details": [
+        "Car intermittently enters limp mode due to faulty speed sensor"
+      ],
+      "raw_summary": "TOPIC: Issues with a vehicle that intermittently enters limp mode due to a faulty speed sensor\nCONTRIBUTORS: @Joshan_Lu, @DCwerx\nSUMMARY: The conversation discusses the challenges of working on vehicles that already have issues with their stock ECU. Specifically, one contributor mentions a car that runs well but occasionally enters limp mode because of a malfunctioning speed sensor.\nKEY_DETAILS:\n- Car intermittently enters limp mode due to faulty speed sensor"
+    },
+    {
+      "thread_num": 18,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443225171531137035"
+      ],
+      "time_range": {
+        "start": "2025-11-26 13:06:31",
+        "end": "2025-11-26 13:06:31"
+      },
+      "message_count": 1,
+      "topic": "Build Issues Due to Missing Directory",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User encountered build issues in the rusEFI/epicEFI project due to a missing directory. The problem was identified as being caused by a missing essential directory that is required for the build process.",
+      "key_details": [
+        "Entire directory was missing"
+      ],
+      "raw_summary": "TOPIC: Build Issues Due to Missing Directory\nCONTRIBUTORS: @ggurov\nSUMMARY: User encountered build issues in the rusEFI/epicEFI project due to a missing directory. The problem was identified as being caused by a missing essential directory that is required for the build process.\nKEY_DETAILS:\n- Entire directory was missing"
+    },
+    {
+      "thread_num": 19,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443225949218017415"
+      ],
+      "time_range": {
+        "start": "2025-11-26 13:09:36",
+        "end": "2025-11-26 13:09:36"
+      },
+      "message_count": 1,
+      "topic": "Porting epicEFI to rusEFI",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "Mark suggests that epicEFI is well-equipped with most necessary components for a successful port over to rusEFI, requiring only some adjustments in the setup.",
+      "key_details": [
+        "The majority of \"right\" stuff already exists in epicEFI",
+        "Some setup changes are needed for the porting process"
+      ],
+      "raw_summary": "TOPIC: Porting epicEFI to rusEFI\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: Mark suggests that epicEFI is well-equipped with most necessary components for a successful port over to rusEFI, requiring only some adjustments in the setup.\nKEY_DETAILS:\n- The majority of \"right\" stuff already exists in epicEFI\n- Some setup changes are needed for the porting process"
+    },
+    {
+      "thread_num": 20,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443226658369962045"
+      ],
+      "time_range": {
+        "start": "2025-11-26 13:12:25",
+        "end": "2025-11-26 13:12:25"
+      },
+      "message_count": 1,
+      "topic": "Testing epicTuner Plugin Using ECU Simulator",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "Mark Craft Performance described setting up an ECU simulator/OBD2 reader to test the epicTuner plugin. This setup allows testing from both the TS (tuning software) side and the simulated ECU side without needing a real ECU.",
+      "key_details": [
+        "The setup involves using an ECU simulator connected to an OBD2 reader",
+        "Testing will be done on both the tuning software (TS) side and the simulated ECU side"
+      ],
+      "raw_summary": "TOPIC: Testing epicTuner Plugin Using ECU Simulator\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: Mark Craft Performance described setting up an ECU simulator/OBD2 reader to test the epicTuner plugin. This setup allows testing from both the TS (tuning software) side and the simulated ECU side without needing a real ECU.\nKEY_DETAILS:\n- The setup involves using an ECU simulator connected to an OBD2 reader\n- Testing will be done on both the tuning software (TS) side and the simulated ECU side"
+    },
+    {
+      "thread_num": 21,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443227459611787305"
+      ],
+      "time_range": {
+        "start": "2025-11-26 13:15:36",
+        "end": "2025-11-26 13:15:36"
+      },
+      "message_count": 1,
+      "topic": "Using rusEFI/epicEFI Virtual Simulator for Code Testing",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses how to use the rusEFI/epicEFI virtual simulator to run and test code without needing actual ECU hardware. This allows developers to debug and verify their code in a simulated environment.",
+      "key_details": [
+        "The virtual simulator enables testing of code without requiring physical ECU components"
+      ],
+      "raw_summary": "TOPIC: Using rusEFI/epicEFI Virtual Simulator for Code Testing\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses how to use the rusEFI/epicEFI virtual simulator to run and test code without needing actual ECU hardware. This allows developers to debug and verify their code in a simulated environment.\nKEY_DETAILS:\n- The virtual simulator enables testing of code without requiring physical ECU components"
+    },
+    {
+      "thread_num": 22,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1443231167900946548"
+      ],
+      "time_range": {
+        "start": "2025-11-26 13:30:20",
+        "end": "2025-11-26 13:30:20"
+      },
+      "message_count": 1,
+      "topic": "Integrating OBD2 Protocols in Engine Management Systems",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "@MarkCraftPerformance discusses the integration of OBD2 protocols into their engine management systems, allowing them to perform tests via these channels.",
+      "key_details": [
+        "OBD2 protocols are integrated into all of Mark's equipment for testing purposes."
+      ],
+      "raw_summary": "TOPIC: Integrating OBD2 Protocols in Engine Management Systems\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: @MarkCraftPerformance discusses the integration of OBD2 protocols into their engine management systems, allowing them to perform tests via these channels.\nKEY_DETAILS:\n- OBD2 protocols are integrated into all of Mark's equipment for testing purposes."
+    },
+    {
+      "thread_num": 23,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443317097424752803"
+      ],
+      "time_range": {
+        "start": "2025-11-26 19:11:47",
+        "end": "2025-11-26 19:11:47"
+      },
+      "message_count": 1,
+      "topic": "Understanding fuel pressure compensation in engine management systems",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "The discussion revolves around how fuel pressure compensation works within an engine management system. Specifically, it mentions that compensation involves referencing a desired pressure map.",
+      "key_details": [
+        "Compensation is related to the desired pressure map"
+      ],
+      "raw_summary": "TOPIC: Understanding fuel pressure compensation in engine management systems\nCONTRIBUTORS: @Tera\nSUMMARY: The discussion revolves around how fuel pressure compensation works within an engine management system. Specifically, it mentions that compensation involves referencing a desired pressure map.\nKEY_DETAILS:\n- Compensation is related to the desired pressure map"
+    },
+    {
+      "thread_num": 24,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443329791301259305"
+      ],
+      "time_range": {
+        "start": "2025-11-26 20:02:13",
+        "end": "2025-11-26 20:02:13"
+      },
+      "message_count": 1,
+      "topic": "Hardware requirements for GDI (Gasoline Direct Injection)",
+      "contributors": [
+        "@Walter R."
+      ],
+      "summary": "User @Walter R. inquired about the necessary hardware components required for implementing Gasoline Direct Injection (GDI) systems within the context of rusEFI/epicEFI engine management project.",
+      "key_details": [
+        "No specific answers or recommendations were provided in the given thread excerpt."
+      ],
+      "raw_summary": "TOPIC: Hardware requirements for GDI (Gasoline Direct Injection)\nCONTRIBUTORS: @Walter R.\nSUMMARY: User @Walter R. inquired about the necessary hardware components required for implementing Gasoline Direct Injection (GDI) systems within the context of rusEFI/epicEFI engine management project.\nKEY_DETAILS:\n- No specific answers or recommendations were provided in the given thread excerpt."
+    },
+    {
+      "thread_num": 25,
+      "channel_id": "1440539911059931259",
+      "category": "ANNOUNCEMENT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443040850656628897"
+      ],
+      "time_range": {
+        "start": "2025-11-26 00:54:06",
+        "end": "2025-11-26 00:54:06"
+      },
+      "message_count": 1,
+      "topic": "Announcement of Testing Phase for TS Plug-In and Standalone Versions",
+      "contributors": [
+        "@MarkCraftPerformance"
+      ],
+      "summary": "Mark Craft Performance announced that both the plug-in and standalone versions of the TS software are currently in their testing phase. The new version includes offline and online log view features, tuning suggestions, and a validation tab for these suggestions.",
+      "key_details": [
+        "Features include offline and online log views",
+        "Includes tuning suggestions",
+        "Has a validation tab for tuning suggestions"
+      ],
+      "raw_summary": "TOPIC: Announcement of Testing Phase for TS Plug-In and Standalone Versions\nCONTRIBUTORS: @MarkCraftPerformance\nSUMMARY: Mark Craft Performance announced that both the plug-in and standalone versions of the TS software are currently in their testing phase. The new version includes offline and online log view features, tuning suggestions, and a validation tab for these suggestions.\nKEY_DETAILS:\n- Features include offline and online log views\n- Includes tuning suggestions\n- Has a validation tab for tuning suggestions"
+    },
+    {
+      "thread_num": 26,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443388264458358820"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:54:34",
+        "end": "2025-11-26 23:54:34"
+      },
+      "message_count": 1,
+      "topic": "MOSFET Switch Control for Buck Converter",
+      "contributors": [
+        "@mynameisdeleted"
+      ],
+      "summary": "User @mynameisdeleted inquired about controlling a MOSFET switch within a buck converter using rusEFI/epicEFI. The response confirmed that the system can indeed operate the MOSFET switch on a switching buck converter.",
+      "key_details": [
+        "Operating a MOSFET switch on a switching buck converter",
+        "Inquiry made by @mynameisdeleted"
+      ],
+      "raw_summary": "TOPIC: MOSFET Switch Control for Buck Converter\nCONTRIBUTORS: @mynameisdeleted\nSUMMARY: User @mynameisdeleted inquired about controlling a MOSFET switch within a buck converter using rusEFI/epicEFI. The response confirmed that the system can indeed operate the MOSFET switch on a switching buck converter.\nKEY_DETAILS:\n- Operating a MOSFET switch on a switching buck converter\n- Inquiry made by @mynameisdeleted"
+    },
+    {
+      "thread_num": 27,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443388607174938776"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:55:56",
+        "end": "2025-11-26 23:55:56"
+      },
+      "message_count": 1,
+      "topic": "Components for ignition system using Arduino digital output",
+      "contributors": [
+        "@mynameisdeleted"
+      ],
+      "summary": "The user is seeking advice on components needed to create an ignition system. Specifically, they require a rectifier, coil, capacitor, and a switch that operates from the Arduino's 3V digital output.",
+      "key_details": [
+        "Rectifier required for the ignition system",
+        "Coil necessary for the ignition system",
+        "Capacitor included in the ignition system setup",
+        "Switch to be activated by an Arduino 3V digital output"
+      ],
+      "raw_summary": "TOPIC: Components for ignition system using Arduino digital output\nCONTRIBUTORS: @mynameisdeleted\nSUMMARY: The user is seeking advice on components needed to create an ignition system. Specifically, they require a rectifier, coil, capacitor, and a switch that operates from the Arduino's 3V digital output.\nKEY_DETAILS:\n- Rectifier required for the ignition system\n- Coil necessary for the ignition system\n- Capacitor included in the ignition system setup\n- Switch to be activated by an Arduino 3V digital output"
+    },
+    {
+      "thread_num": 28,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443388868177952969"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:56:58",
+        "end": "2025-11-26 23:56:58"
+      },
+      "message_count": 1,
+      "topic": "N-Channel MOSFET Circuit Design with PNP Darlington Transistor",
+      "contributors": [
+        "@mynameisdeleted"
+      ],
+      "summary": "The discussion revolves around a circuit design involving an n-channel MOSFET, a resistor to limit current, and a PNP darlington transistor that switches on when current drains from its base. This configuration is used for controlling high-power devices efficiently.",
+      "key_details": [
+        "N-Channel MOSFET with 1000V rating",
+        "Resistor included to limit current",
+        "PNP Darlington Transistor used for switching functionality"
+      ],
+      "raw_summary": "TOPIC: N-Channel MOSFET Circuit Design with PNP Darlington Transistor\nCONTRIBUTORS: @mynameisdeleted\nSUMMARY: The discussion revolves around a circuit design involving an n-channel MOSFET, a resistor to limit current, and a PNP darlington transistor that switches on when current drains from its base. This configuration is used for controlling high-power devices efficiently.\nKEY_DETAILS:\n- N-Channel MOSFET with 1000V rating\n- Resistor included to limit current\n- PNP Darlington Transistor used for switching functionality"
+    },
+    {
+      "thread_num": 29,
+      "channel_id": "1405892994506424421",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443096147915837510"
+      ],
+      "time_range": {
+        "start": "2025-11-26 04:33:49",
+        "end": "2025-11-26 04:33:49"
+      },
+      "message_count": 1,
+      "topic": "Issue with N54 DME Lid Adhesive",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan reported an issue where excessive adhesive (referred to as \"gooping\") was used between the lid and the circuit board in the N54 DME.",
+      "key_details": [
+        "Excessive adhesive (\"gooping\") applied between the lid and the board in the N54 DME"
+      ],
+      "raw_summary": "TOPIC: Issue with N54 DME Lid Adhesive\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan reported an issue where excessive adhesive (referred to as \"gooping\") was used between the lid and the circuit board in the N54 DME.\nKEY_DETAILS:\n- Excessive adhesive (\"gooping\") applied between the lid and the board in the N54 DME"
+    },
+    {
+      "thread_num": 30,
+      "channel_id": "1430309988688990298",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443382086026399845"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:30:01",
+        "end": "2025-11-26 23:30:01"
+      },
+      "message_count": 1,
+      "topic": "Separate LIN bus configuration for XCEVER",
+      "contributors": [
+        "@SanGawku",
+        "@RustyNails"
+      ],
+      "summary": "User @SanGawku is planning to set up a separate LIN bus for the XCEVER device. @RustyNails provided guidance on how to configure this setup in rusEFI/epicEFI.",
+      "key_details": [
+        "@SanGawku intends to use a separate LIN bus for the XCEVER",
+        "Guidance was given by @RustyNails on configuring the separate LIN bus in rusEFI/epicEFI"
+      ],
+      "raw_summary": "TOPIC: Separate LIN bus configuration for XCEVER\nCONTRIBUTORS: @SanGawku, @RustyNails\nSUMMARY: User @SanGawku is planning to set up a separate LIN bus for the XCEVER device. @RustyNails provided guidance on how to configure this setup in rusEFI/epicEFI.\nKEY_DETAILS:\n- @SanGawku intends to use a separate LIN bus for the XCEVER\n- Guidance was given by @RustyNails on configuring the separate LIN bus in rusEFI/epicEFI"
+    },
+    {
+      "thread_num": 31,
+      "channel_id": "1430309988688990298",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443382311780618251"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:30:55",
+        "end": "2025-11-26 23:30:55"
+      },
+      "message_count": 1,
+      "topic": "Transitioning from SMD to Through-Hole Components for Testing Purposes",
+      "contributors": [
+        "@SanGawku"
+      ],
+      "summary": "User @SanGawku is attempting to modify the rusEFI/epicEFI project to use through-hole components exclusively, aiming to simplify board manufacturing and facilitate easier testing.",
+      "key_details": [
+        "Transition from Surface Mount Device (SMD) to Through-Hole components for testing purposes"
+      ],
+      "raw_summary": "TOPIC: Transitioning from SMD to Through-Hole Components for Testing Purposes\nCONTRIBUTORS: @SanGawku\nSUMMARY: User @SanGawku is attempting to modify the rusEFI/epicEFI project to use through-hole components exclusively, aiming to simplify board manufacturing and facilitate easier testing.\nKEY_DETAILS:\n- Transition from Surface Mount Device (SMD) to Through-Hole components for testing purposes"
+    },
+    {
+      "thread_num": 32,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1443175291458556011",
+        "1443196502393491507",
+        "1443197396241874995"
+      ],
+      "time_range": {
+        "start": "2025-11-26 09:48:19",
+        "end": "2025-11-26 11:16:08"
+      },
+      "message_count": 3,
+      "topic": "Compatibility of Maxx ECU Mini with DBW Throttle",
+      "contributors": [
+        "@GGGI",
+        "@SanGawku"
+      ],
+      "summary": "The discussion revolves around whether the Maxx ECU mini can support a drive-by-wire (DBW) throttle system. It was noted that the Maxx ECU mini cannot handle DBW throttles, specifically mentioning Keihin as the manufacturer of their throttle body. As an alternative solution, @SanGawku suggested using the stock ECU with Honda Tuning Suite.",
+      "key_details": [
+        "The Maxx ECU mini does not support drive-by-wire (DBW) throttles",
+        "The DBW throttle is a Keihin model",
+        "Alternative suggestion: use the stock ECU with Honda Tuning Suite"
+      ],
+      "raw_summary": "TOPIC: Compatibility of Maxx ECU Mini with DBW Throttle\nCONTRIBUTORS: @GGGI, @SanGawku\nSUMMARY: The discussion revolves around whether the Maxx ECU mini can support a drive-by-wire (DBW) throttle system. It was noted that the Maxx ECU mini cannot handle DBW throttles, specifically mentioning Keihin as the manufacturer of their throttle body. As an alternative solution, @SanGawku suggested using the stock ECU with Honda Tuning Suite.\nKEY_DETAILS:\n- The Maxx ECU mini does not support drive-by-wire (DBW) throttles\n- The DBW throttle is a Keihin model\n- Alternative suggestion: use the stock ECU with Honda Tuning Suite"
+    },
+    {
+      "thread_num": 33,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443278707283460187"
+      ],
+      "time_range": {
+        "start": "2025-11-26 16:39:14",
+        "end": "2025-11-26 16:39:14"
+      },
+      "message_count": 1,
+      "topic": "Making an epicEFI .ini File Downloadable Directly in Tuner Studio",
+      "contributors": [
+        "@GGGI",
+        "@523213410222080000"
+      ],
+      "summary": "User @GGGI asked if it's possible to make the epicEFI .ini file downloadable directly within Tuner Studio. The workshop mentioned that they are not very familiar with firmware and setup processes.",
+      "key_details": [
+        "None provided in this thread snippet"
+      ],
+      "raw_summary": "TOPIC: Making an epicEFI .ini File Downloadable Directly in Tuner Studio\nCONTRIBUTORS: @GGGI, @523213410222080000\nSUMMARY: User @GGGI asked if it's possible to make the epicEFI .ini file downloadable directly within Tuner Studio. The workshop mentioned that they are not very familiar with firmware and setup processes.\nKEY_DETAILS:\n- None provided in this thread snippet"
+    },
+    {
+      "thread_num": 34,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443289613501206589"
+      ],
+      "time_range": {
+        "start": "2025-11-26 17:22:34",
+        "end": "2025-11-26 17:22:34"
+      },
+      "message_count": 1,
+      "topic": "Crank Sensor Configuration and Troubleshooting",
+      "contributors": [
+        "@Lysdex",
+        "@epicEFIdev"
+      ],
+      "summary": "@Lysdex shared an image showing multiple crankshaft position sensors (CMP) connected to a rusEFI/epicEFI system. The discussion focused on the configuration needed for proper sensor operation and troubleshooting steps if the engine fails to start or run correctly.",
+      "key_details": [
+        "Multiple CMP sensors were installed",
+        "Discussion included checking wiring connections, ensuring correct pin assignments, and verifying settings in the software configuration panel",
+        "@epicEFIdev provided guidance on configuring the system to recognize multiple crankshaft position sensors"
+      ],
+      "raw_summary": "TOPIC: Crank Sensor Configuration and Troubleshooting\nCONTRIBUTORS: @Lysdex, @epicEFIdev\nSUMMARY: @Lysdex shared an image showing multiple crankshaft position sensors (CMP) connected to a rusEFI/epicEFI system. The discussion focused on the configuration needed for proper sensor operation and troubleshooting steps if the engine fails to start or run correctly.\nKEY_DETAILS:\n- Multiple CMP sensors were installed\n- Discussion included checking wiring connections, ensuring correct pin assignments, and verifying settings in the software configuration panel\n- @epicEFIdev provided guidance on configuring the system to recognize multiple crankshaft position sensors"
+    },
+    {
+      "thread_num": 35,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443290442417438812",
+        "1443290683007041738",
+        "1443294066589565011"
+      ],
+      "time_range": {
+        "start": "2025-11-26 17:25:52",
+        "end": "2025-11-26 17:40:16"
+      },
+      "message_count": 3,
+      "topic": "Reasons for crank sensor failure",
+      "contributors": [
+        "@Lysdex",
+        "@benassi125"
+      ],
+      "summary": "The thread discusses reasons why a crank sensor might fail. Lysdex suggests that inadequate budget and improper preparation can lead to failures. Benassi125 mentions frequent failures even with proper wiring and high-quality cabling (M27500 shielded cable sheathed in DR25, covered by HFT5000 for abrasion resistance), speculating that heat or other factors may be causing the issues on race bikes.",
+      "key_details": [
+        "Crank sensor failure can occur even with proper wiring and high-quality cabling (M27500 shielded cable sheathed in DR25, covered by HFT5000 for abrasion resistance)",
+        "Speculation that heat or other factors may be causing the issues on race bikes"
+      ],
+      "raw_summary": "TOPIC: Reasons for crank sensor failure\nCONTRIBUTORS: @Lysdex, @benassi125\nSUMMARY: The thread discusses reasons why a crank sensor might fail. Lysdex suggests that inadequate budget and improper preparation can lead to failures. Benassi125 mentions frequent failures even with proper wiring and high-quality cabling (M27500 shielded cable sheathed in DR25, covered by HFT5000 for abrasion resistance), speculating that heat or other factors may be causing the issues on race bikes.\nKEY_DETAILS:\n- Crank sensor failure can occur even with proper wiring and high-quality cabling (M27500 shielded cable sheathed in DR25, covered by HFT5000 for abrasion resistance)\n- Speculation that heat or other factors may be causing the issues on race bikes"
+    },
+    {
+      "thread_num": 36,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443290817979486352"
+      ],
+      "time_range": {
+        "start": "2025-11-26 17:27:22",
+        "end": "2025-11-26 17:27:22"
+      },
+      "message_count": 1,
+      "topic": "Request for additional crankshaft position sensors (CKPs)",
+      "contributors": [
+        "@M-Kay",
+        "@epicEFI-support"
+      ],
+      "summary": "User @M-Kay requested three crankshaft position sensors (CKPs) from the support team. The request was acknowledged but no specific solution or answer was provided in the thread.",
+      "key_details": [
+        "Request for 3 crankshaft position sensors (CKPs)",
+        "Mentioned by user @M-Kay",
+        "Acknowledged by @epicEFI-support"
+      ],
+      "raw_summary": "TOPIC: Request for additional crankshaft position sensors (CKPs)\nCONTRIBUTORS: @M-Kay, @epicEFI-support\nSUMMARY: User @M-Kay requested three crankshaft position sensors (CKPs) from the support team. The request was acknowledged but no specific solution or answer was provided in the thread.\nKEY_DETAILS:\n- Request for 3 crankshaft position sensors (CKPs)\n- Mentioned by user @M-Kay\n- Acknowledged by @epicEFI-support"
+    },
+    {
+      "thread_num": 37,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443290865543020657"
+      ],
+      "time_range": {
+        "start": "2025-11-26 17:27:33",
+        "end": "2025-11-26 17:27:33"
+      },
+      "message_count": 1,
+      "topic": "Cam sensor configuration for rusEFI/epicEFI",
+      "contributors": [
+        "@M-Kay"
+      ],
+      "summary": "The thread discusses the configuration of camshaft position sensors in an engine management system. Specifically, it mentions that there are four cam sensors per cam.",
+      "key_details": [
+        "4 cam sensors per cam"
+      ],
+      "raw_summary": "TOPIC: Cam sensor configuration for rusEFI/epicEFI\nCONTRIBUTORS: @M-Kay\nSUMMARY: The thread discusses the configuration of camshaft position sensors in an engine management system. Specifically, it mentions that there are four cam sensors per cam.\nKEY_DETAILS:\n- 4 cam sensors per cam"
+    },
+    {
+      "thread_num": 38,
+      "channel_id": "1411925674498719775",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443292175486943425"
+      ],
+      "time_range": {
+        "start": "2025-11-26 17:32:45",
+        "end": "2025-11-26 17:32:45"
+      },
+      "message_count": 1,
+      "topic": "Redesign requirements for a stressed engine component",
+      "contributors": [
+        "@condo"
+      ],
+      "summary": "The discussion centers around the implications of having a stressed engine component, which necessitates a nearly complete redesign of the system.",
+      "key_details": [
+        "Redesigning almost everything is required due to the presence of a stressed member."
+      ],
+      "raw_summary": "TOPIC: Redesign requirements for a stressed engine component\nCONTRIBUTORS: @condo\nSUMMARY: The discussion centers around the implications of having a stressed engine component, which necessitates a nearly complete redesign of the system.\nKEY_DETAILS:\n- Redesigning almost everything is required due to the presence of a stressed member."
+    },
+    {
+      "thread_num": 39,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1443294388083232992"
+      ],
+      "time_range": {
+        "start": "2025-11-26 17:41:33",
+        "end": "2025-11-26 17:41:33"
+      },
+      "message_count": 1,
+      "topic": "Comparison of Coil Types for Heat Resistance",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the durability of different types of coils under high temperatures. Specifically, it mentions that silicon-based junctions in coils are more prone to heat failure compared to potted coils.",
+      "key_details": [
+        "Silicon-based junctions are more prone to heat failure",
+        "Potted coils are mentioned as an alternative with better heat resistance"
+      ],
+      "raw_summary": "TOPIC: Comparison of Coil Types for Heat Resistance\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the durability of different types of coils under high temperatures. Specifically, it mentions that silicon-based junctions in coils are more prone to heat failure compared to potted coils.\nKEY_DETAILS:\n- Silicon-based junctions are more prone to heat failure\n- Potted coils are mentioned as an alternative with better heat resistance"
+    },
+    {
+      "thread_num": 40,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443386918032244787"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:49:13",
+        "end": "2025-11-26 23:49:13"
+      },
+      "message_count": 1,
+      "topic": "Crank Gap Overrides Configuration",
+      "contributors": [
+        "@ggurov",
+        "@1324940102501138502"
+      ],
+      "summary": "User @ggurov asked another user (@1324940102501138502) to share their crank gap overrides configuration.",
+      "key_details": [
+        "None specific values or configurations were provided in the given thread snippet."
+      ],
+      "raw_summary": "TOPIC: Crank Gap Overrides Configuration\nCONTRIBUTORS: @ggurov, @1324940102501138502\nSUMMARY: User @ggurov asked another user (@1324940102501138502) to share their crank gap overrides configuration.\nKEY_DETAILS:\n- None specific values or configurations were provided in the given thread snippet."
+    },
+    {
+      "thread_num": 41,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443387020964663347"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:49:38",
+        "end": "2025-11-26 23:49:38"
+      },
+      "message_count": 1,
+      "topic": "Syncing issues with engine management system",
+      "contributors": [
+        "@ggurov",
+        "@epicadmin"
+      ],
+      "summary": "User @ggurov is experiencing difficulties in getting the engine management system to synchronize properly. No specific details or solutions were provided by @ggurov.",
+      "key_details": [
+        "None provided"
+      ],
+      "raw_summary": "TOPIC: Syncing issues with engine management system\nCONTRIBUTORS: @ggurov, @epicadmin\nSUMMARY: User @ggurov is experiencing difficulties in getting the engine management system to synchronize properly. No specific details or solutions were provided by @ggurov.\nKEY_DETAILS:\n- None provided"
+    },
+    {
+      "thread_num": 42,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443388309869953106"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:54:45",
+        "end": "2025-11-26 23:54:45"
+      },
+      "message_count": 1,
+      "topic": "Engine not syncing with rusEFI/epicEFI",
+      "contributors": [
+        "@Joesphan",
+        "@jimmydiesel"
+      ],
+      "summary": "User @Joesphan reported that their engine was not syncing with the rusEFI system. @jimmydiesel suggested checking the wiring and ensuring the crankshaft position sensor (CKP) is correctly installed and functioning.",
+      "key_details": [
+        "Check wiring connections",
+        "Ensure CKP sensor is properly installed and functional"
+      ],
+      "raw_summary": "TOPIC: Engine not syncing with rusEFI/epicEFI\nCONTRIBUTORS: @Joesphan, @jimmydiesel\nSUMMARY: User @Joesphan reported that their engine was not syncing with the rusEFI system. @jimmydiesel suggested checking the wiring and ensuring the crankshaft position sensor (CKP) is correctly installed and functioning.\nKEY_DETAILS:\n- Check wiring connections\n- Ensure CKP sensor is properly installed and functional"
+    },
+    {
+      "thread_num": 43,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443388339259707422"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:54:52",
+        "end": "2025-11-26 23:54:52"
+      },
+      "message_count": 1,
+      "topic": "Missing Tooth Detection in Engine Management Systems",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdev"
+      ],
+      "summary": "@Joesphan asked if a missing tooth was too long for detection in an engine management system. @epicEFIdev responded that the length of the missing tooth is not as critical as its distinctiveness and placement within the crankshaft or camshaft timing pattern.",
+      "key_details": [
+        "The concern revolves around the duration or length of a missing tooth in relation to successful detection by the engine management software.",
+        "@epicEFIdev emphasized the importance of the missing tooth being distinctive and correctly placed for accurate timing detection."
+      ],
+      "raw_summary": "TOPIC: Missing Tooth Detection in Engine Management Systems\nCONTRIBUTORS: @Joesphan, @epicEFIdev\nSUMMARY: @Joesphan asked if a missing tooth was too long for detection in an engine management system. @epicEFIdev responded that the length of the missing tooth is not as critical as its distinctiveness and placement within the crankshaft or camshaft timing pattern.\nKEY_DETAILS:\n- The concern revolves around the duration or length of a missing tooth in relation to successful detection by the engine management software.\n- @epicEFIdev emphasized the importance of the missing tooth being distinctive and correctly placed for accurate timing detection."
+    },
+    {
+      "thread_num": 44,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443388372000182416"
+      ],
+      "time_range": {
+        "start": "2025-11-26 23:55:00",
+        "end": "2025-11-26 23:55:00"
+      },
+      "message_count": 1,
+      "topic": "Using Gap Overrides in Engine Management",
+      "contributors": [
+        "@ggurov",
+        "@johndoe"
+      ],
+      "summary": "The discussion revolves around the implementation of gap overrides in engine management. User @ggurov initiates the conversation by mentioning they are attempting to use gap overrides. No specific solution or problem is detailed beyond this initiation.",
+      "key_details": [
+        "None specified in the provided snippet"
+      ],
+      "raw_summary": "TOPIC: Using Gap Overrides in Engine Management\nCONTRIBUTORS: @ggurov, @johndoe\nSUMMARY: The discussion revolves around the implementation of gap overrides in engine management. User @ggurov initiates the conversation by mentioning they are attempting to use gap overrides. No specific solution or problem is detailed beyond this initiation.\nKEY_DETAILS:\n- None specified in the provided snippet"
+    },
+    {
+      "thread_num": 45,
+      "channel_id": "1439273357424988301",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443296272965439638"
+      ],
+      "time_range": {
+        "start": "2025-11-26 17:49:02",
+        "end": "2025-11-26 17:49:02"
+      },
+      "message_count": 1,
+      "topic": "Differences in VBAT reading between rusEFI and legacy rusEFI",
+      "contributors": [
+        "@fefco",
+        "@derek"
+      ],
+      "summary": "User @fefco noticed a discrepancy in the VBAT readings displayed on their dashboard when switching from legacy rusEFI to rusEFI. The key difference was identified as how the broadcast messages handle VBAT data.",
+      "key_details": [
+        "VBAT reading differs between rusEFI and legacy rusEFI",
+        "Legacy rusEFI uses a specific method for handling VBAT data that may differ from rusEFI's implementation",
+        "@derek provided guidance on checking the broadcast message settings to ensure consistency in VBAT readings"
+      ],
+      "raw_summary": "TOPIC: Differences in VBAT reading between rusEFI and legacy rusEFI\nCONTRIBUTORS: @fefco, @derek\nSUMMARY: User @fefco noticed a discrepancy in the VBAT readings displayed on their dashboard when switching from legacy rusEFI to rusEFI. The key difference was identified as how the broadcast messages handle VBAT data.\nKEY_DETAILS:\n- VBAT reading differs between rusEFI and legacy rusEFI\n- Legacy rusEFI uses a specific method for handling VBAT data that may differ from rusEFI's implementation\n- @derek provided guidance on checking the broadcast message settings to ensure consistency in VBAT readings"
+    },
+    {
+      "thread_num": 46,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1443298145814577182"
+      ],
+      "time_range": {
+        "start": "2025-11-26 17:56:29",
+        "end": "2025-11-26 17:56:29"
+      },
+      "message_count": 1,
+      "topic": "Voltage Scaling in Engine Management Systems",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the scaling of voltage readings from a channel in an engine management system. Specifically, it mentions using `scaled_voltage` with a range of 0-65V and a resolution of 1mV.",
+      "key_details": [
+        "`scaled_voltage = scaled_channel<uint16_t, PACK_MULT_VOLTAGE>;`",
+        "Voltage range: 0-65V",
+        "Resolution: 1mV"
+      ],
+      "raw_summary": "TOPIC: Voltage Scaling in Engine Management Systems\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the scaling of voltage readings from a channel in an engine management system. Specifically, it mentions using `scaled_voltage` with a range of 0-65V and a resolution of 1mV.\nKEY_DETAILS:\n- `scaled_voltage = scaled_channel<uint16_t, PACK_MULT_VOLTAGE>;`\n- Voltage range: 0-65V\n- Resolution: 1mV"
+    }
+  ]
+}

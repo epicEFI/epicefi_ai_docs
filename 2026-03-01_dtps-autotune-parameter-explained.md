@@ -1,6 +1,6 @@
 # dTPS in Auto Tune — What It Means and Why It Matters
 
-*Source: epicEFI Discord, 2026-03-01 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-03-01 | Channel: 1356732771325968630*
 *Contributors: @Robb235, @Joesphan*
 
 ## Summary

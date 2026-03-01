@@ -1,6 +1,6 @@
 # E-Turbo / Electric Supercharger Boost Target and Power Requirements
 
-*Source: epicEFI Discord, 2026-02-20 | Channel: 1411925674498719775*
+*Source: rusEFI Discord, 2026-02-20 | Channel: 1411925674498719775*
 *Contributors: @mynameisdeleted*
 
 ## Summary

@@ -1,6 +1,6 @@
 # Barometric Pressure Table Configuration to Avoid Fuelling Errors
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @jeybee*
 
 ## Summary

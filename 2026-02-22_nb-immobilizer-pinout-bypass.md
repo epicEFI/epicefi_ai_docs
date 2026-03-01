@@ -1,6 +1,6 @@
 # Mazda NB Immobilizer Operation, ECU Pinout Compatibility, and Aftermarket ECU Bypass
 
-*Source: epicEFI Discord, 2026-02-22 | Channel: 1464230782905352261*
+*Source: rusEFI Discord, 2026-02-22 | Channel: 1464230782905352261*
 *Contributors: @MartyMotorsports, @Neos6443*
 
 ## Summary

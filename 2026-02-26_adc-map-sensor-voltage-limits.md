@@ -1,6 +1,6 @@
 # ADC and MAP Sensor Voltage Limits: mega128 / H7 Green Board
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @Ognjen Galic, @kitaji_SR20*
 
 ## Summary

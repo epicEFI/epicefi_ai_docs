@@ -1,6 +1,6 @@
 # STM32 ADC Voltage Range, 5V Tolerance, and Firmware Scaling
 
-*Source: epicEFI Discord, 2026-02-22 | Channel: 1401895238481744052*
+*Source: rusEFI Discord, 2026-02-22 | Channel: 1401895238481744052*
 *Contributors: @ggurov (@ggurov), @MykkH (@mykkh)*
 
 ## Summary

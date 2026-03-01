@@ -1,6 +1,6 @@
 # NB Miata epicEFI Install: Trigger Signal Troubleshooting Session
 
-*Source: epicEFI Discord, 2026-02-28 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-28 | Channel: 1356732771325968630*
 *Contributors: @Bloopdog, @MartyMotorsports, @Joesphan, @ggurov*
 
 ## Summary

@@ -1,6 +1,6 @@
 # UART8 and K-Line Debugging: Hardware Reversal, Pull-Up Resistors, and CLT Override
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1401895238481744052 (general-tech)*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1401895238481744052 (general-tech)*
 *Contributors: @BossTheTuga, @ggurov*
 
 ## Summary

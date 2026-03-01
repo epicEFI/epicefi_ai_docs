@@ -1,6 +1,6 @@
 # CAN Bus Feature Requests and Community-Built Accessories
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
 *Contributors: @TacoBellFool, @Joesphan*
 
 ## Summary

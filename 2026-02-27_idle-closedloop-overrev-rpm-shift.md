@@ -1,6 +1,6 @@
 # Idle Closed-Loop Strategy, Overrev Prevention, and RPM-Based Shift Tables
 
-*Source: epicEFI Discord, 2026-02-27 | Channel: 1470466409602744541*
+*Source: rusEFI Discord, 2026-02-27 | Channel: 1470466409602744541*
 *Contributors: @ggurov, @Robb235*
 
 ## Summary

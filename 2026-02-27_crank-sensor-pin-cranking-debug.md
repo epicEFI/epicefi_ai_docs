@@ -1,6 +1,6 @@
 # Crank Sensor Input Configuration and Cranking Troubleshooting (epicEFI)
 
-*Source: epicEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
 *Contributors: @Bloopdog, @ggurov*
 
 ## Summary

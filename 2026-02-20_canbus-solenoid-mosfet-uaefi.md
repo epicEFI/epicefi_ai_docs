@@ -1,6 +1,6 @@
 # CAN Bus Solenoid Control and MOSFET Output Strategies on uaEFI/mega2560
 
-*Source: epicEFI Discord, 2026-02-20 | Channel: 1470466409602744541*
+*Source: rusEFI Discord, 2026-02-20 | Channel: 1470466409602744541*
 *Contributors: @ggurov, @Robb235*
 
 ## Summary

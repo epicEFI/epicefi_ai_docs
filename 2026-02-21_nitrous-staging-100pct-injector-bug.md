@@ -1,6 +1,6 @@
 # Nitrous Staging Bug: Erratic Injector Outputs at 100% Staging
 
-*Source: epicEFI Discord, 2026-02-21 | Channel: 1401895238481744052*
+*Source: rusEFI Discord, 2026-02-21 | Channel: 1401895238481744052*
 *Contributors: @tmbryhn, @ggurov, @Neos6443*
 
 ## Summary

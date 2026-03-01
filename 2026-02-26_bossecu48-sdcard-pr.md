@@ -1,6 +1,6 @@
 # BossECU 48 PR Merge: SD Card Fix
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1401895238481744052*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1401895238481744052*
 *Contributors: @ggurov, @bossthetuga*
 
 ## Summary

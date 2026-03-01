@@ -1,6 +1,6 @@
 # Long Term Fuel Trim (LTFT): Operation, Prerequisites, and O2 Sensor Grounding
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @kostasl, @Joshan_Lu (@joshseek_30236_07984), @ggurov*
 
 ## Summary

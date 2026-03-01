@@ -1,6 +1,6 @@
 # EGT Sensor Selection and Tuning Limitations
 
-*Source: epicEFI Discord, 2026-02-21 | Channel: 1411925674498719775*
+*Source: rusEFI Discord, 2026-02-21 | Channel: 1411925674498719775*
 *Contributors: @Joesphan, @Jackscr, @tuga702, @digmorepaka*
 
 ## Summary

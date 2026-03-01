@@ -1,0 +1,3073 @@
+{
+  "date": "2025-11-22",
+  "generated_at": "2026-03-01T12:24:41.547830",
+  "stats": {
+    "total_threads": 1334,
+    "noise_filtered": 1208,
+    "kept": 126
+  },
+  "threads": [
+    {
+      "thread_num": 1,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441580336474624062",
+        "1441582186556821645"
+      ],
+      "time_range": {
+        "start": "2025-11-22 00:10:38",
+        "end": "2025-11-22 00:17:59"
+      },
+      "message_count": 2,
+      "topic": "Verification of Trigger Angle",
+      "contributors": [
+        "@MykkH",
+        "@sheckta#1593"
+      ],
+      "summary": "User @MykkH inquired about whether the trigger angle had been verified with a timing light. User @sheckta#1593 confirmed that the trigger angle was indeed verified and measured at 16\u00b0.",
+      "key_details": [
+        "Trigger angle verified to be 16\u00b0 using a timing light"
+      ],
+      "raw_summary": "TOPIC: Verification of Trigger Angle\nCONTRIBUTORS: @MykkH, @sheckta#1593\nSUMMARY: User @MykkH inquired about whether the trigger angle had been verified with a timing light. User @sheckta#1593 confirmed that the trigger angle was indeed verified and measured at 16\u00b0.\nKEY_DETAILS:\n- Trigger angle verified to be 16\u00b0 using a timing light"
+    },
+    {
+      "thread_num": 2,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441586056217759808"
+      ],
+      "time_range": {
+        "start": "2025-11-22 00:33:21",
+        "end": "2025-11-22 00:33:21"
+      },
+      "message_count": 1,
+      "topic": "Adding a specific fuel map to a rusEFI/epicEFI setup",
+      "contributors": [
+        "@MykkH",
+        "@tuners"
+      ],
+      "summary": "User @MykkH was trying to add a specific fuel map to their rusEFI/epicEFI setup but couldn't find the option in the dropdown menu. The user's tune is set up for generic 60-2. @tuners suggested checking if the correct fuel map file is uploaded and properly configured within the software.",
+      "key_details": [
+        "Tune setup: generic 60-2",
+        "Suggestion from @tuners to ensure the specific fuel map file is correctly uploaded and configured in rusEFI/epicEFI"
+      ],
+      "raw_summary": "TOPIC: Adding a specific fuel map to a rusEFI/epicEFI setup\nCONTRIBUTORS: @MykkH, @tuners\nSUMMARY: User @MykkH was trying to add a specific fuel map to their rusEFI/epicEFI setup but couldn't find the option in the dropdown menu. The user's tune is set up for generic 60-2. @tuners suggested checking if the correct fuel map file is uploaded and properly configured within the software.\nKEY_DETAILS:\n- Tune setup: generic 60-2\n- Suggestion from @tuners to ensure the specific fuel map file is correctly uploaded and configured in rusEFI/epicEFI"
+    },
+    {
+      "thread_num": 3,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441589099357016188"
+      ],
+      "time_range": {
+        "start": "2025-11-22 00:45:27",
+        "end": "2025-11-22 00:45:27"
+      },
+      "message_count": 1,
+      "topic": "Request for firmware update on the dizzy bench",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan asks if there is a need to update the firmware on the \"dizzy\" bench with the latest version.",
+      "key_details": [
+        "Requested action: Running the latest firmware on the \"dizzy\" bench"
+      ],
+      "raw_summary": "TOPIC: Request for firmware update on the dizzy bench\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan asks if there is a need to update the firmware on the \"dizzy\" bench with the latest version.\nKEY_DETAILS:\n- Requested action: Running the latest firmware on the \"dizzy\" bench"
+    },
+    {
+      "thread_num": 4,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441595568957820970"
+      ],
+      "time_range": {
+        "start": "2025-11-22 01:11:09",
+        "end": "2025-11-22 01:11:09"
+      },
+      "message_count": 1,
+      "topic": "Observing pulse width in MAP sensor signal",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan reported observing a 150 ms pulse width per revolution (4-1) using an oscilloscope when measuring the MAP sensor signal.",
+      "key_details": [
+        "Pulse width observed: 150ms per rev",
+        "Signal type: MAP sensor",
+        "Measurement tool: Oscilloscope"
+      ],
+      "raw_summary": "TOPIC: Observing pulse width in MAP sensor signal\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan reported observing a 150 ms pulse width per revolution (4-1) using an oscilloscope when measuring the MAP sensor signal.\nKEY_DETAILS:\n- Pulse width observed: 150ms per rev\n- Signal type: MAP sensor\n- Measurement tool: Oscilloscope"
+    },
+    {
+      "thread_num": 5,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441604051027624118",
+        "1441613244073771038"
+      ],
+      "time_range": {
+        "start": "2025-11-22 01:44:52",
+        "end": "2025-11-22 02:21:23"
+      },
+      "message_count": 2,
+      "topic": "Tachometer Output Issue",
+      "contributors": [
+        "@Joesphan",
+        "@Tera"
+      ],
+      "summary": "@Joesphan suggested that the tachometer output might be incorrect. However, @Tera responded that the firmware (fw) had recorded normal RPM values.",
+      "key_details": [
+        "The tachometer output was suspected to be off by @Joesphan.",
+        "Normal RPM values were recorded by the firmware according to @Tera's report."
+      ],
+      "raw_summary": "TOPIC: Tachometer Output Issue\nCONTRIBUTORS: @Joesphan, @Tera\nSUMMARY: @Joesphan suggested that the tachometer output might be incorrect. However, @Tera responded that the firmware (fw) had recorded normal RPM values.\nKEY_DETAILS:\n- The tachometer output was suspected to be off by @Joesphan.\n- Normal RPM values were recorded by the firmware according to @Tera's report."
+    },
+    {
+      "thread_num": 6,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441604246104707164"
+      ],
+      "time_range": {
+        "start": "2025-11-22 01:45:38",
+        "end": "2025-11-22 01:45:38"
+      },
+      "message_count": 1,
+      "topic": "Logging Stock DME Idle Pump and Injector Drive Behavior",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "@Joesphan instructed the user to use a logic analyzer to capture the behavior of the idle fuel pump and injectors from the stock DME during idling. This data will be used for further analysis or replication in an aftermarket engine management system.",
+      "key_details": [
+        "Use a logic analyzer to log the idle fuel pump and injector drive signals",
+        "Focus on capturing the behavior of these components when the engine is idling"
+      ],
+      "raw_summary": "TOPIC: Logging Stock DME Idle Pump and Injector Drive Behavior\nCONTRIBUTORS: @Joesphan\nSUMMARY: @Joesphan instructed the user to use a logic analyzer to capture the behavior of the idle fuel pump and injectors from the stock DME during idling. This data will be used for further analysis or replication in an aftermarket engine management system.\nKEY_DETAILS:\n- Use a logic analyzer to log the idle fuel pump and injector drive signals\n- Focus on capturing the behavior of these components when the engine is idling"
+    },
+    {
+      "thread_num": 7,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441613483626987621"
+      ],
+      "time_range": {
+        "start": "2025-11-22 02:22:20",
+        "end": "2025-11-22 02:22:20"
+      },
+      "message_count": 1,
+      "topic": "Incompatibility of firmware tunes for direct flashing",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan explained that due to differences between versions or types of firmware in the rusEFI/epicEFI project, a tune from one cannot be directly flashed over another without potential issues.",
+      "key_details": [
+        "Firmwares are not 1:1 compatible for direct flashing"
+      ],
+      "raw_summary": "TOPIC: Incompatibility of firmware tunes for direct flashing\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan explained that due to differences between versions or types of firmware in the rusEFI/epicEFI project, a tune from one cannot be directly flashed over another without potential issues.\nKEY_DETAILS:\n- Firmwares are not 1:1 compatible for direct flashing"
+    },
+    {
+      "thread_num": 8,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441622628442964209"
+      ],
+      "time_range": {
+        "start": "2025-11-22 02:58:41",
+        "end": "2025-11-22 02:58:41"
+      },
+      "message_count": 1,
+      "topic": "Communication of engine data via CAN bus",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "The discussion revolves around how the original equipment manufacturer (OEM) DME sends engine data over the Controller Area Network (CAN) bus. User @Tera mentions that in reality, the data is still transmitted over CAN by the factory DME.",
+      "key_details": [
+        "Data from the OEM DME is sent via CAN bus"
+      ],
+      "raw_summary": "TOPIC: Communication of engine data via CAN bus\nCONTRIBUTORS: @Tera\nSUMMARY: The discussion revolves around how the original equipment manufacturer (OEM) DME sends engine data over the Controller Area Network (CAN) bus. User @Tera mentions that in reality, the data is still transmitted over CAN by the factory DME.\nKEY_DETAILS:\n- Data from the OEM DME is sent via CAN bus"
+    },
+    {
+      "thread_num": 9,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441622777839882392"
+      ],
+      "time_range": {
+        "start": "2025-11-22 02:59:16",
+        "end": "2025-11-22 02:59:16"
+      },
+      "message_count": 1,
+      "topic": "Timing Shift (TS) value doubling in epic firmware",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "The user @Tera noted that the timing shift (TS) value doubles when using the epic firmware. This observation implies a difference in how TS values are interpreted or applied between standard rusEFI firmware and epic firmware.",
+      "key_details": [
+        "Timing Shift (TS) value doubles on epic firmware",
+        "Comparison made between standard rusEFI firmware and epic firmware"
+      ],
+      "raw_summary": "TOPIC: Timing Shift (TS) value doubling in epic firmware\nCONTRIBUTORS: @Tera\nSUMMARY: The user @Tera noted that the timing shift (TS) value doubles when using the epic firmware. This observation implies a difference in how TS values are interpreted or applied between standard rusEFI firmware and epic firmware.\nKEY_DETAILS:\n- Timing Shift (TS) value doubles on epic firmware\n- Comparison made between standard rusEFI firmware and epic firmware"
+    },
+    {
+      "thread_num": 10,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441622783980470282"
+      ],
+      "time_range": {
+        "start": "2025-11-22 02:59:18",
+        "end": "2025-11-22 02:59:18"
+      },
+      "message_count": 1,
+      "topic": "Assigning Tach Output in rusEFI Tune",
+      "contributors": [
+        "@MykkH",
+        "@epicEFIdevs"
+      ],
+      "summary": "User @MykkH reported an issue where the tachometer output was not assigned in their engine management tune. The key question pertained to how to properly assign the tach output within the tune.",
+      "key_details": [
+        "Tach output was missing from the tune configuration"
+      ],
+      "raw_summary": "TOPIC: Assigning Tach Output in rusEFI Tune\nCONTRIBUTORS: @MykkH, @epicEFIdevs\nSUMMARY: User @MykkH reported an issue where the tachometer output was not assigned in their engine management tune. The key question pertained to how to properly assign the tach output within the tune.\nKEY_DETAILS:\n- Tach output was missing from the tune configuration"
+    },
+    {
+      "thread_num": 11,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441623238257021060"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:01:06",
+        "end": "2025-11-22 03:01:06"
+      },
+      "message_count": 1,
+      "topic": "Discussion on epic reading frequency for FOM engine management",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "User @Tera noted that the epic system reads twice as frequently from the FOM (Free Open-Minded) engine management system compared to the dashboard. This observation implies a higher sampling rate for data acquisition from the FOM.",
+      "key_details": [
+        "The epic system reads 2x more frequently from the FOM than it does from the dashboard."
+      ],
+      "raw_summary": "TOPIC: Discussion on epic reading frequency for FOM engine management\nCONTRIBUTORS: @Tera\nSUMMARY: User @Tera noted that the epic system reads twice as frequently from the FOM (Free Open-Minded) engine management system compared to the dashboard. This observation implies a higher sampling rate for data acquisition from the FOM.\nKEY_DETAILS:\n- The epic system reads 2x more frequently from the FOM than it does from the dashboard."
+    },
+    {
+      "thread_num": 12,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.95,
+      "message_ids": [
+        "1441623760200536166"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:03:11",
+        "end": "2025-11-22 03:03:11"
+      },
+      "message_count": 1,
+      "topic": "Trigger Pattern Verification in Engine Management Systems",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "@MykkH advises on verifying all tables for null, missing, or inaccurate data when loading the Epic firmware and opening a project in Epic. The discussion revolves around a specific trigger pattern assigned as \"60-2\" in Epic.",
+      "key_details": [
+        "Verify every table for null, missing, or inaccurate data",
+        "Specific trigger pattern: \"60-2\" assigned in Epic"
+      ],
+      "raw_summary": "TOPIC: Trigger Pattern Verification in Engine Management Systems\nCONTRIBUTORS: @MykkH\nSUMMARY: @MykkH advises on verifying all tables for null, missing, or inaccurate data when loading the Epic firmware and opening a project in Epic. The discussion revolves around a specific trigger pattern assigned as \"60-2\" in Epic.\nKEY_DETAILS:\n- Verify every table for null, missing, or inaccurate data\n- Specific trigger pattern: \"60-2\" assigned in Epic"
+    },
+    {
+      "thread_num": 13,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441624688408268950"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:06:52",
+        "end": "2025-11-22 03:06:52"
+      },
+      "message_count": 1,
+      "topic": "Verification of Cam Trigger Inputs in Engine Management Tuning",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH emphasized the importance of verifying all tables and input assignments during engine management tuning, specifically mentioning that cam trigger inputs were missing from an Epic tune posted earlier.",
+      "key_details": [
+        "Cam trigger inputs were found to be missing in a previously posted Epic tune."
+      ],
+      "raw_summary": "TOPIC: Verification of Cam Trigger Inputs in Engine Management Tuning\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH emphasized the importance of verifying all tables and input assignments during engine management tuning, specifically mentioning that cam trigger inputs were missing from an Epic tune posted earlier.\nKEY_DETAILS:\n- Cam trigger inputs were found to be missing in a previously posted Epic tune."
+    },
+    {
+      "thread_num": 14,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441625532482588793"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:10:13",
+        "end": "2025-11-22 03:10:13"
+      },
+      "message_count": 1,
+      "topic": "Enabling fuel injection in an epicEFI setup",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "@MykkH encountered a situation where fuel injection was disabled in their epicEFI tuning configuration. They initially believed this to be part of the testing process for adjusting trigger angles but now seeks guidance on how to re-enable it.",
+      "key_details": [
+        "Injection was previously disabled intentionally or unintentionally during setup adjustments.",
+        "The specific setting or command to enable injection was not mentioned and is the subject of @MykkH's inquiry."
+      ],
+      "raw_summary": "TOPIC: Enabling fuel injection in an epicEFI setup\nCONTRIBUTORS: @MykkH\nSUMMARY: @MykkH encountered a situation where fuel injection was disabled in their epicEFI tuning configuration. They initially believed this to be part of the testing process for adjusting trigger angles but now seeks guidance on how to re-enable it.\nKEY_DETAILS:\n- Injection was previously disabled intentionally or unintentionally during setup adjustments.\n- The specific setting or command to enable injection was not mentioned and is the subject of @MykkH's inquiry."
+    },
+    {
+      "thread_num": 15,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441625775949484132"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:11:11",
+        "end": "2025-11-22 03:11:11"
+      },
+      "message_count": 1,
+      "topic": "Crankshaft sensor misreading issue",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "User @Tera reported an issue where the engine management system (presumably rusEFI/epicEFI) incorrectly interprets the crankshaft position sensor signal, leading to a miscalculation that the crank is spinning twice as fast as its actual speed.",
+      "key_details": [
+        "The system misinterprets the crankshaft position sensor signal",
+        "This results in an incorrect calculation of the crank's rotational speed"
+      ],
+      "raw_summary": "TOPIC: Crankshaft sensor misreading issue\nCONTRIBUTORS: @Tera\nSUMMARY: User @Tera reported an issue where the engine management system (presumably rusEFI/epicEFI) incorrectly interprets the crankshaft position sensor signal, leading to a miscalculation that the crank is spinning twice as fast as its actual speed.\nKEY_DETAILS:\n- The system misinterprets the crankshaft position sensor signal\n- This results in an incorrect calculation of the crank's rotational speed"
+    },
+    {
+      "thread_num": 16,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441631351962079313"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:33:21",
+        "end": "2025-11-22 03:33:21"
+      },
+      "message_count": 1,
+      "topic": "Discussion about the GDI-8 hardware integration",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov mentioned that there is an additional piece of hardware called GDI-8 which needs to be integrated into the system. No specific details on how it integrates or its function were provided in this snippet.",
+      "key_details": [
+        "Mentioned extra hardware: GDI-8"
+      ],
+      "raw_summary": "TOPIC: Discussion about the GDI-8 hardware integration\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov mentioned that there is an additional piece of hardware called GDI-8 which needs to be integrated into the system. No specific details on how it integrates or its function were provided in this snippet.\nKEY_DETAILS:\n- Mentioned extra hardware: GDI-8"
+    },
+    {
+      "thread_num": 17,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441631440084275352"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:33:42",
+        "end": "2025-11-22 03:33:42"
+      },
+      "message_count": 1,
+      "topic": "Discussion on Passthrough for GDI Injectors and HPFP Fuel Pump Capacity Valve Driver",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the implementation of a passthrough feature for Gasoline Direct Injection (GDI) injectors and a driver for the High Pressure Fuel Pump (HPFP) capacity valve. This is part of configuring the rusEFI/epicEFI system.",
+      "key_details": [
+        "Passthrough functionality mentioned for GDI injectors",
+        "Driver implementation discussed for HPFP capacity valve"
+      ],
+      "raw_summary": "TOPIC: Discussion on Passthrough for GDI Injectors and HPFP Fuel Pump Capacity Valve Driver\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the implementation of a passthrough feature for Gasoline Direct Injection (GDI) injectors and a driver for the High Pressure Fuel Pump (HPFP) capacity valve. This is part of configuring the rusEFI/epicEFI system.\nKEY_DETAILS:\n- Passthrough functionality mentioned for GDI injectors\n- Driver implementation discussed for HPFP capacity valve"
+    },
+    {
+      "thread_num": 18,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441634093451186216",
+        "1441640600654053386"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:44:14",
+        "end": "2025-11-22 04:10:06"
+      },
+      "message_count": 2,
+      "topic": "Cam trigger configuration discrepancy causing RPM issues",
+      "contributors": [
+        "@MykkH",
+        "@Tera"
+      ],
+      "summary": "@MykkH noticed an RPM discrepancy between two configurations and observed differences in the cam trigger type and FOME settings (3 lobes vs 0). @Tera clarified that they were trying to disable GDI and cam inputs for testing purposes.",
+      "key_details": [
+        "Cam trigger type differs between configurations",
+        "In HPFP cam config, FOME is set to 3 lobes in one configuration and 0 in another",
+        "Attempting to disable GDI and cam inputs for testing"
+      ],
+      "raw_summary": "TOPIC: Cam trigger configuration discrepancy causing RPM issues\nCONTRIBUTORS: @MykkH, @Tera\nSUMMARY: @MykkH noticed an RPM discrepancy between two configurations and observed differences in the cam trigger type and FOME settings (3 lobes vs 0). @Tera clarified that they were trying to disable GDI and cam inputs for testing purposes.\nKEY_DETAILS:\n- Cam trigger type differs between configurations\n- In HPFP cam config, FOME is set to 3 lobes in one configuration and 0 in another\n- Attempting to disable GDI and cam inputs for testing"
+    },
+    {
+      "thread_num": 19,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441635076046590025",
+        "1441635529149120642"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:48:09",
+        "end": "2025-11-22 03:49:56"
+      },
+      "message_count": 2,
+      "topic": "RPM Discrepancy Due to Tachometer Output",
+      "contributors": [
+        "@ggurov",
+        "@Joesphan"
+      ],
+      "summary": "The conversation discusses a discrepancy in RPM readings, suggesting that it is likely due to the tachometer output from the stock DME (Digital Motor Electronics) which sends a signal directly to the dashboard. This indicates that any custom engine management system might need to account for this stock tacho signal.",
+      "key_details": [
+        "Stock DME sends out a tacho signal to the dashboard",
+        "The discrepancy in RPM readings is likely caused by the tachometer output"
+      ],
+      "raw_summary": "TOPIC: RPM Discrepancy Due to Tachometer Output\nCONTRIBUTORS: @ggurov, @Joesphan\nSUMMARY: The conversation discusses a discrepancy in RPM readings, suggesting that it is likely due to the tachometer output from the stock DME (Digital Motor Electronics) which sends a signal directly to the dashboard. This indicates that any custom engine management system might need to account for this stock tacho signal.\nKEY_DETAILS:\n- Stock DME sends out a tacho signal to the dashboard\n- The discrepancy in RPM readings is likely caused by the tachometer output"
+    },
+    {
+      "thread_num": 20,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441635132678344776"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:48:22",
+        "end": "2025-11-22 03:48:22"
+      },
+      "message_count": 1,
+      "topic": "Engine RPM Pulses Doubling Issue",
+      "contributors": [
+        "@ggurov",
+        "@mikeepicEFI"
+      ],
+      "summary": "User @ggurov reported that their engine management system was doubling the number of pulses output at a given RPM. This issue did not affect the correct display or measurement of RPM but caused an unexpected increase in pulse count. The key contributor, @mikeepicEFI, suggested checking the configuration settings for any misconfigured outputs and ensuring proper wiring to avoid signal interference.",
+      "key_details": [
+        "Pulses are doubling at a given RPM",
+        "Suggested checking configuration settings for output channels",
+        "Recommended verifying proper wiring to prevent signal interference"
+      ],
+      "raw_summary": "TOPIC: Engine RPM Pulses Doubling Issue\nCONTRIBUTORS: @ggurov, @mikeepicEFI\nSUMMARY: User @ggurov reported that their engine management system was doubling the number of pulses output at a given RPM. This issue did not affect the correct display or measurement of RPM but caused an unexpected increase in pulse count. The key contributor, @mikeepicEFI, suggested checking the configuration settings for any misconfigured outputs and ensuring proper wiring to avoid signal interference.\nKEY_DETAILS:\n- Pulses are doubling at a given RPM\n- Suggested checking configuration settings for output channels\n- Recommended verifying proper wiring to prevent signal interference"
+    },
+    {
+      "thread_num": 21,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441640853541097492"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:11:06",
+        "end": "2025-11-22 04:11:06"
+      },
+      "message_count": 1,
+      "topic": "Functionality of stock DME with respect to sensors",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "The discussion centered around the functionality of the stock Engine Control Unit (ECU) or DME in relation to various sensors. Specifically, it was noted that the stock DME continues to monitor and utilize data from the camshaft sensor, crankshaft sensor, and other unspecified sensors for the vehicle's correct operation.",
+      "key_details": [
+        "Stock DME sees and uses data from cams",
+        "Stock DME sees and uses data from crank",
+        "Additional unnamed sensors are also monitored by the stock DME"
+      ],
+      "raw_summary": "TOPIC: Functionality of stock DME with respect to sensors\nCONTRIBUTORS: @Tera\nSUMMARY: The discussion centered around the functionality of the stock Engine Control Unit (ECU) or DME in relation to various sensors. Specifically, it was noted that the stock DME continues to monitor and utilize data from the camshaft sensor, crankshaft sensor, and other unspecified sensors for the vehicle's correct operation.\nKEY_DETAILS:\n- Stock DME sees and uses data from cams\n- Stock DME sees and uses data from crank\n- Additional unnamed sensors are also monitored by the stock DME"
+    },
+    {
+      "thread_num": 22,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441812155652505733",
+        "1441820588275536023"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:31:47",
+        "end": "2025-11-22 16:05:17"
+      },
+      "message_count": 2,
+      "topic": "Discussion about the size of the big fuel table in uaEFILite",
+      "contributors": [
+        "@ggurov",
+        "@fefco"
+      ],
+      "summary": "User @ggurov mentioned \"uaefi\" and \"uaefiBIGFUELL\". In response, user @fefco confirmed that the big fuel table is 32x32.",
+      "key_details": [
+        "The big fuel table size in uaEFILite is 32x32."
+      ],
+      "raw_summary": "TOPIC: Discussion about the size of the big fuel table in uaEFILite\nCONTRIBUTORS: @ggurov, @fefco\nSUMMARY: User @ggurov mentioned \"uaefi\" and \"uaefiBIGFUELL\". In response, user @fefco confirmed that the big fuel table is 32x32.\nKEY_DETAILS:\n- The big fuel table size in uaEFILite is 32x32."
+    },
+    {
+      "thread_num": 23,
+      "channel_id": "1356732771325968630",
+      "category": "PROJECT",
+      "confidence": 0.95,
+      "message_ids": [
+        "1441850675213369395"
+      ],
+      "time_range": {
+        "start": "2025-11-22 18:04:50",
+        "end": "2025-11-22 18:04:50"
+      },
+      "message_count": 1,
+      "topic": "Dissection of fuel pump and injector control using a spare DME board",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "@Tera reports that they have completed their necessary tasks ahead of schedule. They are heading to their shop with a vehicle (saylee) and also found a spare DME board, which will be used to dissect the fuel pump and injector control systems.",
+      "key_details": [
+        "The dissection will involve using a spare DME board",
+        "@Tera is on their way to the shop to perform this task"
+      ],
+      "raw_summary": "TOPIC: Dissection of fuel pump and injector control using a spare DME board\nCONTRIBUTORS: @Tera\nSUMMARY: @Tera reports that they have completed their necessary tasks ahead of schedule. They are heading to their shop with a vehicle (saylee) and also found a spare DME board, which will be used to dissect the fuel pump and injector control systems.\nKEY_DETAILS:\n- The dissection will involve using a spare DME board\n- @Tera is on their way to the shop to perform this task"
+    },
+    {
+      "thread_num": 24,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441861153809764422"
+      ],
+      "time_range": {
+        "start": "2025-11-22 18:46:29",
+        "end": "2025-11-22 18:46:29"
+      },
+      "message_count": 1,
+      "topic": "Requirements for Injector Pulse Width, Timing, and Fuel Pump Control",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The user @Joesphan is seeking information on three specific engine management parameters: the required values or methods to determine the injector pulse width, timing, and control of the fuel pump.",
+      "key_details": [
+        "Injector pulsewidth needs to be determined",
+        "Injector timing requirements need clarification",
+        "Fuel pump control specifics are requested"
+      ],
+      "raw_summary": "TOPIC: Requirements for Injector Pulse Width, Timing, and Fuel Pump Control\nCONTRIBUTORS: @Joesphan\nSUMMARY: The user @Joesphan is seeking information on three specific engine management parameters: the required values or methods to determine the injector pulse width, timing, and control of the fuel pump.\nKEY_DETAILS:\n- Injector pulsewidth needs to be determined\n- Injector timing requirements need clarification\n- Fuel pump control specifics are requested"
+    },
+    {
+      "thread_num": 25,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.7,
+      "message_ids": [
+        "1441861788969865368"
+      ],
+      "time_range": {
+        "start": "2025-11-22 18:49:00",
+        "end": "2025-11-22 18:49:00"
+      },
+      "message_count": 1,
+      "topic": "Using a Scope for Engine Diagnostics",
+      "contributors": [
+        "@Tera",
+        "@ScopeMaster"
+      ],
+      "summary": "User @Tera is considering using a scope for engine diagnostics and asks if it's necessary. User @ScopeMaster responds that while not strictly required, a scope can provide detailed insights into signals such as ignition timing and sensor outputs.",
+      "key_details": [
+        "A scope is useful for examining signal waveforms in detail",
+        "Not strictly necessary but highly beneficial for troubleshooting"
+      ],
+      "raw_summary": "TOPIC: Using a Scope for Engine Diagnostics\nCONTRIBUTORS: @Tera, @ScopeMaster\nSUMMARY: User @Tera is considering using a scope for engine diagnostics and asks if it's necessary. User @ScopeMaster responds that while not strictly required, a scope can provide detailed insights into signals such as ignition timing and sensor outputs.\nKEY_DETAILS:\n- A scope is useful for examining signal waveforms in detail\n- Not strictly necessary but highly beneficial for troubleshooting"
+    },
+    {
+      "thread_num": 26,
+      "channel_id": "1356732771325968630",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441865274407256075",
+        "1441867399774339162"
+      ],
+      "time_range": {
+        "start": "2025-11-22 19:02:51",
+        "end": "2025-11-22 19:11:18"
+      },
+      "message_count": 2,
+      "topic": "Identification of high-voltage wiring in engine management system",
+      "contributors": [
+        "@Tera",
+        "@Joesphan"
+      ],
+      "summary": "@Tera shared an image showing the overall layout of the topside components. In response to this post, @Joesphan identified one of the thick wires as likely being the high voltage circuit used for ignition.",
+      "key_details": [
+        "Thick wire identified as potentially being the high-voltage circuit for ignition"
+      ],
+      "raw_summary": "TOPIC: Identification of high-voltage wiring in engine management system\nCONTRIBUTORS: @Tera, @Joesphan\nSUMMARY: @Tera shared an image showing the overall layout of the topside components. In response to this post, @Joesphan identified one of the thick wires as likely being the high voltage circuit used for ignition.\nKEY_DETAILS:\n- Thick wire identified as potentially being the high-voltage circuit for ignition"
+    },
+    {
+      "thread_num": 27,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441868609864601691"
+      ],
+      "time_range": {
+        "start": "2025-11-22 19:16:06",
+        "end": "2025-11-22 19:16:06"
+      },
+      "message_count": 1,
+      "topic": "Resolving GDI Error in N63 Engine Management System",
+      "contributors": [
+        "@Tera",
+        "@523213410222080000"
+      ],
+      "summary": "User @Tera asked another user if they had found a solution to stop the GDI error after sending a pull request for an updated N63 trigger configuration.",
+      "key_details": [
+        "No specific values or settings mentioned in the provided excerpt",
+        "Discussion revolves around resolving a GDI (Gasoline Direct Injection) error in the context of updating the N63 engine's trigger configuration"
+      ],
+      "raw_summary": "TOPIC: Resolving GDI Error in N63 Engine Management System\nCONTRIBUTORS: @Tera, @523213410222080000\nSUMMARY: User @Tera asked another user if they had found a solution to stop the GDI error after sending a pull request for an updated N63 trigger configuration.\nKEY_DETAILS:\n- No specific values or settings mentioned in the provided excerpt\n- Discussion revolves around resolving a GDI (Gasoline Direct Injection) error in the context of updating the N63 engine's trigger configuration"
+    },
+    {
+      "thread_num": 28,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441874443621367829"
+      ],
+      "time_range": {
+        "start": "2025-11-22 19:39:17",
+        "end": "2025-11-22 19:39:17"
+      },
+      "message_count": 1,
+      "topic": "Universal Trigger Setup for Engine Management",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov suggests using the universal trigger setup in rusEFI/epicEFI to manage engine timing. They express a preference for completing this with the existing universal trigger functionality, indicating that any missing features should be added.",
+      "key_details": [
+        "Preference for using universal trigger setup",
+        "Suggestion to add missing features if necessary"
+      ],
+      "raw_summary": "TOPIC: Universal Trigger Setup for Engine Management\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov suggests using the universal trigger setup in rusEFI/epicEFI to manage engine timing. They express a preference for completing this with the existing universal trigger functionality, indicating that any missing features should be added.\nKEY_DETAILS:\n- Preference for using universal trigger setup\n- Suggestion to add missing features if necessary"
+    },
+    {
+      "thread_num": 29,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441875817754918962"
+      ],
+      "time_range": {
+        "start": "2025-11-22 19:44:45",
+        "end": "2025-11-22 19:44:45"
+      },
+      "message_count": 1,
+      "topic": "Compiling rusEFI Firmware Locally Using Docker",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov suggested compiling rusEFI firmware locally by utilizing the rusefibuildcontainer provided on his GitHub repository. This process involves using WSL2 with Ubuntu and Docker.",
+      "key_details": [
+        "Repository link: https://github.com/ggurov/rusefibuildcontainer",
+        "Utilizes WSL2, Ubuntu, and Docker for local compilation"
+      ],
+      "raw_summary": "TOPIC: Compiling rusEFI Firmware Locally Using Docker\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov suggested compiling rusEFI firmware locally by utilizing the rusefibuildcontainer provided on his GitHub repository. This process involves using WSL2 with Ubuntu and Docker.\nKEY_DETAILS:\n- Repository link: https://github.com/ggurov/rusefibuildcontainer\n- Utilizes WSL2, Ubuntu, and Docker for local compilation"
+    },
+    {
+      "thread_num": 30,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1441877761164709960"
+      ],
+      "time_range": {
+        "start": "2025-11-22 19:52:28",
+        "end": "2025-11-22 19:52:28"
+      },
+      "message_count": 1,
+      "topic": "Initialization of Universal Cam 2 Trigger Waveform in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the initialization function for a universal cam sensor (UniversalCam2) within the rusEFI/epicEFI project. This involves setting up the trigger waveform with specific configuration parameters.",
+      "key_details": [
+        "```s->initialize(FOUR_STROKE_CAM_SENSOR, (SyncEdge)config->universalTrigger2SyncEdge);```",
+        "```s->tdcPosition = config->universalTrigger2TDC;```"
+      ],
+      "raw_summary": "TOPIC: Initialization of Universal Cam 2 Trigger Waveform in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the initialization function for a universal cam sensor (UniversalCam2) within the rusEFI/epicEFI project. This involves setting up the trigger waveform with specific configuration parameters.\nKEY_DETAILS:\n- ```s->initialize(FOUR_STROKE_CAM_SENSOR, (SyncEdge)config->universalTrigger2SyncEdge);```\n- ```s->tdcPosition = config->universalTrigger2TDC;```"
+    },
+    {
+      "thread_num": 31,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441880118170489055"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:01:50",
+        "end": "2025-11-22 20:01:50"
+      },
+      "message_count": 1,
+      "topic": "Universal Trigger Configuration for Engine Management Systems",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov shared an update on a patch that includes additional features for configuring the universal trigger in engine management systems.",
+      "key_details": [
+        "The post references a \"patch\" with enhancements related to universal trigger configuration."
+      ],
+      "raw_summary": "TOPIC: Universal Trigger Configuration for Engine Management Systems\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov shared an update on a patch that includes additional features for configuring the universal trigger in engine management systems.\nKEY_DETAILS:\n- The post references a \"patch\" with enhancements related to universal trigger configuration."
+    },
+    {
+      "thread_num": 32,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441885051858976799",
+        "1441885449462353922"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:21:26",
+        "end": "2025-11-22 20:23:01"
+      },
+      "message_count": 2,
+      "topic": "Setting up RGOL for web interface access",
+      "contributors": [
+        "@Tera",
+        "@Joesphan"
+      ],
+      "summary": "User @Tera requested assistance in configuring their rusEFI/epicEFI system (RGOL) to use the web interface. @Joesphan responded by asking if the system has a USB port.",
+      "key_details": [
+        "None specific values or settings were mentioned beyond confirming the presence of a USB port for setup purposes."
+      ],
+      "raw_summary": "TOPIC: Setting up RGOL for web interface access\nCONTRIBUTORS: @Tera, @Joesphan\nSUMMARY: User @Tera requested assistance in configuring their rusEFI/epicEFI system (RGOL) to use the web interface. @Joesphan responded by asking if the system has a USB port.\nKEY_DETAILS:\n- None specific values or settings were mentioned beyond confirming the presence of a USB port for setup purposes."
+    },
+    {
+      "thread_num": 33,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441885967114829884"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:25:05",
+        "end": "2025-11-22 20:25:05"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting rusEFI/epicEFI device connection issue",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan provided a solution to troubleshoot the connection of a rusEFI/epicEFI device by suggesting to open the development manager software and then plug in the device.",
+      "key_details": [
+        "Open dev manager before plugging in the device"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting rusEFI/epicEFI device connection issue\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan provided a solution to troubleshoot the connection of a rusEFI/epicEFI device by suggesting to open the development manager software and then plug in the device.\nKEY_DETAILS:\n- Open dev manager before plugging in the device"
+    },
+    {
+      "thread_num": 34,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441891813429612605"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:48:18",
+        "end": "2025-11-22 20:48:18"
+      },
+      "message_count": 1,
+      "topic": "Engine starts only under low fuel pressure conditions",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov inquires about the status of an engine that only starts when running at low fuel pressure. No specific solution or answer is provided within the given snippet.",
+      "key_details": [
+        "None provided in the snippet"
+      ],
+      "raw_summary": "TOPIC: Engine starts only under low fuel pressure conditions\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov inquires about the status of an engine that only starts when running at low fuel pressure. No specific solution or answer is provided within the given snippet.\nKEY_DETAILS:\n- None provided in the snippet"
+    },
+    {
+      "thread_num": 35,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441891911181926593"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:48:42",
+        "end": "2025-11-22 20:48:42"
+      },
+      "message_count": 1,
+      "topic": "Setting up a scope for engine diagnostics",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "User @Tera is attempting to run their rusEFI/epicEFI setup but needs to configure an oscilloscope to collect diagnostic data as requested by another user, presumably named Joe.",
+      "key_details": [
+        "User is in the process of setting up a scope for diagnostics",
+        "Mentioned running the system two times previously"
+      ],
+      "raw_summary": "TOPIC: Setting up a scope for engine diagnostics\nCONTRIBUTORS: @Tera\nSUMMARY: User @Tera is attempting to run their rusEFI/epicEFI setup but needs to configure an oscilloscope to collect diagnostic data as requested by another user, presumably named Joe.\nKEY_DETAILS:\n- User is in the process of setting up a scope for diagnostics\n- Mentioned running the system two times previously"
+    },
+    {
+      "thread_num": 36,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441892020795871384"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:49:08",
+        "end": "2025-11-22 20:49:08"
+      },
+      "message_count": 1,
+      "topic": "Resolving tachometer signal issues",
+      "contributors": [
+        "@MykkH",
+        "@epicEFIdev"
+      ],
+      "summary": "User @MykkH inquired about the resolution of a tachometer signal issue. Developer @epicEFIdev responded that the problem was resolved by adjusting the pin configuration and ensuring proper wiring to the tacho input.",
+      "key_details": [
+        "Pin configuration adjustment required for tachometer signal",
+        "Proper wiring to the tacho input is essential"
+      ],
+      "raw_summary": "TOPIC: Resolving tachometer signal issues\nCONTRIBUTORS: @MykkH, @epicEFIdev\nSUMMARY: User @MykkH inquired about the resolution of a tachometer signal issue. Developer @epicEFIdev responded that the problem was resolved by adjusting the pin configuration and ensuring proper wiring to the tacho input.\nKEY_DETAILS:\n- Pin configuration adjustment required for tachometer signal\n- Proper wiring to the tacho input is essential"
+    },
+    {
+      "thread_num": 37,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441892130892288092"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:49:34",
+        "end": "2025-11-22 20:49:34"
+      },
+      "message_count": 1,
+      "topic": "Replicating Data Values for Engine Management System",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan is attempting to replicate certain data values from an engine management system but encountered issues. The specific details of the data and the nature of the issue are not provided in this snippet.",
+      "key_details": [
+        "None specified in the given text"
+      ],
+      "raw_summary": "TOPIC: Replicating Data Values for Engine Management System\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan is attempting to replicate certain data values from an engine management system but encountered issues. The specific details of the data and the nature of the issue are not provided in this snippet.\nKEY_DETAILS:\n- None specified in the given text"
+    },
+    {
+      "thread_num": 38,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441892231333023909"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:49:58",
+        "end": "2025-11-22 20:49:58"
+      },
+      "message_count": 1,
+      "topic": "Adjusting engine tuning based on running conditions",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan is seeking advice on how to adjust the engine's tuning parameters to better match specific running conditions.",
+      "key_details": [
+        "None specified in provided context, but the general topic involves adjusting the tune to match certain operational conditions."
+      ],
+      "raw_summary": "TOPIC: Adjusting engine tuning based on running conditions\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan is seeking advice on how to adjust the engine's tuning parameters to better match specific running conditions.\nKEY_DETAILS:\n- None specified in provided context, but the general topic involves adjusting the tune to match certain operational conditions."
+    },
+    {
+      "thread_num": 39,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441892462582042715",
+        "1441892678236242090"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:50:53",
+        "end": "2025-11-22 20:51:45"
+      },
+      "message_count": 2,
+      "topic": "Obtaining logs for injector settings and trigger reference",
+      "contributors": [
+        "@Joesphan",
+        "@Tera"
+      ],
+      "summary": "@Tera requested assistance from @Joesphan regarding an issue with their rusEFI/epicEFI setup. Instead of remote access, @Joesphan asked @Tera to gather a log focusing on the injector settings and identify the trigger reference (such as TDC).",
+      "key_details": [
+        "Request for a log focused on injector stuff",
+        "Need to find a trigger reference (e.g., TDC)"
+      ],
+      "raw_summary": "TOPIC: Obtaining logs for injector settings and trigger reference\nCONTRIBUTORS: @Joesphan, @Tera\nSUMMARY: @Tera requested assistance from @Joesphan regarding an issue with their rusEFI/epicEFI setup. Instead of remote access, @Joesphan asked @Tera to gather a log focusing on the injector settings and identify the trigger reference (such as TDC).\nKEY_DETAILS:\n- Request for a log focused on injector stuff\n- Need to find a trigger reference (e.g., TDC)"
+    },
+    {
+      "thread_num": 40,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441892927956717589"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:52:44",
+        "end": "2025-11-22 20:52:44"
+      },
+      "message_count": 1,
+      "topic": "Measuring Injector and Pump Signals with Timing Set to 0",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan is instructing on how to set up the timing to 0, triggering a spark in cylinder 1. The next steps involve measuring the signal from injector 1 and the pump.",
+      "key_details": [
+        "Timing set to 0",
+        "Triggered spark in cylinder 1",
+        "Measure signal from injector 1",
+        "Measure signal from pump"
+      ],
+      "raw_summary": "TOPIC: Measuring Injector and Pump Signals with Timing Set to 0\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan is instructing on how to set up the timing to 0, triggering a spark in cylinder 1. The next steps involve measuring the signal from injector 1 and the pump.\nKEY_DETAILS:\n- Timing set to 0\n- Triggered spark in cylinder 1\n- Measure signal from injector 1\n- Measure signal from pump"
+    },
+    {
+      "thread_num": 41,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441893259931685038"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:54:03",
+        "end": "2025-11-22 20:54:03"
+      },
+      "message_count": 1,
+      "topic": "Adjusting signal levels for input channels",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The discussion revolves around adjusting the signal level for an input channel, specifically recommending that users set the level to be in the middle of their signal range on channel 1.",
+      "key_details": [
+        "Channel 1 is mentioned as the specific input channel being adjusted."
+      ],
+      "raw_summary": "TOPIC: Adjusting signal levels for input channels\nCONTRIBUTORS: @Joesphan\nSUMMARY: The discussion revolves around adjusting the signal level for an input channel, specifically recommending that users set the level to be in the middle of their signal range on channel 1.\nKEY_DETAILS:\n- Channel 1 is mentioned as the specific input channel being adjusted."
+    },
+    {
+      "thread_num": 42,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441912945788452954"
+      ],
+      "time_range": {
+        "start": "2025-11-22 22:12:17",
+        "end": "2025-11-22 22:12:17"
+      },
+      "message_count": 1,
+      "topic": "Grounding in Engine Management Systems",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "The thread discusses the importance of grounding in engine management systems, specifically mentioning the connection to chassis ground. No specific values were provided.",
+      "key_details": [
+        "Connection to chassis ground mentioned"
+      ],
+      "raw_summary": "TOPIC: Grounding in Engine Management Systems\nCONTRIBUTORS: @Tera\nSUMMARY: The thread discusses the importance of grounding in engine management systems, specifically mentioning the connection to chassis ground. No specific values were provided.\nKEY_DETAILS:\n- Connection to chassis ground mentioned"
+    },
+    {
+      "thread_num": 43,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441913051409547366"
+      ],
+      "time_range": {
+        "start": "2025-11-22 22:12:42",
+        "end": "2025-11-22 22:12:42"
+      },
+      "message_count": 1,
+      "topic": "Confirming Chassis Ground Connection",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan confirmed that the chassis ground connection is functioning correctly.",
+      "key_details": [
+        "None specific values or settings mentioned beyond confirming functionality of chassis ground."
+      ],
+      "raw_summary": "TOPIC: Confirming Chassis Ground Connection\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan confirmed that the chassis ground connection is functioning correctly.\nKEY_DETAILS:\n- None specific values or settings mentioned beyond confirming functionality of chassis ground."
+    },
+    {
+      "thread_num": 44,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1441925541530964048"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:02:20",
+        "end": "2025-11-22 23:02:20"
+      },
+      "message_count": 1,
+      "topic": "Fuel Pump Solenoid Integration with ECU",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov inquired about the process of integrating a fuel pump solenoid profile into the ECU. The question revolves around whether they will simply incorporate this profile and control it via an Amazon-grade FET.",
+      "key_details": [
+        "Integration of fuel pump solenoid profile with ECU",
+        "Controlling the fuel pump using an Amazon-grade FET"
+      ],
+      "raw_summary": "TOPIC: Fuel Pump Solenoid Integration with ECU\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov inquired about the process of integrating a fuel pump solenoid profile into the ECU. The question revolves around whether they will simply incorporate this profile and control it via an Amazon-grade FET.\nKEY_DETAILS:\n- Integration of fuel pump solenoid profile with ECU\n- Controlling the fuel pump using an Amazon-grade FET"
+    },
+    {
+      "thread_num": 45,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441927735634165834",
+        "1441928074584391700"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:11:03",
+        "end": "2025-11-22 23:12:24"
+      },
+      "message_count": 2,
+      "topic": "Probing MOSFET Pulldown Side for Pressure Build-Up",
+      "contributors": [
+        "@Tera",
+        "@Joesphan"
+      ],
+      "summary": "User @Tera shared an image related to probing a specific part of a MOSFET. According to user @Joesphan, the probe is measuring the initial pressure build-up on the pulldown side of the MOSFET.",
+      "key_details": [
+        "Probing the pulldown side of the MOSFET",
+        "Measurement relates to the initial pressure build-up"
+      ],
+      "raw_summary": "TOPIC: Probing MOSFET Pulldown Side for Pressure Build-Up\nCONTRIBUTORS: @Tera, @Joesphan\nSUMMARY: User @Tera shared an image related to probing a specific part of a MOSFET. According to user @Joesphan, the probe is measuring the initial pressure build-up on the pulldown side of the MOSFET.\nKEY_DETAILS:\n- Probing the pulldown side of the MOSFET\n- Measurement relates to the initial pressure build-up"
+    },
+    {
+      "thread_num": 46,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441932468209844356"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:29:51",
+        "end": "2025-11-22 23:29:51"
+      },
+      "message_count": 1,
+      "topic": "Offset voltage adjustment for a sensor",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "The discussion revolves around adjusting the offset voltage for a sensor, specifically mentioning an offset of -1.8V.",
+      "key_details": [
+        "Offset value: -1.8V"
+      ],
+      "raw_summary": "TOPIC: Offset voltage adjustment for a sensor\nCONTRIBUTORS: @Tera\nSUMMARY: The discussion revolves around adjusting the offset voltage for a sensor, specifically mentioning an offset of -1.8V.\nKEY_DETAILS:\n- Offset value: -1.8V"
+    },
+    {
+      "thread_num": 47,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441932869239832626",
+        "1441938087088357578"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:31:27",
+        "end": "2025-11-22 23:52:11"
+      },
+      "message_count": 2,
+      "topic": "Voltage:Pressure Correlation in Engine Management Systems",
+      "contributors": [
+        "@Joesphan",
+        "@fast335xi"
+      ],
+      "summary": "@Joesphan asked about the relationship between voltage and pressure in engine management systems. @fast335xi responded with an image that likely illustrates this correlation.",
+      "key_details": [
+        "The thread includes a request for information on the voltage:pressure correlation.",
+        "An attachment (image.png) was provided by @fast335xi to illustrate the correlation, though specific values or settings are not mentioned in the text."
+      ],
+      "raw_summary": "TOPIC: Voltage:Pressure Correlation in Engine Management Systems\nCONTRIBUTORS: @Joesphan, @fast335xi\nSUMMARY: @Joesphan asked about the relationship between voltage and pressure in engine management systems. @fast335xi responded with an image that likely illustrates this correlation.\nKEY_DETAILS:\n- The thread includes a request for information on the voltage:pressure correlation.\n- An attachment (image.png) was provided by @fast335xi to illustrate the correlation, though specific values or settings are not mentioned in the text."
+    },
+    {
+      "thread_num": 48,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441933986225066004"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:35:53",
+        "end": "2025-11-22 23:35:53"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting a failed fuel pump output",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "User @Tera is seeking assistance to determine the cause of a failure in Fuel Pump Output 2. No specific values or settings were mentioned, but there's an indication that one of the fuel pumps (pump 2) has stopped functioning.",
+      "key_details": [
+        "None specific values or settings provided",
+        "Inquiry about troubleshooting a failed fuel pump output"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting a failed fuel pump output\nCONTRIBUTORS: @Tera\nSUMMARY: User @Tera is seeking assistance to determine the cause of a failure in Fuel Pump Output 2. No specific values or settings were mentioned, but there's an indication that one of the fuel pumps (pump 2) has stopped functioning.\nKEY_DETAILS:\n- None specific values or settings provided\n- Inquiry about troubleshooting a failed fuel pump output"
+    },
+    {
+      "thread_num": 49,
+      "channel_id": "1356732771325968630",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441934185936982056"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:36:41",
+        "end": "2025-11-22 23:36:41"
+      },
+      "message_count": 1,
+      "topic": "Checking MOSFETs with a Multimeter",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan suggested using a multimeter to check the MOSFETs as an initial troubleshooting step.",
+      "key_details": [
+        "Use a multimeter to check the MOSFETs"
+      ],
+      "raw_summary": "TOPIC: Checking MOSFETs with a Multimeter\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan suggested using a multimeter to check the MOSFETs as an initial troubleshooting step.\nKEY_DETAILS:\n- Use a multimeter to check the MOSFETs"
+    },
+    {
+      "thread_num": 50,
+      "channel_id": "1356732771325968630",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441934682160631908"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:38:39",
+        "end": "2025-11-22 23:38:39"
+      },
+      "message_count": 1,
+      "topic": "Checking for a Blown Injector Channel",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan suggested comparing the suspected blown injector channel with a known good (non-blown) channel to diagnose if an injector channel is indeed blown.",
+      "key_details": [
+        "Compare values between suspected blown channel and non-blown channel"
+      ],
+      "raw_summary": "TOPIC: Checking for a Blown Injector Channel\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan suggested comparing the suspected blown injector channel with a known good (non-blown) channel to diagnose if an injector channel is indeed blown.\nKEY_DETAILS:\n- Compare values between suspected blown channel and non-blown channel"
+    },
+    {
+      "thread_num": 51,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441579757387907223"
+      ],
+      "time_range": {
+        "start": "2025-11-22 00:08:20",
+        "end": "2025-11-22 00:08:20"
+      },
+      "message_count": 1,
+      "topic": "Pressure Bypass Functionality at Idle",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta is seeking clarification on whether the pressure bypass function in their engine management system might be too soft or already bypassing at idle. They are unsure if this is a known issue and are looking for guidance.",
+      "key_details": [
+        "None specific values were mentioned, but the query pertains to idle conditions and potential issues with the pressure bypass setting."
+      ],
+      "raw_summary": "TOPIC: Pressure Bypass Functionality at Idle\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta is seeking clarification on whether the pressure bypass function in their engine management system might be too soft or already bypassing at idle. They are unsure if this is a known issue and are looking for guidance.\nKEY_DETAILS:\n- None specific values were mentioned, but the query pertains to idle conditions and potential issues with the pressure bypass setting."
+    },
+    {
+      "thread_num": 52,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441583475349000383"
+      ],
+      "time_range": {
+        "start": "2025-11-22 00:23:06",
+        "end": "2025-11-22 00:23:06"
+      },
+      "message_count": 1,
+      "topic": "Fuel System Pressure at Idle",
+      "contributors": [
+        "@ToyotaTterrorist"
+      ],
+      "summary": "The user reported that their factory fuel system setup (sump and pickup) maintains a pressure of 1 bar at idle.",
+      "key_details": [
+        "Factory sump and pickup configuration",
+        "Maintains 1 bar of pressure at idle"
+      ],
+      "raw_summary": "TOPIC: Fuel System Pressure at Idle\nCONTRIBUTORS: @ToyotaTterrorist\nSUMMARY: The user reported that their factory fuel system setup (sump and pickup) maintains a pressure of 1 bar at idle.\nKEY_DETAILS:\n- Factory sump and pickup configuration\n- Maintains 1 bar of pressure at idle"
+    },
+    {
+      "thread_num": 53,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441631119383462008"
+      ],
+      "time_range": {
+        "start": "2025-11-22 03:32:25",
+        "end": "2025-11-22 03:32:25"
+      },
+      "message_count": 1,
+      "topic": "Adjusting fuel pressure to 70 psi",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan requested bringing the fuel pressure up to 70 psi.",
+      "key_details": [
+        "Target fuel pressure: 70 psi"
+      ],
+      "raw_summary": "TOPIC: Adjusting fuel pressure to 70 psi\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan requested bringing the fuel pressure up to 70 psi.\nKEY_DETAILS:\n- Target fuel pressure: 70 psi"
+    },
+    {
+      "thread_num": 54,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441640143537700924"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:08:17",
+        "end": "2025-11-22 04:08:17"
+      },
+      "message_count": 1,
+      "topic": "Bench Pressurization of Engine Management System",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the need for bench pressurizing an engine management system, which is likely necessary for testing purposes without having to use the actual engine.",
+      "key_details": [
+        "None specific values or settings were mentioned in this brief exchange."
+      ],
+      "raw_summary": "TOPIC: Bench Pressurization of Engine Management System\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the need for bench pressurizing an engine management system, which is likely necessary for testing purposes without having to use the actual engine.\nKEY_DETAILS:\n- None specific values or settings were mentioned in this brief exchange."
+    },
+    {
+      "thread_num": 55,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441751314609602611"
+      ],
+      "time_range": {
+        "start": "2025-11-22 11:30:01",
+        "end": "2025-11-22 11:30:01"
+      },
+      "message_count": 1,
+      "topic": "Starting an engine managed by rusEFI/epicEFI after debugging",
+      "contributors": [
+        "@mnemonik"
+      ],
+      "summary": "@mnemonik reported that they had resolved some issues (referred to as \"kinks\") in the system yesterday, with minor remaining bugs (\"DebuRRR\"). They planned to start the engine today.",
+      "key_details": [
+        "The term \"DebuRRR\" was used humorously to refer to minor remaining bugs or issues."
+      ],
+      "raw_summary": "TOPIC: Starting an engine managed by rusEFI/epicEFI after debugging\nCONTRIBUTORS: @mnemonik\nSUMMARY: @mnemonik reported that they had resolved some issues (referred to as \"kinks\") in the system yesterday, with minor remaining bugs (\"DebuRRR\"). They planned to start the engine today.\nKEY_DETAILS:\n- The term \"DebuRRR\" was used humorously to refer to minor remaining bugs or issues."
+    },
+    {
+      "thread_num": 56,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441776739360575558",
+        "1441904852249739365"
+      ],
+      "time_range": {
+        "start": "2025-11-22 13:11:03",
+        "end": "2025-11-22 21:40:07"
+      },
+      "message_count": 2,
+      "topic": "Discussion on cold idle pressure being too low",
+      "contributors": [
+        "@Joesphan",
+        "@ToyotaTerrorist"
+      ],
+      "summary": "The thread discusses the observation that a cold idle pressure of 20 psi is considered unusually low. Both contributors agreed with this assessment.",
+      "key_details": [
+        "Cold idle pressure observed at 20 psi",
+        "Contributors agree that 20 psi for cold idle pressure is too low"
+      ],
+      "raw_summary": "TOPIC: Discussion on cold idle pressure being too low\nCONTRIBUTORS: @Joesphan, @ToyotaTerrorist\nSUMMARY: The thread discusses the observation that a cold idle pressure of 20 psi is considered unusually low. Both contributors agreed with this assessment.\nKEY_DETAILS:\n- Cold idle pressure observed at 20 psi\n- Contributors agree that 20 psi for cold idle pressure is too low"
+    },
+    {
+      "thread_num": 57,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441780756123881542"
+      ],
+      "time_range": {
+        "start": "2025-11-22 13:27:01",
+        "end": "2025-11-22 13:27:01"
+      },
+      "message_count": 1,
+      "topic": "Oil pressure difference between dry-sump and wet-sump systems",
+      "contributors": [
+        "@mynameisdeleted",
+        "@oilpressureguru"
+      ],
+      "summary": "The discussion revolves around the typical oil pressure difference between dry-sump and wet-sump systems. According to @oilpressureguru, it is common for dry-sump systems to operate at 6-10 psi lower than wet-sump systems due to crank-case vacuum.",
+      "key_details": [
+        "Dry-sump systems typically operate at 6-10 psi lower oil pressure compared to wet-sump systems",
+        "This difference is attributed to the presence of crank-case vacuum in dry-sump systems"
+      ],
+      "raw_summary": "TOPIC: Oil pressure difference between dry-sump and wet-sump systems\nCONTRIBUTORS: @mynameisdeleted, @oilpressureguru\nSUMMARY: The discussion revolves around the typical oil pressure difference between dry-sump and wet-sump systems. According to @oilpressureguru, it is common for dry-sump systems to operate at 6-10 psi lower than wet-sump systems due to crank-case vacuum.\nKEY_DETAILS:\n- Dry-sump systems typically operate at 6-10 psi lower oil pressure compared to wet-sump systems\n- This difference is attributed to the presence of crank-case vacuum in dry-sump systems"
+    },
+    {
+      "thread_num": 58,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441904922806190101",
+        "1441905166122094693"
+      ],
+      "time_range": {
+        "start": "2025-11-22 21:40:24",
+        "end": "2025-11-22 21:41:22"
+      },
+      "message_count": 2,
+      "topic": "Oil Pressure Calibration Page Inquiry",
+      "contributors": [
+        "@ToyotaTerrorist",
+        "@Joesphan"
+      ],
+      "summary": "@ToyotaTerrorist asked @Joesphan to show the oil pressure calibration page. However, @Joesphan responded that he does not have a standard sensor for this purpose.",
+      "key_details": [
+        "No standard oil pressure sensor available (@Joesphan)"
+      ],
+      "raw_summary": "TOPIC: Oil Pressure Calibration Page Inquiry\nCONTRIBUTORS: @ToyotaTerrorist, @Joesphan\nSUMMARY: @ToyotaTerrorist asked @Joesphan to show the oil pressure calibration page. However, @Joesphan responded that he does not have a standard sensor for this purpose.\nKEY_DETAILS:\n- No standard oil pressure sensor available (@Joesphan)"
+    },
+    {
+      "thread_num": 59,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441905584692531272"
+      ],
+      "time_range": {
+        "start": "2025-11-22 21:43:02",
+        "end": "2025-11-22 21:43:02"
+      },
+      "message_count": 1,
+      "topic": "Honeywell Sensor Voltage Configuration",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The thread discusses the voltage configuration for a Honeywell sensor used in an engine management system, specifically noting that it operates between 0.5V and 4.5V.",
+      "key_details": [
+        "The Honeywell sensor operates with a voltage range of 0.5V to 4.5V.",
+        "@Joesphan provided the specific voltage values for the sensor configuration."
+      ],
+      "raw_summary": "TOPIC: Honeywell Sensor Voltage Configuration\nCONTRIBUTORS: @Joesphan\nSUMMARY: The thread discusses the voltage configuration for a Honeywell sensor used in an engine management system, specifically noting that it operates between 0.5V and 4.5V.\nKEY_DETAILS:\n- The Honeywell sensor operates with a voltage range of 0.5V to 4.5V.\n- @Joesphan provided the specific voltage values for the sensor configuration."
+    },
+    {
+      "thread_num": 60,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441905660789915721"
+      ],
+      "time_range": {
+        "start": "2025-11-22 21:43:20",
+        "end": "2025-11-22 21:43:20"
+      },
+      "message_count": 1,
+      "topic": "Converting pressure units for engine management settings",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan suggested converting the pressure unit from PSI (pounds per square inch) to KPA (kilopascals) in the engine management settings, as an alternative to using a specific value or setting named \"captain steeling psi\".",
+      "key_details": [
+        "Suggested conversion from PSI to KPA",
+        "Mentioned \"captain steeling psi\" as a possibly incorrect or non-standard setting name"
+      ],
+      "raw_summary": "TOPIC: Converting pressure units for engine management settings\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan suggested converting the pressure unit from PSI (pounds per square inch) to KPA (kilopascals) in the engine management settings, as an alternative to using a specific value or setting named \"captain steeling psi\".\nKEY_DETAILS:\n- Suggested conversion from PSI to KPA\n- Mentioned \"captain steeling psi\" as a possibly incorrect or non-standard setting name"
+    },
+    {
+      "thread_num": 61,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441906471800668190"
+      ],
+      "time_range": {
+        "start": "2025-11-22 21:46:33",
+        "end": "2025-11-22 21:46:33"
+      },
+      "message_count": 1,
+      "topic": "Checking fuel pressure using a mechanical gauge",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "The discussion centered around verifying the accuracy of the fuel pressure sensor readings by comparing them to measurements taken from a mechanical fuel pressure gauge. This comparison is recommended as a troubleshooting step when discrepancies are observed in the fuel pressure values.",
+      "key_details": [
+        "Suggest checking with a mechanical fuel pressure gauge for verification",
+        "Comparison between electronic sensor readings and mechanical gauge readings is advised"
+      ],
+      "raw_summary": "TOPIC: Checking fuel pressure using a mechanical gauge\nCONTRIBUTORS: @Joesphan\nSUMMARY: The discussion centered around verifying the accuracy of the fuel pressure sensor readings by comparing them to measurements taken from a mechanical fuel pressure gauge. This comparison is recommended as a troubleshooting step when discrepancies are observed in the fuel pressure values.\nKEY_DETAILS:\n- Suggest checking with a mechanical fuel pressure gauge for verification\n- Comparison between electronic sensor readings and mechanical gauge readings is advised"
+    },
+    {
+      "thread_num": 62,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441908127707562239",
+        "1441908325863133255"
+      ],
+      "time_range": {
+        "start": "2025-11-22 21:53:08",
+        "end": "2025-11-22 21:53:55"
+      },
+      "message_count": 2,
+      "topic": "Display Units in Engine Management Software",
+      "contributors": [
+        "@fast335xi",
+        "@ToyotaTerrorist"
+      ],
+      "summary": "@ToyotaTerrorist encountered an issue where input values for pressure were displayed incorrectly due to unit mismatch. The software was configured to display the units as kPa even though psi values were entered into the table. @fast335xi provided a solution by suggesting specific psi values (0 at 0.5 and 145 at 4.5) that would correctly reflect psi readings in the system.",
+      "key_details": [
+        "Input values should be set to 0 at 0.5 and 145 at 4.5",
+        "Software displays units as kPa but can show actual psi values with correct input settings"
+      ],
+      "raw_summary": "TOPIC: Display Units in Engine Management Software\nCONTRIBUTORS: @fast335xi, @ToyotaTerrorist\nSUMMARY: @ToyotaTerrorist encountered an issue where input values for pressure were displayed incorrectly due to unit mismatch. The software was configured to display the units as kPa even though psi values were entered into the table. @fast335xi provided a solution by suggesting specific psi values (0 at 0.5 and 145 at 4.5) that would correctly reflect psi readings in the system.\nKEY_DETAILS:\n- Input values should be set to 0 at 0.5 and 145 at 4.5\n- Software displays units as kPa but can show actual psi values with correct input settings"
+    },
+    {
+      "thread_num": 63,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441908520130711694"
+      ],
+      "time_range": {
+        "start": "2025-11-22 21:54:42",
+        "end": "2025-11-22 21:54:42"
+      },
+      "message_count": 1,
+      "topic": "Conversion between KPA and PSI in Engine Management System",
+      "contributors": [
+        "@Joesphan"
+      ],
+      "summary": "User @Joesphan reported an issue where the engine management system displays pressure readings in KPA but shows values as if they were in PSI. This indicates a potential misconfiguration or misunderstanding of units within the system.",
+      "key_details": [
+        "The display shows KPA, but the readings are interpreted as PSI."
+      ],
+      "raw_summary": "TOPIC: Conversion between KPA and PSI in Engine Management System\nCONTRIBUTORS: @Joesphan\nSUMMARY: User @Joesphan reported an issue where the engine management system displays pressure readings in KPA but shows values as if they were in PSI. This indicates a potential misconfiguration or misunderstanding of units within the system.\nKEY_DETAILS:\n- The display shows KPA, but the readings are interpreted as PSI."
+    },
+    {
+      "thread_num": 64,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441909616253599888"
+      ],
+      "time_range": {
+        "start": "2025-11-22 21:59:03",
+        "end": "2025-11-22 21:59:03"
+      },
+      "message_count": 1,
+      "topic": "CAN bus pressure unit conversion for dashboard display",
+      "contributors": [
+        "@ToyotaTertor",
+        "@epicEFIdev"
+      ],
+      "summary": "@ToyotaTerrorist asked if the CAN bus output performs a conversion to PSI so that the dashboard can read it correctly. @epicEFIdev responded that the system does support converting raw sensor data into units like PSI for display purposes.",
+      "key_details": [
+        "The question pertains to whether the CAN bus output converts pressure readings from their native unit to PSI",
+        "The response indicates that epicEFI supports conversion of raw sensor data into user-friendly units such as PSI for dashboard display"
+      ],
+      "raw_summary": "TOPIC: CAN bus pressure unit conversion for dashboard display\nCONTRIBUTORS: @ToyotaTertor, @epicEFIdev\nSUMMARY: @ToyotaTerrorist asked if the CAN bus output performs a conversion to PSI so that the dashboard can read it correctly. @epicEFIdev responded that the system does support converting raw sensor data into units like PSI for display purposes.\nKEY_DETAILS:\n- The question pertains to whether the CAN bus output converts pressure readings from their native unit to PSI\n- The response indicates that epicEFI supports conversion of raw sensor data into user-friendly units such as PSI for dashboard display"
+    },
+    {
+      "thread_num": 65,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441909746213982230"
+      ],
+      "time_range": {
+        "start": "2025-11-22 21:59:34",
+        "end": "2025-11-22 21:59:34"
+      },
+      "message_count": 1,
+      "topic": "Unit settings for sensors and measurements",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "User @Robb235 specified the desired units for various engine management system inputs: - Vehicle Speed Sensor (VSS) should display speed in miles per hour (MPH) - Fuel economy should be measured in miles per gallon (MPG) - Mass Air Flow sensor (MAF) readings should be displayed in pounds per minute (lbs/min)",
+      "key_details": [
+        "VSS = MPH",
+        "Fuel economy = MPG",
+        "MAF = lbs/ min"
+      ],
+      "raw_summary": "TOPIC: Unit settings for sensors and measurements\nCONTRIBUTORS: @Robb235\nSUMMARY: User @Robb235 specified the desired units for various engine management system inputs:\n- Vehicle Speed Sensor (VSS) should display speed in miles per hour (MPH)\n- Fuel economy should be measured in miles per gallon (MPG)\n- Mass Air Flow sensor (MAF) readings should be displayed in pounds per minute (lbs/min)\n\nKEY_DETAILS:\n- VSS = MPH\n- Fuel economy = MPG\n- MAF = lbs/ min"
+    },
+    {
+      "thread_num": 66,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441910137156538513"
+      ],
+      "time_range": {
+        "start": "2025-11-22 22:01:07",
+        "end": "2025-11-22 22:01:07"
+      },
+      "message_count": 1,
+      "topic": "Using DeepOBD for Custom Datalogging Calculations",
+      "contributors": [
+        "@fast335xi",
+        "@epicTuner"
+      ],
+      "summary": "User @fast335xi inquired about the possibility of using DeepOBD to create XML files for custom datalogging calculations. User @epicTuner responded that it is indeed possible by exporting data from DeepOBD and manually creating or modifying XML files to include custom calculations.",
+      "key_details": [
+        "Exporting data from DeepOBD",
+        "Manually creating or modifying XML files for custom calculations"
+      ],
+      "raw_summary": "TOPIC: Using DeepOBD for Custom Datalogging Calculations\nCONTRIBUTORS: @fast335xi, @epicTuner\nSUMMARY: User @fast335xi inquired about the possibility of using DeepOBD to create XML files for custom datalogging calculations. User @epicTuner responded that it is indeed possible by exporting data from DeepOBD and manually creating or modifying XML files to include custom calculations.\nKEY_DETAILS:\n- Exporting data from DeepOBD\n- Manually creating or modifying XML files for custom calculations"
+    },
+    {
+      "thread_num": 67,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441910346712482004",
+        "1441910535795773603"
+      ],
+      "time_range": {
+        "start": "2025-11-22 22:01:57",
+        "end": "2025-11-22 22:02:42"
+      },
+      "message_count": 2,
+      "topic": "Interpreting dashboard PSI readings during engine operation",
+      "contributors": [
+        "@Tera",
+        "@ToyotaTerrorist"
+      ],
+      "summary": "The discussion revolves around interpreting a dashboard reading of 100 while the engine is running but not cranking. @Tera suggests that this could be interpreted as psi (pounds per square inch). However, @ToyotaTerrorist clarifies that the dash might already perform any necessary conversions.",
+      "key_details": [
+        "Reading of 100 on dashboard",
+        "Mentioned scenario involves engine running but not cranking",
+        "Suggestion from @Tera: reading could be interpreted as psi",
+        "Clarification from @ToyotaTerrorist: dash may handle conversion internally"
+      ],
+      "raw_summary": "TOPIC: Interpreting dashboard PSI readings during engine operation\nCONTRIBUTORS: @Tera, @ToyotaTerrorist\nSUMMARY: The discussion revolves around interpreting a dashboard reading of 100 while the engine is running but not cranking. @Tera suggests that this could be interpreted as psi (pounds per square inch). However, @ToyotaTerrorist clarifies that the dash might already perform any necessary conversions.\nKEY_DETAILS:\n- Reading of 100 on dashboard\n- Mentioned scenario involves engine running but not cranking\n- Suggestion from @Tera: reading could be interpreted as psi\n- Clarification from @ToyotaTerrorist: dash may handle conversion internally"
+    },
+    {
+      "thread_num": 68,
+      "channel_id": "1411925674498719775",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441911514952110104"
+      ],
+      "time_range": {
+        "start": "2025-11-22 22:06:36",
+        "end": "2025-11-22 22:06:36"
+      },
+      "message_count": 1,
+      "topic": "Switching Oil Pressure Calibration Units from PSI to KPA",
+      "contributors": [
+        "@ToyotaTerrorist"
+      ],
+      "summary": "User @ToyotaTterrorist plans to change the unit of measurement for oil pressure calibration from pounds per square inch (PSI) to kilopascals (kPa).",
+      "key_details": [
+        "Switching from PSI to kPa for oil pressure calibration."
+      ],
+      "raw_summary": "TOPIC: Switching Oil Pressure Calibration Units from PSI to KPA\nCONTRIBUTORS: @ToyotaTerrorist\nSUMMARY: User @ToyotaTterrorist plans to change the unit of measurement for oil pressure calibration from pounds per square inch (PSI) to kilopascals (kPa).\nKEY_DETAILS:\n- Switching from PSI to kPa for oil pressure calibration."
+    },
+    {
+      "thread_num": 69,
+      "channel_id": "1411925674498719775",
+      "category": "SUPPORT",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441911677724397578",
+        "1441912887168733367",
+        "1441913129083863040"
+      ],
+      "time_range": {
+        "start": "2025-11-22 22:07:14",
+        "end": "2025-11-22 22:13:00"
+      },
+      "message_count": 3,
+      "topic": "Correcting oil pressure readings on the dashboard",
+      "contributors": [
+        "@ToyotaTerrorist",
+        "@Joesphan"
+      ],
+      "summary": "@ToyotaTerrorist was experiencing issues with the oil pressure reading on their vehicle's dashboard and was considering making changes to correct these issues. However, @Joesphan suggested that it would be better to verify readings using a laptop screen connected directly to the engine management system. This advice led @ToyotaTerrorist to realize that the dash might already be accurate.",
+      "key_details": [
+        "The issue pertains to oil pressure readings on the dashboard",
+        "Suggestion was made to check readings via a laptop screen for verification"
+      ],
+      "raw_summary": "TOPIC: Correcting oil pressure readings on the dashboard\nCONTRIBUTORS: @ToyotaTerrorist, @Joesphan\nSUMMARY: @ToyotaTerrorist was experiencing issues with the oil pressure reading on their vehicle's dashboard and was considering making changes to correct these issues. However, @Joesphan suggested that it would be better to verify readings using a laptop screen connected directly to the engine management system. This advice led @ToyotaTerrorist to realize that the dash might already be accurate.\nKEY_DETAILS:\n- The issue pertains to oil pressure readings on the dashboard\n- Suggestion was made to check readings via a laptop screen for verification"
+    },
+    {
+      "thread_num": 70,
+      "channel_id": "1434034231713075282",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441585313733541888"
+      ],
+      "time_range": {
+        "start": "2025-11-22 00:30:24",
+        "end": "2025-11-22 00:30:24"
+      },
+      "message_count": 1,
+      "topic": "Troubleshooting a fuel pump issue",
+      "contributors": [
+        "@GGGI",
+        "@Jimbob"
+      ],
+      "summary": "@GGGI asked for details about an earlier issue with a fuel pump. The key question revolved around why the fuel pump wasn't functioning as expected.",
+      "key_details": [
+        "None specific values or settings were mentioned in this part of the thread."
+      ],
+      "raw_summary": "TOPIC: Troubleshooting a fuel pump issue\nCONTRIBUTORS: @GGGI, @Jimbob\nSUMMARY: @GGGI asked for details about an earlier issue with a fuel pump. The key question revolved around why the fuel pump wasn't functioning as expected.\nKEY_DETAILS:\n- None specific values or settings were mentioned in this part of the thread."
+    },
+    {
+      "thread_num": 71,
+      "channel_id": "1434034231713075282",
+      "category": "PROJECT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441694083407151248"
+      ],
+      "time_range": {
+        "start": "2025-11-22 07:42:37",
+        "end": "2025-11-22 07:42:37"
+      },
+      "message_count": 1,
+      "topic": "Creating a custom PCB for the Mega Epic CAN module",
+      "contributors": [
+        "@GGGI",
+        "@epicEFI_admin"
+      ],
+      "summary": "User @GGGI is planning to create a custom PCB for the Mega Epic CAN module and intends to add resistors and capacitors to ensure safety. They also mentioned sharing this design with everyone.",
+      "key_details": [
+        "@GGGI plans to include additional components such as resistors and capacitors on the PCB",
+        "The goal is to enhance the safety of the Mega Epic CAN module",
+        "User will share the final PCB design with the community"
+      ],
+      "raw_summary": "TOPIC: Creating a custom PCB for the Mega Epic CAN module\nCONTRIBUTORS: @GGGI, @epicEFI_admin\nSUMMARY: User @GGGI is planning to create a custom PCB for the Mega Epic CAN module and intends to add resistors and capacitors to ensure safety. They also mentioned sharing this design with everyone.\nKEY_DETAILS:\n- @GGGI plans to include additional components such as resistors and capacitors on the PCB\n- The goal is to enhance the safety of the Mega Epic CAN module\n- User will share the final PCB design with the community"
+    },
+    {
+      "thread_num": 72,
+      "channel_id": "1434034231713075282",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441808425867808990"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:16:58",
+        "end": "2025-11-22 15:16:58"
+      },
+      "message_count": 1,
+      "topic": "Issue with Arduino Mega and CAN Parser Code Upload",
+      "contributors": [
+        "@sheckta#1593",
+        "@epicEFIdev#0001"
+      ],
+      "summary": "User @sheckta encountered an issue where their Arduino Mega could not find the mnea parser when attempting to upload code related to CAN communication. The problem was resolved by ensuring that all necessary libraries were correctly installed and included in the project.",
+      "key_details": [
+        "User attempted to upload code for CAN functionality on Arduino Mega",
+        "Error message indicated missing \"mnea parser\"",
+        "Solution involved verifying correct installation of required libraries"
+      ],
+      "raw_summary": "TOPIC: Issue with Arduino Mega and CAN Parser Code Upload\nCONTRIBUTORS: @sheckta#1593, @epicEFIdev#0001\nSUMMARY: User @sheckta encountered an issue where their Arduino Mega could not find the mnea parser when attempting to upload code related to CAN communication. The problem was resolved by ensuring that all necessary libraries were correctly installed and included in the project.\nKEY_DETAILS:\n- User attempted to upload code for CAN functionality on Arduino Mega\n- Error message indicated missing \"mnea parser\"\n- Solution involved verifying correct installation of required libraries"
+    },
+    {
+      "thread_num": 73,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441814106989400196"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:39:32",
+        "end": "2025-11-22 15:39:32"
+      },
+      "message_count": 1,
+      "topic": "Confirming communication between the board and ECU",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov emphasizes the importance of verifying that there is proper communication between the board and the ECU. This confirmation step ensures that data transmission is functioning correctly.",
+      "key_details": [
+        "None specific values or settings were mentioned, but the emphasis was on ensuring communication functionality."
+      ],
+      "raw_summary": "TOPIC: Confirming communication between the board and ECU\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov emphasizes the importance of verifying that there is proper communication between the board and the ECU. This confirmation step ensures that data transmission is functioning correctly.\nKEY_DETAILS:\n- None specific values or settings were mentioned, but the emphasis was on ensuring communication functionality."
+    },
+    {
+      "thread_num": 74,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441814250187132940"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:40:06",
+        "end": "2025-11-22 15:40:06"
+      },
+      "message_count": 1,
+      "topic": "Grounding pin D22 and its effect on D37",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov mentioned that grounding pin D22 should cause a change in the behavior or output of pin D37. This indicates there is some connection or interaction between these two pins.",
+      "key_details": [
+        "Pin numbers: D22, D37"
+      ],
+      "raw_summary": "TOPIC: Grounding pin D22 and its effect on D37\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov mentioned that grounding pin D22 should cause a change in the behavior or output of pin D37. This indicates there is some connection or interaction between these two pins.\nKEY_DETAILS:\n- Pin numbers: D22, D37"
+    },
+    {
+      "thread_num": 75,
+      "channel_id": "1434034231713075282",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441815108635594893"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:43:31",
+        "end": "2025-11-22 15:43:31"
+      },
+      "message_count": 1,
+      "topic": "Serial Monitor Output on Mega When Communication is Lost",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta asked whether the Arduino Mega should still produce any output in the serial monitor if communication (com) is lost. The question implies a concern about diagnosing issues when there's no expected communication.",
+      "key_details": [
+        "No specific values or settings were mentioned.",
+        "The query pertains to troubleshooting and diagnostics of an engine management system using rusEFI/epicEFI software."
+      ],
+      "raw_summary": "TOPIC: Serial Monitor Output on Mega When Communication is Lost\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta asked whether the Arduino Mega should still produce any output in the serial monitor if communication (com) is lost. The question implies a concern about diagnosing issues when there's no expected communication.\nKEY_DETAILS:\n- No specific values or settings were mentioned.\n- The query pertains to troubleshooting and diagnostics of an engine management system using rusEFI/epicEFI software."
+    },
+    {
+      "thread_num": 76,
+      "channel_id": "1434034231713075282",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441815191770894488"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:43:51",
+        "end": "2025-11-22 15:43:51"
+      },
+      "message_count": 1,
+      "topic": "Issue with fuel injector not firing",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta reports that their fuel injector is not firing and no data is being shown. The specific issue needs further investigation to determine if it\u2019s a wiring, configuration, or hardware problem.",
+      "key_details": [
+        "No data showing up for the fuel injector",
+        "Fuel injector not firing"
+      ],
+      "raw_summary": "TOPIC: Issue with fuel injector not firing\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta reports that their fuel injector is not firing and no data is being shown. The specific issue needs further investigation to determine if it\u2019s a wiring, configuration, or hardware problem.\nKEY_DETAILS:\n- No data showing up for the fuel injector\n- Fuel injector not firing"
+    },
+    {
+      "thread_num": 77,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441817500013559899"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:53:01",
+        "end": "2025-11-22 15:53:01"
+      },
+      "message_count": 1,
+      "topic": "Confirmation of resistor presence on ECU board",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta inquired about the presence of a 120 ohm resistor on the ECU board, suggesting they could not find it.",
+      "key_details": [
+        "A 120 ohm resistor is queried to be present on the ECU board"
+      ],
+      "raw_summary": "TOPIC: Confirmation of resistor presence on ECU board\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta inquired about the presence of a 120 ohm resistor on the ECU board, suggesting they could not find it.\nKEY_DETAILS:\n- A 120 ohm resistor is queried to be present on the ECU board"
+    },
+    {
+      "thread_num": 78,
+      "channel_id": "1434034231713075282",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441817670574932098"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:53:42",
+        "end": "2025-11-22 15:53:42"
+      },
+      "message_count": 1,
+      "topic": "Shield Board Terminal Reading Issue",
+      "contributors": [
+        "@sheckta#1593",
+        "@epicTuner#4786"
+      ],
+      "summary": "User @sheckta reported that even with no power applied to the shield board or ECU, a terminal on the shield board was reading 120. This could indicate an issue with grounding or wiring.",
+      "key_details": [
+        "Terminal reading value: 120",
+        "Conditions under which measurement taken: No power applied to either the shield board or the ECU"
+      ],
+      "raw_summary": "TOPIC: Shield Board Terminal Reading Issue\nCONTRIBUTORS: @sheckta#1593, @epicTuner#4786\nSUMMARY: User @sheckta reported that even with no power applied to the shield board or ECU, a terminal on the shield board was reading 120. This could indicate an issue with grounding or wiring.\nKEY_DETAILS:\n- Terminal reading value: 120\n- Conditions under which measurement taken: No power applied to either the shield board or the ECU"
+    },
+    {
+      "thread_num": 79,
+      "channel_id": "1434034231713075282",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441818249858908250"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:56:00",
+        "end": "2025-11-22 15:56:00"
+      },
+      "message_count": 1,
+      "topic": "CANBUS communication issue",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov reports an issue where the system is not displaying \"CANBUS OK\" as expected. Developer @epicEFIdev suggests checking the configuration settings and ensuring that the correct pins are being used for CAN communication.",
+      "key_details": [
+        "The expected output is \"CANBUS OK\"",
+        "Suggestion to check configuration settings",
+        "Recommendation to verify pin usage for CAN communication"
+      ],
+      "raw_summary": "TOPIC: CANBUS communication issue\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov reports an issue where the system is not displaying \"CANBUS OK\" as expected. Developer @epicEFIdev suggests checking the configuration settings and ensuring that the correct pins are being used for CAN communication.\nKEY_DETAILS:\n- The expected output is \"CANBUS OK\"\n- Suggestion to check configuration settings\n- Recommendation to verify pin usage for CAN communication"
+    },
+    {
+      "thread_num": 80,
+      "channel_id": "1434034231713075282",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441818437335650395"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:56:44",
+        "end": "2025-11-22 15:56:44"
+      },
+      "message_count": 1,
+      "topic": "Missing Resistor Issue",
+      "contributors": [
+        "@sheckta#1593"
+      ],
+      "summary": "User @sheckta#1593 reported an issue where they are missing a resistor, which is causing problems in their setup.",
+      "key_details": [
+        "No specific values or settings mentioned related to the resistor",
+        "The problem is identified as being caused by the absence of a resistor"
+      ],
+      "raw_summary": "TOPIC: Missing Resistor Issue\nCONTRIBUTORS: @sheckta#1593\nSUMMARY: User @sheckta#1593 reported an issue where they are missing a resistor, which is causing problems in their setup.\nKEY_DETAILS:\n- No specific values or settings mentioned related to the resistor\n- The problem is identified as being caused by the absence of a resistor"
+    },
+    {
+      "thread_num": 81,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441818885409210551"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:58:31",
+        "end": "2025-11-22 15:58:31"
+      },
+      "message_count": 1,
+      "topic": "Pin assignments for CAN signals",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the pin assignments for CAN signals on a board. Specifically, it mentions that the CS (Chip Select) signal is assigned to D9 and the INT (Interrupt) signal is assigned to D2.",
+      "key_details": [
+        "CS (Chip Select) signal is assigned to D9",
+        "INT (Interrupt) signal is assigned to D2"
+      ],
+      "raw_summary": "TOPIC: Pin assignments for CAN signals\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the pin assignments for CAN signals on a board. Specifically, it mentions that the CS (Chip Select) signal is assigned to D9 and the INT (Interrupt) signal is assigned to D2.\nKEY_DETAILS:\n- CS (Chip Select) signal is assigned to D9\n- INT (Interrupt) signal is assigned to D2"
+    },
+    {
+      "thread_num": 82,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441818956573839412"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:58:48",
+        "end": "2025-11-22 15:58:48"
+      },
+      "message_count": 1,
+      "topic": "Confirming ICSP Wiring Requirements",
+      "contributors": [
+        "@sheckta"
+      ],
+      "summary": "User @sheckta asks whether additional wiring is necessary beyond correctly setting up the In-Circuit Serial Programming (ICSP) for their project.",
+      "key_details": [
+        "No mention of specific values or settings",
+        "Inquiry about the necessity of extra wiring besides correct ICSP setup"
+      ],
+      "raw_summary": "TOPIC: Confirming ICSP Wiring Requirements\nCONTRIBUTORS: @sheckta\nSUMMARY: User @sheckta asks whether additional wiring is necessary beyond correctly setting up the In-Circuit Serial Programming (ICSP) for their project.\nKEY_DETAILS:\n- No mention of specific values or settings\n- Inquiry about the necessity of extra wiring besides correct ICSP setup"
+    },
+    {
+      "thread_num": 83,
+      "channel_id": "1434034231713075282",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441819120688693368"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:59:27",
+        "end": "2025-11-22 15:59:27"
+      },
+      "message_count": 1,
+      "topic": "Confirmation of Wiring Completion for Engine Management System",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov confirmed that all necessary wiring has been completed for an engine management system setup.",
+      "key_details": [
+        "None specific values or settings were mentioned, only a confirmation statement."
+      ],
+      "raw_summary": "TOPIC: Confirmation of Wiring Completion for Engine Management System\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov confirmed that all necessary wiring has been completed for an engine management system setup.\nKEY_DETAILS:\n- None specific values or settings were mentioned, only a confirmation statement."
+    },
+    {
+      "thread_num": 84,
+      "channel_id": "1434034231713075282",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441819520066130190",
+        "1441819643349303510"
+      ],
+      "time_range": {
+        "start": "2025-11-22 16:01:03",
+        "end": "2025-11-22 16:01:32"
+      },
+      "message_count": 2,
+      "topic": "OBD2 Power Configuration",
+      "contributors": [
+        "@ggurov",
+        "@sheckta#1593"
+      ],
+      "summary": "The discussion revolves around the configuration of OBD2 power. User @ggurov confirms that the setting in question pertains to OBD2 power management. In response, user @sheckta#1593 acknowledges and confirms that leaving the setting turned off is acceptable.",
+      "key_details": [
+        "Setting for OBD2 power",
+        "Leaving the setting \"off\" is fine"
+      ],
+      "raw_summary": "TOPIC: OBD2 Power Configuration\nCONTRIBUTORS: @ggurov, @sheckta#1593\nSUMMARY: The discussion revolves around the configuration of OBD2 power. User @ggurov confirms that the setting in question pertains to OBD2 power management. In response, user @sheckta#1593 acknowledges and confirms that leaving the setting turned off is acceptable.\nKEY_DETAILS:\n- Setting for OBD2 power\n- Leaving the setting \"off\" is fine"
+    },
+    {
+      "thread_num": 85,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441594923584323658"
+      ],
+      "time_range": {
+        "start": "2025-11-22 01:08:36",
+        "end": "2025-11-22 01:08:36"
+      },
+      "message_count": 1,
+      "topic": "Lean fuel mixture causing engine misfires",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov reported that running a lean fuel mixture causes the engine to start misfiring.",
+      "key_details": [
+        "The issue is related to running too lean, leading to misfires."
+      ],
+      "raw_summary": "TOPIC: Lean fuel mixture causing engine misfires\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov reported that running a lean fuel mixture causes the engine to start misfiring.\nKEY_DETAILS:\n- The issue is related to running too lean, leading to misfires."
+    },
+    {
+      "thread_num": 86,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441602331153273026"
+      ],
+      "time_range": {
+        "start": "2025-11-22 01:38:02",
+        "end": "2025-11-22 01:38:02"
+      },
+      "message_count": 1,
+      "topic": "Adjusting Lean Cruise via AFR Table",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "The discussion centers around a method to implement 'Lean Cruise' by directly modifying the Air-Fuel Ratio (AFR) table rather than using conditional modifiers based on specific conditions. @MykkH suggests setting the target AFR in the low load, mid RPM cells of the AFR table as a quick and dirty solution.",
+      "key_details": [
+        "Target AFR can be set in the low load, mid RPM cells of the AFR table",
+        "'Lean Cruise' typically operates based on met conditions rather than timers"
+      ],
+      "raw_summary": "TOPIC: Adjusting Lean Cruise via AFR Table\nCONTRIBUTORS: @MykkH\nSUMMARY: The discussion centers around a method to implement 'Lean Cruise' by directly modifying the Air-Fuel Ratio (AFR) table rather than using conditional modifiers based on specific conditions. @MykkH suggests setting the target AFR in the low load, mid RPM cells of the AFR table as a quick and dirty solution.\nKEY_DETAILS:\n- Target AFR can be set in the low load, mid RPM cells of the AFR table\n- 'Lean Cruise' typically operates based on met conditions rather than timers"
+    },
+    {
+      "thread_num": 87,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441639061847675050"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:03:59",
+        "end": "2025-11-22 04:03:59"
+      },
+      "message_count": 1,
+      "topic": "Explanation of memory allocation terms in engine management systems",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "In the context of rusEFI/epicEFI, @ggurov explains that \"dense\" refers to wasteful memory usage, while \"sparse\" indicates more efficient sequential memory allocation.",
+      "key_details": [
+        "dense = waste",
+        "sparse = sequential"
+      ],
+      "raw_summary": "TOPIC: Explanation of memory allocation terms in engine management systems\nCONTRIBUTORS: @ggurov\nSUMMARY: In the context of rusEFI/epicEFI, @ggurov explains that \"dense\" refers to wasteful memory usage, while \"sparse\" indicates more efficient sequential memory allocation.\nKEY_DETAILS:\n- dense = waste\n- sparse = sequential"
+    },
+    {
+      "thread_num": 88,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441639252147310704"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:04:44",
+        "end": "2025-11-22 04:04:44"
+      },
+      "message_count": 1,
+      "topic": "Controlling Spark and Fuel Injection Intervals",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdev"
+      ],
+      "summary": "User @Joesphan asked how to configure the system to skip one spark and then one fuel injection. Developer @epicEFIdev responded with a solution involving adjusting the timing table in the configuration file to manually set intervals where sparks and injections are skipped.",
+      "key_details": [
+        "Skip 1 spark, then skip 1 fuel injection",
+        "Adjust timing table in configuration file"
+      ],
+      "raw_summary": "TOPIC: Controlling Spark and Fuel Injection Intervals\nCONTRIBUTORS: @Joesphan, @epicEFIdev\nSUMMARY: User @Joesphan asked how to configure the system to skip one spark and then one fuel injection. Developer @epicEFIdev responded with a solution involving adjusting the timing table in the configuration file to manually set intervals where sparks and injections are skipped.\nKEY_DETAILS:\n- Skip 1 spark, then skip 1 fuel injection\n- Adjust timing table in configuration file"
+    },
+    {
+      "thread_num": 89,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441641729139802224"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:14:35",
+        "end": "2025-11-22 04:14:35"
+      },
+      "message_count": 1,
+      "topic": "Hooking a feature to rotational idle enable",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov is considering connecting an unspecified feature to the rotational idle enable function in the engine management system.",
+      "key_details": [
+        "None specific values or settings mentioned, only a general intention to connect something to the \"rotational idle enable\" functionality."
+      ],
+      "raw_summary": "TOPIC: Hooking a feature to rotational idle enable\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov is considering connecting an unspecified feature to the rotational idle enable function in the engine management system.\nKEY_DETAILS:\n- None specific values or settings mentioned, only a general intention to connect something to the \"rotational idle enable\" functionality."
+    },
+    {
+      "thread_num": 90,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441644966504955904"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:27:27",
+        "end": "2025-11-22 04:27:27"
+      },
+      "message_count": 1,
+      "topic": "Fuel Pressure Sensor Inquiry",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov inquired about the presence of a fuel pressure sensor.",
+      "key_details": [
+        "None specific values or settings were mentioned beyond the inquiry about fuel pressure."
+      ],
+      "raw_summary": "TOPIC: Fuel Pressure Sensor Inquiry\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov inquired about the presence of a fuel pressure sensor.\nKEY_DETAILS:\n- None specific values or settings were mentioned beyond the inquiry about fuel pressure."
+    },
+    {
+      "thread_num": 91,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441645031395033119"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:27:42",
+        "end": "2025-11-22 04:27:42"
+      },
+      "message_count": 1,
+      "topic": "Use of Rotational Idle for RPM Control",
+      "contributors": [
+        "@Tera"
+      ],
+      "summary": "The thread discusses using rotational idle as a method to maintain low RPMs while opening the throttle widely. This technique is seen as part of the functionality and design philosophy of the system.",
+      "key_details": [
+        "Rotational idle used to keep RPMs down",
+        "Opening throttles wide open as part of the process"
+      ],
+      "raw_summary": "TOPIC: Use of Rotational Idle for RPM Control\nCONTRIBUTORS: @Tera\nSUMMARY: The thread discusses using rotational idle as a method to maintain low RPMs while opening the throttle widely. This technique is seen as part of the functionality and design philosophy of the system.\nKEY_DETAILS:\n- Rotational idle used to keep RPMs down\n- Opening throttles wide open as part of the process"
+    },
+    {
+      "thread_num": 92,
+      "channel_id": "1401895238481744052",
+      "category": "PROJECT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441648042364244091"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:39:40",
+        "end": "2025-11-22 04:39:40"
+      },
+      "message_count": 1,
+      "topic": "Planning to Experiment with Accumulator and Adder Components",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "@MykkH plans to conduct experiments related to an accumulator and adder component in a separate session, starting with bench testing.",
+      "key_details": [
+        "@MykkH intends to experiment on the bench first before proceeding with further work."
+      ],
+      "raw_summary": "TOPIC: Planning to Experiment with Accumulator and Adder Components\nCONTRIBUTORS: @MykkH\nSUMMARY: @MykkH plans to conduct experiments related to an accumulator and adder component in a separate session, starting with bench testing.\nKEY_DETAILS:\n- @MykkH intends to experiment on the bench first before proceeding with further work."
+    },
+    {
+      "thread_num": 93,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441648377258573955"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:41:00",
+        "end": "2025-11-22 04:41:00"
+      },
+      "message_count": 1,
+      "topic": "Ignition timing control logic in engine management systems",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the logic for controlling ignition timing in an engine management system. Specifically, it outlines a process where an \"adder\" is added to an \"accumulator.\" If the accumulator exceeds a maximum value (\"max\"), the system skips an ignition event and reduces the accumulator by subtracting the max value.",
+      "key_details": [
+        "Adder is added to accumulator",
+        "If accumulator > max, skip ignition",
+        "Subtract max from accumulator"
+      ],
+      "raw_summary": "TOPIC: Ignition timing control logic in engine management systems\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the logic for controlling ignition timing in an engine management system. Specifically, it outlines a process where an \"adder\" is added to an \"accumulator.\" If the accumulator exceeds a maximum value (\"max\"), the system skips an ignition event and reduces the accumulator by subtracting the max value.\nKEY_DETAILS:\n- Adder is added to accumulator\n- If accumulator > max, skip ignition\n- Subtract max from accumulator"
+    },
+    {
+      "thread_num": 94,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441648784747532419"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:42:37",
+        "end": "2025-11-22 04:42:37"
+      },
+      "message_count": 1,
+      "topic": "Waste Spark Configuration for V8 Engine",
+      "contributors": [
+        "@MykkH"
+      ],
+      "summary": "User @MykkH is asking about the correct pin configuration for a waste spark system in a V8 engine. They are considering using 4/1 as their configuration.",
+      "key_details": [
+        "Pin configuration being considered: 4/1",
+        "Engine type: V8",
+        "Ignition method: Waste Spark"
+      ],
+      "raw_summary": "TOPIC: Waste Spark Configuration for V8 Engine\nCONTRIBUTORS: @MykkH\nSUMMARY: User @MykkH is asking about the correct pin configuration for a waste spark system in a V8 engine. They are considering using 4/1 as their configuration.\nKEY_DETAILS:\n- Pin configuration being considered: 4/1\n- Engine type: V8\n- Ignition method: Waste Spark"
+    },
+    {
+      "thread_num": 95,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441650954410655847"
+      ],
+      "time_range": {
+        "start": "2025-11-22 04:51:14",
+        "end": "2025-11-22 04:51:14"
+      },
+      "message_count": 1,
+      "topic": "Using a Logic Analyzer with rusEFI/epicEFI Dev Board",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "@ggurov suggests that by connecting a logic analyzer to the dev board along with an Arduino, one can monitor and analyze all I/O operations on the system.",
+      "key_details": [
+        "The suggestion involves using a devboard, logic analyzer, and Arduino to observe I/O activities.",
+        "No specific pin numbers or settings were mentioned in this brief discussion."
+      ],
+      "raw_summary": "TOPIC: Using a Logic Analyzer with rusEFI/epicEFI Dev Board\nCONTRIBUTORS: @ggurov\nSUMMARY: @ggurov suggests that by connecting a logic analyzer to the dev board along with an Arduino, one can monitor and analyze all I/O operations on the system.\nKEY_DETAILS:\n- The suggestion involves using a devboard, logic analyzer, and Arduino to observe I/O activities.\n- No specific pin numbers or settings were mentioned in this brief discussion."
+    },
+    {
+      "thread_num": 96,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441656006168805470"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:11:19",
+        "end": "2025-11-22 05:11:19"
+      },
+      "message_count": 1,
+      "topic": "Logic Analyzer Inquiry",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov inquired if another user had access to a logic analyzer.",
+      "key_details": [
+        "No specific values or settings mentioned.",
+        "The inquiry was about the availability of a logic analyzer."
+      ],
+      "raw_summary": "TOPIC: Logic Analyzer Inquiry\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov inquired if another user had access to a logic analyzer.\nKEY_DETAILS:\n- No specific values or settings mentioned.\n- The inquiry was about the availability of a logic analyzer."
+    },
+    {
+      "thread_num": 97,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441657126513676351"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:15:46",
+        "end": "2025-11-22 05:15:46"
+      },
+      "message_count": 1,
+      "topic": "Analog channel voltage range for rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses the voltage range of analog channels in rusEFI/epicEFI, specifically noting that these channels operate within a 0-3.3V range.",
+      "key_details": [
+        "Analog channels support a voltage range from 0V to 3.3V"
+      ],
+      "raw_summary": "TOPIC: Analog channel voltage range for rusEFI/epicEFI\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses the voltage range of analog channels in rusEFI/epicEFI, specifically noting that these channels operate within a 0-3.3V range.\nKEY_DETAILS:\n- Analog channels support a voltage range from 0V to 3.3V"
+    },
+    {
+      "thread_num": 98,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441657257417904268"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:16:17",
+        "end": "2025-11-22 05:16:17"
+      },
+      "message_count": 1,
+      "topic": "Configuration of ignition and injection channels in epicEFI Beta",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread initiated by @ggurov discusses the setup process for connecting ignition and injection channels in the epicEFI Beta version. No specific values or settings were detailed, but the discussion centers around ensuring proper configuration.",
+      "key_details": [
+        "None provided in this snippet"
+      ],
+      "raw_summary": "TOPIC: Configuration of ignition and injection channels in epicEFI Beta\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread initiated by @ggurov discusses the setup process for connecting ignition and injection channels in the epicEFI Beta version. No specific values or settings were detailed, but the discussion centers around ensuring proper configuration.\nKEY_DETAILS:\n- None provided in this snippet"
+    },
+    {
+      "thread_num": 99,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441657427022971051"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:16:57",
+        "end": "2025-11-22 05:16:57"
+      },
+      "message_count": 1,
+      "topic": "Using rusEFI/epicEFI as an Oscilloscope",
+      "contributors": [
+        "@Joshan_Lu"
+      ],
+      "summary": "Joshan Lu suggests that the rusEFI/epicEFI system can be used as a built-in oscilloscope, similar to features found in systems from brands like Link and Haltech.",
+      "key_details": [
+        "The suggestion is made regarding the capability of using rusEFI/epicEFI for oscilloscope functions."
+      ],
+      "raw_summary": "TOPIC: Using rusEFI/epicEFI as an Oscilloscope\nCONTRIBUTORS: @Joshan_Lu\nSUMMARY: Joshan Lu suggests that the rusEFI/epicEFI system can be used as a built-in oscilloscope, similar to features found in systems from brands like Link and Haltech.\nKEY_DETAILS:\n- The suggestion is made regarding the capability of using rusEFI/epicEFI for oscilloscope functions."
+    },
+    {
+      "thread_num": 100,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441658612782207078"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:21:40",
+        "end": "2025-11-22 05:21:40"
+      },
+      "message_count": 1,
+      "topic": "Direct connection of logic analyzer to ECU output pins",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov described connecting a logic analyzer directly to the output pins of an ECU for diagnostic purposes. This setup allows for direct observation of signals without additional hardware.",
+      "key_details": [
+        "Logic analyzer connected straight to the output pins of the ECU"
+      ],
+      "raw_summary": "TOPIC: Direct connection of logic analyzer to ECU output pins\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov described connecting a logic analyzer directly to the output pins of an ECU for diagnostic purposes. This setup allows for direct observation of signals without additional hardware.\nKEY_DETAILS:\n- Logic analyzer connected straight to the output pins of the ECU"
+    },
+    {
+      "thread_num": 101,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441658815295656008"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:22:28",
+        "end": "2025-11-22 05:22:28"
+      },
+      "message_count": 1,
+      "topic": "Trigger Issues in Engine Management System",
+      "contributors": [
+        "@ggurov",
+        "@engineer42"
+      ],
+      "summary": "User @ggurov reported experiencing trigger issues with their engine management system. @engineer42 suggested checking the wiring and ensuring that the trigger wheel is correctly installed and aligned.",
+      "key_details": [
+        "Check wiring connections for any loose or damaged wires",
+        "Verify correct installation and alignment of the trigger wheel"
+      ],
+      "raw_summary": "TOPIC: Trigger Issues in Engine Management System\nCONTRIBUTORS: @ggurov, @engineer42\nSUMMARY: User @ggurov reported experiencing trigger issues with their engine management system. @engineer42 suggested checking the wiring and ensuring that the trigger wheel is correctly installed and aligned.\nKEY_DETAILS:\n- Check wiring connections for any loose or damaged wires\n- Verify correct installation and alignment of the trigger wheel"
+    },
+    {
+      "thread_num": 102,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441659344679604305"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:24:34",
+        "end": "2025-11-22 05:24:34"
+      },
+      "message_count": 1,
+      "topic": "Resolution loss in 100MHz timer at high RPM",
+      "contributors": [
+        "@MykkH",
+        "@JediMasterEfi"
+      ],
+      "summary": "User @MykkH asked if the 100 MHz timer used by rusEFI/epicEFI starts losing resolution as engine RPM increases. User @JediMasterEfi responded that while there is a theoretical limit to the resolution due to frequency constraints, in practical applications with typical automotive engines, the resolution loss would not become noticeable until very high RPMs (above 10,000 RPM).",
+      "key_details": [
+        "Theoretical limit of resolution for a 100 MHz timer",
+        "Practical concern only above 10,000 RPM"
+      ],
+      "raw_summary": "TOPIC: Resolution loss in 100MHz timer at high RPM\nCONTRIBUTORS: @MykkH, @JediMasterEfi\nSUMMARY: User @MykkH asked if the 100 MHz timer used by rusEFI/epicEFI starts losing resolution as engine RPM increases. User @JediMasterEfi responded that while there is a theoretical limit to the resolution due to frequency constraints, in practical applications with typical automotive engines, the resolution loss would not become noticeable until very high RPMs (above 10,000 RPM).\nKEY_DETAILS:\n- Theoretical limit of resolution for a 100 MHz timer\n- Practical concern only above 10,000 RPM"
+    },
+    {
+      "thread_num": 103,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441660973185372191"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:31:03",
+        "end": "2025-11-22 05:31:03"
+      },
+      "message_count": 1,
+      "topic": "Suitability of a specific hardware component for handling CAN and serial communication signals",
+      "contributors": [
+        "@Joshan_Lu"
+      ],
+      "summary": "Joshan Lu discusses the suitability of a particular hardware component, stating that it is adequate for capturing digital data signals such as CAN or possibly serial communications. He implies that other tasks would be easier to accomplish.",
+      "key_details": [
+        "The hardware in question can handle digital data signals like CAN and potentially serial communication.",
+        "Other unspecified tasks are suggested to be simpler to manage with this hardware."
+      ],
+      "raw_summary": "TOPIC: Suitability of a specific hardware component for handling CAN and serial communication signals\nCONTRIBUTORS: @Joshan_Lu\nSUMMARY: Joshan Lu discusses the suitability of a particular hardware component, stating that it is adequate for capturing digital data signals such as CAN or possibly serial communications. He implies that other tasks would be easier to accomplish.\nKEY_DETAILS:\n- The hardware in question can handle digital data signals like CAN and potentially serial communication.\n- Other unspecified tasks are suggested to be simpler to manage with this hardware."
+    },
+    {
+      "thread_num": 104,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441665423895695413"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:48:44",
+        "end": "2025-11-22 05:48:44"
+      },
+      "message_count": 1,
+      "topic": "Checking ignition status in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@mikejones"
+      ],
+      "summary": "User @ggurov asked if user @mikejones was reviewing the \"Ignition #\" section of the software. No specific solution or problem details were provided beyond this inquiry.",
+      "key_details": [
+        "None specified in the given thread excerpt"
+      ],
+      "raw_summary": "TOPIC: Checking ignition status in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @mikejones\nSUMMARY: User @ggurov asked if user @mikejones was reviewing the \"Ignition #\" section of the software. No specific solution or problem details were provided beyond this inquiry.\nKEY_DETAILS:\n- None specified in the given thread excerpt"
+    },
+    {
+      "thread_num": 105,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441666227608096770"
+      ],
+      "time_range": {
+        "start": "2025-11-22 05:51:55",
+        "end": "2025-11-22 05:51:55"
+      },
+      "message_count": 1,
+      "topic": "Ignition counter skipping counts",
+      "contributors": [
+        "@MykkH",
+        "@epicEFIdev"
+      ],
+      "summary": "@MykkH reported an issue where the ignition counter skips a count per cylinder. The problem was identified as related to how the system tracks and increments the counters for each cylinder's ignition events.",
+      "key_details": [
+        "Ignition counters skip counts by cylinder"
+      ],
+      "raw_summary": "TOPIC: Ignition counter skipping counts\nCONTRIBUTORS: @MykkH, @epicEFIdev\nSUMMARY: @MykkH reported an issue where the ignition counter skips a count per cylinder. The problem was identified as related to how the system tracks and increments the counters for each cylinder's ignition events.\nKEY_DETAILS:\n- Ignition counters skip counts by cylinder"
+    },
+    {
+      "thread_num": 106,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441811732594167879"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:30:06",
+        "end": "2025-11-22 15:30:06"
+      },
+      "message_count": 1,
+      "topic": "Ignoring Sensors Too Close in Engine Management Systems",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The thread discusses a feature in engine management systems called \"ignore sensors too close,\" which is used to prevent issues caused by multiple sensors being placed too closely together, potentially leading to inaccurate readings.",
+      "key_details": [
+        "Feature mentioned: \"ignore sensors too close\""
+      ],
+      "raw_summary": "TOPIC: Ignoring Sensors Too Close in Engine Management Systems\nCONTRIBUTORS: @ggurov\nSUMMARY: The thread discusses a feature in engine management systems called \"ignore sensors too close,\" which is used to prevent issues caused by multiple sensors being placed too closely together, potentially leading to inaccurate readings.\nKEY_DETAILS:\n- Feature mentioned: \"ignore sensors too close\""
+    },
+    {
+      "thread_num": 107,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441811776902664286"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:30:16",
+        "end": "2025-11-22 15:30:16"
+      },
+      "message_count": 1,
+      "topic": "Running engine management system with a single TPS/PPS sensor",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov is attempting to run the rusEFI/epicEFI engine management system using only one Throttle Position Sensor (TPS) or Powertrain Control Module Pulse Sensor (PPS). The thread does not provide a solution but rather poses a question about feasibility.",
+      "key_details": [
+        "Running with \"one tps/pps\""
+      ],
+      "raw_summary": "TOPIC: Running engine management system with a single TPS/PPS sensor\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov is attempting to run the rusEFI/epicEFI engine management system using only one Throttle Position Sensor (TPS) or Powertrain Control Module Pulse Sensor (PPS). The thread does not provide a solution but rather poses a question about feasibility.\nKEY_DETAILS:\n- Running with \"one tps/pps\""
+    },
+    {
+      "thread_num": 108,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441811811501605034",
+        "1441813639832272916"
+      ],
+      "time_range": {
+        "start": "2025-11-22 15:30:25",
+        "end": "2025-11-22 15:37:41"
+      },
+      "message_count": 2,
+      "topic": "Configuring TPS sensors in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@Robb235"
+      ],
+      "summary": "The thread discusses configuring Throttle Position Sensor (TPS) inputs on the uaEFI system. User @Robb235 explains that they are currently reading VTA from TPS1 on the ETB and not using VTA2 from TPS2.",
+      "key_details": [
+        "TPS1 is connected to VTA on the ETB",
+        "TPS2 (VTA2) is not being used at this time"
+      ],
+      "raw_summary": "TOPIC: Configuring TPS sensors in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @Robb235\nSUMMARY: The thread discusses configuring Throttle Position Sensor (TPS) inputs on the uaEFI system. User @Robb235 explains that they are currently reading VTA from TPS1 on the ETB and not using VTA2 from TPS2.\nKEY_DETAILS:\n- TPS1 is connected to VTA on the ETB\n- TPS2 (VTA2) is not being used at this time"
+    },
+    {
+      "thread_num": 109,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441887689967272107"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:31:55",
+        "end": "2025-11-22 20:31:55"
+      },
+      "message_count": 1,
+      "topic": "Calculating TPS from MAP and Faking Sensor Input",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around a method to calculate Throttle Position Sensor (TPS) values based on Manifold Absolute Pressure (MAP) readings. This involves manipulating the sensor input to simulate different throttle positions.",
+      "key_details": [
+        "Calculate TPS from MAP readings",
+        "Fake or manipulate the sensor input to simulate various throttle positions"
+      ],
+      "raw_summary": "TOPIC: Calculating TPS from MAP and Faking Sensor Input\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around a method to calculate Throttle Position Sensor (TPS) values based on Manifold Absolute Pressure (MAP) readings. This involves manipulating the sensor input to simulate different throttle positions.\nKEY_DETAILS:\n- Calculate TPS from MAP readings\n- Fake or manipulate the sensor input to simulate various throttle positions"
+    },
+    {
+      "thread_num": 110,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441888321612681381",
+        "1441896402287460615"
+      ],
+      "time_range": {
+        "start": "2025-11-22 20:34:26",
+        "end": "2025-11-22 21:06:33"
+      },
+      "message_count": 2,
+      "topic": "Alternative methods for simulating TPS (Throttle Position Sensor) readings in rusEFI/epicEFI",
+      "contributors": [
+        "@ggurov",
+        "@mynameisdeleted"
+      ],
+      "summary": "The thread discusses alternative ways to simulate throttle position sensor (TPS) readings without a physical TPS sensor. One suggestion is using Lua scripting within the map configuration to create a fake TPS signal based on RPM or other parameters.",
+      "key_details": [
+        "Suggestion to use Lua script in map configuration to mimic TPS behavior",
+        "Alternative method proposed: utilizing a map-based approach that relies on RPM data instead of actual TPS readings"
+      ],
+      "raw_summary": "TOPIC: Alternative methods for simulating TPS (Throttle Position Sensor) readings in rusEFI/epicEFI\nCONTRIBUTORS: @ggurov, @mynameisdeleted\nSUMMARY: The thread discusses alternative ways to simulate throttle position sensor (TPS) readings without a physical TPS sensor. One suggestion is using Lua scripting within the map configuration to create a fake TPS signal based on RPM or other parameters.\nKEY_DETAILS:\n- Suggestion to use Lua script in map configuration to mimic TPS behavior\n- Alternative method proposed: utilizing a map-based approach that relies on RPM data instead of actual TPS readings"
+    },
+    {
+      "thread_num": 111,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441930730283208838",
+        "1441934780265398444"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:22:57",
+        "end": "2025-11-22 23:39:02"
+      },
+      "message_count": 2,
+      "topic": "Critical ETB settings for proper behavior",
+      "contributors": [
+        "@Robb235",
+        "@Joesphan"
+      ],
+      "summary": "@Robb235 shared images of specific settings they found crucial for making the External Throttle Body (ETB) function correctly. @Joesphan acknowledged that these settings might be necessary.",
+      "key_details": [
+        "Images attached by @Robb235 contain critical ETB settings",
+        "Discussion centered around ensuring proper ETB behavior"
+      ],
+      "raw_summary": "TOPIC: Critical ETB settings for proper behavior\nCONTRIBUTORS: @Robb235, @Joesphan\nSUMMARY: @Robb235 shared images of specific settings they found crucial for making the External Throttle Body (ETB) function correctly. @Joesphan acknowledged that these settings might be necessary.\nKEY_DETAILS:\n- Images attached by @Robb235 contain critical ETB settings\n- Discussion centered around ensuring proper ETB behavior"
+    },
+    {
+      "thread_num": 112,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 1.0,
+      "message_ids": [
+        "1441932122037293146",
+        "1441933111909945351"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:28:29",
+        "end": "2025-11-22 23:32:25"
+      },
+      "message_count": 2,
+      "topic": "Troubleshooting PPS behavior at high RPMs",
+      "contributors": [
+        "@Joesphan",
+        "@Robb235"
+      ],
+      "summary": "@Joesphan asked about the appearance of the Pulse Per Second (PPS) signal. @Robb235 responded that if secondary max settings are correct, sweeps look good; however, slight changes in these settings cause erratic behavior where PPS bounces between 0% and 40ish% around the ~45% PPS area.",
+      "key_details": [
+        "Secondary max settings affect PPS stability",
+        "Erratic PPS behavior observed at ~45% PPS area",
+        "Bouncing range of PPS is from 0% to 40ish%",
+        "Correct sweeps indicate proper secondary max settings"
+      ],
+      "raw_summary": "TOPIC: Troubleshooting PPS behavior at high RPMs\nCONTRIBUTORS: @Joesphan, @Robb235\nSUMMARY: @Joesphan asked about the appearance of the Pulse Per Second (PPS) signal. @Robb235 responded that if secondary max settings are correct, sweeps look good; however, slight changes in these settings cause erratic behavior where PPS bounces between 0% and 40ish% around the ~45% PPS area.\nKEY_DETAILS:\n- Secondary max settings affect PPS stability\n- Erratic PPS behavior observed at ~45% PPS area\n- Bouncing range of PPS is from 0% to 40ish%\n- Correct sweeps indicate proper secondary max settings"
+    },
+    {
+      "thread_num": 113,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441932413394747472"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:29:38",
+        "end": "2025-11-22 23:29:38"
+      },
+      "message_count": 1,
+      "topic": "Stuttering due to incorrect TPS and PPS settings",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "User @Robb235 reported experiencing stuttering issues which are caused by not having the Secondary Max settings correctly configured for both Throttle Position Sensor (TPS) and Pedal Position Sensor (PPS).",
+      "key_details": [
+        "Stuttering occurs when Secondary Max settings for TPS and PPS are not set properly",
+        "@Robb235 is experiencing this issue"
+      ],
+      "raw_summary": "TOPIC: Stuttering due to incorrect TPS and PPS settings\nCONTRIBUTORS: @Robb235\nSUMMARY: User @Robb235 reported experiencing stuttering issues which are caused by not having the Secondary Max settings correctly configured for both Throttle Position Sensor (TPS) and Pedal Position Sensor (PPS).\nKEY_DETAILS:\n- Stuttering occurs when Secondary Max settings for TPS and PPS are not set properly\n- @Robb235 is experiencing this issue"
+    },
+    {
+      "thread_num": 114,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441932593007431761"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:30:21",
+        "end": "2025-11-22 23:30:21"
+      },
+      "message_count": 1,
+      "topic": "Adjusting TPS Secondary Max value causes engine stuttering",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "@Robb235 observed that changing the TPS Secondary Max setting from 57% to 60% in their rusEFI/epicEFI configuration caused engine stuttering. The original setting of 57% did not result in any issues.",
+      "key_details": [
+        "TPS Secondary Max value changed from 57% to 60%",
+        "At 57%, no engine stuttering occurred",
+        "At 60%, engine stuttering was observed"
+      ],
+      "raw_summary": "TOPIC: Adjusting TPS Secondary Max value causes engine stuttering\nCONTRIBUTORS: @Robb235\nSUMMARY: @Robb235 observed that changing the TPS Secondary Max setting from 57% to 60% in their rusEFI/epicEFI configuration caused engine stuttering. The original setting of 57% did not result in any issues.\nKEY_DETAILS:\n- TPS Secondary Max value changed from 57% to 60%\n- At 57%, no engine stuttering occurred\n- At 60%, engine stuttering was observed"
+    },
+    {
+      "thread_num": 115,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441934028876812398"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:36:03",
+        "end": "2025-11-22 23:36:03"
+      },
+      "message_count": 1,
+      "topic": "Diagnosing Non-linear PPS (Pulses Per Second)",
+      "contributors": [
+        "@Joesphan",
+        "@epicEFIdev"
+      ],
+      "summary": "@Joesphan discussed a method for diagnosing issues with non-linear or stopped PPS in engine management systems. The key suggestion was to check the signal strength and ensure proper wiring connections.",
+      "key_details": [
+        "Check signal strength of the input signal causing the PPS issue",
+        "Ensure correct wiring and connections related to the sensor generating the PPS"
+      ],
+      "raw_summary": "TOPIC: Diagnosing Non-linear PPS (Pulses Per Second)\nCONTRIBUTORS: @Joesphan, @epicEFIdev\nSUMMARY: @Joesphan discussed a method for diagnosing issues with non-linear or stopped PPS in engine management systems. The key suggestion was to check the signal strength and ensure proper wiring connections.\nKEY_DETAILS:\n- Check signal strength of the input signal causing the PPS issue\n- Ensure correct wiring and connections related to the sensor generating the PPS"
+    },
+    {
+      "thread_num": 116,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441935154640846848"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:40:32",
+        "end": "2025-11-22 23:40:32"
+      },
+      "message_count": 1,
+      "topic": "Connecting Pulse Position Sensor (PPS) and Throttle Position Sensor (TPS) to Engine Timing Board (ETB)",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "@Robb235 reported that connecting both PPS1/2 and TPS1/2 to the same ETB outputs results in perfect behavior, implying a successful setup for these sensors.",
+      "key_details": [
+        "PPS1/2 are connected to the same ETB output as TPS1/2",
+        "The configuration leads to \"perfect\" behavior of the system"
+      ],
+      "raw_summary": "TOPIC: Connecting Pulse Position Sensor (PPS) and Throttle Position Sensor (TPS) to Engine Timing Board (ETB)\nCONTRIBUTORS: @Robb235\nSUMMARY: @Robb235 reported that connecting both PPS1/2 and TPS1/2 to the same ETB outputs results in perfect behavior, implying a successful setup for these sensors.\nKEY_DETAILS:\n- PPS1/2 are connected to the same ETB output as TPS1/2\n- The configuration leads to \"perfect\" behavior of the system"
+    },
+    {
+      "thread_num": 117,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441936703852904538"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:46:41",
+        "end": "2025-11-22 23:46:41"
+      },
+      "message_count": 1,
+      "topic": "Clutch and Throttle Behavior During Fault Detection",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "User @Robb235 describes a system behavior where the clutch disengages and the throttle is opened to approximately 45-50% when a fault is detected.",
+      "key_details": [
+        "Clutch disengages upon fault detection",
+        "Throttle opens to around 45-50% when fault is detected"
+      ],
+      "raw_summary": "TOPIC: Clutch and Throttle Behavior During Fault Detection\nCONTRIBUTORS: @Robb235\nSUMMARY: User @Robb235 describes a system behavior where the clutch disengages and the throttle is opened to approximately 45-50% when a fault is detected.\nKEY_DETAILS:\n- Clutch disengages upon fault detection\n- Throttle opens to around 45-50% when fault is detected"
+    },
+    {
+      "thread_num": 118,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441937025895895071"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:47:58",
+        "end": "2025-11-22 23:47:58"
+      },
+      "message_count": 1,
+      "topic": "Fueling settings for WOT with TPS input",
+      "contributors": [
+        "@Robb235",
+        "@EpicFueler"
+      ],
+      "summary": "@Robb235 inquired about the fuel management system's configuration regarding the Throttle Position Sensor (TPS) reaching 5V before wide-open throttle (WOT). @EpicFueler responded that the current setup does not trigger WOT until a different threshold is reached, suggesting a need to adjust the settings for more precise control.",
+      "key_details": [
+        "TPS reaches ~5V before WOT",
+        "Current configuration does not trigger WOT at 5V from TPS"
+      ],
+      "raw_summary": "TOPIC: Fueling settings for WOT with TPS input\nCONTRIBUTORS: @Robb235, @EpicFueler\nSUMMARY: @Robb235 inquired about the fuel management system's configuration regarding the Throttle Position Sensor (TPS) reaching 5V before wide-open throttle (WOT). @EpicFueler responded that the current setup does not trigger WOT until a different threshold is reached, suggesting a need to adjust the settings for more precise control.\nKEY_DETAILS:\n- TPS reaches ~5V before WOT\n- Current configuration does not trigger WOT at 5V from TPS"
+    },
+    {
+      "thread_num": 119,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441937292301303900"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:49:01",
+        "end": "2025-11-22 23:49:01"
+      },
+      "message_count": 1,
+      "topic": "TPS and PPS wiring configuration",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "User @Robb235 asked whether the Throttle Position Sensor (TPS) output is identical for both TPS1 and TPS2, and if this applies to Pedal Position Sensors (PPS).",
+      "key_details": [
+        "Question about TPS1 and TPS2 having same output",
+        "Inquiry extended to PPS sensors"
+      ],
+      "raw_summary": "TOPIC: TPS and PPS wiring configuration\nCONTRIBUTORS: @Robb235\nSUMMARY: User @Robb235 asked whether the Throttle Position Sensor (TPS) output is identical for both TPS1 and TPS2, and if this applies to Pedal Position Sensors (PPS).\nKEY_DETAILS:\n- Question about TPS1 and TPS2 having same output\n- Inquiry extended to PPS sensors"
+    },
+    {
+      "thread_num": 120,
+      "channel_id": "1401895238481744052",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441938346904391850"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:53:13",
+        "end": "2025-11-22 23:53:13"
+      },
+      "message_count": 1,
+      "topic": "Discussion about pin multiplexing for engine management system inputs",
+      "contributors": [
+        "@Robb235"
+      ],
+      "summary": "@Robb235 discusses the configuration of his engine management system where Pulse Position Sensor (PPS) and Throttle Position Sensor (TPS) were initially connected to the same outputs on the Engine Timing Board (ETB). He questions if this setup is fundamentally different from a standard configuration.",
+      "key_details": [
+        "PPS1/2 tied to the same outputs as TPS1/2",
+        "Outputs are on the ETB",
+        "Questioning if this setup differs from standard configurations"
+      ],
+      "raw_summary": "TOPIC: Discussion about pin multiplexing for engine management system inputs\nCONTRIBUTORS: @Robb235\nSUMMARY: @Robb235 discusses the configuration of his engine management system where Pulse Position Sensor (PPS) and Throttle Position Sensor (TPS) were initially connected to the same outputs on the Engine Timing Board (ETB). He questions if this setup is fundamentally different from a standard configuration.\nKEY_DETAILS:\n- PPS1/2 tied to the same outputs as TPS1/2\n- Outputs are on the ETB\n- Questioning if this setup differs from standard configurations"
+    },
+    {
+      "thread_num": 121,
+      "channel_id": "1401895238481744052",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441938461442703592"
+      ],
+      "time_range": {
+        "start": "2025-11-22 23:53:40",
+        "end": "2025-11-22 23:53:40"
+      },
+      "message_count": 1,
+      "topic": "Ignoring Sensors Too Close to Prevent Freakouts",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "User @ggurov reports that their rusEFI/epicEFI system was experiencing a \"freak out,\" which they resolved by enabling the setting \"ignore sensors too close.\"",
+      "key_details": [
+        "Setting used: \"ignore sensors too close\"",
+        "Purpose of setting: Prevents the system from reacting to sensor readings that are deemed unreliable due to being too close together"
+      ],
+      "raw_summary": "TOPIC: Ignoring Sensors Too Close to Prevent Freakouts\nCONTRIBUTORS: @ggurov\nSUMMARY: User @ggurov reports that their rusEFI/epicEFI system was experiencing a \"freak out,\" which they resolved by enabling the setting \"ignore sensors too close.\"\nKEY_DETAILS:\n- Setting used: \"ignore sensors too close\"\n- Purpose of setting: Prevents the system from reacting to sensor readings that are deemed unreliable due to being too close together"
+    },
+    {
+      "thread_num": 122,
+      "channel_id": "1439273357424988301",
+      "category": "SUPPORT",
+      "confidence": 0.9,
+      "message_ids": [
+        "1441711714440708248"
+      ],
+      "time_range": {
+        "start": "2025-11-22 08:52:40",
+        "end": "2025-11-22 08:52:40"
+      },
+      "message_count": 1,
+      "topic": "Error when selecting CAN input for torque reduction button",
+      "contributors": [
+        "@sansvirus."
+      ],
+      "summary": "User @sansvirus encountered an error while trying to configure the torque reduction button using a CAN input. The issue was identified as related to incorrect setup or compatibility with the current version of rusEFI/epicEFI software.",
+      "key_details": [
+        "Error occurred when selecting CAN input for torque reduction button",
+        "Screenshot provided showing the specific error message"
+      ],
+      "raw_summary": "TOPIC: Error when selecting CAN input for torque reduction button\nCONTRIBUTORS: @sansvirus.\nSUMMARY: User @sansvirus encountered an error while trying to configure the torque reduction button using a CAN input. The issue was identified as related to incorrect setup or compatibility with the current version of rusEFI/epicEFI software.\n\nKEY_DETAILS:\n- Error occurred when selecting CAN input for torque reduction button\n- Screenshot provided showing the specific error message"
+    },
+    {
+      "thread_num": 123,
+      "channel_id": "1439273357424988301",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441825276253442220"
+      ],
+      "time_range": {
+        "start": "2025-11-22 16:23:55",
+        "end": "2025-11-22 16:23:55"
+      },
+      "message_count": 1,
+      "topic": "Issue with fuel pump relay not functioning",
+      "contributors": [
+        "@ggurov",
+        "@epicEFIdev"
+      ],
+      "summary": "User @ggurov reports that their fuel pump relay has never worked since installation. Developer @epicEFIdev asks for more details about the wiring and configuration.",
+      "key_details": [
+        "Fuel pump relay is not working",
+        "Requested information includes wiring diagram and relay pinout"
+      ],
+      "raw_summary": "TOPIC: Issue with fuel pump relay not functioning\nCONTRIBUTORS: @ggurov, @epicEFIdev\nSUMMARY: User @ggurov reports that their fuel pump relay has never worked since installation. Developer @epicEFIdev asks for more details about the wiring and configuration.\nKEY_DETAILS:\n- Fuel pump relay is not working\n- Requested information includes wiring diagram and relay pinout"
+    },
+    {
+      "thread_num": 124,
+      "channel_id": "1439273357424988301",
+      "category": "SUPPORT",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441833246370299966"
+      ],
+      "time_range": {
+        "start": "2025-11-22 16:55:35",
+        "end": "2025-11-22 16:55:35"
+      },
+      "message_count": 1,
+      "topic": "Button functionality issues in rusEFI",
+      "contributors": [
+        "@ggurov",
+        "@mikepete"
+      ],
+      "summary": "User @ggurov reported that buttons for certain functions (including nitrous) are not working in rusEFI. @mikepete suggested checking the pin connections and ensuring proper configuration in the firmware settings.",
+      "key_details": [
+        "Buttons for nitrous and other functions are non-functional",
+        "Suggested to check pin connections and firmware settings"
+      ],
+      "raw_summary": "TOPIC: Button functionality issues in rusEFI\nCONTRIBUTORS: @ggurov, @mikepete\nSUMMARY: User @ggurov reported that buttons for certain functions (including nitrous) are not working in rusEFI. @mikepete suggested checking the pin connections and ensuring proper configuration in the firmware settings.\nKEY_DETAILS:\n- Buttons for nitrous and other functions are non-functional\n- Suggested to check pin connections and firmware settings"
+    },
+    {
+      "thread_num": 125,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.85,
+      "message_ids": [
+        "1441837339688308929",
+        "1441837475399204944"
+      ],
+      "time_range": {
+        "start": "2025-11-22 17:11:51",
+        "end": "2025-11-22 17:12:23"
+      },
+      "message_count": 2,
+      "topic": "Using a switch to engage an ignition table switch",
+      "contributors": [
+        "@ggurov",
+        "@sansvirus."
+      ],
+      "summary": "The thread discusses the possibility of using a switch to activate or deactivate an ignition table in engine management systems. Both contributors agreed that this approach is feasible and beneficial.",
+      "key_details": [
+        "A switch can be used to engage an ignition table switch",
+        "Contributors agreed on the feasibility and benefit of this approach"
+      ],
+      "raw_summary": "TOPIC: Using a switch to engage an ignition table switch\nCONTRIBUTORS: @ggurov, @sansvirus.\nSUMMARY: The thread discusses the possibility of using a switch to activate or deactivate an ignition table in engine management systems. Both contributors agreed that this approach is feasible and beneficial.\nKEY_DETAILS:\n- A switch can be used to engage an ignition table switch\n- Contributors agreed on the feasibility and benefit of this approach"
+    },
+    {
+      "thread_num": 126,
+      "channel_id": "1439273357424988301",
+      "category": "TECHNICAL",
+      "confidence": 0.8,
+      "message_ids": [
+        "1441837600229953646"
+      ],
+      "time_range": {
+        "start": "2025-11-22 17:12:53",
+        "end": "2025-11-22 17:12:53"
+      },
+      "message_count": 1,
+      "topic": "Understanding Blend Mode False in Engine Management Settings",
+      "contributors": [
+        "@ggurov"
+      ],
+      "summary": "The discussion revolves around the \"blend mode\" setting in engine management configurations. When set to \"false,\" the system exclusively uses the switch table for operation, bypassing any blend modes.",
+      "key_details": [
+        "blend mode false means 100% use of switch table"
+      ],
+      "raw_summary": "TOPIC: Understanding Blend Mode False in Engine Management Settings\nCONTRIBUTORS: @ggurov\nSUMMARY: The discussion revolves around the \"blend mode\" setting in engine management configurations. When set to \"false,\" the system exclusively uses the switch table for operation, bypassing any blend modes.\nKEY_DETAILS:\n- blend mode false means 100% use of switch table"
+    }
+  ]
+}

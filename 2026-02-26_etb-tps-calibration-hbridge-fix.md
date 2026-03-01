@@ -1,6 +1,6 @@
 # ETB TPS Calibration: Inverted Throttle Body Fixed by Flipping H-Bridge Pins
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @hydrocarbon82, @joesphan, @sangawku, @ggurov*
 
 ## Summary

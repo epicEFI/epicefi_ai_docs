@@ -1,6 +1,6 @@
 # F4/F7 Flash Write Behavior: "Burn" Button, SD Card, and Tune Persistence
 
-*Source: epicEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
 *Contributors: @ggurov, @Detonation, @Aj, @jeybee*
 
 ## Summary

@@ -1,6 +1,6 @@
 # Ground Loop Issues When Charging Laptop from Vehicle 12V While Connected to ECU
 
-*Source: epicEFI Discord, 2026-02-28 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-28 | Channel: 1356732771325968630*
 *Contributors: @Robb235, @Ognjen Galic, @ZeeKay*
 
 ## Summary

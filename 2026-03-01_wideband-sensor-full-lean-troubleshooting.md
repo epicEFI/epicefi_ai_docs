@@ -1,6 +1,6 @@
 # Wideband Sensor Reading Full Lean After Replacement
 
-*Source: epicEFI Discord, 2026-03-01 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-03-01 | Channel: 1356732771325968630*
 *Contributors: @Bloopdog, @MartyMotorsports, @Bearded_Bogan, @Robb235*
 
 ## Summary

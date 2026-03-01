@@ -1,6 +1,6 @@
 # SD Card Tune Storage, WriteId System, and Boot Tune Selection
 
-*Source: epicEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
+*Source: rusEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
 *Contributors: @ggurov, @MykkH*
 
 ## Summary

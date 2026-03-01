@@ -1,6 +1,6 @@
 # epicECU SPI Exhaust Gas Temperature (EGT) Channel Count
 
-*Source: epicEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
 *Contributors: @ggurov*
 
 ## Summary

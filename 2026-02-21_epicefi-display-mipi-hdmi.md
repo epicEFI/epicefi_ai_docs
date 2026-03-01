@@ -1,6 +1,6 @@
 # epicEFI Display Compatibility: MIPI vs HDMI
 
-*Source: epicEFI Discord, 2026-02-21 | Channel: 1474618405809295370*
+*Source: rusEFI Discord, 2026-02-21 | Channel: 1474618405809295370*
 *Contributors: @Joesphan*
 
 ## Summary

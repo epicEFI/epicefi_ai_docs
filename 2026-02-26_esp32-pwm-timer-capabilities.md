@@ -1,6 +1,6 @@
 # ESP32 vs. AVR Mega/328p: PWM Frequency Capabilities
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1434034231713075282*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1434034231713075282*
 *Contributors: @Hydrocarbon, @ggurov*
 
 ## Summary

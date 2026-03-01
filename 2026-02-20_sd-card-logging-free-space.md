@@ -1,6 +1,6 @@
 # SD Card Free Space Management and Logging Behavior
 
-*Source: epicEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
+*Source: rusEFI Discord, 2026-02-20 | Channel: 1401895238481744052*
 *Contributors: @kostasl, @ggurov*
 
 ## Summary

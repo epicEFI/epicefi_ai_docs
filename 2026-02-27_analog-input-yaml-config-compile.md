@@ -1,6 +1,6 @@
 # Configuring Analog Inputs in YAML and Compiling Custom epicEFI Firmware
 
-*Source: epicEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
 *Contributors: @ggurov, @Detonation*
 
 ## Summary

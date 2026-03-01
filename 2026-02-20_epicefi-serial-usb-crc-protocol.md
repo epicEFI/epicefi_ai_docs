@@ -1,6 +1,6 @@
 # epicEFI Serial Communication Protocol over USB (CRC Mode)
 
-*Source: epicEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
 *Contributors: @emiougus, @ggurov, @SanGawku*
 
 ## Summary

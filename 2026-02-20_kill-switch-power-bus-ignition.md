@@ -1,6 +1,6 @@
 # Kill Switch, Power Bus, and Ignition Coil Power Management
 
-*Source: epicEFI Discord, 2026-02-20 | Channel: 1411925674498719775*
+*Source: rusEFI Discord, 2026-02-20 | Channel: 1411925674498719775*
 *Contributors: @mynameisdeleted*
 
 ## Summary

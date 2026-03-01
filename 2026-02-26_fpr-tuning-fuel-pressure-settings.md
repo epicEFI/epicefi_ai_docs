@@ -1,6 +1,6 @@
 # Fuel Pressure Regulator (FPR) Tuning and Pressure Settings
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1411925674498719775*
 *Contributors: @YeOldePirate, @fast335xi, @Joesphan*
 
 ## Summary

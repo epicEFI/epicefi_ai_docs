@@ -1,6 +1,6 @@
 # VR Conditioner Behaviour with Low Tooth-Count Triggers: MAX9924/9926 Analysis
 
-*Source: epicEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-22 | Channel: 1356732771325968630*
 *Contributors: @Ognjen Galic, @Joesphan, @Robb235, @ZeeKay*
 
 ## Summary

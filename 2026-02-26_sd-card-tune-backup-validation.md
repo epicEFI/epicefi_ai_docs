@@ -1,6 +1,6 @@
 # SD Card Tune Backup: Validation Procedure
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1439273357424988301 (dev/testing)*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1439273357424988301 (dev/testing)*
 *Contributors: @ggurov, @tmbryhn*
 
 ## Summary

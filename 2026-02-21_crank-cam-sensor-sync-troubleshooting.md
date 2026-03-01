@@ -1,6 +1,6 @@
 # Crank and Cam Sensor Sync Troubleshooting (B-Series Engine)
 
-*Source: epicEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-21 | Channel: 1356732771325968630*
 *Contributors: @Bearded_Bogan, @ggurov, @Joesphan, @offtheband*
 
 ## Summary

@@ -1,6 +1,6 @@
 # CAN Bus Message Handling via Lua Scripting in rusEFI
 
-*Source: epicEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-26 | Channel: 1356732771325968630*
 *Contributors: @VWPat, @ggurov*
 
 ## Summary

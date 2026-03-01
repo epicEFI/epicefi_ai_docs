@@ -1,6 +1,6 @@
 # ECU Selection for a Supercharged Jeep 4.0 (Stock ECU Limitations and epicEFI Alternatives)
 
-*Source: epicEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-27 | Channel: 1356732771325968630*
 *Contributors: @ggurov, @Sharkfac3 - Jeeper, @HyPerBoLeCuBeD*
 
 ## Summary

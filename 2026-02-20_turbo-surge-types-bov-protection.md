@@ -1,6 +1,6 @@
 # Turbocharger Surge Types, BOV Protection, and Anti-Surge Design
 
-*Source: epicEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
+*Source: rusEFI Discord, 2026-02-20 | Channel: 1356732771325968630*
 *Contributors: @jeybee, @Robb235, @Hydrocarbon, @Jackscr, @Joesphan*
 
 ## Summary
